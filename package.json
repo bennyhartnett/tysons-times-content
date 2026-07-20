@@ -1,0 +1,16 @@
+{
+  "name": "tysons-times-content",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-content.mjs",
+    "check": "node scripts/build-content.mjs --check",
+    "images:optimize": "node scripts/optimize-source-images.mjs"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.3.0",
+    "sharp": "^0.35.3"
+  }
+}

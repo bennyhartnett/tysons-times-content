@@ -1,0 +1,12 @@
+{
+  "name": "Tysons Times",
+  "sections": [
+    { "id": "local", "label": "Local" },
+    { "id": "civic", "label": "Civic" },
+    { "id": "schools", "label": "Schools" },
+    { "id": "business", "label": "Business" },
+    { "id": "culture", "label": "Culture" },
+    { "id": "sports", "label": "Sports" },
+    { "id": "opinion", "label": "Opinion" }
+  ]
+}
