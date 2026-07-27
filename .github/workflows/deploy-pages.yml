@@ -13,11 +13,14 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      feed_hash: ${{ steps.feed.outputs.feed_hash }}
+      article_count: ${{ steps.feed.outputs.article_count }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -35,9 +38,15 @@ jobs:
         run: npm ci
 
       - name: Validate articles and build feed
+        id: feed
         env:
           CONTENT_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-        run: npm run check && npm run build
+        run: |
+          npm run check
+          npm run build
+          echo "feed_hash=$(sha256sum dist/index.json | cut -d ' ' -f 1)" >> "$GITHUB_OUTPUT"
+          article_count="$(node -p 'JSON.parse(require("fs").readFileSync("dist/index.json", "utf8")).length')"
+          echo "article_count=$article_count" >> "$GITHUB_OUTPUT"
 
       - name: Upload feed
         uses: actions/upload-pages-artifact@v4
@@ -47,6 +56,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     needs: build
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -54,3 +65,34 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  verify:
+    name: Verify published feed
+    runs-on: ubuntu-latest
+    needs:
+      - build
+      - deploy
+    timeout-minutes: 5
+    steps:
+      - name: Confirm the deployed index matches this commit
+        env:
+          PAGE_URL: ${{ needs.deploy.outputs.page_url }}
+          EXPECTED_HASH: ${{ needs.build.outputs.feed_hash }}
+          EXPECTED_COUNT: ${{ needs.build.outputs.article_count }}
+        run: |
+          feed_url="${PAGE_URL%/}/index.json?revision=${GITHUB_SHA}"
+          for attempt in 1 2 3 4 5 6; do
+            if curl --fail --silent --show-error \
+              --header "Cache-Control: no-cache" \
+              "$feed_url" --output live-index.json; then
+              live_hash="$(sha256sum live-index.json | cut -d ' ' -f 1)"
+              live_count="$(node -p 'JSON.parse(require("fs").readFileSync("live-index.json", "utf8")).length')"
+              if [ "$live_hash" = "$EXPECTED_HASH" ] && [ "$live_count" = "$EXPECTED_COUNT" ]; then
+                echo "Published $live_count articles from $GITHUB_SHA."
+                exit 0
+              fi
+            fi
+            sleep $((attempt * 5))
+          done
+          echo "The live feed does not match the content built from $GITHUB_SHA." >&2
+          exit 1
