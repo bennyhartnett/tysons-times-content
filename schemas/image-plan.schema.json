@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["cluster_id", "source_image", "relevant", "image_type", "safe_to_generate", "recommended_output", "factual_description", "generation_prompt", "avoid", "disclosure"],
+  "properties": {
+    "cluster_id": { "type": "string", "minLength": 1 },
+    "source_image": { "type": "string" },
+    "relevant": { "type": "boolean" },
+    "image_type": { "type": "string", "enum": ["specific_documentary", "generic_editorial", "portrait", "logo_or_graphic", "map", "none"] },
+    "safe_to_generate": { "type": "boolean" },
+    "recommended_output": { "type": "string", "enum": ["use_licensed_source", "editorial_illustration", "location_map", "diagram", "no_image"] },
+    "factual_description": { "type": "string" },
+    "generation_prompt": { "type": "string" },
+    "avoid": { "type": "array", "items": { "type": "string" } },
+    "disclosure": { "type": "string" }
+  }
+}

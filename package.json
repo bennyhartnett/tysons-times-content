@@ -6,11 +6,26 @@
   "scripts": {
     "build": "node scripts/build-content.mjs",
     "check": "node scripts/build-content.mjs --check",
-    "images:optimize": "node scripts/optimize-source-images.mjs"
+    "images:optimize": "node scripts/optimize-source-images.mjs",
+    "scrape": "node scripts/scrape-sources.mjs",
+    "scrape:list": "node scripts/scrape-sources.mjs --list",
+    "scrape:smoke": "node scripts/scrape-sources.mjs --smoke",
+    "scrape:test": "node --test scripts/scrapers/*.test.mjs",
+    "scrape:compress": "node scripts/lossless-compress-input.mjs",
+    "rewrite": "node scripts/rewrite-articles.mjs",
+    "rewrite:test": "node --test scripts/rewrite-articles.test.mjs",
+    "pipeline": "node scripts/editorial-pipeline.mjs",
+    "pipeline:dry-run": "node scripts/editorial-pipeline.mjs --dry-run",
+    "pipeline:test": "node --test scripts/editorial-pipeline.test.mjs",
+    "publisher": "node tools/publisher-gui/server.mjs",
+    "publisher:test": "node --test tools/publisher-gui/lib.test.mjs"
   },
   "dependencies": {
+    "cheerio": "^1.1.2",
     "gray-matter": "^4.0.3",
     "markdown-it": "^14.3.0",
+    "pdfjs-dist": "^5.4.296",
+    "playwright-core": "^1.58.2",
     "sharp": "^0.35.3"
   }
 }

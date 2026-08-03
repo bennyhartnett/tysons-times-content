@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["result", "factual_issues", "unsupported_claims", "incorrect_numbers", "incorrect_dates", "quote_issues", "style_issues", "possible_source_copying", "media_issues", "required_changes"],
+  "properties": {
+    "result": { "type": "string", "enum": ["pass", "fail"] },
+    "factual_issues": { "type": "array", "items": { "type": "string" } },
+    "unsupported_claims": { "type": "array", "items": { "type": "string" } },
+    "incorrect_numbers": { "type": "array", "items": { "type": "string" } },
+    "incorrect_dates": { "type": "array", "items": { "type": "string" } },
+    "quote_issues": { "type": "array", "items": { "type": "string" } },
+    "style_issues": { "type": "array", "items": { "type": "string" } },
+    "possible_source_copying": { "type": "array", "items": { "type": "string" } },
+    "media_issues": { "type": "array", "items": { "type": "string" } },
+    "required_changes": { "type": "array", "items": { "type": "string" } }
+  }
+}

@@ -1,6 +1,10 @@
 node_modules/
 dist/
 .cache/
+.playwright-cli/
+output/
+input/
+tmpclaude-*
 .DS_Store
 *.local
 .env

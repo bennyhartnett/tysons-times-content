@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["article_id", "decision", "score", "confidence", "reason", "topic", "locations", "people", "organizations", "event_date", "event_summary", "key_facts", "duplicate_search_terms", "concerns"],
+  "properties": {
+    "article_id": { "type": "string", "minLength": 1 },
+    "decision": { "type": "string", "enum": ["accept", "hold", "reject"] },
+    "score": { "type": "integer", "minimum": 0, "maximum": 100 },
+    "confidence": { "type": "string", "enum": ["low", "medium", "high"] },
+    "reason": { "type": "string", "minLength": 1 },
+    "topic": { "type": "string", "minLength": 1 },
+    "locations": { "type": "array", "items": { "type": "string" } },
+    "people": { "type": "array", "items": { "type": "string" } },
+    "organizations": { "type": "array", "items": { "type": "string" } },
+    "event_date": { "type": "string" },
+    "event_summary": { "type": "string", "minLength": 1 },
+    "key_facts": { "type": "array", "items": { "type": "string" } },
+    "duplicate_search_terms": { "type": "array", "items": { "type": "string" } },
+    "concerns": { "type": "array", "items": { "type": "string" } }
+  }
+}

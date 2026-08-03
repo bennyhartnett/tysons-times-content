@@ -19,6 +19,8 @@ content/articles/civic/2026/07/new-crossing-plan/article.md
 - `<section>` must be `local`, `civic`, `schools`, `business`, `culture`, `sports`, or `opinion`.
 - `YYYY/MM` must match the `published` date in front matter.
 - `<slug>` becomes `/articles/<slug>/` and must be unique lower-case kebab-case.
+- `status: rewrite` is an incomplete AI-assisted draft. It is validated at a
+  basic level but excluded from the site until an editor adds full metadata.
 - `status: draft` validates but stays out of the site.
 - `status: published` enters its section, archive, search index, sitemap, RSS feed, and related-story system.
 - Archives and section pages sort by `published`, newest first. `updated` changes the modification date without moving an old story to the top.

@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b1f33">
+  <title>Tysons Times Publisher Desk</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#run" aria-label="Tysons Times Publisher Desk">
+        <span class="brand-mark">TT</span>
+        <span><strong>Tysons Times</strong><small>Publisher Desk</small></span>
+      </a>
+      <nav class="nav" aria-label="Publisher sections">
+        <button class="nav-item active" data-view="run"><span class="nav-icon">↗</span><span>New run</span></button>
+        <button class="nav-item" data-view="queue"><span class="nav-icon">≡</span><span>Editorial queue</span><b id="queueBadge">0</b></button>
+        <button class="nav-item" data-view="history"><span class="nav-icon">◷</span><span>Scrape history</span></button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="system-card">
+          <span class="eyebrow">Newsroom status</span>
+          <div class="system-row"><i class="status-dot" id="apiDot"></i><span id="apiStatus">Connecting…</span></div>
+          <div class="system-row"><i class="status-dot muted" id="previewDot"></i><span id="previewStatus">Local preview stopped</span></div>
+        </div>
+        <button class="quiet-button full" id="validateBtn">✓ Run system check</button>
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div>
+          <p class="kicker" id="viewKicker">PUBLISHING WORKFLOW</p>
+          <h1 id="viewTitle">Create a new edition</h1>
+          <p id="viewSubtitle">Collect local reporting, prepare drafts, and choose when they go live.</p>
+        </div>
+        <div class="top-actions">
+          <button class="preview-button" id="localBtn"><span class="play">▶</span><span><small>LOCAL</small><strong>Launch preview</strong></span></button>
+          <a class="preview-button prod" href="https://tysonstimes.org" target="_blank" rel="noopener"><span class="globe">◎</span><span><small>PRODUCTION</small><strong>Open live site</strong></span></a>
+        </div>
+      </header>
+
+      <section class="view active" id="view-run">
+        <div class="pipeline" aria-label="Publishing steps">
+          <div class="pipe-step active"><span>1</span><div><strong>Collect</strong><small>Choose scope</small></div></div>
+          <i></i>
+          <div class="pipe-step"><span>2</span><div><strong>Prepare</strong><small>Rewrite & review</small></div></div>
+          <i></i>
+          <div class="pipe-step"><span>3</span><div><strong>Publish</strong><small>Deploy & verify</small></div></div>
+        </div>
+
+        <form id="scrapeForm">
+          <div class="content-grid">
+            <div class="stack">
+              <article class="card">
+                <div class="card-heading">
+                  <div><span class="step-label">01 · COVERAGE WINDOW</span><h2>What dates should we cover?</h2></div>
+                  <span class="help" title="The end date is included.">?</span>
+                </div>
+                <div class="date-row">
+                  <label><span>Start date</span><input type="date" id="startDate" required></label>
+                  <span class="date-arrow">→</span>
+                  <label><span>End date <em>inclusive</em></span><input type="date" id="endDate" required></label>
+                  <div class="date-summary"><span id="dayCount">7</span><small>calendar days</small></div>
+                </div>
+                <p class="field-note">Defaults to the last seven completed days, ending yesterday.</p>
+              </article>
+
+              <article class="card">
+                <div class="card-heading source-heading">
+                  <div><span class="step-label">02 · SOURCES</span><h2>Where should we look?</h2></div>
+                  <div class="source-tools"><span id="sourceCount">All 25 selected</span><button type="button" class="text-button" id="toggleSources">Clear all</button></div>
+                </div>
+                <label class="search"><span>⌕</span><input type="search" id="sourceSearch" placeholder="Search publications and agencies…"></label>
+                <div class="source-list" id="sourceList"><div class="skeleton tall"></div></div>
+              </article>
+
+              <article class="card">
+                <div class="card-heading"><div><span class="step-label">03 · COLLECTION SETTINGS</span><h2>Set the guardrails</h2></div></div>
+                <div class="settings-grid">
+                  <label class="number-field"><span>Article limit <em>per site</em></span><div><button type="button" data-adjust="limit" data-delta="-1">−</button><input id="limit" type="number" min="1" max="100" value="10"><button type="button" data-adjust="limit" data-delta="1">+</button></div><small>Prevents a single source from flooding the queue.</small></label>
+                  <label class="number-field"><span>Images <em>per article</em></span><div><button type="button" data-adjust="maxImages" data-delta="-1">−</button><input id="maxImages" type="number" min="1" max="24" value="6"><button type="button" data-adjust="maxImages" data-delta="1">+</button></div><small>Archived losslessly when source photos are on.</small></label>
+                </div>
+                <div class="toggle-row">
+                  <div><strong>Use source photos in articles</strong><small>Off uses the Tysons Times house illustration.</small></div>
+                  <label class="switch"><input type="checkbox" id="includeImages" checked><span></span></label>
+                </div>
+                <div class="toggle-row">
+                  <div><strong>Strict local scope</strong><small>Only keep stories matching the configured Tysons-area rules.</small></div>
+                  <label class="switch"><input type="checkbox" id="strictScope" checked><span></span></label>
+                </div>
+              </article>
+            </div>
+
+            <aside class="stack sticky-stack">
+              <article class="card decision-card">
+                <span class="step-label">04 · DESTINATION</span>
+                <h2>Where should this run stop?</h2>
+                <div class="destination" role="radiogroup" aria-label="Destination">
+                  <label><input type="radio" name="target" value="staging" checked><span><b>Staging</b><small>Review locally before publishing</small></span></label>
+                  <label><input type="radio" name="target" value="main"><span><b>Direct to main</b><small>Validate, deploy, and verify live</small></span></label>
+                </div>
+                <div class="destination-note" id="destinationNote"><span>◇</span><p><strong>Recommended default</strong>Your drafts stay private on this computer until you choose Deploy.</p></div>
+                <div class="run-summary">
+                  <div><span>Coverage</span><strong id="summaryDates">—</strong></div>
+                  <div><span>Sources</span><strong id="summarySources">All 25</strong></div>
+                  <div><span>Limit</span><strong id="summaryLimit">10 per site</strong></div>
+                  <div><span>Media</span><strong id="summaryMedia">Source photos</strong></div>
+                </div>
+                <button class="primary-button" type="submit" id="runBtn"><span>Run collection</span><b>→</b></button>
+                <p class="button-note">The console logs every run with dates, sites, limits, and outcomes.</p>
+              </article>
+
+              <article class="card compact-card">
+                <div class="mini-heading"><div><span class="step-label">EXISTING WORK</span><h3>Continue where you left off</h3></div><button type="button" class="text-button" data-go="queue">Open queue →</button></div>
+                <div class="queue-mini">
+                  <div><span class="queue-icon amber">↳</span><p><strong id="unprocessedCount">0 collected</strong><small>Waiting for rewrite</small></p></div>
+                  <div><span class="queue-icon blue">✎</span><p><strong id="stagingCount">0 staged</strong><small>Ready for local review</small></p></div>
+                  <div><span class="queue-icon green">✓</span><p><strong id="readyCount">0 prepared</strong><small>Ready to push</small></p></div>
+                </div>
+              </article>
+            </aside>
+          </div>
+        </form>
+      </section>
+
+      <section class="view" id="view-queue">
+        <div class="queue-toolbar">
+          <div class="segmented" role="tablist">
+            <button class="active" data-queue-tab="unprocessed">Collected <b id="tabUnprocessed">0</b></button>
+            <button data-queue-tab="staging">Rewrite staging <b id="tabStaging">0</b></button>
+            <button data-queue-tab="ready">Prepared <b id="tabReady">0</b></button>
+          </div>
+          <button class="quiet-button" id="refreshBtn">↻ Refresh</button>
+        </div>
+        <article class="card queue-card">
+          <div class="queue-actionbar">
+            <label class="check-label"><input type="checkbox" id="selectAllQueue"><span>Select all visible</span></label>
+            <span id="selectedLabel">0 selected</span>
+            <div class="queue-actions">
+              <label class="inline-toggle"><input type="checkbox" id="queueImages" checked><span>Source photos</span></label>
+              <button class="quiet-button" id="stageSelected">Prepare drafts</button>
+              <button class="primary-button small" id="deploySelected">Deploy selected <b>→</b></button>
+            </div>
+          </div>
+          <div id="queueTable" class="table-wrap"><div class="empty-state"><span>⌛</span><h3>Loading the editorial queue…</h3></div></div>
+        </article>
+      </section>
+
+      <section class="view" id="view-history">
+        <div class="history-intro"><div><span class="step-label">AUDIT TRAIL</span><h2>Every collection run, in full</h2><p>Inclusive coverage dates, selected sites, per-site limits, results, and storage totals.</p></div><button class="quiet-button" id="historyRefresh">↻ Refresh</button></div>
+        <div id="historyList" class="history-list"><div class="card skeleton tall"></div></div>
+      </section>
+
+      <section class="job-drawer hidden" id="jobDrawer" aria-live="polite">
+        <div class="job-head">
+          <div class="job-title"><span class="spinner" id="jobSpinner"></span><div><small id="jobType">ACTIVE JOB</small><strong id="jobTitle">Working…</strong></div></div>
+          <div class="job-head-actions"><span class="job-status" id="jobStatus">Running</span><button class="icon-button" id="cancelJob" title="Cancel job">×</button><button class="icon-button" id="closeJob" title="Close">⌄</button></div>
+        </div>
+        <div class="job-body">
+          <div class="job-steps" id="jobSteps"></div>
+          <pre class="job-log" id="jobLog"></pre>
+        </div>
+      </section>
+
+      <section class="links-drawer hidden" id="linksDrawer">
+        <div class="links-head"><div><span class="step-label">ARTICLE LINKS</span><h2 id="linksTitle">Your new articles</h2></div><button class="icon-button" id="closeLinks">×</button></div>
+        <div class="links-list" id="linksList"></div>
+      </section>
+
+      <div class="toast" id="toast" role="status"></div>
+    </main>
+  </div>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["cluster_id", "headline", "dek", "slug", "section", "tags", "body_markdown", "facts_used", "editor_notes"],
+  "properties": {
+    "cluster_id": { "type": "string", "minLength": 1 },
+    "headline": { "type": "string", "minLength": 1 },
+    "dek": { "type": "string" },
+    "slug": { "type": "string", "minLength": 1 },
+    "section": { "type": "string", "enum": ["Local", "Civic", "Schools", "Business", "Culture", "Sports", "Opinion"] },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "body_markdown": { "type": "string", "minLength": 100 },
+    "facts_used": { "type": "array", "items": { "type": "string" } },
+    "editor_notes": { "type": "array", "items": { "type": "string" } }
+  }
+}

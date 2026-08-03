@@ -6,17 +6,18 @@ import MarkdownIt from "markdown-it";
 import sharp from "sharp";
 
 const rootDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const contentDir = path.join(rootDir, "content", "articles");
-const distDir = path.join(rootDir, "dist");
+const contentDir = path.resolve(process.env.CONTENT_ARTICLES_DIR || path.join(rootDir, "content", "articles"));
+const distDir = path.resolve(process.env.CONTENT_DIST_DIR || path.join(rootDir, "dist"));
 const publicArticleDir = path.join(distDir, "articles");
 const publicMediaDir = path.join(distDir, "media", "articles");
 const generatedIndexPath = path.join(distDir, "index.json");
 const checkOnly = process.argv.includes("--check");
+const previewMode = process.env.CONTENT_PREVIEW === "1";
 const contentBaseUrl = String(process.env.CONTENT_BASE_URL || "").replace(/\/+$/, "");
 
 const publication = JSON.parse(await readFile(path.join(rootDir, "publication.json"), "utf8"));
 const allowedSections = new Set(publication.sections.map((section) => section.id));
-const allowedStatuses = new Set(["draft", "published"]);
+const allowedStatuses = new Set(["rewrite", "draft", "published"]);
 const allowedTypes = new Set(["analysis", "brief", "opinion", "photo-essay", "profile", "review", "standard"]);
 const sourceImageExtensions = new Set([".avif", ".jpeg", ".jpg", ".png", ".webp"]);
 const imageWidths = [480, 960, 1440];
@@ -142,7 +143,7 @@ function validateFrontMatter(source, data, pathInfo) {
   checkString(source, "author", data.author, rules.author);
   checkString(source, "location", data.location, rules.location);
 
-  if (!allowedStatuses.has(data.status)) fail(source, "status must be draft or published");
+  if (!allowedStatuses.has(data.status)) fail(source, "status must be rewrite, draft, or published");
   if (!allowedTypes.has(data.type)) fail(source, `type must be one of: ${[...allowedTypes].join(", ")}`);
 
   const published = asDateString(data.published);
@@ -154,7 +155,7 @@ function validateFrontMatter(source, data, pathInfo) {
     fail(source, "updated must be a valid YYYY-MM-DD date");
   }
   if (published && updated && updated < published) fail(source, "updated cannot be earlier than published");
-  if (data.status === "published" && published > new Date().toISOString().slice(0, 10)) {
+  if (!previewMode && data.status === "published" && published > new Date().toISOString().slice(0, 10)) {
     fail(source, "published articles cannot use a future date; keep them as draft until release");
   }
 
@@ -202,6 +203,7 @@ function validateBody(source, data, body) {
 
   const stripped = body.replace(inlineMarkerPattern, " ");
   const words = wordCount(stripped);
+  if (previewMode) return words;
   const minimum = minimumWordsByType[data.type] || rules.bodyWords[0];
   if (words < minimum || words > rules.bodyWords[1]) {
     fail(source, `${data.type || "article"} body must be ${minimum}-${rules.bodyWords[1]} words (found ${words})`);
@@ -228,6 +230,22 @@ function validateBody(source, data, body) {
     if (uses !== 1) fail(source, `inline image '${id}' must appear exactly once in the body (found ${uses})`);
   });
   return words;
+}
+
+function validateRewriteDraft(source, data, body) {
+  const allowedKeys = new Set(["published", "status", "title"]);
+  Object.keys(data).forEach((key) => {
+    if (!allowedKeys.has(key)) fail(source, `rewrite draft cannot contain front-matter field '${key}'`);
+  });
+  checkString(source, "title", data.title, rules.title);
+  const published = asDateString(data.published);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(published) || Number.isNaN(Date.parse(`${published}T12:00:00Z`))) {
+    fail(source, "published must be a valid YYYY-MM-DD date");
+  }
+  if (!body.trim()) fail(source, "rewrite draft body cannot be empty");
+  if (/^#\s+/m.test(body)) fail(source, "do not use an H1 in article text; the title already supplies it");
+  if (/!\[[^\]]*\]\([^)]*\)/.test(body)) fail(source, "rewrite drafts cannot contain Markdown images");
+  if (/https?:\/\/|www\./i.test(body)) fail(source, "rewrite drafts cannot contain source URLs");
 }
 
 async function validateSourceImage(source, articleDirectory, label, image) {
@@ -358,6 +376,10 @@ async function parseArticle(source) {
 
   const published = asDateString(parsed.data.published);
   const pathInfo = validatePath(source, published);
+  if (parsed.data.status === "rewrite") {
+    validateRewriteDraft(source, parsed.data, parsed.content);
+    return null;
+  }
   const normalizedPath = validateFrontMatter(source, parsed.data, pathInfo);
   const words = validateBody(source, parsed.data, parsed.content);
   const heroSource = await validateSourceImage(source, pathInfo.directory, "hero", parsed.data.hero);
