@@ -8,6 +8,7 @@ import {
   discoverSourceBundles,
   ingestBundles,
   incrementClusterFailure,
+  parseStructuredOutput,
   parseOptions,
   runPipeline,
   validateSchema,
@@ -33,11 +34,31 @@ async function initializeWorkflow(workflowRoot) {
   await writeFile(path.join(workflowRoot, "ingest-index.json"), JSON.stringify({ version: 1, by_canonical_url: {}, by_content_hash: {} }));
 }
 
-test("pipeline options default to subscription auto-routing and a bounded call count", () => {
+test("pipeline options pin Luna with medium reasoning and a bounded call count", () => {
   const options = parseOptions([]);
-  assert.equal(options.provider, "auto");
+  assert.equal(options.provider, "codex");
+  assert.equal(options.model, "gpt-5.6-luna");
+  assert.equal(options.reasoningEffort, "medium");
   assert.equal(options.maxAiCalls, 12);
+  assert.equal(options.concurrency, 1);
+  assert.equal(options.mediaMode, "ai");
   assert.equal(options.attempts, 2);
+});
+
+test("pipeline validates explicit reasoning effort", () => {
+  assert.equal(parseOptions(["--reasoning-effort", "high"]).reasoningEffort, "high");
+  assert.throws(() => parseOptions(["--reasoning-effort", "fast"]), /reasoning-effort/);
+});
+
+test("pipeline accepts bounded cluster concurrency", () => {
+  const options = parseOptions(["--concurrency", "4"]);
+  assert.equal(options.concurrency, 4);
+  assert.throws(() => parseOptions(["--concurrency", "0"]), /positive integer/);
+});
+
+test("pipeline accepts deterministic house-illustration media planning", () => {
+  assert.equal(parseOptions(["--media-mode", "illustration"]).mediaMode, "illustration");
+  assert.throws(() => parseOptions(["--media-mode", "stock"]), /ai or illustration/);
 });
 
 test("discovery only selects scraper unprocessed article bundles", async () => {
@@ -105,6 +126,16 @@ test("schema validation rejects missing and extra structured fields", () => {
   assert.deepEqual(validateSchema({ decision: "accept" }, schema), { decision: "accept" });
   assert.throws(() => validateSchema({}, schema), /required/);
   assert.throws(() => validateSchema({ decision: "accept", surprise: true }, schema), /unexpected/);
+});
+
+test("structured output parser accepts fenced JSON inside provider envelopes", () => {
+  const envelope = JSON.stringify({ type: "result", result: "```json\n{\"decision\":\"accept\"}\n```" });
+  assert.deepEqual(parseStructuredOutput(envelope), { decision: "accept" });
+});
+
+test("structured output parser preserves schema objects with a result field", () => {
+  const qa = { result: "pass", factual_issues: [], required_changes: [] };
+  assert.deepEqual(parseStructuredOutput(JSON.stringify(qa)), qa);
 });
 
 test("dry run does not initialize or mutate the workflow root", async () => {
