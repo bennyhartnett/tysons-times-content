@@ -79,7 +79,7 @@ function usage() {
     "  --input-root PATH             Scraper input root (default input)",
     "  --workflow-root PATH          Pipeline data root (default workflow)",
     "  --max-ai-calls N              Maximum AI calls in this run (default 12)",
-    "  --concurrency N               Parallel independent cluster calls (default 1)",
+    "  --concurrency N               Parallel independent AI calls (default 1)",
     "  --media-mode ai|illustration  AI plan or deterministic house art (default ai)",
     "  --attempts N                  Validation attempts per stage (default 2)",
     "  --timeout-ms N                Timeout per AI call (default 300000)",
@@ -489,6 +489,26 @@ async function invokeProvider(provider, prompt, schemaPath, options) {
       "--sandbox",
       "read-only",
       "--skip-git-repo-check",
+      "--ignore-user-config",
+      "--ignore-rules",
+      "--disable",
+      "plugins",
+      "--disable",
+      "apps",
+      "--disable",
+      "browser_use",
+      "--disable",
+      "computer_use",
+      "--disable",
+      "multi_agent",
+      "--disable",
+      "goals",
+      "--disable",
+      "personality",
+      "--disable",
+      "shell_snapshot",
+      "--disable",
+      "shell_tool",
       "--output-schema",
       schemaPath,
       "--output-last-message",
@@ -671,13 +691,20 @@ async function incrementArticleFailure(article, stageName, options) {
   }
 }
 
-async function processReview(context) {
-  const records = await listDirectories(path.join(context.options.workflowRoot, "ingested"));
-  for (const articleDir of records) {
-    const article = await loadArticleRecord(articleDir);
-    if (!["NEW", "REVIEW_FAILED"].includes(article.state.state)) continue;
+async function processReview(context, selected = null) {
+  if (!selected) {
+    const records = await listDirectories(path.join(context.options.workflowRoot, "ingested"));
+    for (const articleDir of records) {
+      const article = await loadArticleRecord(articleDir);
+      if (!["NEW", "REVIEW_FAILED"].includes(article.state.state)) continue;
+      selected = article;
+      break;
+    }
+  }
+  if (!selected) return false;
+  const article = selected;
     const attemptKey = `review:${article.metadata.article_id}`;
-    if (context.attempted.has(attemptKey)) continue;
+    if (context.attempted.has(attemptKey)) return false;
     context.attempted.add(attemptKey);
     try {
       const review = await runAiStage("review", {
@@ -687,18 +714,38 @@ async function processReview(context) {
         article_text: article.body,
       }, context);
       if (review.article_id !== article.metadata.article_id) throw new Error("review returned the wrong article_id");
-      await writeJson(path.join(articleDir, "review.json"), review);
+      await writeJson(path.join(article.articleDir, "review.json"), review);
       const folder = review.decision === "accept" ? "accepted" : review.decision === "hold" ? "held" : "rejected";
       const stateName = review.decision === "accept" ? "REVIEW_ACCEPTED" : review.decision === "hold" ? "REVIEW_HELD" : "REVIEW_REJECTED";
-      await updateArticleState(articleDir, stateName);
-      await moveDirectory(articleDir, path.join(context.options.workflowRoot, folder, article.metadata.article_id));
+      await updateArticleState(article.articleDir, stateName);
+      await moveDirectory(article.articleDir, path.join(context.options.workflowRoot, folder, article.metadata.article_id));
     } catch (error) {
       if (error.message === "AI call limit reached") return false;
       await incrementArticleFailure(article, "review", { message: error.message, workflowRoot: context.options.workflowRoot });
     }
-    return true;
+  return true;
+}
+
+async function findArticleReviewBatch(context, limit) {
+  const found = [];
+  for (const articleDir of await listDirectories(path.join(context.options.workflowRoot, "ingested"))) {
+    const article = await loadArticleRecord(articleDir);
+    const attemptKey = `review:${article.metadata.article_id}`;
+    if (!["NEW", "REVIEW_FAILED"].includes(article.state.state) || context.attempted.has(attemptKey)) continue;
+    found.push(article);
+    if (found.length >= limit) break;
   }
-  return false;
+  return found;
+}
+
+async function processReviewBatch(context) {
+  const remainingCalls = context.options.maxAiCalls - context.aiCalls;
+  const limit = Math.min(context.options.concurrency, remainingCalls);
+  if (limit < 1) return false;
+  const selected = await findArticleReviewBatch(context, limit);
+  if (!selected.length) return false;
+  await Promise.all(selected.map((article) => processReview(context, article)));
+  return true;
 }
 
 function tokenSet(value) {
@@ -1149,17 +1196,11 @@ export async function runPipeline(options) {
     const ingest = await ingestBundles(options);
     metrics.ingest = ingest;
     console.log(`Ingest: ${ingest.ingested} new, ${ingest.duplicates} duplicate, ${ingest.invalid} invalid.`);
-    const serialProcessors = [processReview, processDedup];
     let progressed = true;
     while (progressed && context.aiCalls < options.maxAiCalls) {
-      progressed = false;
-      for (const processor of serialProcessors) {
-        if (context.aiCalls >= options.maxAiCalls) break;
-        if (await processor(context)) {
-          progressed = true;
-          break;
-        }
-      }
+      progressed = await processReviewBatch(context);
+      if (progressed) continue;
+      progressed = await processDedup(context);
       if (!progressed && context.aiCalls < options.maxAiCalls) {
         progressed = await processClusterBatch(context);
       }
