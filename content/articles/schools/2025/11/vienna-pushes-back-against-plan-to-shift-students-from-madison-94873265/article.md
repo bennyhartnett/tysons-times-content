@@ -11,10 +11,10 @@ tags:
   - "vienna"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Vienna Pushes Back Against Plan to Shift Students From Madison"
+  caption: "Vienna Pushes Back Against Plan to Shift Students From Madison. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Vienna’s Town Council voted Monday, Oct. 27, to oppose a proposed school boundary change that would move some town students from James Madison High School to George C. Marshall High School.

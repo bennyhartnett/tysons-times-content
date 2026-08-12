@@ -11,10 +11,10 @@ tags:
   - "mclean"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for 45 FCPS Musicians Win Coveted Spots in All-Virginia Ensembles"
+  caption: "45 FCPS Musicians Win Coveted Spots in All-Virginia Ensembles. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Forty-five students from 18 Fairfax County public high schools and three elementary schools have earned places in three prestigious statewide music groups for 2025.

@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Fire and Rescue Honors Its Standout Members of 2025"
+  caption: "Fairfax Fire and Rescue Honors Its Standout Members of 2025. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fairfax County Fire and Rescue Department recognized its top uniformed, civilian and volunteer members during its annual Of the Year Awards on Friday, Nov. 7, 2025. The honors are the department’s highest commendations.

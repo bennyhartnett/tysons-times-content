@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid in a panel discussion at West Springfield High School."
+  caption: "Fairfax Schools Map Out $460 Million Push and AI-Focused Future. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools marked Veterans Day week with thanks for employees who served in the military and for staff members whose families have shared in that service.

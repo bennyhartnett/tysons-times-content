@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Woodson High School students at the Science Olympiad."
+  caption: "Fairfax Schools Win $460 Million Bond as AI Plans Take Shape. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools marked a consequential week with voter approval of a $460 million bond referendum, the launch of new artificial intelligence plans and a series of student and staff achievements across the division.

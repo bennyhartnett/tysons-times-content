@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Body-Camera Videos Reveal Fatal Police Crash and Tense Burke Standoff"
+  caption: "Body-Camera Videos Reveal Fatal Police Crash and Tense Burke Standoff. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County police released body-camera footage Oct. 23 showing two critical incidents: a police cruiser fatally striking a woman already lying on a Hybla Valley roadway and an officer shooting and wounding an armed man during a prolonged crisis in Burke.

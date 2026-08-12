@@ -12,10 +12,10 @@ tags:
   - "business"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Beavers Reshape Mount Vernon — and Bring Big Ecological Benefits"
+  caption: "Beavers Reshape Mount Vernon — and Bring Big Ecological Benefits. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Beavers are cutting trees, building dams and transforming waterways across the Mount Vernon area. While their activity can frustrate homeowners, wildlife advocate Alison Zak says the animals also improve water quality, protect wetlands and create valuable habitats.

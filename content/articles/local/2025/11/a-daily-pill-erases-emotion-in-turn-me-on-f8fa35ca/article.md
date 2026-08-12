@@ -12,10 +12,10 @@ tags:
   - "transportation"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for A Daily Pill Erases Emotion in ‘Turn Me On’"
+  caption: "A Daily Pill Erases Emotion in ‘Turn Me On’. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Michael Tyburski’s second feature film, “Turn Me On,” imagines a seemingly utopian community where people voluntarily take a daily pill that suppresses every positive and negative emotion.

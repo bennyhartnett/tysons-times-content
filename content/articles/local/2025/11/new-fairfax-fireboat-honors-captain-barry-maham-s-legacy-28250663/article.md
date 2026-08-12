@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for New Fairfax Fireboat Honors Captain Barry Maham’s Legacy"
+  caption: "New Fairfax Fireboat Honors Captain Barry Maham’s Legacy. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County’s newest fireboat was christened “The Maham” at Pohick Bay on Saturday, Oct. 25, honoring Captain Barry Maham, who died from occupational cancer earlier this year at age 50.
