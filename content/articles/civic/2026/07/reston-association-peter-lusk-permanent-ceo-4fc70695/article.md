@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Professional headshot: smiling man in a light blue plaid suit, white shirt, blue striped tie, against a black background."
+  caption: "Peter Lusk (courtesy Reston Association)"
+  credit: "Peter Lusk (courtesy Reston Association)"
 ---
 
 The Reston Association Board of Directors unanimously appointed Peter Lusk as permanent CEO, effective July 17, 2026, according to the association.

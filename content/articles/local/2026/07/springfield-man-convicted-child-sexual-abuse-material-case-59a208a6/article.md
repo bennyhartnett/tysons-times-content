@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Judges gavel in court"
+  caption: "A gavel is seen in this stock photo."
+  credit: "A gavel is seen in this stock photo."
 ---
 
 Nathaniel Lee, a 39-year-old Springfield resident, was convicted July 20, 2026, after a bench trial on three counts connected to his possession of child sexual abuse material.

@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Virginia Wife Killing"
+  caption: "Brendan Banfield looks on during the double murder trial for Brendan Banfield in Fairfax County Circuit Court, Wednesday, Jan. 14,…"
+  credit: "WTOP Fairfax County"
 ---
 
 Brendan Banfield, serving a life sentence for murder and child endangerment convictions, has initiated an appeal of his case through Virginia's Court of Appeals, his defense attorney announced July 17.

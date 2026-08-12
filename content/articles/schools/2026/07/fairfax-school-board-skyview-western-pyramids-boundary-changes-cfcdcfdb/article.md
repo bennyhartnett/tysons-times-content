@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Graphics of news"
+  caption: "Fairfax School Board approves Skyview, western pyramid boundary changes. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board unanimously approved attendance boundary changes for Skyview High School and five western Fairfax County school pyramids on July 16, setting the changes on course to begin in the 2027-28 school year.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Beyer canvasses Falls Church ahead of five-way Democratic primary"
+  caption: "Beyer canvasses Falls Church ahead of five-way Democratic primary. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Rep. Don Beyer and campaign volunteers canvassed Falls Church as the congressman sought voter support for an Aug. 4 Democratic primary that will determine his party’s nominee in Virginia’s 8th Congressional District.

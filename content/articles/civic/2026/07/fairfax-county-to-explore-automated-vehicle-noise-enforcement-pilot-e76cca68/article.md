@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Exhaust pipes for a BMW car parked in Fairfax City"
+  caption: "Exhaust pipes for a BMW car parked in Fairfax City (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 The Fairfax County Board of Supervisors voted unanimously July 14 to direct County Executive Bryan Hill to report by fall on a timeline for implementing automated vehicle-noise monitoring.

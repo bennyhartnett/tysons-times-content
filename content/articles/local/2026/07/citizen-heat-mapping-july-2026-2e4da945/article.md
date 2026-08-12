@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Meteotracker sensor for Urban Heat Island Mapping Project"
+  caption: "A sensor on a car is used to collect heat data for the Urban Heat Island Mapping Project. (Courtesy Faith Alliance for Climate Solutions)"
+  credit: "WTOP Fairfax County"
 ---
 
 On July 16, more than 30 citizen-scientist teams fanned out across Northern Virginia in what George Mason University's Virginia Climate Center called the Urban Heat Island Mapping Project, armed with magnetic sensors no larger than an E-ZPass transponder.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Misael Lopez Gomez has been charged with murder after his 3-month-old daughter was found unresponsive in a Bailey’s Crossroads apartment"
+  caption: "Misael Lopez Gomez has been charged with murder after his 3-month-old daughter was found unresponsive in a Bailey’s Crossroads apartment (mugshot courtesy FCPD, apartment image via Google Maps)"
+  credit: "FFXnow"
 ---
 
 A Fairfax County grand jury indicted a Bailey’s Crossroads man on aggravated-murder and felony child-abuse charges in connection with the March death of his 3-month-old daughter, according to the supplied account of the case.

@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Richmond Highway sign"
+  caption: "Richmond Highway sign (Staff photo by Mary Stachyra Lopez)"
+  credit: "Richmond Highway sign (Staff photo by Mary Stachyra Lopez)"
 ---
 
 Julio Quintanilla, a 61-year-old Alexandria resident, died from injuries sustained when a car struck him on Richmond Highway in Hybla Valley, according to Fairfax County police and reporting by WTOP.

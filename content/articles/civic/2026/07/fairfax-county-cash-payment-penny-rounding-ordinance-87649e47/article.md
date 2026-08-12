@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Hand with pennies and coins"
+  caption: "Person’s hand holding various coins including United States pennies above a white surface, Lafayette, California, on Nov. 13, 2025. (Photo by Smith Collection/Gado/Getty Images)"
+  credit: "Smith Collection/Gado/Getty Images / WTOP Fairfax County"
 ---
 
 Fairfax County has approved a temporary plan to round in-person cash transaction totals to the nearest five cents, with the change scheduled to begin July 1, 2027.
