@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Students Ready Their Faith and Routines as Ramadan Nears"
+  caption: "Students Ready Their Faith and Routines as Ramadan Nears. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Ramadan begins Feb. 18, and Muslim students are preparing for a month of fasting, prayer and reflection.

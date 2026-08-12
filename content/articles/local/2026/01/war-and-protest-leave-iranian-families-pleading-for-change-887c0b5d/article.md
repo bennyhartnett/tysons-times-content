@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for War and Protest Leave Iranian Families Pleading for Change"
+  caption: "War and Protest Leave Iranian Families Pleading for Change. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Tehran was quiet in the early hours of June 13, 2025. Then, at about 3 a.m., Israeli bombs began falling on the Iranian capital, opening a 12-day exchange of attacks between Israel and Iran amid concerns about Iran’s nuclear program.

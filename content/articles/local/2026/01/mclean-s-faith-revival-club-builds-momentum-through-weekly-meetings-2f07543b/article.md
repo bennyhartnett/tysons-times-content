@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Faith Revival Club Builds Momentum Through Weekly Meetings"
+  caption: "McLean’s Faith Revival Club Builds Momentum Through Weekly Meetings. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School’s Faith Revival Club closed out its January meetings on Friday, Jan. 23, with a discussion about Jesus healing a Roman official’s son, the second miracle recorded in the Gospel of John.

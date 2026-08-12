@@ -11,9 +11,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Netflix’s ‘Seven Dials’ Mystery Can’t Keep Its Secrets—or Momentum"
+  caption: "Netflix’s ‘Seven Dials’ Mystery Can’t Keep Its Secrets—or Momentum. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Netflix’s *Agatha Christie’s Seven Dials* has the ingredients of an absorbing period whodunit, but obvious clues and a muddled plot turn the roughly two-and-a-half-hour series into a disappointing watch.

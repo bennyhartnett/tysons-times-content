@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Netflix Romance Takes Off With 23.3 Million Views"
+  caption: "Netflix Romance Takes Off With 23.3 Million Views. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Released Jan. 9, 2026, *People We Meet on Vacation* quickly climbed to No. 2 on Netflix’s Top 10 Movies list, attracting 23.3 million views during its first week.

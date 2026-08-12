@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Stephen Schwartz Musical Brings a Marriage in Crisis to Falls Church"
+  caption: "Stephen Schwartz Musical Brings a Marriage in Crisis to Falls Church. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A marriage strained by decades of buried memories takes center stage in the DC-area premiere of *Snapshots: A Musical Scrapbook*, running Feb. 12 through March 8, 2026, at Creative Cauldron Stage in Falls Church.

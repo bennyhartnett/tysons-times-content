@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Storm Forces FCPS to Extend Second Quarter Into February"
+  caption: "Storm Forces FCPS to Extend Second Quarter Into February. Openly licensed thematic image selected for this article."
+  credit: "An Errant Knight / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools has extended the second quarter through Tuesday, Feb. 3, after the recent storm disrupted the final days of the grading period.

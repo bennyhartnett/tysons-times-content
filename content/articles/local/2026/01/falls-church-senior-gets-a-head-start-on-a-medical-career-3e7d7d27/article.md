@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Senior Gets a Head Start on a Medical Career"
+  caption: "Falls Church Senior Gets a Head Start on a Medical Career. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Falls Church High School senior Manushri Singh is already taking vital signs, maintaining sterile technique and managing patient information as she prepares for a future in healthcare.

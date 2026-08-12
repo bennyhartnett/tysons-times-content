@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "parking lot at Dulles Airport"
+  caption: "Cars covered in snow at Dulles International Airport."
+  credit: "Cars covered in snow at Dulles International Airport."
 ---
 
 Travelers arriving at Dulles International Airport on Monday faced an unexpected final obstacle: vehicles trapped beneath several inches of snow and ice in the economy parking lots.

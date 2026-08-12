@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Hallway Playlist Is Stuck on Repeat"
+  caption: "McLean’s Hallway Playlist Is Stuck on Repeat. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean introduced hallway music this year as a warning for students: when songs begin playing during passing periods, only two minutes remain before class starts.
