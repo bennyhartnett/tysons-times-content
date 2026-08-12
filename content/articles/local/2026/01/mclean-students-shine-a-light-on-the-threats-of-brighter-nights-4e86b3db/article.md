@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Shine a Light on the Threats of Brighter Nights"
+  caption: "McLean Students Shine a Light on the Threats of Brighter Nights. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean students turned their attention to the night sky Jan. 15, bringing high school and middle school environmental groups together to examine how excessive outdoor lighting can disrupt wildlife, plant life and human sleep.

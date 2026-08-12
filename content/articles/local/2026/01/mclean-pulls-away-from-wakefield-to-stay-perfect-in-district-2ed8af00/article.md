@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Pulls Away From Wakefield to Stay Perfect in District"
+  caption: "McLean Pulls Away From Wakefield to Stay Perfect in District. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean turned a one-point halftime lead into a convincing 67-56 victory at Wakefield on Jan. 16, keeping the Highlanders unbeaten in Liberty District play.

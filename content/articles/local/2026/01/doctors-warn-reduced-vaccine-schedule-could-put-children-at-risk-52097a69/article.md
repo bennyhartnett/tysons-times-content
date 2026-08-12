@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Doctors Warn Reduced Vaccine Schedule Could Put Children at Risk"
+  caption: "Doctors Warn Reduced Vaccine Schedule Could Put Children at Risk. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Federal health officials reduced the number of vaccines recommended for children on Jan. 5, 2026, following a review ordered by President Donald Trump.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s First Competition Rocket Faces a Race Against Time"
+  caption: "McLean’s First Competition Rocket Faces a Race Against Time. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s new Rocketry Club is racing to complete its first competition rocket, with test flights approaching and a March 31 deadline to submit qualifying data for the American Rocketry Challenge.

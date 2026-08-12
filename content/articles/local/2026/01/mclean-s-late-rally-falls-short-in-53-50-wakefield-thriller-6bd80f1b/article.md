@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Late Rally Falls Short in 53-50 Wakefield Thriller"
+  caption: "McLean’s Late Rally Falls Short in 53-50 Wakefield Thriller. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean erased a fourth-quarter deficit and briefly seized the lead, but Wakefield answered in the closing minutes to hand the Highlanders a 53-50 home loss on Jan. 16.

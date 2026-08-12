@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Nearly 200 Indigenous Australian Works Transform the National Gallery"
+  caption: "Nearly 200 Indigenous Australian Works Transform the National Gallery. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A sweeping exhibition of Indigenous Australian art has filled the National Gallery of Art in Washington, bringing together nearly 200 works by more than 100 Aboriginal and Torres Strait Islander artists.

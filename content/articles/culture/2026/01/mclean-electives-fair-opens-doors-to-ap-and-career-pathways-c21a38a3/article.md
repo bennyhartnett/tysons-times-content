@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Electives Fair Opens Doors to AP and Career Pathways"
+  caption: "McLean Electives Fair Opens Doors to AP and Career Pathways. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean students explored a broad range of classes and career-focused programs during the school’s annual Electives Fair, getting direct advice before choosing courses for the upcoming year.

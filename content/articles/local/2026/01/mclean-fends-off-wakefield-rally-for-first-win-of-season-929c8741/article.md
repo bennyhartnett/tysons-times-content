@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Fends Off Wakefield Rally for First Win of Season"
+  caption: "McLean Fends Off Wakefield Rally for First Win of Season. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s girls junior varsity basketball team secured its first victory of the season Jan. 16, defeating visiting Wakefield 38-25 after withstanding a second-half comeback attempt.

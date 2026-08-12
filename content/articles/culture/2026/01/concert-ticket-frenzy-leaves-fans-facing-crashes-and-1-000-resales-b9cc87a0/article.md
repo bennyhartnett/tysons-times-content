@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Concert Ticket Frenzy Leaves Fans Facing Crashes and $1,000 Resales"
+  caption: "Concert Ticket Frenzy Leaves Fans Facing Crashes and $1,000 Resales. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Major album releases often bring major tours, giving musicians a chance to perform new songs and connect with fans. But as artists grow more popular, competition for seats—and the prices attached to them—can surge.

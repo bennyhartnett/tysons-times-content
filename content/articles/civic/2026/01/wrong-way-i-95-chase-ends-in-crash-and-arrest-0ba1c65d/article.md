@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Prince William County police cruiser"
+  caption: "A Prince William County police cruiser is seen in this file photo. (Courtesy Prince William County police)"
+  credit: "A Prince William County police cruiser is seen in this file photo. (Courtesy Pr…"
 ---
 
 A pursuit spanning two Northern Virginia counties ended Friday afternoon after a driver traveled the wrong way on Interstate 95, struck a state police cruiser and two civilian vehicles, and fled on foot before being arrested.
