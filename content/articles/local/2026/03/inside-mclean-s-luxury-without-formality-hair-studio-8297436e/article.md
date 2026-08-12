@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Inside McLean’s “Luxury Without Formality” Hair Studio"
+  caption: "Inside McLean’s “Luxury Without Formality” Hair Studio. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Colour Bar Studio has served clients in McLean since 2012, offering customized hair services from its location in the Tysons Boro district.

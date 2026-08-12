@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Offers Bus Mechanics Up to $7,000 Ahead of Hiring Event"
+  caption: "Metro Offers Bus Mechanics Up to $7,000 Ahead of Hiring Event. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro is recruiting experienced bus mechanics for an invitation-only hiring event Saturday, March 28, with qualified candidates potentially eligible for sign-on bonuses of up to $7,000.

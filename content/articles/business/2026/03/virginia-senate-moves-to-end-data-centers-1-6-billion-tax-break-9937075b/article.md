@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Senate Moves to End Data Centers’ $1.6 Billion Tax Break"
+  caption: "FILE – Cars drive past data centers that house computer servers and hardware required to support modern internet use, such as artificial intelligence, in Ashburn, Virginia, July 16, 2023. (AP Photo/Ted Shaffrey, File)"
+  credit: "FFXnow"
 ---
 
 Virginia senators have voted to eliminate a data center tax exemption projected to cost the state $1.6 billion annually, escalating a fight over an industry that has transformed the commonwealth while placing growing demands on communities and the power grid.

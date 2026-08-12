@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County Schools Will Close for High-Turnout April Election"
+  caption: "Fairfax County Schools Will Close for High-Turnout April Election. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County public schools will close Tuesday, April 21, 2026, when 168 school buildings serve as polling locations for a statewide constitutional amendment special election.

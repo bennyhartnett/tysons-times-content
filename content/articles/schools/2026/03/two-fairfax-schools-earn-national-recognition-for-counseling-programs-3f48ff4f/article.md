@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Circle of people holding hands, seen from below with the sun shining."
+  caption: "Two Fairfax Schools Earn National Recognition for Counseling Programs. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Poe Middle School and Herndon High School have earned a 2026 national designation recognizing the impact of their counseling programs on students.

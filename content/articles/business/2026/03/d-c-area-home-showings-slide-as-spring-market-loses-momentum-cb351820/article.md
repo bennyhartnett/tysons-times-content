@@ -11,9 +11,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for D.C.-Area Home Showings Slide as Spring Market Loses Momentum"
+  caption: "D.C.-Area Home Showings Slide as Spring Market Loses Momentum. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Home-showing activity across the Washington, D.C., metro area fell sharply during the week ending March 8, 2026, extending a year-over-year downturn as the early spring market faced economic uncertainty.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Marks Women’s History as Major Local Decisions Loom"
+  caption: "Falls Church City is Celebrating Women's History Month. Pictured above, 2024 Women's History Walk tribute to Grand Marshals, Cherry Hill Farmhouse, May 11. Photo by Chris Jones."
+  credit: "Falls Church Independent"
 ---
 
 Falls Church is celebrating Women’s History Month and America’s 250th anniversary while residents prepare for a redistricting referendum, a wastewater deal, rising property assessments and a busy calendar of community events.

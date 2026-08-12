@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Scott Shawkey Builds McLean Real Estate Team on Local Roots"
+  caption: "Scott Shawkey Builds McLean Real Estate Team on Local Roots. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Scott Shawkey’s path to McLean real estate began in hospitality and technology before he launched his residential property career in 2001.

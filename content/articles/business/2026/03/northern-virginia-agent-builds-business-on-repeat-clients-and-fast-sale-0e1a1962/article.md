@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Agent Builds Business on Repeat Clients and Fast Sales"
+  caption: "Northern Virginia Agent Builds Business on Repeat Clients and Fast Sales. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Richie Hanna, known as “Real Estate Richie,” has built a real estate business around local knowledge, frequent client communication and a background spanning more than 20 years in sales and customer service.

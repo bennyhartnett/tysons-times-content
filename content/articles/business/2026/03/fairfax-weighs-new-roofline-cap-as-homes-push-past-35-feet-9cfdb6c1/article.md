@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Weighs New Roofline Cap as Homes Push Past 35 Feet"
+  caption: "A new house in Fairfax towers over its older neighbor (via Fairfax County)"
+  credit: "A new house in Fairfax towers over its older neighbor (via Fairfax County)"
 ---
 
 Fairfax County officials are considering changes to a 67-year-old residential height rule as increasingly elaborate home designs test the meaning of the county’s 35-foot limit.
