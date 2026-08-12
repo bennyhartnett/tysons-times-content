@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Aerial view of a city park with playgrounds, winding paths, a large grassy field, and rows of trees along the edges. Buses line the curb on the street in front."
+  caption: "A rendering of the proposed Signature Park for The Mile in Tysons (via VIKA Virginia/Fairfax County)"
+  credit: "FFXnow"
 ---
 
 Link Logistics has submitted a final development plan for Signature Park, a publicly accessible urban park planned for Block E of The Mile in Tysons at 7925 Jones Branch Drive.

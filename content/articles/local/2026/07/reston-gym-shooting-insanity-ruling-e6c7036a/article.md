@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Exterior of a Gold's Gym entrance with glass doors, brick walls, and a multicolored upper façade above the building."
+  caption: "Gold’s Gym in the The Point at Rise apartment building in Reston (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 A Fairfax County judge has found a 45-year-old Chantilly man not guilty by reason of insanity in the fatal 2024 shooting of Hyungjoon Choi inside a Reston gym.

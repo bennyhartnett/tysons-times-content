@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Entering the Town of Herndon"
+  caption: "Entering the Town of Herndon (staff photo by Fatimah Waseem)"
+  credit: "Entering the Town of Herndon (staff photo by Fatimah Waseem)"
 ---
 
 Herndon and Fairfax City posted the largest year-over-year declines in median one-bedroom asking rents among eight D.C.-area localities included in Zumper’s latest data, as the company’s regional apartment listings increased.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church names Akida Rouzi to lead new code administration department"
+  caption: "Falls Church names Akida Rouzi to lead new code administration department. Image from City of Falls Church News Releases."
+  credit: "City of Falls Church News Releases"
 ---
 
 The City of Falls Church has named longtime employee Akida Rouzi director of its new Department of Code Administration, placing the city’s zoning administrator in charge of an effort intended to make local development processes easier to navigate.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dulles targets Nairobi route after adding Seoul and Taipei service"
+  caption: "Representatives from the Metropolitan Washington Airports Authority, Virginia Department of Aviation, EVA Air and the Taiwanese government were present for a ribbon cutting in June 2026 (courtesy EVA Air)"
+  credit: "FFXnow"
 ---
 
 Washington Dulles International Airport is pursuing additional air service to Africa after adding routes to Seoul in April and Taipei in June, with Nairobi emerging as the airport authority’s leading target.

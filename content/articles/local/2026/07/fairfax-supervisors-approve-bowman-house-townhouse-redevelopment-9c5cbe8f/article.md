@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Rendering of EYA’s proposed townhouse development at 1850 Old Reston Avenue (via VIKA Virginia/Fairfax County)"
+  caption: "Rendering of EYA’s proposed townhouse development at 1850 Old Reston Avenue (via VIKA Virginia/Fairfax County)"
+  credit: "FFXnow"
 ---
 
 The Fairfax County Board of Supervisors voted 10-0 on July 14 to approve a 57-townhouse redevelopment of the historic Bowman House property at 1850 Old Reston Avenue in Reston.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Modern residential courtyard with green lawns, paved walks, trees, and a playground between apartment buildings on a sunny day."
+  caption: "The proposed Aurora Station at Dulles development near the Innovation Center Metro station (via VIKA Virginia/Fairfax County)"
+  credit: "FFXnow"
 ---
 
 The Fairfax County Planning Commission has deferred its recommendation on Pomeroy Companies’ revised Aurora Station at Dulles proposal until Sept. 16, citing issues that remain unresolved after a July 8 public hearing.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Woman with short gray hair wearing a colorful patterned blouse speaks into a microphone at a podium, gesturing with two fingers raised on her right hand."
+  caption: "Bryna Helfer delivers remarks to Fairfax supervisors (screenshot via Fairfax County)"
+  credit: "FFXnow"
 ---
 
 The Fairfax County Board of Supervisors honored Bryna Helfer on July 14 for 35 years of service establishing and sustaining the Spring Hill Rec Center adapted aquatics program, which serves swimmers with disabilities.

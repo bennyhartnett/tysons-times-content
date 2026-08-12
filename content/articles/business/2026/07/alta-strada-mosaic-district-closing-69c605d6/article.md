@@ -11,9 +11,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Outdoor dining area in front of Alta Strada Italian Kitchen & Wine Bar, red chairs and tables with closed umbrellas."
+  caption: "Alta Strada at the Mosaic District in Merrifield with its outdoor patio closed (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Alta Strada Italian Kitchen & Wine Bar plans to permanently close its Mosaic District restaurant on July 25, ending about nine years of service in Merrifield.

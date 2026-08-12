@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Aerial site plan showing a development with labeled blocks, roads, and surrounding properties (Westway Business Center, Dominion Energy Virginia, Discovery Square)."
+  caption: "Development plan for a portion of Lincoln Park development in Dulles Suburban Center (via Fairfax County)"
+  credit: "FFXnow"
 ---
 
 The Fairfax County Board of Supervisors voted 8-0 on July 14 to amend the comprehensive plan for 27 acres at the southwest corner of Centreville Road and McLearen Road, creating a path for consideration of up to 483 homes at the Lincoln Park office park.
