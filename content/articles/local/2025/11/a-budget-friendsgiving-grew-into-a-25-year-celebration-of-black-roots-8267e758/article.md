@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for A Budget Friendsgiving Grew Into a 25-Year Celebration of Black Roots"
+  caption: "A Budget Friendsgiving Grew Into a 25-Year Celebration of Black Roots. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Steam, history and the aromas of a holiday feast fill the Hendersons’ Alexandria home each Thanksgiving. Collard greens simmer beside a honey-and-herb roasted turkey as relatives and longtime friends prepare dishes throughout the kitchen.

@@ -11,10 +11,10 @@ tags:
   - "falls church"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Federal Reopenings Add New Spark to a Packed DMV Weekend"
+  caption: "Don't miss the Virginia Center for the Opera's Cinderella (La Cenerentola) by Rossini at the GMU Center for the Performing Arts, this Saturday and Sunday! Courtesy GMUCA."
+  credit: "Falls Church Independent"
 ---
 
 Federal museums and attractions are reopening just as the holiday calendar shifts into high gear, giving Northern Virginia and Washington-area residents an unusually broad mix of things to do from Nov. 21 through Thanksgiving week.

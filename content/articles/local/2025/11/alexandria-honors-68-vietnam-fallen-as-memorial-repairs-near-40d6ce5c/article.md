@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Alexandria Honors 68 Vietnam Fallen as Memorial Repairs Near"
+  caption: "Alexandria Honors 68 Vietnam Fallen as Memorial Repairs Near. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria veterans, Gold Star families and local officials gathered Nov. 11 at the Mount Vernon Recreation Center to honor the city’s Vietnam War dead and missing—and to remember seven Alexandrians who remain unaccounted for in Southeast Asia.

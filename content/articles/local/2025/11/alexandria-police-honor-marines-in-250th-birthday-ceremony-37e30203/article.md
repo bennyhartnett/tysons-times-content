@@ -12,10 +12,10 @@ tags:
   - "sports"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Alexandria Police Honor Marines in 250th Birthday Ceremony"
+  caption: "Alexandria Police Honor Marines in 250th Birthday Ceremony. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Alexandria Police Department marked the United States Marine Corps’ 250th birthday with a Nov. 12 ceremony honoring officers who previously served or continue to serve as Marines.

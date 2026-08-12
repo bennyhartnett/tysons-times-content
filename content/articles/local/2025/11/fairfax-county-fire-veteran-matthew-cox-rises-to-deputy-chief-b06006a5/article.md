@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax County Fire Veteran Matthew Cox Rises to Deputy Chief"
+  caption: "Fairfax County Fire Veteran Matthew Cox Rises to Deputy Chief. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fairfax County Fire and Rescue Department Battalion Chief Matthew Cox will be promoted to deputy chief effective Dec. 13, 2025, marking another step in a public-service career that began more than three decades ago. His new assignment will be determined when the promotion takes effect.

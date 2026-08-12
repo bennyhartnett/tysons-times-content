@@ -12,10 +12,10 @@ tags:
   - "transportation"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Freedom House Reopens After Major Historic Restoration"
+  caption: "Freedom House Reopens After Major Historic Restoration. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria’s Freedom House Museum reopened Nov. 8 following an extensive exterior rehabilitation that restored the landmark’s appearance to its pre-1861 form.

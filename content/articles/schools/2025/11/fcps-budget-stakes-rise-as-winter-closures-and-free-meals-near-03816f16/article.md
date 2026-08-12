@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for FCPS Budget Stakes Rise as Winter Closures and Free Meals Near"
+  caption: "FCPS Budget Stakes Rise as Winter Closures and Free Meals Near. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is developing its fiscal year 2027 budget as the division prepares to explain how funding levels affect teachers, academics and student programs.

@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Two young women hold awards at the end of a race"
+  caption: "Fairfax Schools Face Budget Push, Winter Deadlines and Major Changes. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is developing its fiscal year 2027 budget while urging families to prepare for winter weather, update technology permissions and track several changes affecting students and volunteers.

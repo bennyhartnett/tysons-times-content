@@ -11,10 +11,10 @@ tags:
   - "arlington"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Arlington Scouts Smash Food Drive Record With 65,000 Pounds"
+  caption: "Arlington Scouts Smash Food Drive Record With 65,000 Pounds. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington Scout troops collected a record 65,000 pounds of food—about 32 tons—for the Arlington Food Assistance Center during the national Scouting for Food effort on Saturday, Nov. 8.
