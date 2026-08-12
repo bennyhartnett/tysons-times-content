@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Crews Honored After Dramatic Rescues Across the Region"
+  caption: "Fairfax Crews Honored After Dramatic Rescues Across the Region. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fairfax County Fire and Rescue Department members received honors at the 48th Annual Valor Awards for a series of high-risk rescues and emergency responses across Northern Virginia in 2025.

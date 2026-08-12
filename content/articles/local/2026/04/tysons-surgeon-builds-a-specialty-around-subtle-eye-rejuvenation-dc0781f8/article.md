@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Surgeon Builds a Specialty Around Subtle Eye Rejuvenation"
+  caption: "Tysons Surgeon Builds a Specialty Around Subtle Eye Rejuvenation. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Maryam Nazemzadeh has spent more than 17 years developing a facial-aesthetics practice centered on precise, understated results, particularly around the eyes and upper face.

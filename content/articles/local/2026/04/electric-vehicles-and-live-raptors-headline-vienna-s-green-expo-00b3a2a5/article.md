@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Electric Vehicles and Live Raptors Headline Vienna’s Green Expo"
+  caption: "Electric Vehicles and Live Raptors Headline Vienna’s Green Expo. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Vienna’s Green Expo will bring more than 40 local exhibitors to the Vienna Community Center on Thursday, April 23, offering practical ways to save money and live more sustainably.

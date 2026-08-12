@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Three Solo Exhibitions Bring Heirlooms, History and Rescue to McLean"
+  caption: "Three Solo Exhibitions Bring Heirlooms, History and Rescue to McLean. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 McLean Project for the Arts will open three spring solo exhibitions on April 30, bringing together works that explore diaspora, generational memory and encounters between people and water birds.

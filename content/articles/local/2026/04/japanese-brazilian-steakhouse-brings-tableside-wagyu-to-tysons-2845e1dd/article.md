@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Japanese-Brazilian Steakhouse Brings Tableside Wagyu to Tysons"
+  caption: "Japanese-Brazilian Steakhouse Brings Tableside Wagyu to Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Churasuko has introduced an unusual fine-dining concept to Tysons: Japanese cuisine fused with the tableside grilling tradition of a Brazilian steakhouse.

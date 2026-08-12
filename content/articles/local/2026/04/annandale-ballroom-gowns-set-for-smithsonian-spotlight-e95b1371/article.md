@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Annandale Ballroom Gowns Set for Smithsonian Spotlight"
+  caption: "Annandale Ballroom Gowns Set for Smithsonian Spotlight. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Three dazzling ballroom gowns from an Annandale showroom are headed to the Smithsonian this spring, bringing the intricate artistry of dance costumes into a national exhibition on salsa.

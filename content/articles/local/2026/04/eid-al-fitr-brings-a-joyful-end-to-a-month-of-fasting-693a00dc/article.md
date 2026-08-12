@@ -11,9 +11,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Eid al-Fitr Brings a Joyful End to a Month of Fasting"
+  caption: "Eid al-Fitr Brings a Joyful End to a Month of Fasting. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After approximately 30 days of fasting, worship and reflection during Ramadan, Muslims celebrate Eid al-Fitr with prayer, festive food and gatherings of family and friends.

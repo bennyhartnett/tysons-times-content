@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Cinder Bed Bikeway Plan Still Faces Environmental Pushback"
+  caption: "Cinder Bed Bikeway Plan Still Faces Environmental Pushback. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Opposition to the proposed Cinder Bed Bikeway remains active as Fairfax County considers a trail linking the Franconia-Springfield Metro station with routes toward Fort Belvoir.

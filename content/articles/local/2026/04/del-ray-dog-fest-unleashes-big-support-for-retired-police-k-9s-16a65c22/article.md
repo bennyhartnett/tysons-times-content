@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Del Ray Dog Fest Unleashes Big Support for Retired Police K-9s"
+  caption: "Del Ray Dog Fest Unleashes Big Support for Retired Police K-9s. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Dogs and their owners packed the George Washington Middle School parking lot April 12 as the fourth annual Del Ray Dog Fest raised money to help provide healthcare for retired Alexandria police K-9s.
