@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Day Draws Huge Crowds for a Weekend of High-Flying Fun"
+  caption: "McLean Day Draws Huge Crowds for a Weekend of High-Flying Fun. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean Day returned to Lewinsville Park on May 15 and 16, filling the grounds with carnival rides, live music, food trucks, games and family-friendly activities.

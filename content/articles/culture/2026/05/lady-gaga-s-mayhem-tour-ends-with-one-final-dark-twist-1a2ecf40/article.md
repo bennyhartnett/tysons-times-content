@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Lady Gaga’s MAYHEM Tour Ends With One Final Dark Twist"
+  caption: "Lady Gaga’s MAYHEM Tour Ends With One Final Dark Twist. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Lady Gaga closed her yearlong MAYHEM tour in New York City after 86 performances, capping the run with the announcement of *MAYHEM Requiem*, a concert film and live album.

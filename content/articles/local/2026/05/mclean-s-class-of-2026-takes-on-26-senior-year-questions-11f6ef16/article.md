@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Class of 2026 Takes On 26 Senior-Year Questions"
+  caption: "McLean’s Class of 2026 Takes On 26 Senior-Year Questions. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean seniors are being invited to reflect on their high school experience through 26 questions about favorite memories, difficult challenges, teachers, traditions and graduation.

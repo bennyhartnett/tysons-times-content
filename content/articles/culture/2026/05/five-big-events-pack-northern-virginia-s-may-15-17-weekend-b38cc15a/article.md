@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Big Events Pack Northern Virginia’s May 15–17 Weekend"
+  caption: "Five Big Events Pack Northern Virginia’s May 15–17 Weekend."
+  credit: "Virginia Tourism Corporation"
 ---
 
 Northern Virginia’s weekend calendar is packed with festivals, food, music and family entertainment from Friday, May 15, through Sunday, May 17. Here are five events planned across McLean, Herndon, Tysons, Fairfax and Vienna.

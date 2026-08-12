@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Group photo of Fairfax County Public Schools students that participated in the International Science and Engineering Fair."
+  caption: "Nine Fairfax Students Capture Global Science Fair Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Nine Fairfax County Public Schools students earned awards at the 2026 International Science and Engineering Fair in Phoenix, including two Langley High School students who secured one of the competition’s top 10 honors.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Film Club Turns Scheduling Struggles Into Creative Experiments"
+  caption: "McLean Film Club Turns Scheduling Struggles Into Creative Experiments. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean Film Club is giving students year-round opportunities to explore acting, screenwriting, directing and production by creating original short films.

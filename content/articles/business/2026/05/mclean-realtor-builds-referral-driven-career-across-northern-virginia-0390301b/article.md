@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Realtor Builds Referral-Driven Career Across Northern Virginia"
+  caption: "McLean Realtor Builds Referral-Driven Career Across Northern Virginia. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Laura Schwartz has spent more than 17 years helping buyers and sellers navigate Northern Virginia’s competitive housing market, building much of her business through referrals rather than traditional advertising.

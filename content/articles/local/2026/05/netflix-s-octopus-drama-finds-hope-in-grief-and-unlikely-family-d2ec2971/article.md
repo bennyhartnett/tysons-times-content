@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Netflix’s Octopus Drama Finds Hope in Grief and Unlikely Family"
+  caption: "Netflix’s Octopus Drama Finds Hope in Grief and Unlikely Family. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Netflix’s adaptation of *Remarkably Bright Creatures* turns an unlikely friendship at a local aquarium into a warm exploration of grief, trust and chosen family.

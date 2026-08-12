@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Graduate Became Pokémon’s Most Decorated Competitor"
+  caption: "McLean Graduate Became Pokémon’s Most Decorated Competitor. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Long before Wolfe Glick became a world champion and attracted millions of YouTube subscribers, he was a McLean High School freshman entering a nearby Pokémon tournament for fun.

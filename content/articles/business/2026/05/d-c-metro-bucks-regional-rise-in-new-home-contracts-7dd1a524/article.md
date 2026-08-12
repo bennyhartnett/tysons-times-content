@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for D.C. Metro Bucks Regional Rise in New Home Contracts"
+  caption: "D.C. Metro Bucks Regional Rise in New Home Contracts. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Washington, D.C., metro area recorded fewer new pending home contracts than a year earlier during the week ending May 10, even as contract activity increased across the broader Mid-Atlantic market.
