@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "The Fairfax County seal at the Fairfax County Government Center"
+  caption: "The Fairfax County seal at the Fairfax County Government Center (staff photo by James Cullum)"
+  credit: "James Cullum / FFXnow"
 ---
 
 Virginia health officials are investigating the state’s first documented locally acquired dengue virus infection, a case they say is epidemiologically linked to an internationally acquired infection involving a Loudoun County resident.

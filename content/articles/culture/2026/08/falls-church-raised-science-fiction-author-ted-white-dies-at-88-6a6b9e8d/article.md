@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church-raised science-fiction author Ted White dies at 88"
+  caption: "Falls Church-raised science-fiction author Ted White dies at 88. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Theodore Edwin “Ted” White, a science-fiction author and editor raised in Falls Church, died May 24, 2026, at age 88, according to a death confirmation cited by PulpFest and the Science Fiction Encyclopedia. The synthesis reports that White experienced health problems after a fall at his home; that account should be independently verified.

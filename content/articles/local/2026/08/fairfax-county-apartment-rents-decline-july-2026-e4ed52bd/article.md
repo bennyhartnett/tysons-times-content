@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lease now sign for the Edmund Apartments at Halley Rise in Reston in winter"
+  caption: "Lease now sign for the Edmund Apartments at Halley Rise in Reston in winter (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Apartment rents across Fairfax County declined modestly in July, extending a period of soft conditions that analysts have linked partly to elevated multifamily construction.

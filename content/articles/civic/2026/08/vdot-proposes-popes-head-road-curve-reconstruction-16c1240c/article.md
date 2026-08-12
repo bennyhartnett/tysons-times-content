@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Orange diamond sign reads 'New Traffic Pattern Ahead' with a winding road sign and 20 mph sign nearby by a rural road."
+  caption: "A car passes by the intersection of Popes Head Road (Route 654) and Quiet Brook Road (Route 7447) on a recent August afternoon. (staff photo by Mary Stachyra Lopez)"
+  credit: "Mary Stachyra Lopez / FFXnow"
 ---
 
 The Virginia Department of Transportation is proposing an $8.7 million reconstruction of a section of Popes Head Road near Fairfax Station, saying the work could improve safety at an S-curve between Quiet Brook Road and Revercomb Court.

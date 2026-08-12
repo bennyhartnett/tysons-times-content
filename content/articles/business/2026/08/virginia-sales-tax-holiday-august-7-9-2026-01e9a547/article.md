@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Notebook, pencils, pens, colored pencils, glue and scissors arranged together"
+  caption: "School supplies are among the eligible purchases during Virginia's three-day sales tax holiday."
+  credit: "TheUltimateGrass / Wikimedia Commons (CC0)"
 ---
 
 Virginia’s three-day sales tax holiday will run from Friday, Aug. 7, through Sunday, Aug. 9, giving shoppers a temporary exemption on qualifying school supplies, clothing, footwear, emergency-preparedness items and certain Energy Star and WaterSense products.

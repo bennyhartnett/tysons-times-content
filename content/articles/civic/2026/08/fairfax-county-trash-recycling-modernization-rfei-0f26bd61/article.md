@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County I-95 Landfill Complex"
+  caption: "Fairfax County I-95 Landfill Complex (staff photo by James Jarvis)"
+  credit: "Fairfax County I-95 Landfill Complex (staff photo by James Jarvis)"
 ---
 
 Fairfax County is seeking public- and private-sector ideas for updating its trash and recycling operations, a planning effort that could shape near-term improvements and longer-term decisions about the county’s solid-waste system.

@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Don Beyer Wins Democratic Primary in Virginia’s 8th District"
+  caption: "Don Beyer Wins Democratic Primary in Virginia’s 8th District. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Rep. Don Beyer won the Democratic primary for Virginia’s 8th Congressional District with 39,714 votes, or 67.6 percent of the total, according to the reported results.

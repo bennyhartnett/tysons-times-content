@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Voting at Lake Braddock Secondary School"
+  caption: "Voting at Lake Braddock Secondary School (staff photo by Jared Serre)"
+  credit: "Voting at Lake Braddock Secondary School (staff photo by Jared Serre)"
 ---
 
 Fairfax County voters chose nominees in Democratic and Republican congressional and U.S. Senate primaries Aug. 4, setting up three Nov. 3 general-election contests while reported results remain unofficial pending certification.

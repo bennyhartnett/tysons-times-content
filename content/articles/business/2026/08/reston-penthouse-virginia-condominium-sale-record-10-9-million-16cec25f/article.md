@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "The digital crown sign for JW Marriott at Reston Station"
+  caption: "The digital crown sign for JW Marriott at Reston Station (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 A full-floor penthouse at JW Marriott Residences Reston Station sold for $10.9 million, setting a Virginia record for a condominium sale, according to the development’s owner and the brokerage that led the transaction.

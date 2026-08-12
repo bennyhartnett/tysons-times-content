@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Richmond Highway"
+  caption: "Richmond Highway (staff photo by James Jarvis)"
+  credit: "Richmond Highway (staff photo by James Jarvis)"
 ---
 
 The Southeast Fairfax Development Corporation is expanding its Faces of ONE public art and placemaking initiative into a marketing campaign for Richmond Highway businesses and the broader corridor.
