@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Wine Festival Season Packs the Calendar Through October"
+  caption: "Virginia Wine Festival Season Packs the Calendar Through October. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Virginia’s 2026 wine festival calendar is filling up with tastings, live music, regional food and artisan markets. Events run from May through October at vineyards, historic estates, downtown districts and waterfront venues across the commonwealth.

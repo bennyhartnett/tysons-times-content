@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia’s 988 Crisis Line Offers a Local Lifeline"
+  caption: "Northern Virginia’s 988 Crisis Line Offers a Local Lifeline. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Mental health support is available close to home for Northern Virginia residents, with trained crisis workers answering calls, texts and online chats through the 988 Suicide & Crisis Lifeline.

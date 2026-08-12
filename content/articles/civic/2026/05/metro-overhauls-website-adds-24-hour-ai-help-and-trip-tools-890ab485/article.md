@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Overhauls Website, Adds 24-Hour AI Help and Trip Tools"
+  caption: "Metro Overhauls Website, Adds 24-Hour AI Help and Trip Tools. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro is rebuilding WMATA.com around mobile users, bringing trip planning, service alerts, arrival times, routes, and station information together in one place. The redesigned website replaces a version last updated in 2016 and serves an audience generating about 1.5 million views each month.

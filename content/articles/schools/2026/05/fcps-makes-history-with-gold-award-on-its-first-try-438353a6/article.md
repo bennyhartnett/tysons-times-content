@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Makes History With Gold Award on Its First Try"
+  caption: "FCPS Makes History With Gold Award on Its First Try."
+  credit: "Fairfax County Public Schools"
 ---
 
 Fairfax County Public Schools has received the 2026 Gold Award for Achievement of Excellence, becoming the first education applicant to earn the honor during its initial application process.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Implant Specialist Brings Advanced Dental Care Under One Roof"
+  caption: "Tysons Implant Specialist Brings Advanced Dental Care Under One Roof. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Esam Abou Nahlah offers implant dentistry, full-mouth restoration and prosthodontic care at Dental Group of Tysons in McLean, serving patients throughout Northern Virginia and the broader Washington region.

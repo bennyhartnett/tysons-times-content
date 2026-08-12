@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid speaks during the ribbon cutting ceremony at Crossfield Elementary School."
+  caption: "FCPS Wins Gold as Budget Gap Clouds a Week of Milestones. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools received the 2026 Gold Award for Achievement of Excellence from The Partnership for Excellence, becoming the first education applicant to earn the top recognition on its first attempt.

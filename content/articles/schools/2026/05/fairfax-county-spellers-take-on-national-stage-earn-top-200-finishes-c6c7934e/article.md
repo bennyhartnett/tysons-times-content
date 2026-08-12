@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County Spellers Take on National Stage, Earn Top-200 Finishes"
+  caption: "Fairfax County Spellers Take on National Stage, Earn Top-200 Finishes. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Two Fairfax County Public Schools students advanced from the regional spelling bee to compete against the nation’s best, with one finishing tied for 30th place.

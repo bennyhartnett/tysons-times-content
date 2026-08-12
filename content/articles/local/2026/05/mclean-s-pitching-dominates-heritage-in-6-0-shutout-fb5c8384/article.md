@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Pitching Dominates Heritage in 6-0 Shutout"
+  caption: "McLean’s Pitching Dominates Heritage in 6-0 Shutout. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s pitching staff overwhelmed Heritage on Friday, May 7, carrying the Highlanders to a 6-0 victory over the defending 4A state champions.

@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Blade Runner’s Dystopian World Is Coming Live to Tysons"
+  caption: "Blade Runner’s Dystopian World Is Coming Live to Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 *Blade Runner* will take over Capital One Hall on Friday, Nov. 13, pairing Ridley Scott’s science-fiction classic with a live performance of Vangelis’ celebrated electronic score.

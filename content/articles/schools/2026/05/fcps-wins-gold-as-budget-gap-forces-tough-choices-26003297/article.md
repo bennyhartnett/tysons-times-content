@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A group of people at the Phase 1 Inclusion Exhibition of Learning at Willow Oaks."
+  caption: "FCPS Wins Gold as Budget Gap Forces Tough Choices. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools has become the first education applicant to receive the Partnership for Excellence’s Gold Award for Achievement of Excellence on its first attempt.
