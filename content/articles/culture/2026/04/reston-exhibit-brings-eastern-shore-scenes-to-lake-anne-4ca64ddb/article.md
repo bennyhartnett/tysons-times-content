@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Exhibit Brings Eastern Shore Scenes to Lake Anne"
+  caption: "Reston Exhibit Brings Eastern Shore Scenes to Lake Anne. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Reston Art Gallery and Studios will spotlight the coastal atmosphere of Maryland’s Eastern Shore in “Down the Shore,” a May exhibition of acrylic paintings by gallery director and artist Pat Macintyre.

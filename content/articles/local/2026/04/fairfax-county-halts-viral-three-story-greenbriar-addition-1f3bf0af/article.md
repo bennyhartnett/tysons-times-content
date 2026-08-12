@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "home addition under construction"
+  caption: "The addition’s proximity to the neighboring home has been scrutinized."
+  credit: "The addition’s proximity to the neighboring home has been scrutinized."
 ---
 
 Fairfax County officials have ordered construction to remain stopped on a controversial three-story home addition in Greenbriar, rejecting the homeowner’s plea to continue a project intended to bring his family under one roof.

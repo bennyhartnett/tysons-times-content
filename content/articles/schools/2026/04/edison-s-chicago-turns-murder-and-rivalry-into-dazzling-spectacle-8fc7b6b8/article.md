@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students at Edison High School performing in Chicago: Teen Edition."
+  caption: "Edison’s “Chicago” Turns Murder and Rivalry Into Dazzling Spectacle. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Thomas Edison High School plunged into the seductive scramble for celebrity with an energetic production of *Chicago: Teen Edition*, pairing fierce performances with bold lighting, music and choreography.

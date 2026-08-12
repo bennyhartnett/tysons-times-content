@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Stays Perfect With 8-1 Rout, Sets Sights on Title"
+  caption: "McLean Stays Perfect With 8-1 Rout, Sets Sights on Title. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 The McLean High School girls tennis team remained undefeated Tuesday with an 8-1 victory over Marshall, improving to 13-0 and strengthening its hold on first place in the district standings.

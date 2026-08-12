@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Little Women Brings a Season of Big Dreams to a Falls Church Finale"
+  caption: "Little Women Brings a Season of Big Dreams to a Falls Church Finale. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Creative Cauldron will close its 2025-26 theatrical season with *Little Women: The Musical*, staging the Broadway adaptation at the Richard Hausler Theatre in Falls Church from May 14 through June 7, 2026.

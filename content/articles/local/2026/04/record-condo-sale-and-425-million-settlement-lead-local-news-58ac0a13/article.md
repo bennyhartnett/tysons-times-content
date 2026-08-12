@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Record Condo Sale and $425 Million Settlement Lead Local News"
+  caption: "Record Condo Sale and $425 Million Settlement Lead Local News."
+  credit: "Weichert Realtors"
 ---
 
 A record-breaking Reston condo sale, a major Capital One settlement and a new Falls Church pizzeria headline the local news for Wednesday, April 29, 2026.

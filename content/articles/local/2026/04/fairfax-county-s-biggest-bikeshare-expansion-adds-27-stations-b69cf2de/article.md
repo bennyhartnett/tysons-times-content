@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Biggest Bikeshare Expansion Adds 27 Stations"
+  caption: "Fairfax County’s Biggest Bikeshare Expansion Adds 27 Stations. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Fairfax County will begin installing 27 new Capital Bikeshare stations in early May 2026, marking the largest expansion of the county’s network to date.

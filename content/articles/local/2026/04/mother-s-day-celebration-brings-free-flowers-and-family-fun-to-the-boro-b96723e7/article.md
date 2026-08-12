@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Mother’s Day Celebration Brings Free Flowers and Family Fun to The Boro"
+  caption: "Mother’s Day Celebration Brings Free Flowers and Family Fun to The Boro. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Boro will mark Mother’s Day weekend with a free community celebration featuring flowers, crafts, live entertainment, giveaways and activities for families.

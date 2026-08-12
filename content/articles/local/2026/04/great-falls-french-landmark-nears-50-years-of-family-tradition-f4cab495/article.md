@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Great Falls French Landmark Nears 50 Years of Family Tradition"
+  caption: "Great Falls French Landmark Nears 50 Years of Family Tradition. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Nearly 50 years after opening in Great Falls, L’Auberge Chez François remains a destination for classical French dining, drawing prominent guests and generations of loyal customers to its six-acre countryside setting.
