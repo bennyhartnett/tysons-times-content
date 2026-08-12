@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Baby Squirrels Found Nesting Under Fairfax Car’s Hood"
+  caption: "Baby squirrels inside a basket after Fairfax County Animal Services removed them from a car in March 2026 (courtesy Fairfax County Animal Services)"
+  credit: "Baby squirrels inside a basket after Fairfax County Animal Services removed the…"
 ---
 
 A Fairfax resident facing a dashboard full of warning lights in March discovered an unexpected cause under the hood: baby squirrels curled inside a nest in the engine bay.

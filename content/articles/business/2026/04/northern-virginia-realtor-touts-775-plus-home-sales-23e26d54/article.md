@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Realtor Touts 775-Plus Home Sales"
+  caption: "Northern Virginia Realtor Touts 775-Plus Home Sales. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Cathy Poungmalai has worked in real estate across Northern Virginia, Washington, D.C., and Maryland for more than two decades, handling home purchases, sales and simultaneous transactions.

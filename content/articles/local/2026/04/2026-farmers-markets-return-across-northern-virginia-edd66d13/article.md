@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 2026 Farmers Markets Return Across Northern Virginia"
+  caption: "2026 Farmers Markets Return Across Northern Virginia. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Warmer weather is bringing farmers markets back across Northern Virginia, with vendors offering locally produced fruits, vegetables, meats, eggs, cheeses, plants, baked goods and other products. Most vendors sell items they have grown or made themselves.

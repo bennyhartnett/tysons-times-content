@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Latin Is Still Alive—and Hiding in the Language of Science"
+  caption: "Latin Is Still Alive—and Hiding in the Language of Science. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Latin is often called a dead language, yet it remains embedded in modern life. Its influence becomes especially visible in scientific writing, where unfamiliar technical terms can become easier to understand when traced to their linguistic roots.

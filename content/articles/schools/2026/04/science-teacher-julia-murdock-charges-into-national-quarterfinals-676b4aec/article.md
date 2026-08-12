@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Science Teacher Julia Murdock Charges Into National Quarterfinals"
+  caption: "Science Teacher Julia Murdock Charges Into National Quarterfinals. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Science teacher Julia Murdock has advanced to the quarterfinals of the America’s Favorite Teacher contest after finishing first in her regional group during a week of voting.

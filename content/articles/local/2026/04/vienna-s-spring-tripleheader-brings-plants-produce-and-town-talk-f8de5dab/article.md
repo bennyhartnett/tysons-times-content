@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna’s Spring Tripleheader Brings Plants, Produce and Town Talk"
+  caption: "Vienna’s Spring Tripleheader Brings Plants, Produce and Town Talk. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Vienna will welcome spring with three community events at the Vienna Community Center grounds on Saturday, May 2, 2026.

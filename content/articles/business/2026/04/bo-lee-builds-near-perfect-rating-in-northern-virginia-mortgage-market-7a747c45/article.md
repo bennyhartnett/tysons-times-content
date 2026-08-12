@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Bo Lee Builds Near-Perfect Rating in Northern Virginia Mortgage Market"
+  caption: "Bo Lee Builds Near-Perfect Rating in Northern Virginia Mortgage Market. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Bo Lee, a loan officer and branch leader at Movement Mortgage, has earned a 4.98 out of 5 rating across 95 verified reviews while serving homebuyers throughout Northern Virginia and beyond.

@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Summer Programs, Music Honors and Student Support Expand Across FCPS"
+  caption: "Summer Programs, Music Honors and Student Support Expand Across FCPS."
+  credit: "Fairfax County Public Schools"
 ---
 
 Fairfax County Public Schools is heading toward summer with new learning opportunities, expanded family support and a national honor for its music education programs. The school division’s April 29 update also highlighted mental health services, academic gains and several upcoming community events.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Budget Trims Tax Rate but Homeowner Bills Still Rise"
+  caption: "Board Chair Jeff McKay (screenshot via Fairfax County)"
+  credit: "Board Chair Jeff McKay (screenshot via Fairfax County)"
 ---
 
 Fairfax County supervisors have informally approved a $5.9 billion fiscal 2027 budget that slightly lowers the real estate tax rate while restoring money to several programs targeted for cuts. Despite the rate reduction, the average homeowner’s tax bill is still expected to increase by $337.
