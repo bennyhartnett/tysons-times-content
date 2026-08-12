@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 2016 Is Taking Over 2026, From Pop Hits to Chokers"
+  caption: "2016 Is Taking Over 2026, From Pop Hits to Chokers. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A decade after 2016, its pop stars, fashion choices and internet-fueled crazes are surging back into view. From Bruno Mars and Zara Larsson to collectible toys and extravagant treats, 2026 is beginning to look strikingly familiar.

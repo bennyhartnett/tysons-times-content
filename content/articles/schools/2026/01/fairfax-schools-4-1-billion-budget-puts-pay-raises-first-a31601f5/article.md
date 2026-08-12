@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools’ $4.1 Billion Budget Puts Pay Raises First"
+  caption: "Fairfax Schools’ $4.1 Billion Budget Puts Pay Raises First. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Fairfax County Public Schools’ proposed $4.1 billion budget for fiscal 2027 directs nearly all new spending toward employee compensation while leaving no additional money for new programs.

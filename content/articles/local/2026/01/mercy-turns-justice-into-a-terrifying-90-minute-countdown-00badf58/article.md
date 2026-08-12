@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Mercy Turns Justice Into a Terrifying 90-Minute Countdown"
+  caption: "Mercy Turns Justice Into a Terrifying 90-Minute Countdown. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 In *Mercy*, Chris Pratt has just 90 minutes to prove he did not murder his wife. There are no lawyers, no jury and no chance to appeal—only an artificial intelligence judge with access to seemingly every database in existence.

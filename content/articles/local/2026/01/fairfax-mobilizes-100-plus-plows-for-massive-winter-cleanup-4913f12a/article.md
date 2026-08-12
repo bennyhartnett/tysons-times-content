@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County, Virginia, truck"
+  caption: "A Fairfax County, Virginia, truck"
+  credit: "A Fairfax County, Virginia, truck"
 ---
 
 Fairfax County crews are preparing to clear more than 10.8 million square feet of pavement as an approaching weekend storm threatens libraries, shelters, government buildings and emergency facilities across the Northern Virginia suburb.

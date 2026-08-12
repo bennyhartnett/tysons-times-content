@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Beetlejuice JR Brings Spirited Chaos to Alexandria Stage"
+  caption: "Beetlejuice JR Brings Spirited Chaos to Alexandria Stage. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A mischievous demon, two newly minted ghosts and a grieving teenager collide in *Beetlejuice JR*, now playing at Aldersgate Church Community Theater in Alexandria through Jan. 25.

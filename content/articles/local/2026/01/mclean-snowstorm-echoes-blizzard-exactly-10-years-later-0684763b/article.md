@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Snowstorm Echoes Blizzard Exactly 10 Years Later"
+  caption: "McLean Snowstorm Echoes Blizzard Exactly 10 Years Later. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Exactly a decade after a blizzard buried McLean under more than 24 inches of snow, another major winter storm swept through the region on Jan. 25, 2026.

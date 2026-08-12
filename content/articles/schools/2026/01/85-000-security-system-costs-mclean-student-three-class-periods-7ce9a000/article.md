@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for $85,000 Security System Costs McLean Student Three Class Periods"
+  caption: "$85,000 Security System Costs McLean Student Three Class Periods. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School’s new OpenGate security system delivered a decisive victory Wednesday, stopping a sophomore from learning for 115 minutes after detecting an alarming concentration of school supplies in his backpack.

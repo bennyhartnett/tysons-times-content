@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Buyers Return as Mid-Atlantic Home Prices Soften"
+  caption: "Buyers Return as Mid-Atlantic Home Prices Soften. Openly licensed thematic image selected for this article."
+  credit: "Department of Housing and Urban Development. Office of the Chief Human Capital…"
 ---
 
 Home shoppers showed renewed interest across the Mid-Atlantic during the week ending Jan. 18, 2026, as asking prices eased, mortgage rates declined and more properties reached the market.

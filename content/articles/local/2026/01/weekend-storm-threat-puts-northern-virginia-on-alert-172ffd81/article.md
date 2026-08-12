@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Weekend Storm Threat Puts Northern Virginia on Alert"
+  caption: "Weekend Storm Threat Puts Northern Virginia on Alert. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Northern Virginia residents should prepare before this weekend’s storm arrives, as worsening conditions could disrupt travel, electricity and everyday services.

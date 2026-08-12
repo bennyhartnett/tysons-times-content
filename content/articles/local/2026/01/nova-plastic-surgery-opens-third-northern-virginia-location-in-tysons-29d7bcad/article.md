@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for NOVA Plastic Surgery Opens Third Northern Virginia Location in Tysons"
+  caption: "NOVA Plastic Surgery Opens Third Northern Virginia Location in Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 NOVA Plastic Surgery & Dermatology has opened a new office at The Boro in Tysons, expanding the Ashburn-based aesthetic practice to its third Northern Virginia location.
