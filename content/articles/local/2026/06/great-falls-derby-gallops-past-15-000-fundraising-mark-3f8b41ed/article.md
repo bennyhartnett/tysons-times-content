@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Great Falls Derby Gallops Past $15,000 Fundraising Mark"
+  caption: "Great Falls Derby Gallops Past $15,000 Fundraising Mark. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A playful hobby-horse race in Great Falls raised more than $15,000 for charitable causes on May 17, topping the event’s 2025 total by more than 20%.

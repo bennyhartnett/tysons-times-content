@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tiny Fairfax Art Room Becomes a Haven for Unhoused Guests"
+  caption: "Tiny Fairfax Art Room Becomes a Haven for Unhoused Guests. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A small room filled with donated supplies is making a significant difference for people experiencing homelessness in Fairfax City.

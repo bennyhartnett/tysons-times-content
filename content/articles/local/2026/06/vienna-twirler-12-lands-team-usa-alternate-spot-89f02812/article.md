@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Twirler, 12, Lands Team USA Alternate Spot"
+  caption: "Vienna Twirler, 12, Lands Team USA Alternate Spot. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Before Alexa Paino began her routine at the Junior Women’s Rhythmic Twirl U.S. Trials in March, she reminded herself to ignore the competition and trust her training.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for D.C. Goes Big for America’s 250th—But Controversy Clouds the Party"
+  caption: "D.C. Goes Big for America’s 250th—But Controversy Clouds the Party. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Washington is preparing a packed calendar of festivals, exhibitions, concerts and historic firsts for the 250th anniversary of the United States. Alongside the traditional July Fourth parade and fireworks, the 2026 celebration is set to bring a state fair and an INDYCAR race to the National Mall—two ambitious events that have already attracted controversy.

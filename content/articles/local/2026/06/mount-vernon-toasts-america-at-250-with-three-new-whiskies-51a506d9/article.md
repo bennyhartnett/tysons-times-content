@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Mount Vernon Toasts America at 250 With Three New Whiskies"
+  caption: "Mount Vernon Toasts America at 250 With Three New Whiskies. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Mount Vernon is marking the nation’s 250th anniversary with three new whiskey releases, including the reconstructed distillery’s first bourbon.

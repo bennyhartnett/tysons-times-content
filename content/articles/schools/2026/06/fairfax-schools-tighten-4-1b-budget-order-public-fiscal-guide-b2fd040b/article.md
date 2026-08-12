@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools Tighten $4.1B Budget, Order Public Fiscal Guide"
+  caption: "Fairfax Schools Tighten $4.1B Budget, Order Public Fiscal Guide. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Facing a $28.9 million shortfall, the Fairfax County School Board unanimously approved a tightened $4.1 billion fiscal 2027 budget on May 21, preserving several major programs while postponing or reducing other spending.

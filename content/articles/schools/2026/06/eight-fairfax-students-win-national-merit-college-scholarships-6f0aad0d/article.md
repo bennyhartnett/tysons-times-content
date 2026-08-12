@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "National Merit Winners"
+  caption: "Eight Fairfax Students Win National Merit College Scholarships. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Eight Fairfax County Public Schools students from six high schools have secured college-sponsored 2026 Merit Scholarship awards, joining more than 2,500 National Merit Finalists selected for scholarships funded by higher education institutions.

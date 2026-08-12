@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for After Escaping Abuse, an Arlington Mother Rebuilds Through Tech"
+  caption: "After Escaping Abuse, an Arlington Mother Rebuilds Through Tech. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Zenda Daniels arrived in Arlington with her newborn after escaping domestic violence, financial abuse and a life reduced to day-to-day survival. The move did not immediately feel like a fresh start. It felt like another separation from everything that had already fallen apart.

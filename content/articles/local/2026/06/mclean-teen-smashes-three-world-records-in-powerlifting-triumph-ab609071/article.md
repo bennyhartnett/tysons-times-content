@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Teen Smashes Three World Records in Powerlifting Triumph"
+  caption: "McLean Teen Smashes Three World Records in Powerlifting Triumph. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Nineteen-year-old Mikayla Dolina dominated the Junior 67.5-kilogram division at the United States Powerlifting Association Ultra Nationals in Anaheim, California, winning by 50.5 kilograms on May 26.

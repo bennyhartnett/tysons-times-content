@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for At 82, Arlington Woman Breaks Silence on Civil Rights-Era Trauma"
+  caption: "At 82, Arlington Woman Breaks Silence on Civil Rights-Era Trauma. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 At 82, Laverne Carter still finds that ordinary sounds in her Arlington neighborhood can pull her back to the fear she experienced in Mississippi during the Civil Rights movement.
