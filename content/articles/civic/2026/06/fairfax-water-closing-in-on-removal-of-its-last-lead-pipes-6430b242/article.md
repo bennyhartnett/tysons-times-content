@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax Water pipe replacement efforts (via Fairfax Water)"
+  caption: "Fairfax Water pipe replacement efforts (via Fairfax Water)"
+  credit: "Fairfax Water pipe replacement efforts (via Fairfax Water)"
 ---
 
 Fairfax Water expects to remove the last known lead service lines from its network by the end of the year, well ahead of a federal deadline in November 2027.

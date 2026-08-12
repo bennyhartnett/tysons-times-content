@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Graphic with U.S. and Progress Pride flag stripes and text: “America’s 250th Anniversary – June: Voices of Pride and Progress.”"
+  caption: "Pride, Juneteenth and Progress Take Over June Library Calendar. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Library branches across Fairfax County will spotlight LGBTQIA+ activism, emancipation, suffrage and civil rights throughout June with workshops, crafts, trivia and historical programs.

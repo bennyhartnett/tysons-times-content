@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Wild Weather Swings Disrupt McLean Students’ Classes and Sports"
+  caption: "Wild Weather Swings Disrupt McLean Students’ Classes and Sports. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Rapid shifts from humid, summerlike heat to cold rain and thunderstorms have disrupted daily life for students at McLean, complicating commutes, outdoor activities and preparations for major exams.

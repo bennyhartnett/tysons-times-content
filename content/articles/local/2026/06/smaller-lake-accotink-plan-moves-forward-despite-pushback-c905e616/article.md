@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lake Accotink at low water"
+  caption: "Low water near the dam and Accotink Creek shows the footprint of a smaller lake."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County’s long-running debate over Lake Accotink appears headed toward a compromise: preserving a smaller lake in Springfield rather than restoring the existing lake in full.

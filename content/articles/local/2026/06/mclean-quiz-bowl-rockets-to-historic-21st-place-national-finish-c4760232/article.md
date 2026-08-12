@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Quiz Bowl Rockets to Historic 21st-Place National Finish"
+  caption: "McLean Quiz Bowl Rockets to Historic 21st-Place National Finish. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean Quiz Bowl capped its season with one of the strongest performances in program history, placing 21st among 320 teams at the High School National Championship Tournament in Atlanta.

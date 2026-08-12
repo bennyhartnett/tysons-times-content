@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lee Chapel Road"
+  caption: "Lee Chapel Road is the subject of a Fairfax County transportation planning review."
+  credit: "Fairfax County"
 ---
 
 Fairfax County residents will get a detailed look at the Lee Chapel Road project during an online public information meeting at 6 p.m. Thursday, June 11, 2026.

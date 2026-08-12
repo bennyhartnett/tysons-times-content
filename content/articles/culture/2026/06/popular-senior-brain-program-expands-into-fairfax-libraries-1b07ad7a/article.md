@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Goodwin Brain Health senior director Jessica Fredericksen (screenshot via Fairfax County)"
+  caption: "Goodwin Brain Health senior director Jessica Fredericksen (screenshot via Fairfax County)"
+  credit: "FFXnow"
 ---
 
 A free brain-health program that has drawn strong participation at Fairfax County senior centers is heading to local libraries, beginning with a pilot this fall at Dolley Madison Library in McLean.

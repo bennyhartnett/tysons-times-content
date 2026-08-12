@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dulles Access Road bridge over the rail tracks at the West Falls Church Metro station"
+  caption: "Dulles Access Road bridge over the rail tracks at the West Falls Church Metro station (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Metro and Fairfax County first responders will stage a full-scale emergency exercise at the West Falls Church Rail Yard on Sunday, May 31, simulating a train derailment with mass casualties.

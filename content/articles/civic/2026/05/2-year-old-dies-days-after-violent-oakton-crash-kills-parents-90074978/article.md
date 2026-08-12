@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 2-Year-Old Dies Days After Violent Oakton Crash Kills Parents"
+  caption: "FCPD (Photo via Fairfax County Police Department)"
+  credit: "FCPD (Photo via Fairfax County Police Department)"
 ---
 
 A 2-year-old girl has died from injuries suffered in a May 17 crash in Oakton that also killed her parents and hospitalized an 8-year-old boy.
