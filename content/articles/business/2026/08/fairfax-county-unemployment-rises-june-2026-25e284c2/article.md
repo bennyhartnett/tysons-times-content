@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Virginia Career Works advertises job transition resources on a Metro train"
+  caption: "Virginia Career Works advertises job transition resources on a Metro train (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Fairfax County’s unemployment rate rose to 3.6% in June, up from 3.2% a year earlier, according to preliminary data reported by the Virginia Department of Workforce Development and Advancement and the federal Bureau of Labor Statistics.

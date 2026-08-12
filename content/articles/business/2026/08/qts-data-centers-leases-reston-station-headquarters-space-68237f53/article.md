@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "The office building at 1800 Reston Row Plaza"
+  caption: "The office building at 1800 Reston Row Plaza (staff photo by Angela Woolsey)"
+  credit: "The office building at 1800 Reston Row Plaza (staff photo by Angela Woolsey)"
 ---
 
 QTS Data Centers has signed a lease for 77,000 square feet at 1800 Reston Row Plaza in Reston Station, according to an Aug. 4 announcement from developer Comstock Companies.

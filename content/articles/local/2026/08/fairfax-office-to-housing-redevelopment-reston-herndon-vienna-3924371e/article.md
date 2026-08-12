@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Exterior of a largely vacant multistory office building"
+  caption: "Vacant and underused office properties are increasingly being considered for housing redevelopment."
+  credit: "Tom Mills / Wikimedia Commons (CC BY-SA 2.0)"
 ---
 
 Fairfax County and nearby municipalities are pursuing redevelopment of vacant or aging office and commercial properties into housing and mixed-use communities, with proposals spanning Reston, Herndon and Vienna.

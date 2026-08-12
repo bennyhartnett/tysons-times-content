@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Aerial view of a planned housing development with rows of red-roofed townhouses inside a blue boundary, surrounded by streets and parking lots."
+  caption: "Proposed new construction at 3541 Chain Bridge Road (via Network Realty Partners)"
+  credit: "FFXnow"
 ---
 
 Fairfax City Council members expressed mixed views July 28 about a preliminary proposal to redevelop a 2.09-acre office parcel at 3541 Chain Bridge Road.

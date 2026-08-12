@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Proposed site plan for redevelopment of Lake Fairfax Business Park in Reston (via EYA Development)"
+  caption: "Proposed site plan for redevelopment of Lake Fairfax Business Park in Reston (via EYA Development)"
+  credit: "FFXnow"
 ---
 
 EYA Development is seeking Fairfax County approval to redevelop approximately 49 acres of Lake Fairfax Business Park in Reston with 1,017 homes and 27,900 square feet of retail and amenity space.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lifeguard watching swimmers from an elevated chair"
+  caption: "Water-safety experts stress close supervision because drowning can happen quickly and quietly."
+  credit: "Alvesgaspar / Wikimedia Commons (CC BY-SA 3.0)"
 ---
 
 Drowning can happen quietly and in under 30 seconds, according to a water-safety feature published Aug. 4 by Connection Newspapers that highlights prevention and emergency response guidance from Northern Virginia professionals.

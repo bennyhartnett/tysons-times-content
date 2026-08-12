@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Modern building facade with large restaurant banners (Founding Farmers and Davio's) under a blue sky; surrounding high-rise towers nearby."
+  caption: "Founding Farmers’ restaurant at Reston Station (staff photo by Mary Stachyra Lopez)"
+  credit: "Mary Stachyra Lopez / FFXnow"
 ---
 
 Founding Farmers is seeking Fairfax County approval to operate small on-site distilleries at its existing restaurants in Tysons and Reston.

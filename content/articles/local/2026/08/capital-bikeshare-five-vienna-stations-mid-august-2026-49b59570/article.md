@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A Capital Bikeshare station in Falls Church"
+  caption: "A Capital Bikeshare station in Falls Church (staff photo by Angela Woolsey)"
+  credit: "A Capital Bikeshare station in Falls Church (staff photo by Angela Woolsey)"
 ---
 
 Vienna is expected to receive its first five Capital Bikeshare stations by mid-August, bringing 21 standard bicycles and four electric bicycles to locations around town and linking Vienna to the regional bikeshare network.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Electrical substation equipment and power lines"
+  caption: "Electrical substations connect high-voltage transmission infrastructure with local distribution systems."
+  credit: "Corey Coyle / Wikimedia Commons (CC BY 3.0)"
 ---
 
 Opposition is mounting to Dominion Energy’s proposal for a 176-megawatt substation and associated 230-kilovolt transmission line intended to serve Starwood Capital Group’s planned Plaza 500 South data center in Lincolnia.

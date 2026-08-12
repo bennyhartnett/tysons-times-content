@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dry, cracked lakebed during a prolonged drought"
+  caption: "Dry lakebed conditions illustrate the effects of a prolonged rainfall deficit and drought."
+  credit: "NOAA / Wikimedia Commons (public domain)"
 ---
 
 Northern Virginia remains under a drought warning advisory, with officials urging residents to reduce outdoor watering and other nonessential water use.
