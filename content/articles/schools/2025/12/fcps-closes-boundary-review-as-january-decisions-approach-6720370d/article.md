@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid with Falls Church High School mentor authors."
+  caption: "FCPS Closes Boundary Review as January Decisions Approach. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools ended a key phase of its comprehensive boundary review during a busy week that also included school visits, community meetings, student competitions and preparations for the fiscal 2027 budget.

@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Text - New Logo, New Look, New Library Cards! Images - Four card designs featuring 1) cartoon bear reading to a cat, frog holding insect book and bunny reaching for a book 2) coll…"
+  caption: "Four Winning Designs Transform Fairfax County’s Library Cards. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Fairfax County library patrons will soon be able to choose from four new card designs featuring local artwork, including Virginia birds, reading companions and a colorful collage.

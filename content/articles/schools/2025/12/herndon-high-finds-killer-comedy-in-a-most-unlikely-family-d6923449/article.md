@@ -11,10 +11,10 @@ tags:
   - "herndon"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Students performing Arsenic and Old Lace at Herndon High School."
+  caption: "Herndon High Finds Killer Comedy in a Most Unlikely Family. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Thirteen bodies are hidden in the cellar, but the killers are not shadowy strangers. In Herndon High School’s production of *Arsenic and Old Lace*, two seemingly gentle elderly women are responsible, creating a darkly funny clash between domestic comfort and casual murder.

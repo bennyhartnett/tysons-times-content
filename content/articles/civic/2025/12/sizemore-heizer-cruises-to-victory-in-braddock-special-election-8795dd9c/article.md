@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Sizemore Heizer Cruises to Victory in Braddock Special Election"
+  caption: "Sizemore Heizer Cruises to Victory in Braddock Special Election."
+  credit: "Patch"
 ---
 
 Braddock District voters overwhelmingly elected Burke resident Rachna Sizemore Heizer to the Fairfax County Board of Supervisors in the Dec. 9 special election, according to unofficial state results.

@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Fairfax School Boundary Review Heads Toward January Vote"
+  caption: "Fairfax School Boundary Review Heads Toward January Vote. Openly licensed thematic image selected for this article."
+  credit: "Rodhullandemu / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Fairfax County’s comprehensive school boundary review is entering its final stages following the advisory committee’s last meeting on December 12 at the Gatehouse Administration Center.

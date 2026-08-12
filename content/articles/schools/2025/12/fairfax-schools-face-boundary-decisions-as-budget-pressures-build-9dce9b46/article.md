@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid with students at Graham Road Elementary School."
+  caption: "Fairfax Schools Face Boundary Decisions as Budget Pressures Build. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered the final stretch before winter break with all schools fully accredited, a comprehensive boundary review nearing a School Board decision and work underway on a budget shaped by statewide funding challenges.

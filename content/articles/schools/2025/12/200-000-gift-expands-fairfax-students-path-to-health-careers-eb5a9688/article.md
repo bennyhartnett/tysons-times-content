@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Group of students, administrators, and staff members holding up a large check."
+  caption: "$200,000 Gift Expands Fairfax Students’ Path to Health Careers. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County students preparing for healthcare careers will gain broader access to hands-on training through a new $200,000 donation to Educate Fairfax.

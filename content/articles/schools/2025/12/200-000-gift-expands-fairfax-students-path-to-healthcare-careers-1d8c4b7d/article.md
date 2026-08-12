@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Teacher with students in a Fairfax Academy classroom."
+  caption: "$200,000 Gift Expands Fairfax Students’ Path to Healthcare Careers. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 A $200,000 donation will support hands-on healthcare education for Fairfax County Public Schools students pursuing careers in health and medicine.

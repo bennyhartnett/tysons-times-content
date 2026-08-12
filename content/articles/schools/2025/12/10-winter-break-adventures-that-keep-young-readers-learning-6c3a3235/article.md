@@ -10,10 +10,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "student sits on the ground and writes something in a notebook"
+  caption: "10 Winter Break Adventures That Keep Young Readers Learning. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Families can help students strengthen reading, writing and creative-thinking skills during winter break with 10 activities scheduled from Monday, December 22, 2025, through Friday, January 2, 2026.

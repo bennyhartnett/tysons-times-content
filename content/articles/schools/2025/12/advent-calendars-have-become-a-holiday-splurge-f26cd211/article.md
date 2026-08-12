@@ -11,10 +11,10 @@ tags:
   - "business"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Advent Calendars Have Become a Holiday Splurge"
+  caption: "\"I even received things I didn’t ask for like an easel with a chalkboard and a fabulous dollhouse....\" Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 Christmas brought an impressive haul during my childhood. My doting parents made sure Santa delivered an electric train, an Easy-Bake Oven and a Littlest Angel doll dressed in clothes handmade by my mother. There were surprises I had not requested, too, including an easel with a chalkboard and a wonderful dollhouse that my next-door friend Gwennie once helped inspect.
