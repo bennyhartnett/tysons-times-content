@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "The City of Falls Church will be hosting its first-ever Summer Restaurant Week, Aug. 21 through 30. Video screen capture."
+  caption: "The City of Falls Church will be hosting its first-ever Summer Restaurant Week, Aug. 21 through 30. Video screen capture."
+  credit: "Falls Church Independent"
 ---
 
 A vacant Falls Church property once slated for a seven-story mixed-use building is being offered for sale after the development proposal failed to advance.

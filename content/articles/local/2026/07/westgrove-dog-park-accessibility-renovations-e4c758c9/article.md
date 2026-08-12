@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Aerial site plan of Westgrove Dog Park improvements: green turf area, brown dirt play zone, entry path, surrounding fence, scale bar, date 4/6/2026."
+  caption: "A sketch of improvements at Westgrove Dog Park (via Fairfax County Park Authority)"
+  credit: "FFXnow"
 ---
 
 Accessibility renovations are expected to begin in early August at Westgrove Dog Park in Groveton, but the off-leash area will not close completely while the work is underway.

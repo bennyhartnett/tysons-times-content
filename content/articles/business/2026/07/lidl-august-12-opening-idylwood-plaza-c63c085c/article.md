@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lidl Food Market storefront with blue-yellow sign and red 'FOOD MARKET' lettering, shopping carts outside under a blue sky."
+  caption: "Lidl’s grocery store at Idylwood Plaza is opening soon (photo by Rosan Choi)"
+  credit: "Lidl’s grocery store at Idylwood Plaza is opening soon (photo by Rosan Choi)"
 ---
 
 Lidl is scheduled to open a grocery store at Idylwood Plaza on Aug. 12, filling part of the former Whole Foods Market storefront on Leesburg Pike.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Sign in park saying swimming is illegal in Potomac River and violators could be fined more than $200"
+  caption: "Crews resume search for missing swimmer in Potomac River near Great Falls. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax and Montgomery County rescue crews resumed searching the Potomac River near Great Falls on the morning of July 29 for a swimmer reported missing a day earlier.

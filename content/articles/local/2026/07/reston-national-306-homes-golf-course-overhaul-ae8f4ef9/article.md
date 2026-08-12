@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Large wall display titled 'Reston National Evolution' with colorful info panels, a mounted screen reading 'Join the Conversation', and photos of the development area."
+  caption: "A display for the Reston National Evolution renovation and development project in the Reston National Golf Course clubhouse (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 War Horse Cities is seeking Fairfax County approval for a redevelopment plan that would renovate and reconfigure Reston National Golf Course while allowing NVR Homes to build 306 stacked townhomes along the property’s western edge.

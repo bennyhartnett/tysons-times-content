@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "City skyline with a tall glass office tower, surrounding buildings, a large parking lot, and a communications tower against a clear blue sky."
+  caption: "A driver on Route 123 past the Route 7 interchange in Tysons near the Tysons water tower and Lumen Apartments (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Fairfax County Channel 16 scheduled the first screening of “Tysons 150,” a 42-minute documentary about the community’s transformation, for 7 p.m. July 29 at LOOK Dine-In Cinemas in The Boro.

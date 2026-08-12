@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Wooden deck extends over a turquoise lake, surrounded by dense green trees with people standing along the railing."
+  caption: "Rendering of the proposed Lake Thoreau observation dock redesign (via Reston Association)"
+  credit: "FFXnow"
 ---
 
 Reston Association is seeking community input on a proposed replacement observation platform at Lake Thoreau and renovated tennis courts at Lake Newport. Separately, staff are considering a possible expansion of dedicated pickleball space at Autumnwood.

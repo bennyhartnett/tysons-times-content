@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Crowd of spectators watching a horse show in an outdoor arena with riders on horses and a white fence against a blue sky"
+  caption: "People watch a horse demonstration at the 2025 Fairfax County 4-H Fair (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 The 76th annual Fairfax County Carnival and 4-H Fair is scheduled for July 30 through Aug. 2 at Frying Pan Farm Park, 2709 West Ox Road in Herndon.

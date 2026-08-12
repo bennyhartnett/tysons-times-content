@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Merrifield at Dunn Loring Station apartments sign"
+  caption: "Merrifield at Dunn Loring Station apartments sign (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 The Fairfax County Planning Commission unanimously recommended a comprehensive plan amendment July 22 that would allow the phased redevelopment of the 35-acre Merrifield at Dunn Loring Station Apartments property near the Dunn Loring Metro station.

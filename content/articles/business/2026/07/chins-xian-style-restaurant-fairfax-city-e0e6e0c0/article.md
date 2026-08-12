@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Noodles with bok choy and a red tomato-based sauce in a shallow bowl."
+  caption: "Three-in-One Hand-Ripped Noodles: hot-oil seared noodles, pork zhajiang bean sauce, and tomato egg. (Courtesy Chin Xi’an-Style Restaurant)"
+  credit: "FFXnow"
 ---
 
 Chin’s Xi’An Style Restaurant is planning an August 2026 opening inside the 99 Ranch Market at 10780 Fairfax Blvd. in Fairfax City.
