@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington’s Warehouse Farm Is Growing 180 Varieties at Once"
+  caption: "Arlington’s Warehouse Farm Is Growing 180 Varieties at Once. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Area 2 Farms looks nothing like a traditional farm. Inside a large warehouse on South Oxford Street in Arlington, plants travel through stacked growing systems designed to recreate the changing conditions of a 24-hour day.

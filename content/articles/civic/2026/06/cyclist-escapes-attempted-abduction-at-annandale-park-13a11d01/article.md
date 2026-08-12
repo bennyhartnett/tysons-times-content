@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Cyclist Escapes Attempted Abduction at Annandale Park"
+  caption: "Cyclist Escapes Attempted Abduction at Annandale Park. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County police are seeking the public’s help identifying a man suspected of trying to drag a cyclist into the woods shortly after exposing himself to another woman at Wakefield Park in Annandale.

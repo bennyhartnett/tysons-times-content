@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tall Ship Providence Programs Face Suspension—and Possible Shutdown"
+  caption: "Tall Ship Providence Programs Face Suspension—and Possible Shutdown. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Tall Ship Providence Foundation will suspend its educational programs and public tours beginning June 26, 2026, as it searches for a way to continue its nonprofit mission.

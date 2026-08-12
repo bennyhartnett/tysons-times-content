@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Culpepper Garden Turns Up the Music for Crucial Bus Fundraiser"
+  caption: "Culpepper Garden Turns Up the Music for Crucial Bus Fundraiser. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Culpepper Garden brought supporters, first responders and community leaders together on Saturday, June 6, for its annual BBQ & Blooms fundraiser, where a $5,000 appeal aimed to keep a new resident bus operating for another six months.

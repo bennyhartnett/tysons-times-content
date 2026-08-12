@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Virginia State Police"
+  caption: "This December 13, 2012 photo shows the patch on the sleeve of a Virginia State Police officer during an event at the US Department of Transportation in Washington, DC. AFP PHOTO/Karen BLEIER (Photo by KAREN BLEIER / AFP…"
+  credit: "This December 13, 2012 photo shows the patch on the sleeve of a Virginia State…"
 ---
 
 A high-speed pursuit that began early Sunday on Interstate 495 in Fairfax County ended with an arrest and a fire that burned two vehicles.

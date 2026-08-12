@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for New Beltway Trail Opens With Free 4.95K Run in McLean"
+  caption: "New shared-use path along I-495 in McLean (courtesy VDOT)"
+  credit: "New shared-use path along I-495 in McLean (courtesy VDOT)"
 ---
 
 A new 2.5-mile bicycle and pedestrian trail beside the Capital Beltway will open in McLean on Saturday, June 27, with a free community run and family activities marking the occasion.

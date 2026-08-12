@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for A Late-Night Attack Couldn’t Force Ray Back Into Hiding"
+  caption: "A Late-Night Attack Couldn’t Force Ray Back Into Hiding. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 At 28, Ray moves through Falls Church with confidence sharpened by caution. She watches her surroundings closely, aware that reading a street can be an act of survival.

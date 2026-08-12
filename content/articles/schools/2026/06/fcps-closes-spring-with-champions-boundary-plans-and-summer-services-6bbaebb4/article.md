@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Student athlete and school leader smile together in a gymnasium during a recognition event."
+  caption: "FCPS Closes Spring With Champions, Boundary Plans and Summer Services. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered summer with new athletic honors, a celebrated Olympian’s return to his former elementary school and key decisions approaching in the Skyview High School and Western Pyramids boundary study.

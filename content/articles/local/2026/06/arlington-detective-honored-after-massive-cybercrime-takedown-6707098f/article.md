@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Detective Honored After Massive Cybercrime Takedown"
+  caption: "Arlington Detective Honored After Massive Cybercrime Takedown. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington County Police Detective John Bamford received a Hometown Hero Award on May 22 after helping identify and dismantle a cybercriminal forum operating in South Africa.
