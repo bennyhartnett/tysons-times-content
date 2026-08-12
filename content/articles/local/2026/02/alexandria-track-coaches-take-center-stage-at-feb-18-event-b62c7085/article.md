@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria Track Coaches Take Center Stage at Feb. 18 Event"
+  caption: "Alexandria Track Coaches Take Center Stage at Feb. 18 Event. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Alexandria Sportsman’s Club will bring together varsity track and field coaches from four local high schools during its monthly membership meeting Feb. 18 at the Old Dominion Boat Club.

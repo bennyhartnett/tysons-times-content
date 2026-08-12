@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Mount Vernon’s ‘Third Places’ Are Becoming Remote-Work Hubs"
+  caption: "Mount Vernon’s ‘Third Places’ Are Becoming Remote-Work Hubs. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Mount Vernon’s restaurants, cafés and public facilities are increasingly serving a second purpose: informal workplaces where residents can avoid a commute, connect with others and work remotely.

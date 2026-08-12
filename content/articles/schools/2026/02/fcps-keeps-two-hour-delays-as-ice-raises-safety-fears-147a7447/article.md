@@ -11,9 +11,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Keeps Two-Hour Delays as Ice Raises Safety Fears"
+  caption: "FCPS Keeps Two-Hour Delays as Ice Raises Safety Fears. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 FCPS will keep schools on a two-hour delay Thursday, Feb. 5, and Friday, Feb. 6, as lingering ice from Winter Storm Fern continues to create hazardous conditions around sidewalks and bus stops.

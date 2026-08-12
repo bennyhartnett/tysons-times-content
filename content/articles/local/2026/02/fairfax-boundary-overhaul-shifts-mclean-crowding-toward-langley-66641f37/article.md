@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Boundary Overhaul Shifts McLean Crowding Toward Langley"
+  caption: "Fairfax Boundary Overhaul Shifts McLean Crowding Toward Langley. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 For the first time in four decades, the Fairfax County School Board has redrawn school boundaries across the county, approving the changes in an 8-3 vote on Jan. 22.

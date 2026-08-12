@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Aquatics Center Faces Cost Scrutiny Ahead of Key Vote"
+  caption: "A bird’s eye view of the Vienna aquatics and fitness center concept proposed for the former Vienna Baptist Church site (via Kimmel Bogrette Architecture report)"
+  credit: "A bird’s eye view of the Vienna aquatics and fitness center concept proposed fo…"
 ---
 
 Vienna officials are approaching a key decision on a proposed aquatics and fitness center as several Town Council members question whether the town should advance the project before reviewing other long-term capital needs.

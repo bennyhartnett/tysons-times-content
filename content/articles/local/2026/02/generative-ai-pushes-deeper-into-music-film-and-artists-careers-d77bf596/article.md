@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Generative AI Pushes Deeper Into Music, Film and Artists’ Careers"
+  caption: "Generative AI Pushes Deeper Into Music, Film and Artists’ Careers. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Generative artificial intelligence is moving rapidly into creative work, intensifying fears that actors, musicians and other artists could lose opportunities to virtual performers and automated content.

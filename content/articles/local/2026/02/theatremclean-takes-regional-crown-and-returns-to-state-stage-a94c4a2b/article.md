@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for TheatreMcLean Takes Regional Crown and Returns to State Stage"
+  caption: "TheatreMcLean Takes Regional Crown and Returns to State Stage. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 TheatreMcLean earned first place at the VHSL regional one-act play competition Feb. 5, securing the department’s second consecutive trip to the state level.

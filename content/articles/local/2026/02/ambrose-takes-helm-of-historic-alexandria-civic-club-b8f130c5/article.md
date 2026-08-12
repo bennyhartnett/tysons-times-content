@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Ambrose Takes Helm of Historic Alexandria Civic Club"
+  caption: "Ambrose Takes Helm of Historic Alexandria Civic Club. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Vaughn Ambrose has taken the helm of the Departmental Progressive Club with plans to attract younger members and launch a campaign to restore the organization’s historic building.

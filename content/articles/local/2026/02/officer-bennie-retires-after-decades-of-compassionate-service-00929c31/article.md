@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for “Officer Bennie” Retires After Decades of Compassionate Service"
+  caption: "“Officer Bennie” Retires After Decades of Compassionate Service. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 After nearly three decades of public service, Alexandria Police Officer Bennie Evans retired with a legacy of helping homeless residents, strengthening community ties and changing how officers respond to people experiencing mental health crises.

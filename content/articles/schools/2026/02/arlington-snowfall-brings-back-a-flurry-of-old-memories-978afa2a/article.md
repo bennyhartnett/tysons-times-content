@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Snowfall Brings Back a Flurry of Old Memories"
+  caption: "\"One year, we loaded our snowsuit-clad four-year-old onto her plastic sled, put the leash on our Golden Retriever, a snow-lover if ever there was one....\" Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 A long-awaited snowfall transformed the view from my eighth-floor Arlington condo into something almost magical. The large pine next door looked like an enormous Christmas tree, while the trees beyond it appeared dusted with powdered sugar. As the snow intensified, the landscape eventually disappeared into a genuine whiteout.
