@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Potomac Reopens After Massive Sewage Spill, but Concerns Linger"
+  caption: "Potomac Reopens After Massive Sewage Spill, but Concerns Linger. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Potomac River around Washington, D.C., is again considered safe for recreation following more than five weeks of water-quality warnings caused by a spill of over 200 million gallons of raw sewage.

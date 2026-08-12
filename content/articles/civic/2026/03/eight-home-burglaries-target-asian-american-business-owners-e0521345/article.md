@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Eight Home Burglaries Target Asian American Business Owners"
+  caption: "Eight Home Burglaries Target Asian American Business Owners. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County detectives are investigating eight residential burglaries targeting Asian American victims, most of them local business owners, after thieves stole safes, cash, jewelry, designer handbags, clothing and gold bars.

@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools Advance Budget as Major Changes Near"
+  caption: "Fairfax Schools Advance Budget as Major Changes Near. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 The School Board adopted the school division’s advertised fiscal 2027 budget on Feb. 26, moving forward a proposal focused on student services, employee compensation and strategic investments.

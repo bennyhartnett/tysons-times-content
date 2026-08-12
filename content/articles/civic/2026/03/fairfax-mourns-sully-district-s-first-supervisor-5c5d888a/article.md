@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Mourns Sully District’s First Supervisor"
+  caption: "Fairfax Mourns Sully District’s First Supervisor. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Michael Robert Frey, the first person to represent Fairfax County’s Sully District and a central figure in shaping the county’s rapidly growing western communities, died Feb. 16 at age 69.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for New On-Site Clinic Brings Senior Care Within Easy Reach"
+  caption: "New On-Site Clinic Brings Senior Care Within Easy Reach."
+  credit: "University Hospitals"
 ---
 
 A new health care partnership at Culpepper Garden is drawing residents out of their apartments for exercise while making physical and occupational therapy easier to access.

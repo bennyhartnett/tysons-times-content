@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Empty Springfield Store Gets a Sustainable Second Life"
+  caption: "Empty Springfield Store Gets a Sustainable Second Life. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A long-vacant storefront in central Springfield is poised for a major transformation as local entrepreneur Mark Harrington prepares to open his second Remix Market, bringing resale shopping, about 10 jobs and a new community-focused use to the property.

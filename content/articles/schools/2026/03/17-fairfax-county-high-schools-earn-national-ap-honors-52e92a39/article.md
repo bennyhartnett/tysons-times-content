@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 17 Fairfax County High Schools Earn National AP Honors"
+  caption: "17 Fairfax County High Schools Earn National AP Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Seventeen Fairfax County Public Schools high schools earned spots on the College Board’s 2025 Advanced Placement School Honor Roll, with six receiving the program’s highest distinction.

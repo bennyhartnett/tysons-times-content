@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Economic Development Chief to Exit After Six-Year Growth Push"
+  caption: "Fairfax Economic Development Chief to Exit After Six-Year Growth Push. Openly licensed thematic image selected for this article."
+  credit: "The White House / Public domain / Wikimedia Commons"
 ---
 
 Victor Hoskins will leave his role as president and CEO of the Fairfax County Economic Development Authority this fall, returning to the private sector after six years leading the organization.

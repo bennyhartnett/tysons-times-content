@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Photo of the Wiehle Avenue Pedestrian Bridge"
+  caption: "W&OD Trail Bridge Earns Regional Honors After Ending Busy Crossing. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Fairfax County’s new W&OD Trail bridge over Wiehle Avenue has received an honorable mention in the 2026 American Public Works Association Mid-Atlantic Chapter Project of the Year Awards.

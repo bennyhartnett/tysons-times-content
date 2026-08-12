@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fourth grade students work together as they stack cups during a Speed Stacks competition in physical education at North Springfield Elementary School."
+  caption: "Fairfax Schools Advance 2027 Budget After $800 Million in Cuts. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board adopted its advertised fiscal 2027 budget on Feb. 26, advancing a spending plan focused on student services, employee compensation and strategic investments.
