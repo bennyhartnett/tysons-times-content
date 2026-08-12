@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Mid-Atlantic Home Listings Surge to Four-Year High"
+  caption: "Mid-Atlantic Home Listings Surge to Four-Year High. Openly licensed thematic image selected for this article."
+  credit: "Rick Obst / CC BY 4.0 / Wikimedia Commons"
 ---
 
 New home listings across the Mid-Atlantic rebounded sharply during the week ending Jan. 11, 2026, climbing to their highest level for that week in four years after hitting a four-year low just one week earlier.

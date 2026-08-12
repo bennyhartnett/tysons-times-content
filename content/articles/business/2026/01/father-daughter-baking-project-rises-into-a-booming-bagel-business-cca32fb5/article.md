@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Father-Daughter Baking Project Rises Into a Booming Bagel Business"
+  caption: "Bagels cost about $3, and it’s another $2 for cream cheese at McLean Bagels in Fairfax County, Virginia."
+  credit: "Bagels cost about $3, and it’s another $2 for cream cheese at McLean Bagels in…"
 ---
 
 Stuart Hoffman and his daughter, Niki, began baking bread together several years ago before turning their attention to bagels. Their earliest attempts drew blunt reviews: Some people called the bagels misshapen and questioned whether they should be plumper.

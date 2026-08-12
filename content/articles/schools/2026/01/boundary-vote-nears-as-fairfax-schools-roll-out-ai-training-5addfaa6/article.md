@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Three middle school aged girls smile with their arms around each other"
+  caption: "Boundary Vote Nears as Fairfax Schools Roll Out AI Training. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is approaching a final vote on proposed boundary changes while also expanding artificial intelligence training and responding to very high levels of flu illness across the county.

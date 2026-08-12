@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Success hero image - green"
+  caption: "FCPS National Merit Commended Ranks Surge 22% With 848 Honorees. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has announced that 848 students earned recognition as National Merit Commended Students, a 22% increase from the previous year.

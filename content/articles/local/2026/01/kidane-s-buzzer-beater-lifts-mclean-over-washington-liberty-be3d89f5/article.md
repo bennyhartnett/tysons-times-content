@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Kidane’s Buzzer-Beater Lifts McLean Over Washington-Liberty"
+  caption: "Kidane’s Buzzer-Beater Lifts McLean Over Washington-Liberty. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Sophomore forward Nahome Kidane sank a difficult floater from behind the backboard as time expired, giving McLean a dramatic home victory over the Washington-Liberty Generals on Jan. 13.

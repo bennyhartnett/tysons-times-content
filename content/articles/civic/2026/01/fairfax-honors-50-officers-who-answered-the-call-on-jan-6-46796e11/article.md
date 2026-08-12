@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Honors 50 Officers Who Answered the Call on Jan. 6"
+  caption: "Resolution presentation to Fairfax police on Jan. 13, 2026 (screenshot via Fairfax County)"
+  credit: "Resolution presentation to Fairfax police on Jan. 13, 2026 (screenshot via Fair…"
 ---
 
 Fairfax County supervisors honored roughly 50 county police officers who responded to the U.S. Capitol during the Jan. 6, 2021, attack, recognizing both their defense of the building and the lasting trauma associated with that day.

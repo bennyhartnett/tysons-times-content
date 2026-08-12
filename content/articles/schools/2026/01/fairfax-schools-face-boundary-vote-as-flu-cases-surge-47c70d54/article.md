@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools Face Boundary Vote as Flu Cases Surge"
+  caption: "Fairfax Schools Face Boundary Vote as Flu Cases Surge. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools families are approaching a consequential boundary vote as the division also responds to high flu activity, expands its use of artificial intelligence and rolls out new safety measures.

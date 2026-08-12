@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Four Cozy Study Spots Worth the Trip Near McLean"
+  caption: "Four Cozy Study Spots Worth the Trip Near McLean. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Students looking for a productive place to work have several inviting options around McLean, Arlington and Tysons, from a renovated two-story Starbucks to a coffee shop beneath a climbing gym.

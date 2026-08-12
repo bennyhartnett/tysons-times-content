@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Starbucks’ Dubai Chocolate Drinks Miss the Pistachio Mark"
+  caption: "Starbucks’ Dubai Chocolate Drinks Miss the Pistachio Mark. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Dubai chocolate has conquered social media and dessert menus, but Starbucks’ take on the trend falls short of the flavor that made it famous.

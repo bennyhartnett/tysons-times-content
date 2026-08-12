@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Early Deficit Dooms Highlanders in 50-19 District Loss"
+  caption: "Early Deficit Dooms Highlanders in 50-19 District Loss. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s girls basketball team fell behind early and never recovered in a 50-19 loss at Washington-Liberty on Jan. 13, extending the Highlanders’ losing streak despite a more competitive second half.
