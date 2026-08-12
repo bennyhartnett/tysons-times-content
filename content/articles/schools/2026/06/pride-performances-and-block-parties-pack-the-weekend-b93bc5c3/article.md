@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Pride, Performances and Block Parties Pack the Weekend"
+  caption: "Celebrate Pride with the LGBTQ+ Pride Month Party at Water Park in National Landing this Saturday! Courtesy National Landing BID."
+  credit: "Falls Church Independent"
 ---
 
 Pride celebrations, outdoor concerts, gallery gatherings and major theater openings will crowd the Northern Virginia and Washington area from Thursday, June 4, through Sunday, June 7. The weekend also brings Vietnamese Heritage Day to Falls Church, a summer kickoff at West Falls and several free museum events.

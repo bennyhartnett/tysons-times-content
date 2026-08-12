@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria Opens Region’s First ADA-Compliant Kayak Launch"
+  caption: "Alexandria Opens Region’s First ADA-Compliant Kayak Launch. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Nearly a decade of planning culminated May 9 with the opening of a public kayak launch designed to make Alexandria’s waterways more accessible to paddlers of all abilities.

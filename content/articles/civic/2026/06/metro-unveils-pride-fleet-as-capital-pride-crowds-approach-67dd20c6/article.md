@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Unveils Pride Fleet as Capital Pride Crowds Approach"
+  caption: "Metro Unveils Pride Fleet as Capital Pride Crowds Approach. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro will send a specially wrapped train, bus and MetroAccess vehicle across the Washington region in June as it prepares to carry larger crowds during Capital Pride weekend.

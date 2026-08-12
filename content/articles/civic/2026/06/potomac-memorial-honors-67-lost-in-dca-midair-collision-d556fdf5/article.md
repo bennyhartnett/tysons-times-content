@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Potomac Memorial Honors 67 Lost in DCA Midair Collision"
+  caption: "Potomac Memorial Honors 67 Lost in DCA Midair Collision. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Families, officials and community leaders gathered June 1 at Alexandria’s Rivergate City Park to dedicate a memorial to the 67 people killed in the collision involving American Airlines Flight 5342 and an Army Black Hawk helicopter.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A teacher poses in front of a class of students working at their desks."
+  caption: "Fairfax Teacher Comes Full Circle in the Schools That Raised Her. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Lindsay D’Imperio returned to Fairfax County Public Schools as a teacher after spending her own childhood in the division’s classrooms.

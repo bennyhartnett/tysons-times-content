@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Asian Leadership Alliance scholarship winners holding up certificates."
+  caption: "Three Fairfax Seniors Win Scholarships for Community Leadership. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Three Fairfax County Public Schools seniors received scholarships from the Asian Leadership Alliance on Wednesday, June 3, recognizing their academic work and commitment to causes important to the Asian, Pacific Islander and Desi American community.

@@ -11,9 +11,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Ice Cream Social Brings Mount Vernon Neighbors Together"
+  caption: "Ice Cream Social Brings Mount Vernon Neighbors Together. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Warm weather set the scene for Mount Vernon At Home’s annual Ice Cream Social on May 14 at St. Luke’s Episcopal Church.

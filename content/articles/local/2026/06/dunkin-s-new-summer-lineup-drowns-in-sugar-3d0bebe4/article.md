@@ -11,9 +11,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dunkin’s New Summer Lineup Drowns in Sugar"
+  caption: "Dunkin’s New Summer Lineup Drowns in Sugar. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Dunkin’ rolled out its seasonal summer menu April 29, embracing everything from fruit-punch doughnut holes to the viral dirty soda trend. But across four new items, excessive sweetness and uneven execution often overshadowed the more appealing flavors and textures.

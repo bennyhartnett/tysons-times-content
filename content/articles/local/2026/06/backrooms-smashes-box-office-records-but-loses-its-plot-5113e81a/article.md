@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Backrooms Smashes Box Office Records but Loses Its Plot"
+  caption: "Backrooms Smashes Box Office Records but Loses Its Plot. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *The Backrooms* arrived in theaters worldwide on May 29, turning a viral vision of eerie isolation and endless yellow hallways into a psychological horror film. Yet while its unsettling universe remains intact, its scattered story struggles to give audiences much to follow.
