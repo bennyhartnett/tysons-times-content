@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Robinson Secondary School Girls Swim and Dive team."
+  caption: "McLean and Robinson win 2025-26 Virginia Army National Guard Cups. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Two Fairfax County high schools earned top honors in the 2025-26 Virginia Army National Guard Cup competition, the school division announced Monday.

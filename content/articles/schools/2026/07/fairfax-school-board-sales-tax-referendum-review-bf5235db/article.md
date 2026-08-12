@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Sign for Fairfax County Public Schools headquarters"
+  caption: "A sign for Fairfax County Public Schools headquarters. (WTOP/Nick Iannelli)"
+  credit: "A sign for Fairfax County Public Schools headquarters. (WTOP/Nick Iannelli)"
 ---
 
 The Fairfax County School Board has unanimously asked the Board of Supervisors to evaluate the potential benefits of asking voters to approve a 1% sales-tax increase for school construction and renovation.

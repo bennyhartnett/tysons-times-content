@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "City of Fairfax police car"
+  caption: "A Fairfax, Virginia, police vehicle is seen. (Courtesy City of Fairfax Police Department)"
+  credit: "WTOP Fairfax County"
 ---
 
 A City of Fairfax police officer shot and critically injured a person reportedly armed with a knife shortly after midnight on July 11 at the Wawa at 9700 Fairfax Boulevard, according to police.

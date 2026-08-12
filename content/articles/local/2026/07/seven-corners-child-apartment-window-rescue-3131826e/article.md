@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "fairfax county police cruiser"
+  caption: "A Fairfax County police cruiser is seen in this WTOP file photo. (WTOP/John Domen)"
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County police rescued an uninjured young child who was partially hanging from an apartment window in Seven Corners on July 10, the department said.

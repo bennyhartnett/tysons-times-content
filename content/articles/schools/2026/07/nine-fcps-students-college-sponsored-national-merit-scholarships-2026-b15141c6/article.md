@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "National Merit Winners"
+  caption: "Nine FCPS students receive college-sponsored National Merit Scholarships. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Nine Fairfax County Public Schools students from five high schools were named recipients of college-sponsored 2026 National Merit Scholarships, according to FCPS. The awards provide between $500 and $2,000 per year for up to four years of undergraduate study at the institution financing each scholarship.

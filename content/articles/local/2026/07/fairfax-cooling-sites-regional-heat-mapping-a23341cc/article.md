@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax opens cooling sites as volunteers prepare detailed heat-mapping effort"
+  caption: "Fairfax opens cooling sites as volunteers prepare detailed heat-mapping effort. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County opened public facilities as cooling centers during the early-July heat while regional partners prepared a neighborhood-level study intended to show where Northern Virginia residents face the greatest exposure to high temperatures.

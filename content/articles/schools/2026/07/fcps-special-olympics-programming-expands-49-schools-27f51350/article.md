@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "School Board meeting presentation slide titled: Special Olympics Unified Champion Schools."
+  caption: "FCPS expands Special Olympics programming from 23 schools to 49. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools says Special Olympics programming now operates in 49 schools, more than twice the 23 schools participating at the beginning of the 2024-25 school year.

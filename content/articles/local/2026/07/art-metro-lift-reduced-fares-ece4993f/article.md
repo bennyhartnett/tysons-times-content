@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Arlington Transit ART bus operating on Route 42"
+  caption: "Arlington Transit became the first regional bus system outside Metro to accept the Metro Lift reduced fare."
+  credit: "Er1ckRailfan / Wikimedia Commons (CC BY 4.0)"
 ---
 
 Arlington Transit began accepting Metro Lift benefits across all ART bus routes July 1, making it the first regional transit partner to join Metro’s reduced-fare program.

@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "The City of Falls Church will receive $30 million in NVTA funding for the \"\"Annandale Road Multimodal Improvements project.\" Courtesy City of Falls Church."
+  caption: "The City of Falls Church will receive $30 million in NVTA funding for the \"\"Annandale Road Multimodal Improvements project.\" Courtesy City of Falls Church."
+  credit: "Falls Church Independent"
 ---
 
 The Northern Virginia Transportation Authority adopted a $776 million package for 21 transportation projects across the region on July 9.

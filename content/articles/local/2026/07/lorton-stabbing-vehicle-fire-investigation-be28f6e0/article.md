@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fire-damaged vehicle and scorched tree at the Lorton scene"
+  caption: "Fire and rescue crews extinguished a vehicle fire that also burned portions of a large tree."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County police are investigating a stabbing in Lorton and a vehicle fire discovered about an hour later at Laurel Hill Park, incidents that investigators preliminarily connected.
