@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid and Thoreau Middle School Principal Teresa Khuluki speak to History Teacher Julia Brimage as students work together in small groups."
+  caption: "Fairfax Schools Tout Big Gains as Renovations and Graduation Near. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County schools closed out another busy spring week with academic honors, construction progress, budget action and encouraging results from several student programs as graduation season approached.

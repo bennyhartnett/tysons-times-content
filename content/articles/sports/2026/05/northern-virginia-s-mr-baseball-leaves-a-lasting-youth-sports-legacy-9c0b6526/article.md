@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia’s ‘Mr. Baseball’ Leaves a Lasting Youth Sports Legacy"
+  caption: "Rob Hahne, Jr. (via American Baseball Coaches Association)"
+  credit: "Rob Hahne, Jr. (via American Baseball Coaches Association)"
 ---
 
 Fairfax County leaders and Northern Virginia’s athletics community are mourning Rob Hahne Jr., a longtime coach and youth sports advocate whose influence stretched across generations.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Blood Drive and 304-Home Tysons Project Lead Busy Summer"
+  caption: "Blood Drive and 304-Home Tysons Project Lead Busy Summer."
+  credit: "Tysons Corner Center"
 ---
 
 Providence District residents can donate blood, attend three outdoor concert series and follow major county decisions involving housing, transportation and trash collection in the coming months.

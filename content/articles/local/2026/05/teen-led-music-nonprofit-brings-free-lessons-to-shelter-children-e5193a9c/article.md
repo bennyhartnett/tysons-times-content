@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Teen-Led Music Nonprofit Brings Free Lessons to Shelter Children"
+  caption: "Teen-Led Music Nonprofit Brings Free Lessons to Shelter Children. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 When McLean High School junior Emily Moon and her chamber group finished a performance at the Lamb Center homeless shelter, the musicians were greeted with enthusiastic applause. The concert was one of many events organized by Harmony With U, the nonprofit Moon founded in 2023 to bring music to underserved communities.

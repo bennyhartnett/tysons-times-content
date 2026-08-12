@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Worker Visits Jump 10% as Office Market Holds Steady"
+  caption: "Tysons Worker Visits Jump 10% as Office Market Holds Steady. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 Worker visits to Tysons climbed 10% in the first quarter of 2026 compared with a year earlier, adding to signs that return-to-office activity is strengthening the Northern Virginia district’s economy.

@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "chef poses against green wall"
+  caption: "Chef Chris Morgan, the executive chef of Persian and Middle Eastern-inspired restaurant Joon in Vienna, Virginia. (Courtesy Joon)"
+  credit: "Chef Chris Morgan, the executive chef of Persian and Middle Eastern-inspired re…"
 ---
 
 Chris Morgan had never entered a cooking competition before joining the inaugural season of CBS’ “America’s Culinary Cup.” Despite a difficult start and being voted least likely to win, the executive chef of Joon in Vienna, Virginia, fought his way to a second-place finish.

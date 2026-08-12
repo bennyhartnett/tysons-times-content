@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for HeyTea’s New Summer Drinks Refresh, but One Falls Flat"
+  caption: "HeyTea’s New Summer Drinks Refresh, but One Falls Flat. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 HeyTea’s two bright summer releases have attracted plenty of attention online, but only one fully delivers on its fruity promise. Both drinks offer a refreshing escape from rising temperatures, though their hefty prices may limit their appeal.

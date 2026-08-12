@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid poses with Herndon Elementary Principal Monika Vereb and members of the FCPS Design and Construction team outside the school in a construction zone."
+  caption: "Algebra Pilot Soars as FCPS Schools Report Major Spring Gains. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 FCPS capped a busy week in late May with exceptional math results, international science honors, school renovation progress and new academic programs taking shape across the division.

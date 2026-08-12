@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Students Press Leaders on AI’s Classroom Risks"
+  caption: "FCPS Students Press Leaders on AI’s Classroom Risks. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Student journalists across FCPS challenged school leaders on the educational, ethical and environmental consequences of artificial intelligence during an hour-long panel on April 30.

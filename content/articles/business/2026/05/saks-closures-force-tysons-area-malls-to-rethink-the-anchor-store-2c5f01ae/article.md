@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Shoppers inside a mall."
+  caption: "Customers walk around Tysons Corner Center as the post holiday shopping season begins."
+  credit: "Customers walk around Tysons Corner Center as the post holiday shopping season…"
 ---
 
 The closure of Saks Fifth Avenue stores in Tysons and Friendship Heights this month has left landlords with hundreds of thousands of square feet to fill—and intensified questions about what should replace the traditional department store anchor.
