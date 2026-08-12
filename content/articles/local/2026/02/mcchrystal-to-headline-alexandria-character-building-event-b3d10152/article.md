@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McChrystal to Headline Alexandria Character-Building Event"
+  caption: "McChrystal to Headline Alexandria Character-Building Event. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Retired four-star Gen. Stanley McChrystal will lead a Feb. 27 fireside chat benefiting an Alexandria nonprofit that uses traditional boatbuilding to help young adults develop workplace and life skills.

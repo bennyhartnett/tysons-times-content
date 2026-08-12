@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Buddhist Monks Near Journey’s End After 2,122-Mile Peace Walk"
+  caption: "Buddhist Monks Near Journey’s End After 2,122-Mile Peace Walk. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Hundreds of people braved rain, cold and wind in Old Town Alexandria on Feb. 9 to welcome Buddhist monks nearing the end of a 2,300-mile “Walk for Peace” to Washington, D.C.

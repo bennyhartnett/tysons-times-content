@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Senior Community Balances Decades of Care With Changing Needs"
+  caption: "Reston Senior Community Balances Decades of Care With Changing Needs. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Tall Oaks Assisted Living has served older adults and their families in Fairfax County since 1988, making the North Shore Drive community one of Reston’s longest-established senior living options.

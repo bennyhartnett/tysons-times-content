@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a man holds a box of pizza"
+  caption: "Michael Bozzelli of Bozzelli’s pizza restaurants."
+  credit: "Michael Bozzelli of Bozzelli’s pizza restaurants."
 ---
 
 Fairfax County’s nearly $70 million pandemic grant effort helped hundreds more businesses survive than researchers estimate would have remained open without the assistance.

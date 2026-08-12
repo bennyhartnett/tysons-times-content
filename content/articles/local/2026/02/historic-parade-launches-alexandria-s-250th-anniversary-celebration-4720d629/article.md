@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Historic Parade Launches Alexandria’s 250th Anniversary Celebration"
+  caption: "Historic Parade Launches Alexandria’s 250th Anniversary Celebration. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Old Town Alexandria came alive with music, pageantry and patriotic displays on Feb. 14 as the George Washington Birthday Parade helped usher in the 250th anniversary year of the Declaration of Independence.

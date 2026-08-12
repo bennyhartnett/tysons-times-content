@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "house fire centreville"
+  caption: "Fire crews in Fairfax County, Virginia, respond to a house fire in Centreville that callers say started after a loud explosion on Feb. 15, 2026. (Courtesy Fairfax County Fire and Rescue)"
+  credit: "Fire crews in Fairfax County, Virginia, respond to a house fire in Centreville…"
 ---
 
 Thirty-five families displaced after a natural gas explosion in Centreville may be unable to return home until at least Friday as investigators search for the source of a leak along Belle Plains Drive.

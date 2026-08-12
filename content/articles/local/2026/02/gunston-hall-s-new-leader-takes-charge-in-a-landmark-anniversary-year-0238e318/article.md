@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Gunston Hall’s New Leader Takes Charge in a Landmark Anniversary Year"
+  caption: "Gunston Hall’s New Leader Takes Charge in a Landmark Anniversary Year. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Gunston Hall entered a pivotal anniversary year with new leadership as Dr. Christopher Eck became executive director of the historic Mason Neck property in January.

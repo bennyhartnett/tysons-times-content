@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Public Café Connects Vienna Senior Community With Maple Avenue"
+  caption: "Public Café Connects Vienna Senior Community With Maple Avenue. Openly licensed thematic image selected for this article."
+  credit: "USDAgov / Public domain / Wikimedia Commons"
 ---
 
 Sunrise of Vienna brings assisted living and memory care to a walkable stretch of Maple Avenue, where an on-site café open to the public helps connect residents with the surrounding community.

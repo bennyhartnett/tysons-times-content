@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Michael Frey’s Sudden Death Stuns Fairfax County Leaders"
+  caption: "Michael Frey with one of his rescue animals (via Fairfax County Animal Shelter)"
+  credit: "Michael Frey with one of his rescue animals (via Fairfax County Animal Shelter)"
 ---
 
 Fairfax County officials and civic leaders are remembering former Sully District Supervisor Michael Frey as a devoted public servant, bipartisan leader and passionate animal advocate following his unexpected death on Feb. 16.

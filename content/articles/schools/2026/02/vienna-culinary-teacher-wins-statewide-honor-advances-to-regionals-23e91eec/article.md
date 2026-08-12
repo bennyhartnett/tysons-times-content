@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A close up of hands pushing diced vegetables off a knife blade into a stainless steel bowl."
+  caption: "Vienna Culinary Teacher Wins Statewide Honor, Advances to Regionals. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Sean Appleby, a Marshall Academy culinary instructor who once attended the school himself, has been named the 2026 Virginia Association for Career and Technical Education New Teacher of the Year.
