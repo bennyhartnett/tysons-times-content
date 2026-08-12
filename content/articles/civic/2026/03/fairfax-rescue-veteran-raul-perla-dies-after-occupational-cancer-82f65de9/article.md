@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Rescue Veteran Raul Perla Dies After Occupational Cancer"
+  caption: "Fairfax Rescue Veteran Raul Perla Dies After Occupational Cancer. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Master Technician Raul Perla, a veteran Fairfax County firefighter and international disaster responder, died Thursday, March 5, 2026, from occupational cancer. His death was classified as occurring in the line of duty.

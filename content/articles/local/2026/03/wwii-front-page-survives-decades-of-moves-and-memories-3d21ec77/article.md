@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for WWII Front Page Survives Decades of Moves and Memories"
+  caption: "WWII Front Page Survives Decades of Moves and Memories. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A dusty newspaper discovered in an Alexandria basement nearly 40 years ago has endured as a striking link between one family’s military past and a perilous moment in World War II.

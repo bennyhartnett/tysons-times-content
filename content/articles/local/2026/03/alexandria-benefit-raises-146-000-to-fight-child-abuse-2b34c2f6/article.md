@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria Benefit Raises $146,000 to Fight Child Abuse"
+  caption: "Alexandria Benefit Raises $146,000 to Fight Child Abuse. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 More than 300 community leaders gathered at the Oswald Durant Center on Feb. 21, raising over $146,000 to help prevent child abuse and support young survivors across Alexandria.

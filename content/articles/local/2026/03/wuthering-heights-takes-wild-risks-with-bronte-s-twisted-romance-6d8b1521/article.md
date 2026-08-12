@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Wuthering Heights Takes Wild Risks With Brontë’s Twisted Romance"
+  caption: "Wuthering Heights Takes Wild Risks With Brontë’s Twisted Romance. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Emerald Fennell’s 2026 adaptation of *Wuthering Heights* turns Emily Brontë’s classic novel into a visually arresting, fiercely romantic drama—even as its modern flourishes sometimes disrupt the illusion.

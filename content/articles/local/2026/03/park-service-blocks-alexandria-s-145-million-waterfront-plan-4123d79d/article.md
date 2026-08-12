@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Park Service Blocks Alexandria’s $145 Million Waterfront Plan"
+  caption: "Park Service Blocks Alexandria’s $145 Million Waterfront Plan. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The National Park Service has rejected Alexandria’s request to build a flood-control pump station in Waterfront Park, stopping a key piece of the city’s long-term response to recurring Potomac River flooding.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Halts Major Track Work for Cherry Blossom Crowds"
+  caption: "Metro Halts Major Track Work for Cherry Blossom Crowds. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro is preparing for a surge of riders during the 2026 National Cherry Blossom Festival, pausing major track work and adding early service as peak bloom approaches.

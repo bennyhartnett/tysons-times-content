@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Multicultural Festival Opens Applications for 25th Anniversary"
+  caption: "Reston Multicultural Festival Opens Applications for 25th Anniversary. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Reston’s signature Multicultural Festival will mark its 25th anniversary this fall, and applications are now open for performers, artisans, culturally inspired businesses and community organizations seeking to participate.

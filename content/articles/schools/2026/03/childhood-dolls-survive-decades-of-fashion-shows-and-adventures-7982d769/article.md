@@ -11,9 +11,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Childhood Dolls Survive Decades of Fashion Shows and Adventures"
+  caption: "\"Since my birthday happened near Valentine’s Day, she wore a pretty red dress festooned with hearts and a heart-shaped hat....\" Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 Some childhood dolls were made for play. Others were simply too beautiful—and expensive—to touch.

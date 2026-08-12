@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Gymnasts Turn Two Wins Into a Season of Growth"
+  caption: "McLean Gymnasts Turn Two Wins Into a Season of Growth. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s gymnastics team finished the season with two wins, but its athletes found success in stronger skills, steady support and an ability to adapt when plans changed.
