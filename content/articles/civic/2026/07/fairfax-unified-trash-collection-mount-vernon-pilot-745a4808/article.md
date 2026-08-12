@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "White garbage truck parked on a city street with the rear compactor open and a worker in a high-visibility jacket nearby, trees in the background, Swans Neck Way sign visible."
+  caption: "A garbage truck makes its rounds on Ridge Heights Road in Reston (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Fairfax County officials are taking another look at how residential trash is collected, two months after supervisors halted consideration of a proposal to create unified sanitary districts.

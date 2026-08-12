@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Exterior view of a modern building with a bold sign reading 'Not Your Average Joe's' above large storefront windows, blue sky overhead."
+  caption: "The now-closed Not Your Average Joe’s building in Spectrum at Reston Town Center (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Guapo’s is planning a new restaurant concept, Guapo’s Mar y Tierra, at 1845 Fountain Drive in Spectrum at Reston Town Center, the prominent corner building formerly occupied by Not Your Average Joe’s.

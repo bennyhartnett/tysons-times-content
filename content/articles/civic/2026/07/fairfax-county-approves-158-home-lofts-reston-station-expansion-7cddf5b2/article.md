@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Rendering of proposed Lofts II at Reston Station development (via Land Design Consultants/Fairfax County)"
+  caption: "Rendering of proposed Lofts II at Reston Station development (via Land Design Consultants/Fairfax County)"
+  credit: "FFXnow"
 ---
 
 The Fairfax County Board of Supervisors unanimously approved Pulte Group's rezoning application for Lofts at Reston Station II on July 14, replacing three low-rise office buildings at 1810, 1825 and 1850 Samuel Morse Drive in Reston with 158 homes.

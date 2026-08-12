@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "George Mason Regional Library renovation announcement banner"
+  caption: "George Mason Regional Library is preparing for a two-year renovation beginning in late 2026."
+  credit: "Fairfax County Public Library"
 ---
 
 Fairfax County Public Library will close George Mason Regional Library in late fall 2026 for an approximately two-year renovation of the 28,000-square-foot facility at 7001 Little River Turnpike in Annandale.

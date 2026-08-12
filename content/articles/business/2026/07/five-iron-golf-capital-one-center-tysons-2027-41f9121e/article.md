@@ -12,9 +12,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Tall curved glass office tower dominates the street, with a glass-covered plaza and sculptural installation at the base; trees on the right and a street lamp in the foreground."
+  caption: "Capital One’s headquarters building in Tysons (staff photo by Angela Woolsey)"
+  credit: "Capital One’s headquarters building in Tysons (staff photo by Angela Woolsey)"
 ---
 
 Five Iron Golf plans to open its first Virginia location at Capital One Center in Tysons in early 2027, joining a wave of indoor-golf venues arriving in Northern Virginia.

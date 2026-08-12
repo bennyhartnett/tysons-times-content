@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Gravel path leading to a crosswalk with a person walking in the distance, surrounded by green trees and a portable toilet on the right."
+  caption: "Construction is underway on a connection to the 66 Parallel Trail near Random Hills Road (courtesy of the Fairfax County Department of Transportation)"
+  credit: "FFXnow"
 ---
 
 Fairfax County is making it easier for cyclists and pedestrians to navigate the 66 Parallel Trail, a 20-mile route that opened in May 2023 alongside Interstate 66 from Centreville to Dunn Loring/Merrifield.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Three police officers address the media outdoors on a grassy park area, microphones on a stand in front of them."
+  caption: "Chief Kevin Davis (center) briefs the media on an officer-involved shooting during a press conference in Annandale. (Screenshot via FCPD)"
+  credit: "FFXnow"
 ---
 
 Fairfax County police shot and wounded a man in woods near Sutter Lane in Annandale on July 28 after responding to a domestic violence call, according to Police Chief Kevin Davis.

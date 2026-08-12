@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thomas Jefferson High School for Science and Technology"
+  caption: "Thomas Jefferson High School for Science and Technology (staff photo by Jay Westcott)"
+  credit: "Jay Westcott / FFXnow"
 ---
 
 Fairfax County Public Schools has agreed to keep disciplinary actions against Thomas Jefferson High School for Science and Technology students internal while their federal civil-rights lawsuit proceeds, under a temporary agreement filed in federal court.

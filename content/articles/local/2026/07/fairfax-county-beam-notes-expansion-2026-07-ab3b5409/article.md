@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County graphic about artificial intelligence in family services"
+  caption: "Fairfax County is expanding an AI documentation tool after a pilot in family services."
+  credit: "Fairfax County"
 ---
 
 Fairfax County's Department of Family Services has expanded its use of Beam Notes, an artificial intelligence program that automatically converts case content into structured reports, to 150 additional practitioners and supervisors following a pilot program.

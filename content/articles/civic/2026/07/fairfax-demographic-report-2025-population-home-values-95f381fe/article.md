@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County demographic report graphic showing homes and residents"
+  caption: "Fairfax County's 2025 demographic reports track population, housing and home-value trends."
+  credit: "Fairfax County"
 ---
 
 Fairfax County’s population and housing supply each grew 0.3% over the year ending Jan. 1, 2025, while the median value of owner-occupied homes rose substantially faster, according to a demographic report announced by the county on July 28, 2026.
