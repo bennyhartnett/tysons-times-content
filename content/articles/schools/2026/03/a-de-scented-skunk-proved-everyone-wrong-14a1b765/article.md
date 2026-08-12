@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for A “De-Scented” Skunk Proved Everyone Wrong"
+  caption: "\"One of the older boys in the neighborhood had been given a 'de-scented' baby skunk....\" Facebook photo courtesy Kristin Berg Grant."
+  credit: "Falls Church Independent"
 ---
 
 My childhood friend Susie was an ideal daytime companion. She lived just across the alley and one house down, was always ready to play and, best of all, had access to the neighborhood’s first window air conditioner.

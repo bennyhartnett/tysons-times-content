@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Board Members, Elected Officials, Judge Stephen Shannon, and new Braddock Magisterial Member Tom Dannan"
+  caption: "Dannan Takes Office as FCPS Board Reviews Safety and Budget. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Thomas F. Dannan II took office as the Braddock Magisterial District representative March 19 during an FCPS board meeting that also featured decisions on school safety, athletic contracts and committee assignments.

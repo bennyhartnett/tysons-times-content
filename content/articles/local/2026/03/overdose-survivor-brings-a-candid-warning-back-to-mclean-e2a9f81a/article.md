@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Overdose Survivor Brings a Candid Warning Back to McLean"
+  caption: "Overdose Survivor Brings a Candid Warning Back to McLean. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Mental health advocate Sam Anthony brought a deeply personal account of anxiety, addiction and survival to McLean students on Friday, March 6, joining a local family determined to prevent another overdose tragedy.

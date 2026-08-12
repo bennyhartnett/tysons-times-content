@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Salon Marks 35 Years of Style and Staying Power"
+  caption: "Vienna Salon Marks 35 Years of Style and Staying Power. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Salon Daniel has spent 35 years cultivating a loyal Northern Virginia clientele, growing from founder Daniel Bechara’s vision into a full-service salon near the Dunn Loring Metro station in Vienna.

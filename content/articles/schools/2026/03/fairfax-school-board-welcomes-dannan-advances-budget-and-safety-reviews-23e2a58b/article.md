@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Judge Stephen C. Shannon administers the oath of office to Thomas F. Dannan II, Braddock Magisterial Representative."
+  caption: "Fairfax School Board Welcomes Dannan, Advances Budget and Safety Reviews. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Thomas F. Dannan II took the oath of office as the Fairfax County School Board’s Braddock District representative on March 19, opening a meeting that also covered school safety, the budget and a proposed Advanced Academic Program center.

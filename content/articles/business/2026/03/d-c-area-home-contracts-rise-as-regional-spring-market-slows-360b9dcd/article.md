@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for D.C.-Area Home Contracts Rise as Regional Spring Market Slows"
+  caption: "D.C.-Area Home Contracts Rise as Regional Spring Market Slows. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Washington, D.C., metro area entered spring with stronger home-contract activity than a year earlier, even as the broader Mid-Atlantic market recorded its third consecutive week of annual declines.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Buries Forest Park in Explosive 10-0 Season Opener"
+  caption: "McLean Buries Forest Park in Explosive 10-0 Season Opener. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean wasted no time shaking off a nine-month offseason, overwhelming Forest Park 10-0 in five innings to open its 2026 baseball season.

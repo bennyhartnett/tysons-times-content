@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna School Puts Childhood and Leadership at the Center"
+  caption: "Vienna School Puts Childhood and Leadership at the Center. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Green Hedges School has built its educational approach around a simple idea: Children should have room to be children while developing the independence and leadership skills they will need later.

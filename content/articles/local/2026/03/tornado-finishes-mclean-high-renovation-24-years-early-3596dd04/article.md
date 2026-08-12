@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tornado Finishes McLean High Renovation 24 Years Early"
+  caption: "Tornado Finishes McLean High Renovation 24 Years Early. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 An EF-3 tornado accomplished the seemingly impossible Monday afternoon, completing McLean High School’s long-awaited renovation in roughly four minutes—24 years ahead of Fairfax County Public Schools’ 2050 schedule.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Lawn Care Poll Heads Toward an April 3 Deadline"
+  caption: "Fairfax Lawn Care Poll Heads Toward an April 3 Deadline. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents have two weeks to vote for their favorite lawn care service, with the poll scheduled to close at 8:30 a.m. Friday, April 3.
