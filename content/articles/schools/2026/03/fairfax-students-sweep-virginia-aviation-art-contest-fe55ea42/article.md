@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Students Sweep Virginia Aviation Art Contest"
+  caption: "Fairfax’s Annie Chen won first place in the senior category at the 2026 Virginia Aviation Art Competition (courtesy Virginia Department of Aviation)"
+  credit: "Fairfax’s Annie Chen won first place in the senior category at the 2026 Virgini…"
 ---
 
 Fairfax County students captured first place in every age group and claimed seven of the nine awards in the 2026 Virginia Aviation Art Competition.

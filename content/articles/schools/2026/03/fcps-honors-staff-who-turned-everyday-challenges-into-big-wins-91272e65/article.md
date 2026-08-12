@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "four cub run elementary school staff members in the cafeteria during an after school FCPS CARES of the Month recognition"
+  caption: "FCPS Honors Staff Who Turned Everyday Challenges Into Big Wins. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools’ March 2026 employee recognitions spotlighted educators, transportation workers and support staff whose actions improved student safety, inclusion, learning and family support.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Practice Targets Jaw Pain and Troubled Sleep"
+  caption: "Falls Church Practice Targets Jaw Pain and Troubled Sleep. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A Falls Church dental practice is taking a specialized approach to chronic jaw pain, headaches and disrupted sleep, focusing exclusively on temporomandibular joint disorders, craniofacial pain and sleep-related breathing problems.

@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thomas Jefferson High School for Science and Technology students on a field trip in Baltimore."
+  caption: "FCPS Writing Scores Surge as Students Take Center Stage. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered March with new evidence of stronger student writing, a newly adopted advertised budget and a packed week of academic, cultural, artistic and community events.

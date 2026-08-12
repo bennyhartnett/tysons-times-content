@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Growth Summit Will Unite Public and Private Leaders"
+  caption: "Tysons Growth Summit Will Unite Public and Private Leaders. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 Public officials, developers, investors and business leaders will gather March 12 for an inaugural summit focused on the development and investment decisions shaping Tysons.

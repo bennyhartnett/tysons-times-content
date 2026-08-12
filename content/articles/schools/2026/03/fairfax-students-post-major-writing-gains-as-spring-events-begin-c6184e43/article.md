@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid speaking at the 2026 Black History Month Celebration."
+  caption: "Fairfax Students Post Major Writing Gains as Spring Events Begin. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools reported substantial gains in elementary writing achievement as the division entered March with a full calendar of community meetings, student showcases, cultural celebrations and budget discussions.

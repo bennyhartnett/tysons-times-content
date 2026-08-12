@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Generic press release image for awards - gold"
+  caption: "Chantilly and McLean High Extend National Press Freedom Streaks. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Chantilly High School and McLean High School are among 26 schools nationwide receiving the 2026 First Amendment Press Freedom Award, extending lengthy winning streaks for both Fairfax County schools.

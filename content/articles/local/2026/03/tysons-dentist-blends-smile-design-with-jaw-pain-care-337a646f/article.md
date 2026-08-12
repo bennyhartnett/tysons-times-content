@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Dentist Blends Smile Design With Jaw-Pain Care"
+  caption: "Tysons Dentist Blends Smile Design With Jaw-Pain Care. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Chong Lee has spent decades developing a Tysons dental practice that combines cosmetic work with treatment focused on the muscles, nerves and bones of the face and jaw.

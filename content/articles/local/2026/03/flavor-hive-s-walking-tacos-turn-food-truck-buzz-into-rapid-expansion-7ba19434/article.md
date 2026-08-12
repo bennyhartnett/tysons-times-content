@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Flavor Hive’s Walking Tacos Turn Food Truck Buzz Into Rapid Expansion"
+  caption: "Flavor Hive’s Walking Tacos Turn Food Truck Buzz Into Rapid Expansion. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Flavor Hive has grown from a modest food truck launched in early 2024 into a fast-expanding restaurant business, drawing crowds across the Washington, D.C., Maryland and Virginia region with customizable walking tacos, fusion bowls and loaded street food.

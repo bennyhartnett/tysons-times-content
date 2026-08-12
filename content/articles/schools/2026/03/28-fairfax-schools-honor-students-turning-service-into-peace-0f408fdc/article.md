@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 28 Fairfax Schools Honor Students Turning Service Into Peace"
+  caption: "28 Fairfax Schools Honor Students Turning Service Into Peace. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Students from 28 Fairfax County public schools have received the 2026 Student Peace Awards of Fairfax County for projects that promote understanding, equity, community service and peaceful change.
