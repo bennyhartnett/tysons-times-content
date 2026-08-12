@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Group of students and staff pose in a school library as a woman holds a “Be You!” book during a visit."
+  caption: "Fairfax Schools Rack Up National Honors and Statewide Wins. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools celebrated a wave of academic, journalism and student honors during the week of March 9, including national recognition for 17 high schools and dozens of U.S. Presidential Scholars candidates.

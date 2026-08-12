@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for “Send Help” Turns an Office Power Struggle Into a Survival Test"
+  caption: "“Send Help” Turns an Office Power Struggle Into a Survival Test. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 “Send Help” finds fresh tension in a familiar survival-thriller setup, combining sudden scares and sharp humor with a compelling reversal of power between its stranded leads.

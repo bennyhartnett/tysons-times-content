@@ -11,9 +11,9 @@ tags:
   - "tysons"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Saks Fifth Avenue at Tysons Galleria"
+  caption: "The Saks Fifth Avenue store is seen at Tysons Galleria, a luxury retail shopping center, in McLean, Va., a suburb of Washington, during the COVID-19 pandemic, Monday, May 11, 2020. The Northern Virginia suburbs of Washi…"
+  credit: "The Saks Fifth Avenue store is seen at Tysons Galleria, a luxury retail shoppin…"
 ---
 
 Saks Fifth Avenue will permanently close its Tysons Galleria location, ending the department store’s nearly four-decade run as an anchor of the McLean mall.

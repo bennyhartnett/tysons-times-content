@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Environmental Groups Press Fairfax Over $166.8 Million Data Center Deal"
+  caption: "Portion of Fairfax County’s property at 3721 Stonecroft Blvd that could be sold to developer SCG Global Holdings for a future data center (via Fairfax County)"
+  credit: "Portion of Fairfax County’s property at 3721 Stonecroft Blvd that could be sold…"
 ---
 
 Environmental advocates are demanding more transparency about Fairfax County’s proposed sale of nearly 42 acres in Chantilly to a data center developer for $166.8 million.

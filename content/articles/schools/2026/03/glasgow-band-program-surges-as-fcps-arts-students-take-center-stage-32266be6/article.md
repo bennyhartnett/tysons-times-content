@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Framed by a baritone, a music teacher conducts"
+  caption: "Glasgow Band Program Surges as FCPS Arts Students Take Center Stage. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 March is bringing renewed attention to arts education across Fairfax County Public Schools, with student achievements, innovative classroom projects and new performing arts grants highlighting the impact of music, theater and visual arts.

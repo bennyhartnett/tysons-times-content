@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Bruno Mars Returns After Nearly a Decade With Latin-Pop Flair"
+  caption: "Bruno Mars Returns After Nearly a Decade With Latin-Pop Flair. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Bruno Mars ended an almost decade-long gap between solo studio albums on Friday, Feb. 27, with the release of his fourth, *The Romantic*.

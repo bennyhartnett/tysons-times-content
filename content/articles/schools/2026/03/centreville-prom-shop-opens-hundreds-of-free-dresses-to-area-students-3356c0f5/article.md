@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A fashion marketing student shows off a dress during the annual prom dress shop."
+  caption: "Centreville Prom Shop Opens Hundreds of Free Dresses to Area Students. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Students facing financial challenges across the greater Washington region can find free prom attire at Centreville High School from Friday, March 13, through Sunday, March 15.

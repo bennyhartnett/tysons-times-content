@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Missing Traffic Cop Fuels Gridlock at School Entrance"
+  caption: "McLean’s Missing Traffic Cop Fuels Gridlock at School Entrance. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A Fairfax County Public Schools budget cut has turned daily arrivals at McLean’s Westmoreland entrance into a frustrating traffic ordeal.

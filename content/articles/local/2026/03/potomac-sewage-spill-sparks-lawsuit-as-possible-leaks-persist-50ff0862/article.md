@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Potomac Sewage Spill Sparks Lawsuit as Possible Leaks Persist"
+  caption: "A warning sign at the site of a massive pipe rupture, as sewage flows into the Potomac River, right, in Glen Echo, Md., Friday, Jan. 23, 2026 (AP Photo/Cliff Owen)"
+  credit: "A warning sign at the site of a massive pipe rupture, as sewage flows into the…"
 ---
 
 A Great Falls boater has filed a proposed class action against DC Water over the massive January sewage spill into the Potomac River, while new water testing has raised concerns that contamination may be continuing near the ruptured pipeline.

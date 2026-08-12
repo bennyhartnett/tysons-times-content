@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Vienna Taps Veteran Police Leader as New Deputy Chief"
+  caption: "Vienna Taps Veteran Police Leader as New Deputy Chief. Openly licensed thematic image selected for this article."
+  credit: "See-ming Lee from New York, NY, USA / CC BY-SA 2.0 / Wikimedia Commons"
 ---
 
 David Huchler, a law enforcement veteran with 34 years of experience in Northern Virginia, will become the Vienna Police Department’s next deputy chief on April 6, 2026.
