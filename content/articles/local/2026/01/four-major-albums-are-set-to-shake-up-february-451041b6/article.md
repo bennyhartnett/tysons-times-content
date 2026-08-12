@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Four Major Albums Are Set to Shake Up February"
+  caption: "Four Major Albums Are Set to Shake Up February. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A packed release calendar is taking shape, with new albums from Ye, Charli XCX, Bruno Mars and Megan Moroney exploring everything from personal turmoil and gothic literature to romance and country heartbreak.

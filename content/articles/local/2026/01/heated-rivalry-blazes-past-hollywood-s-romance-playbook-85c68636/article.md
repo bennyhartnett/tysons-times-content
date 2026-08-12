@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Heated Rivalry Blazes Past Hollywood’s Romance Playbook"
+  caption: "Heated Rivalry Blazes Past Hollywood’s Romance Playbook. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 In only six episodes, *Heated Rivalry* has turned its secretive hockey romance into a breakout sensation. Interest has continued to build since the finale arrived Dec. 26, while leads Connor Storrie and Hudson Williams have attracted fans both on and off screen. The series has already secured another season.

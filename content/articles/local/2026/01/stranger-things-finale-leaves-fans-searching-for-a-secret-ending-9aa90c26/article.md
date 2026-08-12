@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Stranger Things Finale Leaves Fans Searching for a Secret Ending"
+  caption: "Stranger Things Finale Leaves Fans Searching for a Secret Ending. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *Stranger Things* entered its fifth and final season with enormous expectations, but its closing episodes left many viewers deeply disappointed. Although Volume 1 built momentum, the installments that followed—ending Dec. 31, 2025—failed to deliver a satisfying payoff.

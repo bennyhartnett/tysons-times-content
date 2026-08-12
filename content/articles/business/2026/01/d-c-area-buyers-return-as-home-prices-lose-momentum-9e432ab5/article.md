@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying D.C.-Area Buyers Return as Home Prices Lose Momentum"
+  caption: "D.C.-Area Buyers Return as Home Prices Lose Momentum. Openly licensed thematic image selected for this article."
+  credit: "Bob Harvey / CC BY-SA 2.0 / Wikimedia Commons"
 ---
 
 Home-shopping activity picked up across the Washington, D.C., region and the broader Mid-Atlantic during the week ending Jan. 18, 2026, as lower mortgage rates, expanding inventory and softer prices drew more prospective buyers into the market.

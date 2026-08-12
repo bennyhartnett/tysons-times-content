@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Skillet-Roasted Beans Spark a 13-Year Espresso Bar Dream"
+  caption: "Skillet-Roasted Beans Spark a 13-Year Espresso Bar Dream. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A fascination that began with coffee beans roasting in a skillet has grown into a new espresso bar on North St. Asaph Street.

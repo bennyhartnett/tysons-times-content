@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Winter Weather"
+  caption: "A person shovels snow on the sidewalk of East Broad St. in Richmond, Va., Wednesday, Feb. 19, 2025. (Mike Kropf/Richmond Times-Dispatch via AP)"
+  credit: "A person shovels snow on the sidewalk of East Broad St. in Richmond, Va., Wedne…"
 ---
 
 With heavy snow and ice forecast for the D.C. region this weekend, doctors are urging residents to treat Sunday’s cleanup like strenuous exercise—not a job that must be finished all at once.

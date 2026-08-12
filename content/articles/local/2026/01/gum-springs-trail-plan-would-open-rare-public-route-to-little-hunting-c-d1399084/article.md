@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Gum Springs Trail Plan Would Open Rare Public Route to Little Hunting Creek"
+  caption: "Gum Springs Trail Plan Would Open Rare Public Route to Little Hunting Creek. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A proposed trail through Martin Luther King Jr. Park would give the Gum Springs community a new pedestrian and bicycle connection to Little Hunting Creek, creating rare public access to the tidal waterway and surrounding wetlands.

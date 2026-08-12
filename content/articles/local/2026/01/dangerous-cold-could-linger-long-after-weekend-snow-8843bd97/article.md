@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dangerous Cold Could Linger Long After Weekend Snow"
+  caption: "Dangerous Cold Could Linger Long After Weekend Snow. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Snowfall totals for the weekend remain uncertain, but dangerously cold weather is expected. Wind chills could fall well below zero, with frigid temperatures continuing throughout the week.

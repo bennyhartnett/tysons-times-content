@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Urgent Care Poll Nears Its Voting Deadline"
+  caption: "Fairfax Urgent Care Poll Nears Its Voting Deadline. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Voting for the Best Urgent Care in Fairfax is nearing its deadline, leaving readers two weeks to support the local center they trust for prompt treatment when unexpected injuries or health concerns arise.
