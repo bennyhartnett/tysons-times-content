@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Families Face Key Deadlines as Budget Vote Nears"
+  caption: "FCPS Families Face Key Deadlines as Budget Vote Nears."
+  credit: "Patch"
 ---
 
 Fairfax County Public Schools families are being urged to review unpaid meal balances, prepare for upcoming schedule changes and take advantage of graduation, mental health and summer resources as the school year draws to a close.

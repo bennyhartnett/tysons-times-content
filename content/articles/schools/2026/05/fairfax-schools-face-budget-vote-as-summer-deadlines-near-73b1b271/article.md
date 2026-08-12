@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A softball player slides toward a base"
+  caption: "Fairfax Schools Face Budget Vote as Summer Deadlines Near. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools families are approaching a packed end-of-year stretch that includes a School Board budget vote, unpaid meal balances, graduation preparations, summer program deadlines and several school closures.

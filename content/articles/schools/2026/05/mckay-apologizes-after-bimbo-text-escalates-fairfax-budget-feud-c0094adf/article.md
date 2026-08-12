@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McKay Apologizes After ‘Bimbo’ Text Escalates Fairfax Budget Feud"
+  caption: "Board of Supervisors Chair Jeff McKay at May 19, 2026, Board meeting (screenshot via Fairfax County)"
+  credit: "Board of Supervisors Chair Jeff McKay at May 19, 2026, Board meeting (screensho…"
 ---
 
 Fairfax County Board of Supervisors Chair Jeff McKay publicly apologized May 19 for calling School Board member Melanie Meren a “bimbo” during an escalating dispute over the county budget.

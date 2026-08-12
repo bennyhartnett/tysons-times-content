@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Bitter Luck Turns Cover-Band Frustration Into Original Rock"
+  caption: "Bitter Luck Turns Cover-Band Frustration Into Original Rock. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Bitter Luck is pushing original rock in a Northern Virginia music scene crowded with tribute acts and familiar cover songs.

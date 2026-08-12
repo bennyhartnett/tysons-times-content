@@ -11,9 +11,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students at Chantilly High School performing in \"As You Like It.\""
+  caption: "Chantilly Gives Shakespeare’s Romance a Corporate Makeover. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Chantilly High School thrust Shakespeare’s *As You Like It* into modern corporate America, blending workplace image-making and family tension with the comedy’s disguises, romantic confusion, and woodland escape.

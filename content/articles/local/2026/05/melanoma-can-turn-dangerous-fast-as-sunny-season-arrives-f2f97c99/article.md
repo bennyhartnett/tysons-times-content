@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Melanoma Can Turn Dangerous Fast as Sunny Season Arrives"
+  caption: "Melanoma Can Turn Dangerous Fast as Sunny Season Arrives. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 As warmer weather brings more time at pools and other sunny spots, health experts are urging people to protect their skin and watch for early signs of melanoma.

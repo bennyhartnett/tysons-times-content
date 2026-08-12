@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Realtor Touts 99.4% List-to-Sale Price Record"
+  caption: "Vienna Realtor Touts 99.4% List-to-Sale Price Record. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Allie Chamberlain, a Samson Properties real estate agent serving Northern Virginia, reports a 99.4% list-to-sale price ratio and an average of 10 days on the market for her listings.

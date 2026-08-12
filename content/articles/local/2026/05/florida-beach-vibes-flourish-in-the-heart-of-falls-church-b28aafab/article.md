@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Florida Beach Vibes Flourish in the Heart of Falls Church"
+  caption: "Florida Beach Vibes Flourish in the Heart of Falls Church. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Clare & Don’s Beach Shack has brought Florida-inspired food, live entertainment and a laid-back coastal atmosphere to downtown Falls Church for more than two decades.

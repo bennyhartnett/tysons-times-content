@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean-Area Students Capture Top Honors With Wind and Solar Designs"
+  caption: "McLean-Area Students Capture Top Honors With Wind and Solar Designs. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Students from Langley and McLean high schools and Cooper Middle School earned top-three finishes at the Virginia KidWind State Competition on April 11 at James Madison University.
