@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dedicated bus lane on MD 355"
+  caption: "A dedicated bus lane on MD 355 will help move Red Line shuttle buses."
+  credit: "WMATA"
 ---
 
 Temporary bus-only lanes will help shuttle buses move through Montgomery County during Red Line construction in summer 2026, part of an effort to reduce delays along the busy corridor.

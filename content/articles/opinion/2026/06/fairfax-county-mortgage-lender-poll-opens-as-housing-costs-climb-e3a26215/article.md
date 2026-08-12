@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County Mortgage Lender Poll Opens as Housing Costs Climb"
+  caption: "Fairfax County Mortgage Lender Poll Opens as Housing Costs Climb. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents are being asked to choose the area’s best mortgage lender as rising housing costs make the path to homeownership increasingly difficult.

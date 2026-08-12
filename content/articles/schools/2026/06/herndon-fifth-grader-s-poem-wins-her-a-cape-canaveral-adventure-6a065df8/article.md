@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Floris Elementary School student Isabel Theodore holds her first-place certificate from the America’s Field Trip contest with America 250 Chair Rosie Rios"
+  caption: "Floris Elementary School student Isabel Theodore holds her first-place certificate from the America’s Field Trip contest with America 250 Chair Rosie Rios (photo by Naveena Govindasamy)"
+  credit: "Naveena Govindasamy / FFXnow"
 ---
 
 A Floris Elementary School student will travel to Cape Canaveral this summer after her poem celebrating American diversity earned first place in a nationwide contest.

@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean High Adds Career-Focused AP Business Course"
+  caption: "McLean High Adds Career-Focused AP Business Course. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School students will have a new career-oriented AP option in the 2026-27 school year, with AP Business Principles bringing entrepreneurship, finance, marketing and business decision-making into the course catalog.

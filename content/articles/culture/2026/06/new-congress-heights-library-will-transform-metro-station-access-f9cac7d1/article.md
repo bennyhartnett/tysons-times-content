@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Congress Heights library aerial rendering"
+  caption: "An aerial rendering shows the planned library at Congress Heights Metro."
+  credit: "WMATA"
 ---
 
 A new 23,000-square-foot public library is coming to Congress Heights Metro station as part of a joint development project that will also overhaul transit infrastructure and improve connections to the St. Elizabeths East campus.

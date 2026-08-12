@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for $4,500 Tysons Theft Spree Ends With Three Arrests"
+  caption: "$4,500 Tysons Theft Spree Ends With Three Arrests. Image from FCPD News — Tysons Urban Team."
+  credit: "FCPD News — Tysons Urban Team"
 ---
 
 Three people were arrested after a string of grab-and-run thefts at Tysons retailers on June 3, with detectives recovering more than $4,500 in stolen merchandise.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Montgomery County and Fairfax County first responders are searching the Potomac River near Great Falls for a swimmer reported missing on June 14, 2026 (via Pete Piringer/X)"
+  caption: "Montgomery County and Fairfax County first responders are searching the Potomac River near Great Falls for a swimmer reported missing on June 14, 2026 (via Pete Piringer/X)"
+  credit: "FFXnow"
 ---
 
 First responders resumed searching Monday morning for a young man presumed to have drowned in the Potomac River near Great Falls after he disappeared Sunday evening.

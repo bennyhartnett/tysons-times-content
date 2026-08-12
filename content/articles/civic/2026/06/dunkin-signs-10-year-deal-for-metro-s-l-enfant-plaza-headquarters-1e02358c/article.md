@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Metro L Enfant Plaza headquarters"
+  caption: "Metro headquarters at L Enfant Plaza, where Dunkin signed a 10-year lease."
+  credit: "WMATA"
 ---
 
 Dunkin’ is coming to Metro’s headquarters at L’Enfant Plaza under a 10-year lease, adding another food and beverage option to the busy Southwest D.C. transit hub.

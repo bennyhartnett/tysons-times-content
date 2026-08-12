@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "D.C. Water said it notified WSSC Water in mid-April that conditions in this section warranted high-priority emergency repairs and has been briefing the utility on its plans."
+  caption: "D.C. Water said it notified WSSC Water in mid-April that conditions in this section warranted high-priority emergency repairs and has been briefing the utility on its plans. (WTOP/Neal Augenstein)"
+  credit: "WTOP/Neal Augenstein"
 ---
 
 Emergency work will begin June 15 on a deteriorating stretch of the Potomac Interceptor sewer line near Potomac, Maryland, where a failure could threaten drinking water intakes serving Maryland and Washington, D.C.

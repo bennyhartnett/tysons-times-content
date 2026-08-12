@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County Wedding Venue Voting Opens for Readers"
+  caption: "Fairfax County Wedding Venue Voting Opens for Readers. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County readers can now vote for their favorite local wedding venue as the area enters the most popular month for weddings.
