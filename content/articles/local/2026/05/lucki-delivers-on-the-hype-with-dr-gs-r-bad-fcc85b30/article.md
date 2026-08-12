@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for LUCKI Delivers on the Hype With ‘Dr*gs R Bad’"
+  caption: "LUCKI Delivers on the Hype With ‘Dr*gs R Bad’. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 LUCKI stays loyal to his signature sound on *Dr*gs R Bad*, an energetic fourth studio album that highlights the rapper’s distinctive flow and sharp lyricism.

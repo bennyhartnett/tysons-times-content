@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Targets $50 Million Bus Fare-Evasion Loss With New Crackdown"
+  caption: "Metro Targets $50 Million Bus Fare-Evasion Loss With New Crackdown. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro has launched a systemwide campaign combining rider education, easier payment options and expanded enforcement to curb bus fare evasion that could cost the transit agency about $50 million this fiscal year.

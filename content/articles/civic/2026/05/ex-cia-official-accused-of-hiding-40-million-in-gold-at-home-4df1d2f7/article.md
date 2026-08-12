@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Ex-CIA Official Accused of Hiding $40 Million in Gold at Home"
+  caption: "Ex-CIA Official Accused of Hiding $40 Million in Gold at Home."
+  credit: "Mogaz"
 ---
 
 A former senior CIA official is accused of stealing more than 300 gold bars worth over $40 million from the federal government and keeping them at his Ashburn home.

@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s District Title Bid Slips Away in 2-1 Heartbreaker"
+  caption: "McLean’s District Title Bid Slips Away in 2-1 Heartbreaker. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s bid to reclaim the district baseball banner ended with a narrow 2-1 loss to Herndon, a team the Highlanders had already defeated twice.

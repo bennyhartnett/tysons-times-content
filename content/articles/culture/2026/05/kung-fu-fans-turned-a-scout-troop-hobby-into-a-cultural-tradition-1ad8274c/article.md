@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lion dancers perform in parade"
+  caption: "Spectators lined the streets surrounding the D.C. Chinatown arch with umbrellas in hand, waving to and cheering on parade marchers and performers. (WTOP/Grace Newton)"
+  credit: "Spectators lined the streets surrounding the D.C. Chinatown arch with umbrellas…"
 ---
 
 A lion dance team rooted in a Vietnamese American Boy Scout troop has grown from a teenage experiment inspired by Jet Li movies into a Fairfax group that performs at festivals, weddings and community celebrations.

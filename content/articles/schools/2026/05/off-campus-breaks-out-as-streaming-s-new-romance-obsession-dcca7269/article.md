@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Off Campus Breaks Out as Streaming’s New Romance Obsession"
+  caption: "Off Campus Breaks Out as Streaming’s New Romance Obsession. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 In its first season, *Off Campus* has emerged as one of streaming’s most talked-about new dramas. Since premiering May 13 on Prime Video, the series has spread rapidly across social media—and a second season is already confirmed.

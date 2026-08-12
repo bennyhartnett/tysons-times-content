@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Approves 2027 Budget as Deadlines and Graduations Loom"
+  caption: "FCPS Approves 2027 Budget as Deadlines and Graduations Loom."
+  credit: "WUSA9"
 ---
 
 FCPS leaders unanimously approved the fiscal year 2027 budget on May 21, maintaining competitive compensation and strategic investments intended to support student success.

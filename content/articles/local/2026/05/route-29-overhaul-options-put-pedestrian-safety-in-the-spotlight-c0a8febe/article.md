@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Route 29 Overhaul Options Put Pedestrian Safety in the Spotlight"
+  caption: "Types of improvements possible on one stretch of the Route 29 Active Transportation Study corridor (via FCDOT)"
+  credit: "Types of improvements possible on one stretch of the Route 29 Active Transporta…"
 ---
 
 Fairfax County transportation officials are asking residents to weigh in on possible changes to Route 29 between Falls Church and the Capital Beltway following two pedestrian crashes along the corridor in recent years.

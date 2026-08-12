@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sheep Detective Hides a Heartbreaking Mystery Beneath the Laughs"
+  caption: "Sheep Detective Hides a Heartbreaking Mystery Beneath the Laughs. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *Sheep Detective* sounds like a lightweight comedy built around an absurd premise: a flock of sheep trying to solve a murder. Instead, the film delivers an unexpectedly clever mystery and a moving exploration of prejudice, grief and memory without sacrificing its relentless humor.

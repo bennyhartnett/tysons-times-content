@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A student in neon plays a game in a darkened room"
+  caption: "Fairfax Schools Lock In 2027 Budget as Graduation Season Nears. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board unanimously approved its fiscal year 2027 budget on May 21, preserving investments in competitive employee compensation and student success despite economic uncertainty and continued state underfunding.
