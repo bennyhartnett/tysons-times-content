@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for John Mentis Builds a Real Estate Career on Repeat Clients"
+  caption: "John Mentis Builds a Real Estate Career on Repeat Clients. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 John Mentis has completed more than 500 sales during nearly 20 years as a full-time real estate agent, building a business in the Washington, D.C., region with a reported referral rate above 90%.

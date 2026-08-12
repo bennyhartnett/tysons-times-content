@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Real Estate Advisor Brings High-Finance Edge to Luxury Deals"
+  caption: "McLean Real Estate Advisor Brings High-Finance Edge to Luxury Deals. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Najma Oudada’s path from Casablanca to Washington, D.C., and McLean, Virginia, included more than two decades in commercial lending and banking before she entered real estate sales.

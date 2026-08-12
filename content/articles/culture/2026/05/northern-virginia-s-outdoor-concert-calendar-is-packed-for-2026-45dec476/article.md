@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia’s Outdoor Concert Calendar Is Packed for 2026"
+  caption: "Northern Virginia’s Outdoor Concert Calendar Is Packed for 2026. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Outdoor music returns across Northern Virginia in 2026, bringing children’s performers, jazz ensembles, tribute acts, cover bands, country artists and community concerts to plazas, parks and town centers.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Danish Shop Lessons Fueled Lilian Jorgenson’s $1.9 Billion Career"
+  caption: "Danish Shop Lessons Fueled Lilian Jorgenson’s $1.9 Billion Career. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Lilian Jorgenson traces her approach to real estate back to her childhood in Kolding, Denmark, where she worked in her family’s grocery store. Watching her father carefully maintain product quality and nurture lasting customer relationships shaped her own emphasis on service and attention to detail.

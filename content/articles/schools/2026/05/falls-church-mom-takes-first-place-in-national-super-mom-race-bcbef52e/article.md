@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Mom Takes First Place in National Super Mom Race"
+  caption: "\"Falls Church's own Diana Brice has climbed to the Top 10 – and currently holds 1st place – in the 2026 Colossal Super Mom Competition, a national fundraiser supporting Children's Miracle Network Hospitals.\""
+  credit: "Falls Church Independent"
 ---
 
 Falls Church resident Diana Brice has reached the Top 10 and holds first place in the 2026 Colossal Super Mom Competition, a national fundraiser benefiting Children’s Miracle Network Hospitals.

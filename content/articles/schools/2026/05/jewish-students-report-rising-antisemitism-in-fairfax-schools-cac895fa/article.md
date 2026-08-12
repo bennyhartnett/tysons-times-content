@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Jewish Students Report Rising Antisemitism in Fairfax Schools"
+  caption: "Jewish Students Report Rising Antisemitism in Fairfax Schools. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Jewish students in Fairfax County say antisemitic harassment, hostile social media posts and heightened security concerns have left some of them feeling unsafe or pressured to conceal their identity.

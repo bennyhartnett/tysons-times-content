@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students carry a large wooden frame."
+  caption: "Fairfax Schools Face $28 Million Gap as Phone Ban Nears. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is confronting a $28 million budget gap while preparing to prohibit student cellphone use throughout the school day beginning July 1.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 31 Fairfax Students Win National Merit Scholarships"
+  caption: "31 Fairfax Students Win National Merit Scholarships."
+  credit: "Fairfax County Public Schools"
 ---
 
 Thirty-one students representing 12 Fairfax County high schools have each won a $2,500 National Merit Scholarship.

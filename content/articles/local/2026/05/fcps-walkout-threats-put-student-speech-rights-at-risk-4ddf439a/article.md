@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Walkout Threats Put Student Speech Rights at Risk"
+  caption: "FCPS Walkout Threats Put Student Speech Rights at Risk. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Centreville High School students who walked out to protest recent actions by Immigration and Customs Enforcement were reportedly warned by administrators that participating could jeopardize their ability to attend prom or graduation.

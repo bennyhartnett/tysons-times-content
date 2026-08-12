@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Countywide Trash Takeover Plan Stalls After Fierce Pushback"
+  caption: "Fairfax County trash collection (photo via Fairfax County)"
+  credit: "Fairfax County trash collection (photo via Fairfax County)"
 ---
 
 Fairfax County leaders have largely backed away from a controversial proposal to create a countywide residential trash district after hearing strong opposition from residents and private haulers.
