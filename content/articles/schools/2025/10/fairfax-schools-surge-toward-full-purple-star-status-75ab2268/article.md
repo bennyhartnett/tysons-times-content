@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A dad in fatigues reads to his daughter in front of a class"
+  caption: "Fairfax Schools Surge Toward Full Purple Star Status. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools added 49 first-time Purple Star Schools in 2025, bringing the division’s total to 145—nearly three-quarters of all FCPS schools.

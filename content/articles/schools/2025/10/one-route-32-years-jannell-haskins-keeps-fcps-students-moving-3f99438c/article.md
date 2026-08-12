@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "sports"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Jannell waves to the camera as she stands outside her bus"
+  caption: "One Route, 32 Years: Jannell Haskins Keeps FCPS Students Moving. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 For nearly 32 years, Jannell Haskins has driven the same Fairfax County Public Schools bus route, safely transporting students from South Lakes High School, Hughes Middle School, Dogwood Elementary School and Terraset Elementary School.

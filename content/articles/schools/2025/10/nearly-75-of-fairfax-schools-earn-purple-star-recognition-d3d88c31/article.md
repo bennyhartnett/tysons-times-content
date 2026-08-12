@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Nearly 75% of Fairfax Schools Earn Purple Star Recognition"
+  caption: "Nearly 75% of Fairfax Schools Earn Purple Star Recognition. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has expanded its roster of military-friendly campuses to 145 schools, bringing the division close to three-quarters participation in Virginia’s Purple Star program.

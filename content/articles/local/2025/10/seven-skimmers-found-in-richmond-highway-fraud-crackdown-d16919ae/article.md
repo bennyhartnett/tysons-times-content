@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Seven Skimmers Found in Richmond Highway Fraud Crackdown"
+  caption: "Seven Skimmers Found in Richmond Highway Fraud Crackdown. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A crackdown on credit card fraud along the Richmond Highway corridor uncovered seven skimming devices, including six advanced models fitted with miniature cameras to record customers’ PIN entries. One man was arrested following the investigation.

@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Mount Vernon Voters Face High-Stakes Choices in Virginia Election"
+  caption: "Mount Vernon Voters Face High-Stakes Choices in Virginia Election. Openly licensed thematic image selected for this article."
+  credit: "Jebulon / CC0 / Wikimedia Commons"
 ---
 
 Mount Vernon-area voters will help decide the direction of Virginia’s government in the Nov. 4, 2025, general election, with control of the governorship and House of Delegates at stake.

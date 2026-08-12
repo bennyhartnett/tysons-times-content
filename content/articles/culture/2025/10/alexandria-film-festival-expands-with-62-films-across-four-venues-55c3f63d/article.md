@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Alexandria Film Festival Expands With 62 Films Across Four Venues"
+  caption: "Alexandria Film Festival Expands With 62 Films Across Four Venues. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The 19th annual Alexandria Film Festival will present 62 selections in November, expanding its footprint with a new venue and an unusually strong showing from local and regional filmmakers.

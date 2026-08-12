@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Fairfax Voters Face High-Stakes Choices in Six House Races"
+  caption: "Fairfax Voters Face High-Stakes Choices in Six House Races. Openly licensed thematic image selected for this article."
+  credit: "European People's Party / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Northern Fairfax County voters will help decide Virginia’s political direction on Nov. 4, 2025, with control of the House of Delegates, three statewide offices and major policy disputes all on the ballot.

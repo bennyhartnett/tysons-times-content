@@ -10,10 +10,10 @@ tags:
   - "local"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Alexandria Honors Fallen Firefighters 170 Years After Deadly Blaze"
+  caption: "Alexandria Honors Fallen Firefighters 170 Years After Deadly Blaze. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria firefighters, city officials, retirees and families gathered at Ivy Hill Cemetery on Oct. 10 for the annual Fallen Firefighters Memorial Ceremony, honoring fire and EMS personnel who died in the line of duty and department members lost during the past year.

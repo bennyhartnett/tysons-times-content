@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A student laughs while bouncing balls in a parachute"
+  caption: "Military Family Honors Surge Across Fairfax Schools. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools reached a major milestone this fall, with nearly three-quarters of its schools now recognized for supporting military-connected students and their families.

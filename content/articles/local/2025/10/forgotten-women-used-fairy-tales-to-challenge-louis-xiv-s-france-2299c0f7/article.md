@@ -12,10 +12,10 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Forgotten Women Used Fairy Tales to Challenge Louis XIV’s France"
+  caption: "Forgotten Women Used Fairy Tales to Challenge Louis XIV’s France. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Jane Harrington’s new book, “Women of the Fairy Resistance,” restores seven French women whose magical stories quietly rebelled against the restrictive society of Louis XIV’s reign.
