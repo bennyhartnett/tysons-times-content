@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Goes Green With Weeks of St. Patrick’s Day Events"
+  caption: "Northern Virginia Goes Green With Weeks of St. Patrick’s Day Events. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Northern Virginia’s 2026 St. Patrick’s Day festivities stretch from March 7 through March 18, bringing parades, concerts, festivals, races, family activities and Irish food and drink specials to communities across the region.

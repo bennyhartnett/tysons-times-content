@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Home Renovation Firms Face Off in Readers’ Poll"
+  caption: "Fairfax Home Renovation Firms Face Off in Readers’ Poll. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents have two weeks to choose their favorite home renovation firm in a readers’ choice poll highlighting local contractors.

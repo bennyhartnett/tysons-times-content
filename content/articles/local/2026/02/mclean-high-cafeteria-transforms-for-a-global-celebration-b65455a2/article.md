@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean High Cafeteria Transforms for a Global Celebration"
+  caption: "McLean High Cafeteria Transforms for a Global Celebration. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School’s cafeteria came alive with food, music and traditional performances during International Night, bringing students, families and staff together to celebrate the school’s cultural diversity.

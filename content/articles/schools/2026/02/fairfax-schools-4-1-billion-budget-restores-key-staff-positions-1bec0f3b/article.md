@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools’ $4.1 Billion Budget Restores Key Staff Positions"
+  caption: "Fairfax Schools’ $4.1 Billion Budget Restores Key Staff Positions. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board adopted a proposed $4.1 billion fiscal 2027 budget on February 26, prioritizing employee compensation and the restoration of some positions cut during the previous budget cycle.

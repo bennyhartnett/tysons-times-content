@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 56-Home McLean Redevelopment Clears Key County Hurdle"
+  caption: "Proposed mixed-use project at 1368 Beverly Road in McLean (via KTGY /Fairfax County)"
+  credit: "Proposed mixed-use project at 1368 Beverly Road in McLean (via KTGY /Fairfax Co…"
 ---
 
 A plan to replace a small office complex in downtown McLean with 56 homes and ground-floor retail has secured the Fairfax County Planning Commission’s support, moving the mixed-use project closer to final approval.

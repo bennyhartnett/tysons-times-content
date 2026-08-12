@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Merrifield Overhaul Could Start With 156 Townhomes"
+  caption: "The proposed first phase of EYA’s Prosperity Business Campus redevelopment would include townhomes and a gateway park (via Design Collective/Fairfax County)"
+  credit: "The proposed first phase of EYA’s Prosperity Business Campus redevelopment woul…"
 ---
 
 A sweeping plan to replace an aging Merrifield office park with a residential neighborhood could begin with 156 townhouses, new streets and nearly four acres of open space.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for New Path Slashes Herndon Residents’ Metro Walk to Half a Mile"
+  caption: "New Path Slashes Herndon Residents’ Metro Walk to Half a Mile. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 A new shared-use path has dramatically shortened the trip from several Herndon neighborhoods to the Innovation Center Metrorail Station, replacing what had been a two- to three-mile walk or bike ride with a direct half-mile connection.

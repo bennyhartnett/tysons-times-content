@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Navy Yard Entrance Reopens 33 Days Early Before Spring Sports Rush"
+  caption: "Navy Yard Entrance Reopens 33 Days Early Before Spring Sports Rush. Openly licensed thematic image selected for this article."
+  credit: "N509FZ / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Metro has reopened Navy Yard station’s west entrance on Half Street 33 days ahead of schedule, restoring full access before peak spring traffic for events at Nationals Park and Audi Field.

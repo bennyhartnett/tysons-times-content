@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS’ $4.1 Billion Plan Would Restore Key Staff Positions"
+  caption: "FCPS’ $4.1 Billion Plan Would Restore Key Staff Positions. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 A $4.1 billion advertised budget for fiscal year 2027 won approval on Feb. 26, advancing a plan that prioritizes employee pay and begins restoring positions eliminated during the previous budget cycle.

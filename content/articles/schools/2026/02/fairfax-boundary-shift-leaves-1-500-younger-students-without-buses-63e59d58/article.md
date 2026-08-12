@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Boundary Shift Leaves 1,500 Younger Students Without Buses"
+  caption: "Fairfax Boundary Shift Leaves 1,500 Younger Students Without Buses. Openly licensed thematic image selected for this article."
+  credit: "Ohio State Highway Patrol / Public domain / Wikimedia Commons"
 ---
 
 About 1,500 Fairfax County elementary and middle school students may have to change schools or find their own transportation this fall following a divided school board vote.
