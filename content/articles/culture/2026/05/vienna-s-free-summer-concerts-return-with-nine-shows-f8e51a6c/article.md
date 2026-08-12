@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna’s Free Summer Concerts Return With Nine Shows"
+  caption: "Vienna’s Free Summer Concerts Return With Nine Shows."
+  credit: "Town of Vienna"
 ---
 
 Vienna’s Town Green will come alive with free music this summer, beginning with a 90-minute performance by the Sarah Swanner Band at 6:30 p.m. Friday, June 5.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A cab driver was killed and two other adults were seriously injured in a crash on Dec. 15, 2025."
+  caption: "A cab driver was killed and two other adults were seriously injured in a crash on Dec. 15, 2025."
+  credit: "A cab driver was killed and two other adults were seriously injured in a crash…"
 ---
 
 Pedestrian and cyclist deaths and serious injuries have risen sharply along Fairfax County’s Richmond Highway corridor, with 62 people killed or badly hurt over nine years, according to an analysis by Northern Virginia Families for Safe Streets. Twenty-two of those people died.

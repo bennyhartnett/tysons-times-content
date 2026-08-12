@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Korea’s Top Chicken Chain Lands in Arlington but Misses the Mark"
+  caption: "Korea’s Top Chicken Chain Lands in Arlington but Misses the Mark. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 BHC Chicken brought one of South Korea’s biggest fast-food brands to Virginia when it opened its first Arlington location May 15. The menu stretches beyond Korean fried chicken to tteokbokki, kimchi fried rice and chicken sandwiches, but the chain’s celebrated flavors deliver uneven results.

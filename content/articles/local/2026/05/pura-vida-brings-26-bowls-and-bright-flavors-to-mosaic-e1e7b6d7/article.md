@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Pura Vida Brings $26 Bowls and Bright Flavors to Mosaic"
+  caption: "Pura Vida Brings $26 Bowls and Bright Flavors to Mosaic. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Pura Vida Miami has opened its first Virginia location in Fairfax’s Mosaic District, pairing an inviting atmosphere and attentive service with prices that may make it more of an occasional stop than an everyday destination.

@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Harry Styles Overhauls Tour After Fans Slam Obstructed Views"
+  caption: "Harry Styles Overhauls Tour After Fans Slam Obstructed Views. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Harry Styles returned to touring this spring after a break of nearly three years, but his highly anticipated Together, Together stadium tour quickly ran into fierce criticism over obstructed views, costly tickets and performances some fans considered unfinished.

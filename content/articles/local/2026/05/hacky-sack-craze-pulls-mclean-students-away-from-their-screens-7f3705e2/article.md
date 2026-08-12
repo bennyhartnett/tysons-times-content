@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Hacky Sack Craze Pulls McLean Students Away From Their Screens"
+  caption: "Hacky Sack Craze Pulls McLean Students Away From Their Screens. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School students are putting down their phones and picking up a pastime that looks straight out of the 1980s and ’90s.

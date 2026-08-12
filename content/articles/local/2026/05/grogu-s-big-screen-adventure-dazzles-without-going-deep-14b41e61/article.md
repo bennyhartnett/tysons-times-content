@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Grogu’s Big-Screen Adventure Dazzles Without Going Deep"
+  caption: "Grogu’s Big-Screen Adventure Dazzles Without Going Deep. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *The Mandalorian and Grogu* favors spectacle over sophisticated storytelling, delivering colorful worlds, lively action and memorable creature designs while keeping its plot deliberately simple.

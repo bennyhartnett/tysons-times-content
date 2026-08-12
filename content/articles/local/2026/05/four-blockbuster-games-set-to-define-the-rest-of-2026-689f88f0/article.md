@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Four Blockbuster Games Set to Define the Rest of 2026"
+  caption: "Four Blockbuster Games Set to Define the Rest of 2026. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 The remainder of 2026 promises major releases for players across Nintendo Switch 2, PlayStation 5, Xbox Series X/S and PC. From a revived Nintendo classic to the long-awaited return of Grand Theft Auto, four titles headline the calendar.

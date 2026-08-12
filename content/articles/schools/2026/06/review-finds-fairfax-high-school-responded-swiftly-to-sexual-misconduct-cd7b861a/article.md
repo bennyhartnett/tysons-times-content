@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A black ink signature that reads Michelle C. Reid."
+  caption: "Review Finds Fairfax High School Responded Swiftly to Sexual Misconduct. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 An independent external legal investigation has concluded that Fairfax High School administrators acted promptly and appropriately after receiving reports of sexual misconduct involving former student Israel Flores Ortiz.

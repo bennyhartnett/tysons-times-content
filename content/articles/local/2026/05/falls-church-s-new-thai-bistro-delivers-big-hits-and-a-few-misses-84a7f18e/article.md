@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church’s New Thai Bistro Delivers Big Hits and a Few Misses"
+  caption: "Falls Church’s New Thai Bistro Delivers Big Hits and a Few Misses. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 My Home Thai Bistro may be one of Falls Church’s newest dining spots, but it has already attracted local attention with an inviting atmosphere, attentive service and a menu that ranges from excellent to underwhelming.
