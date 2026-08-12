@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "budget image"
+  caption: "Fairfax Schools’ $4.1 Billion Budget Would Restore Jobs and Ease Class Sizes. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools Superintendent Michelle C. Reid has proposed a $4.1 billion budget for fiscal year 2027 that would raise employee compensation, restore positions cut last year and partially reverse increases in class sizes.

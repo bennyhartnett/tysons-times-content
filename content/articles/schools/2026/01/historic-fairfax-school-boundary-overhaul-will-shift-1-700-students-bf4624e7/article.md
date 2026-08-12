@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Historic Fairfax School Boundary Overhaul Will Shift 1,700 Students"
+  caption: "Historic Fairfax School Boundary Overhaul Will Shift 1,700 Students. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County’s first divisionwide school boundary review in more than 40 years will reassign an estimated 1,700 students across 46 schools for the 2026-27 school year.

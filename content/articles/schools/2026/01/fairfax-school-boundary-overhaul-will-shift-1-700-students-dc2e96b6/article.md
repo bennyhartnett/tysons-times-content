@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Generic news graphic - green"
+  caption: "Fairfax School Boundary Overhaul Will Shift 1,700 Students. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board approved the school division’s first comprehensive boundary review in more than 40 years, adopting changes that will affect an estimated 1,700 students at 46 schools.

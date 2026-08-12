@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax School Boundary Shift Will Move 1,700 Students"
+  caption: "Fairfax School Boundary Shift Will Move 1,700 Students. Openly licensed thematic image selected for this article."
+  credit: "John Charlton / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 The Fairfax County School Board has approved boundary changes affecting about 1,700 students at 46 schools beginning in the 2026-27 school year.

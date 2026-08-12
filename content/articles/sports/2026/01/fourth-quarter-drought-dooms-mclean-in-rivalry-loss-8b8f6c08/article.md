@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fourth-Quarter Drought Dooms McLean in Rivalry Loss"
+  caption: "Fourth-Quarter Drought Dooms McLean in Rivalry Loss. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean stayed within striking distance of rival Langley through three quarters on Jan. 22, but a costly scoring drought in the fourth sent the Highlanders to a 50-40 road loss.

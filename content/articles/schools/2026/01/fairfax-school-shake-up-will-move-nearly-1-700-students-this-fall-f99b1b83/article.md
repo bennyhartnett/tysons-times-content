@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS board meeting"
+  caption: "The Fairfax County Public Schools holds a vote on Jan. 22, 2026, approving a proposal for new boundary changes affecting hundreds of Fairfax County students."
+  credit: "The Fairfax County Public Schools holds a vote on Jan. 22, 2026, approving a pr…"
 ---
 
 Hundreds of Fairfax County students will attend newly assigned schools this fall after the School Board approved its first comprehensive boundary overhaul in roughly 40 years.

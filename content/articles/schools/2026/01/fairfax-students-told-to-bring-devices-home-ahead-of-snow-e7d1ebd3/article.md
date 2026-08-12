@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Students Told to Bring Devices Home Ahead of Snow"
+  caption: "Fairfax Students Told to Bring Devices Home Ahead of Snow. Openly licensed thematic image selected for this article."
+  credit: "褒忠國中 雲端網 / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools is asking students to bring laptops, chargers, iPads, books and notebooks home on Friday as potentially significant winter weather approaches.

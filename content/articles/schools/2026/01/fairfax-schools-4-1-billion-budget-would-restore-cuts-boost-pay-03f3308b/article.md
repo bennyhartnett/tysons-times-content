@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools’ $4.1 Billion Budget Would Restore Cuts, Boost Pay"
+  caption: "Fairfax Schools’ $4.1 Billion Budget Would Restore Cuts, Boost Pay. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools’ proposed fiscal 2027 budget would begin reversing last year’s cuts while funding negotiated employee raises and several multiyear student programs.
