@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Library’s Old Books Earn New Life — and a State Honor"
+  caption: "Fairfax Library’s Old Books Earn New Life — and a State Honor. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Fairfax County Public Library has received an honorable mention in the 2026 Virginia Governor’s Environmental Excellence Awards for a program that resells or recycles books no longer suitable for its collection.

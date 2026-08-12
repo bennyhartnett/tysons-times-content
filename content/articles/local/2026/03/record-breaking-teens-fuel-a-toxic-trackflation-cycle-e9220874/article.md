@@ -11,9 +11,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Record-Breaking Teens Fuel a Toxic Trackflation Cycle"
+  caption: "Record-Breaking Teens Fuel a Toxic Trackflation Cycle. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 High school track and field records keep falling, but each extraordinary performance raises expectations for young runners whose own elite times can suddenly seem inadequate.

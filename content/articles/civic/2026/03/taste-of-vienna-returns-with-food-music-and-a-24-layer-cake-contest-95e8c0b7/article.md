@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Taste of Vienna Returns With Food, Music and a 24-Layer Cake Contest"
+  caption: "Taste of Vienna Returns With Food, Music and a 24-Layer Cake Contest. Openly licensed thematic image selected for this article."
+  credit: "Land Rover MENA / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Vienna restaurants will gather in one place for the 13th annual Taste of Vienna on April 25, 2025, from 11 a.m. to 8 p.m.

@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean History Society Ramps Up AP Prep After Capitol Trip"
+  caption: "McLean History Society Ramps Up AP Prep After Capitol Trip. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s History Honors Society closed the third quarter by expanding its collection of free study materials and taking its annual educational trip to the Library of Congress.

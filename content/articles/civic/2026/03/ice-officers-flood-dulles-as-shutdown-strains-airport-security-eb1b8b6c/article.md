@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "ICE officers patrol at Dulles Airport"
+  caption: "ICE officers patrol at Dulles Airport on March 24, 2026. (WTOP/Neal Augenstein)"
+  credit: "ICE officers patrol at Dulles Airport on March 24, 2026. (WTOP/Neal Augenstein)"
 ---
 
 About a dozen U.S. Immigration and Customs Enforcement officers were deployed to Dulles International Airport on Tuesday as President Donald Trump sought to reduce security-screening delays during the partial government shutdown.

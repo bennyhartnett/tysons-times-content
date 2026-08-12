@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Special Election Forces April Schedule Shake-Up at FCPS"
+  caption: "Special Election Forces April Schedule Shake-Up at FCPS. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 A special election affecting all Fairfax County Public Schools has prompted a change to the April calendar.

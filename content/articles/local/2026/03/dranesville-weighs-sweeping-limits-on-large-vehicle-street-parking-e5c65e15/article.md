@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dranesville Weighs Sweeping Limits on Large-Vehicle Street Parking"
+  caption: "Dranesville Weighs Sweeping Limits on Large-Vehicle Street Parking. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Fairfax County officials will hold a virtual public meeting April 7 to discuss a proposed community parking district that would restrict large vehicles, trailers and watercraft from parking on residential streets across part of the Dranesville District.

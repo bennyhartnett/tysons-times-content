@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students walk in groups with a school bus in the background"
+  caption: "Election Forces FCPS Calendar Shake-Up as Science Projects Advance. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A special election is prompting Fairfax County Public Schools to revise its April calendar, while students celebrate major science fair wins and prepare for summer internships, budget hearings and possible boundary changes.

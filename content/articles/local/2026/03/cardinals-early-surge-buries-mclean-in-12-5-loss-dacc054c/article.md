@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Cardinals’ Early Surge Buries McLean in 12-5 Loss"
+  caption: "Cardinals’ Early Surge Buries McLean in 12-5 Loss. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean entered its March 21 matchup against Gainesville with confidence after opening the season with a mercy-rule victory over Forest Park. But a promising start unraveled quickly as the Cardinals handed the Highlanders a 12-5 defeat.

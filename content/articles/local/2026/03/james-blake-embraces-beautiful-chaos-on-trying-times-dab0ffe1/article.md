@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for James Blake Embraces Beautiful Chaos on ‘Trying Times’"
+  caption: "James Blake Embraces Beautiful Chaos on ‘Trying Times’. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 James Blake takes a bold, unpredictable turn on *Trying Times*, his first self-released album. The record moves restlessly between electronic experimentation, classic R&B and pop while holding tight to its central tensions: love, anxiety and mortality.
