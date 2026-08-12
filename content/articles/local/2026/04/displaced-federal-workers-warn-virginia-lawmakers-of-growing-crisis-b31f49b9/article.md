@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Displaced Federal Workers Warn Virginia Lawmakers of Growing Crisis"
+  caption: "With new majorities in the Va. House and Senate, Democratic legislators are reaching out to recently released federal workers. YouTube screenshot of the Virginia State Legislature in Richmond. Courtesy WDBJ7."
+  credit: "Falls Church Independent"
 ---
 
 Former federal employees told Northern Virginia lawmakers on April 7 that abrupt job losses have left many struggling to find work, secure promised benefits and navigate a scattered network of assistance programs.

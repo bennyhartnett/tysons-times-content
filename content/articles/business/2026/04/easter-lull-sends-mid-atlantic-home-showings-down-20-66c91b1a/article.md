@@ -11,9 +11,9 @@ tags:
   - "virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Easter Lull Sends Mid-Atlantic Home Showings Down 20%"
+  caption: "Easter Lull Sends Mid-Atlantic Home Showings Down 20%. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Easter week brought a sharp slowdown in home-shopping activity across the Mid-Atlantic, with 62,454 showings recorded during the week ending April 5, 2026. That was 20.1% fewer than during the comparable week in 2025.

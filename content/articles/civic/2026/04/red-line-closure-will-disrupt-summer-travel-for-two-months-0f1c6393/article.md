@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Red Line Closure Will Disrupt Summer Travel for Two Months"
+  caption: "Red Line Closure Will Disrupt Summer Travel for Two Months. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro will suspend Red Line train service between North Bethesda and Friendship Heights from July 6 through Sept. 6 for major construction, closing rail access at Grosvenor-Strathmore, Medical Center and Bethesda.

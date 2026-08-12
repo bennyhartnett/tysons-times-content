@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Driftwood Will Preview Its Next Chapter at Jammin’ Java"
+  caption: "Driftwood Will Preview Its Next Chapter at Jammin’ Java. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Driftwood will bring two decades of musical chemistry—and a preview of its next album—to Jammin’ Java on April 17.

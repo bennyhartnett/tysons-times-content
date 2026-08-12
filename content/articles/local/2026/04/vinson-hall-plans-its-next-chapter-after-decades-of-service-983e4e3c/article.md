@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vinson Hall Plans Its Next Chapter After Decades of Service"
+  caption: "Vinson Hall Plans Its Next Chapter After Decades of Service. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A retirement community founded to support widows of sea service members is preparing for a new era in McLean, with campus renovations underway and leaders evaluating a potential $250 million repositioning project.

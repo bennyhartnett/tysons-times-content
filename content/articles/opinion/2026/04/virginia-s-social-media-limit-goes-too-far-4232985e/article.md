@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia’s Social Media Limit Goes Too Far"
+  caption: "Virginia’s Social Media Limit Goes Too Far. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia’s new social media restrictions may be intended to curb addiction among young people, but the state’s one-hour limit threatens minors’ constitutional rights without addressing the underlying problem.

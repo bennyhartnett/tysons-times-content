@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS Superintendent Dr. Michelle Reid watches as students at Lynbrook Elementary School study math and shapes in the school hallway."
+  caption: "FCPS Celebrates Student Success as Budget Decisions Loom. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools returned from spring break with a packed schedule of academic programs, student achievements, community events and budget discussions across the division.

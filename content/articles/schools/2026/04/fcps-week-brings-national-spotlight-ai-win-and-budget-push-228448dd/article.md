@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS teacher Sherisse Kenerson stands in front of a sign for The Kelly Clarkson Show."
+  caption: "FCPS Week Brings National Spotlight, AI Win and Budget Push. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools marked a packed spring week with national recognition for a Holmes Middle School teacher, a statewide artificial intelligence victory, athletic honors and a series of student, staff and community events.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County May Delay New Projects as Aging Buildings Falter"
+  caption: "Fiscal year 2027 capital improvement projects (via Fairfax County)"
+  credit: "Fiscal year 2027 capital improvement projects (via Fairfax County)"
 ---
 
 Fairfax County’s planning commissioners are urging county leaders to prioritize repairs to existing government buildings, even if that means postponing new construction.
