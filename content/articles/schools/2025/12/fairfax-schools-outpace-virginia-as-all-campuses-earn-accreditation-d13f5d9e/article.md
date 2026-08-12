@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid at the Vietnamese American Community Christmas Party at the Willston Multicultural Center."
+  caption: "Fairfax Schools Outpace Virginia as All Campuses Earn Accreditation. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools closed 2025 with every school fully accredited and three-quarters rated Distinguished or On Track under Virginia’s new School Performance and Support Framework.

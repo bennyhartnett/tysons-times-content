@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Happy Hours Stretch From Afternoon Deals to Midnight Bites"
+  caption: "Tysons Happy Hours Stretch From Afternoon Deals to Midnight Bites. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Happy hour around McLean and Tysons can mean wine flights beside a fireplace, half-price drafts at a neighborhood grill or late-night cocktails and globally inspired plates. Several restaurants run weekday specials, while others keep the deals going daily or well into the evening.

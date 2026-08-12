@@ -11,10 +11,10 @@ tags:
   - "schools"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Student handing a teacher a flower."
+  caption: "7 Ways Parents Can Build Lasting Gratitude in Children. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Holiday gifts and packed schedules can easily overshadow the meaning behind seasonal celebrations. Helping children recognize and appreciate the good things in their lives—large or small—can shift some of that stress toward joy while nurturing a habit that lasts beyond the holidays.

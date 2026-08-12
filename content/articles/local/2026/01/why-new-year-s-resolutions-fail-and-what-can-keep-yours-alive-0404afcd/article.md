@@ -11,9 +11,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Why New Year’s Resolutions Fail—and What Can Keep Yours Alive"
+  caption: "Why New Year’s Resolutions Fail—and What Can Keep Yours Alive. Openly licensed thematic image selected for this article."
+  credit: "KOWestfall / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 New Year’s resolutions often collapse after the first setback, but one lapse does not have to end the effort. Lasting self-improvement is an ongoing process, and mistakes can reveal what needs to change.

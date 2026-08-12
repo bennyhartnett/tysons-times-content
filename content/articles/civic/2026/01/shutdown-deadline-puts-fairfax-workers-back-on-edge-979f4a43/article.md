@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Shutdown Deadline Puts Fairfax Workers Back on Edge"
+  caption: "Shutdown Deadline Puts Fairfax Workers Back on Edge. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 Congress faces a Jan. 30 deadline to fund the federal government, and Rep. James Walkinshaw says preventing another shutdown is a top priority as lawmakers return to Washington.

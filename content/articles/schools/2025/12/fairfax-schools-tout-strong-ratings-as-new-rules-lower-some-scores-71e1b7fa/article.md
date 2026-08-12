@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid at the Claude Moore Charitable Foundation event"
+  caption: "Fairfax Schools Tout Strong Ratings as New Rules Lower Some Scores. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools closed its December classes with strong statewide performance results, new career-training investments and recognition for staff and students, even as changes to Virginia’s accountability system created fresh challenges for some schools.

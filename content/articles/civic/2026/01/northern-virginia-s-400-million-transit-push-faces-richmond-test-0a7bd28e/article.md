@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia’s $400 Million Transit Push Faces Richmond Test"
+  caption: "Tysons Community Alliance CEO Katie Cristol (screenshot via Northern Virginia Transportation Commission)"
+  credit: "Tysons Community Alliance CEO Katie Cristol (screenshot via Northern Virginia T…"
 ---
 
 Northern Virginia officials are preparing a statewide appeal for $400 million in new annual transit funding, arguing that the investment would strengthen Tysons and the broader commonwealth. But even with Democratic majorities in both General Assembly chambers, approval is far from certain.

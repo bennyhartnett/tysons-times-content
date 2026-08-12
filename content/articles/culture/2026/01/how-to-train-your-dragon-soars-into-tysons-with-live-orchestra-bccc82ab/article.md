@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for How to Train Your Dragon Soars Into Tysons With Live Orchestra"
+  caption: "How to Train Your Dragon Soars Into Tysons With Live Orchestra. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Fairfax Symphony Orchestra will bring *How to Train Your Dragon* to Capital One Hall in Tysons for a live-to-film performance on Saturday, March 14, at 7 p.m.

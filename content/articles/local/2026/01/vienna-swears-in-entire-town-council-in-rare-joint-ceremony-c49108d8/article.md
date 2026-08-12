@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Vienna Swears In Entire Town Council in Rare Joint Ceremony"
+  caption: "Vienna Swears In Entire Town Council in Rare Joint Ceremony. Openly licensed thematic image selected for this article."
+  credit: "Philadelphia City Council / Public domain / Wikimedia Commons"
 ---
 
 Vienna’s new Town Council term officially began Jan. 2, 2026, when Mayor Linda Colbert and all six councilmembers took the oath of office together—only the second such ceremony in the town’s history.

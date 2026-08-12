@@ -12,10 +12,10 @@ tags:
   - "environment"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Falls Church Touts a Year of Progress—and a New Symbol of Civic Pride"
+  caption: "Entrance to City Hall for the City of Falls Church at 300 Park Ave. Photo by Chris Jones."
+  credit: "Falls Church Independent"
 ---
 
 Falls Church marked 2025 with advances in governance, inclusivity, safety and sustainability, according to the city’s annual Year in Review released Dec. 19.
