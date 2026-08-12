@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Firefighter Brandon Winfield Dies After 20 Years of Service"
+  caption: "Fairfax Firefighter Brandon Winfield Dies After 20 Years of Service. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fairfax County firefighter Brandon Winfield died Thursday, Feb. 12, 2026, following a brief illness. He had served with the Fairfax County Fire and Rescue Department for 20 years.

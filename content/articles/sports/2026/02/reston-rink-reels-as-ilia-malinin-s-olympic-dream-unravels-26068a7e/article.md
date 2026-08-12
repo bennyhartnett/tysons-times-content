@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "fans react to Olympics"
+  caption: "Fans watch in shock as Ilia Malinin falls twice in the free skate final on Friday."
+  credit: "Fans watch in shock as Ilia Malinin falls twice in the free skate final on Frid…"
 ---
 
 Screams, tears and stunned silence swept through SkateQuest in Reston on Friday as supporters watched Fairfax native Ilia Malinin’s pursuit of Olympic gold collapse with two falls.

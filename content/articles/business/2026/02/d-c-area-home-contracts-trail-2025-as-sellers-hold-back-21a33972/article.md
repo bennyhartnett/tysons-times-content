@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying D.C.-Area Home Contracts Trail 2025 as Sellers Hold Back"
+  caption: "D.C.-Area Home Contracts Trail 2025 as Sellers Hold Back. Openly licensed thematic image selected for this article."
+  credit: "Eaton, M.S. / Public domain / Wikimedia Commons"
 ---
 
 Home-buying activity began recovering after the winter storm, but the Washington, D.C., metro market entered February with contracts, new listings and showings still trailing last year’s levels.

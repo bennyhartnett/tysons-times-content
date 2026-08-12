@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Barbershop Vote Nears Its Final Cut"
+  caption: "Fairfax Barbershop Vote Nears Its Final Cut. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County readers have two weeks to choose their favorite local barbershop in the Best Barbershop in Fairfax poll.

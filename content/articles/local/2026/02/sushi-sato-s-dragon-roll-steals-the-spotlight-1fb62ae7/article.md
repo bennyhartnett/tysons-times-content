@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sushi Sato’s Dragon Roll Steals the Spotlight"
+  caption: "Sushi Sato’s Dragon Roll Steals the Spotlight. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Sushi Sato, a Japanese restaurant that opened in Washington, D.C., late last year, pairs modern American touches with striking interior design and a fine-dining atmosphere.

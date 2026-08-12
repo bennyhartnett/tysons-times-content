@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for $166.8 Million Data Center Deal Could Reshape Police Training Campus"
+  caption: "The Fairfax County Police Department training campus at 3721 Stonecroft Blvd in Chantilly (via Fairfax County)"
+  credit: "The Fairfax County Police Department training campus at 3721 Stonecroft Blvd in…"
 ---
 
 A developer has offered Fairfax County $166.8 million for part of a Chantilly police training campus, potentially placing a future data center alongside redesigned law enforcement facilities.

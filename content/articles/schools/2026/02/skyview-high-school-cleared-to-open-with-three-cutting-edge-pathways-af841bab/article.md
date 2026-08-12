@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "photo of the front of the school"
+  caption: "Skyview High School Cleared to Open With Three Cutting-Edge Pathways. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County’s newest public high school officially has a name as it prepares to welcome as many as 1,000 students for the 2026-27 school year.

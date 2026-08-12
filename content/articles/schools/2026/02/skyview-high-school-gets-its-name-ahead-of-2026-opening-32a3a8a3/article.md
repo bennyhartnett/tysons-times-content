@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Skyview logo"
+  caption: "Skyview High School Gets Its Name Ahead of 2026 Opening. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County’s newest public high school officially has a name. The School Board voted unanimously on Feb. 12, 2026, to call the western Fairfax County campus Skyview High School.

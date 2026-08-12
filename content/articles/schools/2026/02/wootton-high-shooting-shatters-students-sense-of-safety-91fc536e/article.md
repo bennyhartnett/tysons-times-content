@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Wootton High Shooting Shatters Students’ Sense of Safety"
+  caption: "Wootton High Shooting Shatters Students’ Sense of Safety. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A 16-year-old student was shot during school hours at Thomas S. Wootton High School in Montgomery County, Maryland, on Monday, Feb. 9, unsettling students at Wootton and raising new concerns about school security in nearby communities.

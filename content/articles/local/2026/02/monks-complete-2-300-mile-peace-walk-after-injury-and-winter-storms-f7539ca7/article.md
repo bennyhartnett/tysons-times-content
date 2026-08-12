@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Monks Complete 2,300-Mile Peace Walk After Injury and Winter Storms"
+  caption: "Monks Complete 2,300-Mile Peace Walk After Injury and Winter Storms. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Nineteen Buddhist monks crossed Fairfax County beneath gray February skies this week, nearing the end of a 108-day pilgrimage that carried them 2,300 miles from Texas to Washington, D.C.
