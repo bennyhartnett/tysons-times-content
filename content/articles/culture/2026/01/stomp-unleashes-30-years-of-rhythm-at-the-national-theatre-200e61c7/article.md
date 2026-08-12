@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Stomp Unleashes 30 Years of Rhythm at the National Theatre"
+  caption: "Stomp Unleashes 30 Years of Rhythm at the National Theatre. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Stomp is marking its 30th anniversary with a high-energy tour that turns brooms, buckets, sinks and trash cans into musical instruments. The production arrives at the National Theatre for four performances Jan. 16–18, with shows at 7:30 p.m. Friday and Saturday and 2 p.m. Saturday and Sunday.

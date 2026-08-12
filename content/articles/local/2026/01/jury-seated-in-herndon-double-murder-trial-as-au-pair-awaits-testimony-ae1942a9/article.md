@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Banfield home in Herndon"
+  caption: "This Fairfax County, Virginia, house is the scene of a double killing, in which the husband and the family’s au pair have been charged. (WTOP/Luke Lukert)"
+  credit: "This Fairfax County, Virginia, house is the scene of a double killing, in which…"
 ---
 
 A Fairfax County jury has been selected for the aggravated murder trial of Brendan Banfield, the Herndon man prosecutors accuse of plotting with his family’s au pair to kill his wife and another man in 2023.

@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Chantilly’s New AI School Charges $65,000 a Year Without Teachers"
+  caption: "Chantilly’s New AI School Charges $65,000 a Year Without Teachers. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Alpha School opened in Chantilly on Oct. 13, 2025, offering elementary students an unconventional mix of artificial intelligence and hands-on learning.

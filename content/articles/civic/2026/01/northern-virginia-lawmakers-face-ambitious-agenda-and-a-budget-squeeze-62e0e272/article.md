@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Lawmakers Face Ambitious Agenda—and a Budget Squeeze"
+  caption: "Virginia Del. Marcus Simon (13th District) holding a \"Road to Richmond\" lunch at the Northern Virginia Association of Realtors’ offices in Fairfax, Wednesday, Jan. 7. Photo by Chris Jones."
+  credit: "Falls Church Independent"
 ---
 
 Virginia lawmakers are heading into the General Assembly session with plans to revisit vetoed legislation, advance four constitutional amendments and tackle issues ranging from housing to artificial intelligence. But a difficult budget outlook could prevent many proposals from moving forward.

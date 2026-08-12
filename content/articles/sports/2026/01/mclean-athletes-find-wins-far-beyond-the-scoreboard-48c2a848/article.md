@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Athletes Find Wins Far Beyond the Scoreboard"
+  caption: "McLean Athletes Find Wins Far Beyond the Scoreboard. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 High school sports can shape far more than a student’s performance on the field. At McLean, athletes and staff say participation can strengthen mental and emotional health, improve academic habits, build confidence and create a lasting sense of belonging.

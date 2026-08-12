@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Marshall Shuts Down McLean as Highlanders Await Rematch"
+  caption: "Marshall Shuts Down McLean as Highlanders Await Rematch. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Marshall controlled its Jan. 9 girls varsity basketball matchup against McLean from the opening possession, repeatedly stopping the Highlanders’ comeback attempts while building a decisive 24–10 advantage.

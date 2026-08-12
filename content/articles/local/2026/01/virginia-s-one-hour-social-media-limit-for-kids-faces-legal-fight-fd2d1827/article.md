@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia’s One-Hour Social Media Limit for Kids Faces Legal Fight"
+  caption: "Virginia’s One-Hour Social Media Limit for Kids Faces Legal Fight. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia now limits social media use to one hour per day for children younger than 16, though questions remain about enforcement, privacy and the law’s constitutionality.

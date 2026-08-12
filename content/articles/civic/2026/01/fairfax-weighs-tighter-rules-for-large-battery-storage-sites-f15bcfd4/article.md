@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Weighs Tighter Rules for Large Battery Storage Sites"
+  caption: "Battery Energy Storage System (photo by Dennis Schroeder/National Renewable Energy Laboratory, via Fairfax County)"
+  credit: "Battery Energy Storage System (photo by Dennis Schroeder/National Renewable Ene…"
 ---
 
 Fairfax County is considering new zoning restrictions for large-scale battery storage facilities, including minimum setbacks, noise studies and limits on where the systems can be built.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Residents Press Lawmakers to “Seize the Moment” in Richmond"
+  caption: "Elizabeth Lower-Basch speaks to legislators (screenshot via Fairfax County)"
+  credit: "Elizabeth Lower-Basch speaks to legislators (screenshot via Fairfax County)"
 ---
 
 Fairfax County residents sent nearly 20 state lawmakers to Richmond with an ambitious list of demands Saturday, pressing them to confront rising living costs, housing instability and gaps in essential services during Virginia’s 2026 legislative session.

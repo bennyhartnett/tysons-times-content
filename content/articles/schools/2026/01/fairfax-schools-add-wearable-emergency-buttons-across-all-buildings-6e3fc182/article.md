@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Three children embrace and smile for a photo."
+  caption: "Fairfax Schools Add Wearable Emergency Buttons Across All Buildings. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is installing a new emergency management system in every school building to help staff summon assistance faster and more discreetly during an emergency.
