@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Zach Bryan Takes a Bold Turn on His Sprawling Sixth Album"
+  caption: "Zach Bryan Takes a Bold Turn on His Sprawling Sixth Album. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After a two-year hiatus, Zach Bryan returns with *With Heaven On Top*, a 25-track album that expands his country sound without abandoning the vivid lyrics and acoustic foundation behind his rise.

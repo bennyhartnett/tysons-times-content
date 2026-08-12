@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Two blue ink signatures over a white background for Sandy Anderson, FCPS School Board Chair, and Michelle Reid, FCPS Superintendent."
+  caption: "Fairfax and Hayfield Football Programs Broke 2024 Eligibility Rules. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has concluded that the football programs at Hayfield Secondary School and Fairfax High School violated Virginia High School League rules in 2024, following an independent investigation into student athlete transfers and eligibility practices.

@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for D.C.’s Winter Clubhouse Puts 150 Vendors in the Spotlight"
+  caption: "D.C.’s Winter Clubhouse Puts 150 Vendors in the Spotlight. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 As other seasonal markets close for the year, D.C.’s Winter Clubhouse is extending the shopping season with more than 150 booths and an indoor escape from the January cold.

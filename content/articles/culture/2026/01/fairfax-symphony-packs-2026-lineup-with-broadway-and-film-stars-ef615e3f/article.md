@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Symphony Packs 2026 Lineup With Broadway and Film Stars"
+  caption: "Fairfax Symphony Packs 2026 Lineup With Broadway and Film Stars. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Fairfax Symphony Orchestra is filling the second half of its 2025–2026 season with Broadway performances, live film music, classical premieres and a musical journey through Europe.

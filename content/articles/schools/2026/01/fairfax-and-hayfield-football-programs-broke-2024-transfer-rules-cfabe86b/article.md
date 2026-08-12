@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax and Hayfield Football Programs Broke 2024 Transfer Rules"
+  caption: "Fairfax and Hayfield Football Programs Broke 2024 Transfer Rules. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Football programs at Hayfield Secondary School and Fairfax High School violated Virginia High School League rules in 2024, according to the results of an independent investigation into student-athlete transfers and eligibility practices.

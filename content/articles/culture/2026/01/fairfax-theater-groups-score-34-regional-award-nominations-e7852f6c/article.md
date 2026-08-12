@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Theater Groups Score 34 Regional Award Nominations"
+  caption: "Stephen Yednock as Max Bialystock in the Reston Community Players’ production of “The Producers” in spring 2025 (Heather Regan Photography via RCP)"
+  credit: "Stephen Yednock as Max Bialystock in the Reston Community Players’ production o…"
 ---
 
 Two Fairfax County community-theater companies earned a combined 34 nominations in the annual Washington Area Theatre Community Honors Awards, with Reston Community Players tying for the most nominations of any eligible troupe.

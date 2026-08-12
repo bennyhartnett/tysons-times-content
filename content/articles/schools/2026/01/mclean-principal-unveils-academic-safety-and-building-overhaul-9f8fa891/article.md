@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Principal Unveils Academic, Safety and Building Overhaul"
+  caption: "McLean Principal Unveils Academic, Safety and Building Overhaul. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School Principal Raven Jones outlined plans to expand academic support, strengthen campus security and address problems in the school’s nearly 70-year-old building during a Jan. 21 State of the School Address.

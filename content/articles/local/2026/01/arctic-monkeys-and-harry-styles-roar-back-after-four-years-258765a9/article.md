@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arctic Monkeys and Harry Styles Roar Back After Four Years"
+  caption: "Arctic Monkeys and Harry Styles Roar Back After Four Years. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After four-year breaks, Arctic Monkeys and Harry Styles returned Thursday, Jan. 22, with new singles that quickly climbed the charts and energized indie and pop-rock fans.

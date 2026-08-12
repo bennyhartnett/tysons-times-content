@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County Agrees to $1.1 Million Tysons Shooting Settlement"
+  caption: "Timothy McCree Johnson’s parents Melissa Johnson, center, and Timothy Walker, left, address reporters along with attorney Carl Crews, right, outside Fairfax County Public Safety Headquarters on March 22, 2023 (AP Photo/…"
+  credit: "Timothy McCree Johnson’s parents Melissa Johnson, center, and Timothy Walker, l…"
 ---
 
 Fairfax County has agreed to pay $1.1 million to settle wrongful death claims brought by the mother of Timothy McCree Johnson, the unarmed man fatally shot by a former county police officer outside Tysons Corner Center in February 2023.

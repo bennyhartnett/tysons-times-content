@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Meal Kits, Boundary Changes and Budget Plans Reshape the FCPS Week"
+  caption: "Meal Kits, Boundary Changes and Budget Plans Reshape the FCPS Week. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is offering student meal kits during two school closure days while families also face major updates involving school boundaries, the proposed fiscal 2027 budget and the delayed end of the second quarter.
