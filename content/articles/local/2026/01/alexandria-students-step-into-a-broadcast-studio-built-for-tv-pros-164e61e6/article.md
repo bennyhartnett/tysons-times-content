@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria Students Step Into a Broadcast Studio Built for TV Pros"
+  caption: "Alexandria Students Step Into a Broadcast Studio Built for TV Pros. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria City High School has opened a newly renovated television and broadcast studio designed to give students hands-on experience with the tools and routines used in professional media production.

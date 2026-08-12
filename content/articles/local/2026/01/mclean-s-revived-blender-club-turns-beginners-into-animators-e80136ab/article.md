@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Revived Blender Club Turns Beginners Into Animators"
+  caption: "McLean’s Revived Blender Club Turns Beginners Into Animators. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After nearly a year without meetings, McLean High School’s Blender Club has returned as a small but growing community where students create 3D models, render digital objects and produce animations.

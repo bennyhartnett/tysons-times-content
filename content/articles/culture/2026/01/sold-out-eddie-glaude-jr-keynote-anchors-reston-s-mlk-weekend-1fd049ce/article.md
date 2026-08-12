@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sold-Out Eddie Glaude Jr. Keynote Anchors Reston’s MLK Weekend"
+  caption: "Dr. Eddie Glaude Jr. | Image Credit: Reston Community Center"
+  credit: "TysonsToday"
 ---
 
 Reston’s 2026 celebration of Dr. Martin Luther King Jr. will feature three days of service, music and community programs, culminating in a sold-out keynote address by scholar and author Dr. Eddie Glaude Jr.

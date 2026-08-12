@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Alexandria Mentors Honored for Transforming Young Lives"
+  caption: "Five Alexandria Mentors Honored for Transforming Young Lives. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Five men whose leadership and service have strengthened Alexandria’s youth, families and neighborhoods received the 2025 Men of Courage Lifetime Achievement Awards on Dec. 6 at the Oswald Durant Center.

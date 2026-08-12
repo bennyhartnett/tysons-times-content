@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for AI and Accessibility Take Center Stage at CES 2026"
+  caption: "AI and Accessibility Take Center Stage at CES 2026. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Artificial intelligence, assistive technology and products ready for real-world use are commanding attention at CES 2026 in Las Vegas.

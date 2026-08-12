@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Burke Author’s Debut Novel Puts an Opera Star in Hitler’s Orbit"
+  caption: "Burke Author’s Debut Novel Puts an Opera Star in Hitler’s Orbit. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A celebrated opera singer faces pressure to perform for Adolf Hitler in “The Diva’s Daughter,” a historical novel by Burke resident Heather Walrath that examines the perilous collision of art and politics during the Nazi era.

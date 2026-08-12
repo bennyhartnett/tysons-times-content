@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Mom holding a thermometer next to a sick child."
+  caption: "Flu Surges Across Fairfax, Hitting Children and Schools Hard. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County is experiencing very high flu activity, with emergency departments and urgent care centers reporting an increase in flu-like illnesses—especially among children. Multiple outbreaks have also occurred in schools and elsewhere in the community.

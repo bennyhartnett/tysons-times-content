@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Behavioral Health Chief Tapped for Statewide Role"
+  caption: "Fairfax-Falls Church Community Services Board Executive Director Daryl Washington has been appointed commissioner of the Virginia Department of Behavioral Health and Developmental Services (courtesy Fairfax County)"
+  credit: "Fairfax-Falls Church Community Services Board Executive Director Daryl Washingt…"
 ---
 
 Fairfax County is preparing for a leadership change at its behavioral health agency after longtime executive director Daryl Washington accepted a position overseeing Virginia’s statewide system.

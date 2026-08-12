@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Opens 2026 With New Leadership, Safety Push and Flu Warning"
+  caption: "Fairfax Opens 2026 With New Leadership, Safety Push and Flu Warning. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County entered 2026 with a burst of community events, public-safety developments and local milestones, from Vienna’s anniversary kickoff to a two-alarm fire in Great Falls.
