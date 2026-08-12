@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Midyear Grades and College Decisions Push McLean Seniors to the Brink"
+  caption: "Midyear Grades and College Decisions Push McLean Seniors to the Brink. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 As the first semester draws to a close, McLean seniors are juggling fading academic motivation with the knowledge that their latest grades could influence college admissions decisions.

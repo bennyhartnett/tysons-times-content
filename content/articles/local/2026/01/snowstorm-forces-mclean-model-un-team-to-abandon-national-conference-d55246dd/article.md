@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Snowstorm Forces McLean Model UN Team to Abandon National Conference"
+  caption: "Snowstorm Forces McLean Model UN Team to Abandon National Conference. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Months of preparation for a major national Model UN conference were cut short when a winter storm forced McLean High School’s team to leave Philadelphia early.

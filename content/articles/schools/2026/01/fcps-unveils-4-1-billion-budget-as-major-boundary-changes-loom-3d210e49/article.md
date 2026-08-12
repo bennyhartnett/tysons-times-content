@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Father, mother, and daughter participating at the Volunteer Fairfax MLK Jr. Day of Service wearing Educate Fairfax shirts."
+  caption: "FCPS Unveils $4.1 Billion Budget as Major Boundary Changes Loom. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered a winter storm weekend after a consequential week that included a proposed $4.1 billion budget, approval of divisionwide boundary adjustments and major student achievements in science and aerospace research.

@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid speaking at a Family Vision Group meeting at Shrevewood Elementary School."
+  caption: "FCPS Unveils $4.1 Billion Budget as Boundary Changes Move Forward. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools advanced two major initiatives during a week filled with winter preparations, student achievements and community events: a proposed $4.1 billion budget and the approval of divisionwide boundary changes affecting about 1,700 students.

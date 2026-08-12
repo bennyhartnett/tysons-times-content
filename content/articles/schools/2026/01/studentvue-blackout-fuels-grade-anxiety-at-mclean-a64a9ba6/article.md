@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for StudentVue Blackout Fuels Grade Anxiety at McLean"
+  caption: "StudentVue Blackout Fuels Grade Anxiety at McLean. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Thousands of McLean students regularly use StudentVue to monitor their academic progress, but the portal becomes unavailable for an extended period after each quarter ends. The shutdown can leave students waiting until the following quarter to see final grades, including scores from late assignments and tests.

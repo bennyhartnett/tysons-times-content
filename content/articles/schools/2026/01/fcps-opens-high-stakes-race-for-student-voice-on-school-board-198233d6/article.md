@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County School Board crest"
+  caption: "FCPS Opens High-Stakes Race for Student Voice on School Board. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools students in grades 9 through 11 can apply to become the 2026 student representative to the School Board, an advisory role that gives students a voice in division leadership.

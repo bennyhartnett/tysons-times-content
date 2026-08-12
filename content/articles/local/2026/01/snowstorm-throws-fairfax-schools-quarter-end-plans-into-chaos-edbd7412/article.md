@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Snowstorm Throws Fairfax Schools’ Quarter-End Plans Into Chaos"
+  caption: "Snowstorm Throws Fairfax Schools’ Quarter-End Plans Into Chaos. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A powerful weekend snowstorm buried the D.C.-Maryland-Virginia region beneath roughly 7 to 8 inches of snow and about half an inch of ice, creating dangerous travel conditions and disrupting plans for the final days of the academic quarter.

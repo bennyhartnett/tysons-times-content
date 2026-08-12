@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Massive Potomac Sewage Spill Spares Fairfax Drinking Water"
+  caption: "A warning sign at the site of a massive pipe rupture, as sewage flows into the Potomac River, right, in Glen Echo, Md., Friday, Jan. 23, 2026 (AP Photo/Cliff Owen)"
+  credit: "FFXnow"
 ---
 
 A sewer pipe collapse sent an estimated 40 million gallons of wastewater per day into the Potomac River, but Fairfax Water says the spill has not affected drinking water quality or service for its customers.

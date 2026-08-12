@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for New Cat Lounge Pairs Relaxation With Adoption on Chain Bridge Road"
+  caption: "New Cat Lounge Pairs Relaxation With Adoption on Chain Bridge Road. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Meow Town Cat Lounge opened its doors Jan. 16, giving visitors a cozy place to unwind while helping adoptable cats become comfortable around people and find permanent homes.
