@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Idylwood Road Walkway Plan Could Affect Driveways, Trees and Utilities"
+  caption: "Fairfax County’s proposed walkway on Idylwood Road will extend from Idylwood Court to Hillside Drive (via Fairfax County Department of Transportation)"
+  credit: "Fairfax County’s proposed walkway on Idylwood Road will extend from Idylwood Co…"
 ---
 
 Fairfax County is seeking public feedback on a proposed $3.2 million walkway designed to improve pedestrian and bicycle access along Idylwood Road.

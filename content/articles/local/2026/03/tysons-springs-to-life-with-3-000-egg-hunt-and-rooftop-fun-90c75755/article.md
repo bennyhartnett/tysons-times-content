@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Springs to Life With 3,000-Egg Hunt and Rooftop Fun"
+  caption: "Tysons Springs to Life With 3,000-Egg Hunt and Rooftop Fun. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Capital One Center is launching a month of cherry blossom-themed dining, drinks, entertainment and outdoor recreation in Tysons, culminating in a major Easter celebration on Saturday, April 4.

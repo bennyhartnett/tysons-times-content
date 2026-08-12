@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Key Largo Trip Brings Climate Damage Into Focus for McLean Students"
+  caption: "Key Largo Trip Brings Climate Damage Into Focus for McLean Students. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A four-day journey to Key Largo, Florida, gave 45 McLean students an up-close look at marine life—and made the effects of environmental damage far more tangible.

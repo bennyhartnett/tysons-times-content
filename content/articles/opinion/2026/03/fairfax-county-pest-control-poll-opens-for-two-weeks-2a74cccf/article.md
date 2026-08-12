@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County Pest Control Poll Opens for Two Weeks"
+  caption: "Fairfax County Pest Control Poll Opens for Two Weeks. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents have two weeks to choose the area’s best pest control company in a Readers’ Choice Awards poll.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "exterior of a tall building"
+  caption: "Tysons Corner Center, located just outside the Washington, D.C. beltway in Fairfax County, Virginia."
+  credit: "Tysons Corner Center, located just outside the Washington, D.C. beltway in Fair…"
 ---
 
 A proposed Tysons casino faces broad opposition from Fairfax County supervisors, even as two potential locations emerge and some board members remain open to letting voters decide.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Design-Build Firm Marks 40 Years in Business"
+  caption: "Vienna Design-Build Firm Marks 40 Years in Business. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Commonwealth Home Design is celebrating four decades of designing, remodeling and building homes across Northern Virginia.

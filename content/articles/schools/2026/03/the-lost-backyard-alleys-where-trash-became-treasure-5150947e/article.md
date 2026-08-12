@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for The Lost Backyard Alleys Where Trash Became Treasure"
+  caption: "\"The really 'good stuff' was in neighborhood ash pits. Ours was the Cadillac of the species which I watched my dad build....\" Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 In the 1950s, alleys behind homes offered more than a route for garbage collection. For curious children, they were hunting grounds filled with discarded objects waiting to be repurposed.

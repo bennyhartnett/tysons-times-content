@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Erupts for 17 Runs to Avenge Langley Loss"
+  caption: "McLean Erupts for 17 Runs to Avenge Langley Loss. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s varsity baseball team answered an earlier loss to Langley with a 17-7 home victory March 26, ending the rematch in the fifth inning under the mercy rule.

@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Student poses in dance studio"
+  caption: "Mount Vernon Senior Turns Dance Into a Path Toward Healing. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Mount Vernon High School senior Kimberly Castaneda Gonzalez entered dance looking for a way to express herself. Four years later, the International Baccalaureate Dance program has influenced her academic interests, college plans and ambition to help children who have experienced abuse.

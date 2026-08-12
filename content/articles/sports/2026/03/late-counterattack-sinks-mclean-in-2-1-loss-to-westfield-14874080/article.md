@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Late Counterattack Sinks McLean in 2-1 Loss to Westfield"
+  caption: "Late Counterattack Sinks McLean in 2-1 Loss to Westfield. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s boys soccer team surrendered a decisive goal with 15 minutes remaining in a 2-1 loss to Westfield on March 26.
