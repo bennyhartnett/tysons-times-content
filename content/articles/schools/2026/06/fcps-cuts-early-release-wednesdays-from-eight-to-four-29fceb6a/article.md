@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Justice High School seniors walk the hall of Glen Forest Elementary School, which is lined by elementary kids."
+  caption: "FCPS Cuts Early-Release Wednesdays From Eight to Four. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools will reduce the number of elementary early-release Wednesdays from eight to four during the 2026-27 school year.

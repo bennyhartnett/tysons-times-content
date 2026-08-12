@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid speaking in front of a podium in a hallway at Mosaic Elementary School with students behind her."
+  caption: "Fairfax Schools Cap Year With Major Honors and a 50,000-Square-Foot Expansion. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered its final full week of the school year with graduations, national honors, student awards and the completion of a major elementary school renovation.

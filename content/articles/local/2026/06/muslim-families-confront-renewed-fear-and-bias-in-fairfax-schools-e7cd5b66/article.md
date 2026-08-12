@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Muslim Families Confront Renewed Fear and Bias in Fairfax Schools"
+  caption: "Muslim Families Confront Renewed Fear and Bias in Fairfax Schools. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Muslim students and families in Fairfax County say heightened tensions surrounding the Middle East have brought renewed discrimination, leading some community members to hide their identities or avoid displaying their culture.

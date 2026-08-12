@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Face a Summer Break Squeezed by Big Ambitions"
+  caption: "McLean Students Face a Summer Break Squeezed by Big Ambitions. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 As the 2026-27 school year nears its end, McLean High School students are confronting a frustrating reality: Their summer break may not offer enough time to recover, pursue academic opportunities and reconnect with family.

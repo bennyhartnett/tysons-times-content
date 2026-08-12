@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Mark Eid al-Adha With Faith, Family and Giving"
+  caption: "McLean Students Mark Eid al-Adha With Faith, Family and Giving. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Muslim students at McLean celebrated Eid al-Adha on May 28 with communal prayer, family gatherings and reflections on faith. The holiday is the second Eid of the year, following Eid al-Fitr, and coincides with the end of the annual Hajj pilgrimage during Dhul Hijjah.

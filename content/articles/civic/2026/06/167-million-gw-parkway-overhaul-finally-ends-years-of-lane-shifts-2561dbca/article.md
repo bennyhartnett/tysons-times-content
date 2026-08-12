@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for $167 Million GW Parkway Overhaul Finally Ends Years of Lane Shifts"
+  caption: "A portion of the rehabilitated George Washington Memorial Parkway during construction in 2024."
+  credit: "A portion of the rehabilitated George Washington Memorial Parkway during constr…"
 ---
 
 A four-year rehabilitation of the northern George Washington Memorial Parkway is complete, ending years of lane closures and shifting traffic patterns along one of the region’s busiest commuter routes.

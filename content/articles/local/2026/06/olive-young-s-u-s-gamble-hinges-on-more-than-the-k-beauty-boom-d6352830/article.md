@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Olive Young’s U.S. Gamble Hinges on More Than the K-Beauty Boom"
+  caption: "Olive Young’s U.S. Gamble Hinges on More Than the K-Beauty Boom. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Olive Young opened its first official U.S. store in Los Angeles on May 29, giving South Korea’s leading beauty retailer a physical foothold in a fast-growing American market.

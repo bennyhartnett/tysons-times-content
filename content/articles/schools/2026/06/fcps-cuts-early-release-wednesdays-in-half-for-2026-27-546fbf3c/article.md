@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Cuts Early-Release Wednesdays in Half for 2026-27"
+  caption: "FCPS Cuts Early-Release Wednesdays in Half for 2026-27."
+  credit: "Fairfax County Public Schools"
 ---
 
 Fairfax County Public Schools will reduce elementary early-release Wednesdays from eight to four during the 2026-27 school year, while also preparing families for a stricter cellphone policy, fall testing and several key calendar dates.

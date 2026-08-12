@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Oakton High School students wearing costumers performing a song from Anything Goes on stage."
+  caption: "FCPS Students and Shows Claim 27 Cappies Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools theater programs captured 27 honors at the 2026 Cappies Awards, including the top prizes for both play and musical.

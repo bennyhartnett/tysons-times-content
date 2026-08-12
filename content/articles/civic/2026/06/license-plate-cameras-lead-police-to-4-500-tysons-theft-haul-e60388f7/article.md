@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for License Plate Cameras Lead Police to $4,500 Tysons Theft Haul"
+  caption: "Clothes reportedly stolen from stores in Tysons and Merrifield on June 3, 2026 (courtesy FCPD)"
+  credit: "Clothes reportedly stolen from stores in Tysons and Merrifield on June 3, 2026…"
 ---
 
 Fairfax County police charged three teenagers after officers recovered more than $4,500 in merchandise allegedly stolen from clothing stores in Tysons and Merrifield on June 3.
