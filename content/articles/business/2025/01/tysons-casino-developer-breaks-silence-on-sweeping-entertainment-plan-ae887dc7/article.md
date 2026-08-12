@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Comstock is proposing to build a casino-anchored entertainment district on a vacant lot near the Adaire Apartments and Spring Hill Metro Station in Tysons (staff photo by..."
   caption: "Comstock is proposing to build a casino-anchored entertainment district on a vacant lot near the Adaire Apartments and Spring Hill Metro Station in Tysons (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

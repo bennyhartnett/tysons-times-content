@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Metropolitan Washington Airports Authority officials attend an event in Taipei, Taiwan (via MWAA)"
   caption: "Metropolitan Washington Airports Authority officials attend an event in Taipei, Taiwan (via MWAA)"
   credit: "FFXnow / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Flags fly at half-staff over the water fountain at Vienna’s Town Green (staff photo by Angela Woolsey)"
   caption: "Flags fly at half-staff over the water fountain at Vienna’s Town Green (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

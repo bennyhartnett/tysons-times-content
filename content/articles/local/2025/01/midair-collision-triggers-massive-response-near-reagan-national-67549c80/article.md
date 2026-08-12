@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Bare trees line the path to the “Ascent” sculpture at the Smithsonian Air and Space Museum’s Udvar-Hazy Center in Chantilly (staff photo by Angela Woolsey)"
   caption: "Bare trees line the path to the “Ascent” sculpture at the Smithsonian Air and Space Museum’s Udvar-Hazy Center in Chantilly (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

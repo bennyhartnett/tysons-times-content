@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "An emergency vehicle drives in the snow on Burke Lake Road around 8:30 a.m. on Jan. 6, 2025 (staff photo by Dave Facinoli)"
   caption: "An emergency vehicle drives in the snow on Burke Lake Road around 8:30 a.m. on Jan. 6, 2025 (staff photo by Dave Facinoli)"
   credit: "Dave Facinoli / FFXnow"

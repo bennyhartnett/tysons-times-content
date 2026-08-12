@@ -11,7 +11,7 @@ tags:
   - "arlington"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"At the end of my First Grade year, our teacher, Mrs. Ray, took us on a field trip to her house in the country. Then she toured us through a field full of wildflowers...\" Photo..."
   caption: "\"At the end of my First Grade year, our teacher, Mrs. Ray, took us on a field trip to her house in the country. Then she toured us through a field full of wildflowers...\" Photo courtesy Virginia Wildflower Seed Mix."
   credit: "Courtesy Virginia Wildflower Seed Mix."

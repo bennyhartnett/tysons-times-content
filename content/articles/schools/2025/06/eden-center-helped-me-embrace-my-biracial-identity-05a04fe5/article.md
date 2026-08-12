@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"After chùa, we would drive 30 minutes to Falls Church where the largest Vietnamese shopping center on the East coast, Eden center, was located.\" Entrance to Eden Center...."
   caption: "\"After chùa, we would drive 30 minutes to Falls Church where the largest Vietnamese shopping center on the East coast, Eden center, was located.\" Entrance to Eden Center. Facebook photo."
   credit: "Falls Church Independent / archived source image"

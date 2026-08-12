@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Response to airplane and helicopter crash in the Potomac near National Airport, as seen from Gravelly Point (staff photo by James Cullum from ARLnow)"
   caption: "Response to airplane and helicopter crash in the Potomac near National Airport, as seen from Gravelly Point (staff photo by James Cullum from ARLnow)"
   credit: "James Cullum from ARLnow / FFXnow"

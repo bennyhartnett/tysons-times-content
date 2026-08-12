@@ -11,7 +11,7 @@ tags:
   - "virginia"
   - "sports"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "coach kneels to talk to his team during a time out"
   caption: "Doug Craig crouches to talk to his team during a time out. Photo taken by Jordan Rosenberg."
   credit: "FCPS News / archived source image"

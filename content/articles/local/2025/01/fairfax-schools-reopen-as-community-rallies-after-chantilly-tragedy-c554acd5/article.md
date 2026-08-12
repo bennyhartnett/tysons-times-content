@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Two deer stand in a snowy front yard in Vienna (staff photo by Angela Woolsey)"
   caption: "Two deer stand in a snowy front yard in Vienna (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

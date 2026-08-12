@@ -11,7 +11,7 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Our Lady of the Angels School fire, 1958. Courtesy WTTW."
   caption: "Our Lady of the Angels School fire, 1958. Courtesy WTTW."
   credit: "Courtesy WTTW."

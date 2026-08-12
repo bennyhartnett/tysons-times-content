@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The tarmac at Dulles International Airport (staff photo by Angela Woolsey)"
   caption: "The tarmac at Dulles International Airport (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

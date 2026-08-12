@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Don't miss the 2025 Annual Egg Hunt at Cherry Hill Park this Saturday, April 19 at 9:15 a.m. On the same Saturday the 19th, the City will also celebrate Arbor Day and Mulch..."
   caption: "Don't miss the 2025 Annual Egg Hunt at Cherry Hill Park this Saturday, April 19 at 9:15 a.m. On the same Saturday the 19th, the City will also celebrate Arbor Day and Mulch Mania (see below). Photo courtesy Cherry..."
   credit: "Courtesy Cherry Hill Park."

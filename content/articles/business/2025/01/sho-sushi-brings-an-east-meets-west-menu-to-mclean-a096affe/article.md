@@ -11,7 +11,7 @@ tags:
   - "mclean"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The Japanese fusion restaurant Sho Sushi and Izakaya is coming to McLean (staff photo by Angela Woolsey)"
   caption: "The Japanese fusion restaurant Sho Sushi and Izakaya is coming to McLean (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

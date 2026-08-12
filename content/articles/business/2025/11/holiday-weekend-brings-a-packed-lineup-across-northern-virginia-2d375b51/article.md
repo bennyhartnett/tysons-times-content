@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "It's Broadway and the National Theatre! Don't miss Some Like It Hot, now through Dec. 7. Courtesy National Theatre."
   caption: "It's Broadway and the National Theatre! Don't miss Some Like It Hot, now through Dec. 7. Courtesy National Theatre."
   credit: "Courtesy National Theatre."

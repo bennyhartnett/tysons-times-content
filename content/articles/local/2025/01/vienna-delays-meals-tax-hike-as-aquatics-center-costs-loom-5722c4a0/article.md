@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The vacant Vienna Annex site in fall 2024 (photo by Amy Woolsey)"
   caption: "The vacant Vienna Annex site in fall 2024 (photo by Amy Woolsey)"
   credit: "FFXnow / archived source image"

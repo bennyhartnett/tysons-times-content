@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "business"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Missing Brown's Hardware yet? Sadly, they'll be closing April 1. Photo courtesy Christian Mirasol, Afar."
   caption: "Missing Brown's Hardware yet? Sadly, they'll be closing April 1. Photo courtesy Christian Mirasol, Afar."
   credit: "Courtesy Christian Mirasol, Afar."

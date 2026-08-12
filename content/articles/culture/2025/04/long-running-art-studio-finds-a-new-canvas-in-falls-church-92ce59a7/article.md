@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Courtesy Artworks Fine Art Studio."
   caption: "Courtesy Artworks Fine Art Studio."
   credit: "Courtesy Artworks Fine Art Studio."

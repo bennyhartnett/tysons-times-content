@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Mount Daniel Elementary School second-grade teacher Gail Bodner with her students at the People's House: White House Experience behind a reproduction of the Resolute Desk...."
   caption: "Mount Daniel Elementary School second-grade teacher Gail Bodner with her students at the People's House: White House Experience behind a reproduction of the Resolute Desk. Courtesy FCCPS."
   credit: "Courtesy FCCPS."

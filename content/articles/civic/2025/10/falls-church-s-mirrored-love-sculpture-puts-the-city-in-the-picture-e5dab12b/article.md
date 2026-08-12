@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Painter of the \"O,\" Bill Abel, (center with funky jacket, hat) reacts to unveiling of 'LOVE Letters' Sculpture next to City Hall, Oct. 22. Photo by Chris Jones."
   caption: "Painter of the \"O,\" Bill Abel, (center with funky jacket, hat) reacts to unveiling of 'LOVE Letters' Sculpture next to City Hall, Oct. 22. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

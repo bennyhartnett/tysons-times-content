@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Lawn chairs in the snow at the Mosaic District in Merrifield (staff photo by Angela Woolsey)"
   caption: "Lawn chairs in the snow at the Mosaic District in Merrifield (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

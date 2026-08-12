@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Coming to Mary Riley Styles Public Library, a Digital Archive of Falls Church History Room. Courtesy BKV Group."
   caption: "Coming to Mary Riley Styles Public Library, a Digital Archive of Falls Church History Room. Courtesy BKV Group."
   credit: "Courtesy BKV Group."

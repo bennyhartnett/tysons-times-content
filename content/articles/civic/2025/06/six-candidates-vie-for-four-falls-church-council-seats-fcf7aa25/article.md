@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Three office towers in Baileys Crossroads at 5203 Leesburg Pike have been \"adaptively reused\" into 675 \"flexidential\" apartments by Three Collective. Courtesy 3co."
   caption: "Three office towers in Baileys Crossroads at 5203 Leesburg Pike have been \"adaptively reused\" into 675 \"flexidential\" apartments by Three Collective. Courtesy 3co."
   credit: "Courtesy 3co."

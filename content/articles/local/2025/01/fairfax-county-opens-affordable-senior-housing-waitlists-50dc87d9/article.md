@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Lake Anne House in Reston (staff photo)"
   caption: "Lake Anne House in Reston (staff photo)"
   credit: "FFXnow / archived source image"

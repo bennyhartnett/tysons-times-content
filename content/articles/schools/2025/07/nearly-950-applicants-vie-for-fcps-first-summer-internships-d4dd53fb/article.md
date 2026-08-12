@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "students listening to orientation"
   caption: "Archived source image accompanying Nearly 950 Applicants Vie for FCPS’ First Summer Internships"
   credit: "FCPS News / archived source image"

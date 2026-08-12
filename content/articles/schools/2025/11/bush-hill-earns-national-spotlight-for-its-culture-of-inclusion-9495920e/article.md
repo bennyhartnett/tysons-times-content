@@ -11,7 +11,7 @@ tags:
   - "virginia"
   - "sports"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A boy looks up as he tosses a basketball in the air. A taller girl next to him looks on."
   caption: "ESPN and Special Olympics North America recognized Bush Hill Elementary School for the second time for its commitment to inclusivity."
   credit: "FCPS News / archived source image"

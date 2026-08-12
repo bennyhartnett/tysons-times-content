@@ -12,7 +12,7 @@ tags:
   - "local government"
   - "events"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "What Does Voting Mean to you ballot and photo of Annie E. Hall"
   caption: "Archived source image accompanying Northern Virginia Voting Rights Activists Take Center Stage"
   credit: "Fairfax County Public Library News and Events / archived source image"

@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "The FCPS community posing for a picture on Purple Up! Day"
   caption: "Archived source image accompanying Frost Middle Unveils Major Expansion as FCPS Faces $150 Million Gap"
   credit: "FCPS News / archived source image"

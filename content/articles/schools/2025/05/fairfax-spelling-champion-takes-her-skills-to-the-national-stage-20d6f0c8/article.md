@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A student smiles, holding a trophy in a school hallway."
   caption: "Nikita Ramakrishnan won the 2025 Fairfax County Spelling Bee in March. She's now heading to the Scripps National Spelling Bee."
   credit: "FCPS News / archived source image"

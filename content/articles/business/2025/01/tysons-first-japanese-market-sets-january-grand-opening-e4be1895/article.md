@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Marufuji Japanese Market is coming to Tysons Center 3 (staff photo by Angela Woolsey)"
   caption: "Marufuji Japanese Market is coming to Tysons Center 3 (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

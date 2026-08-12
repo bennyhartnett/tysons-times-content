@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Rachel coloring with students"
   caption: "Archived source image accompanying Four FCPS Assistant Principals Honored for Leadership That Reaches Beyond Classrooms"
   credit: "FCPS News / archived source image"

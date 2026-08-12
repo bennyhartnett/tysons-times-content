@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A sign displays the current cost of using the I-66 Express Lanes from Vaden Drive in Oakton (staff photo by Angela Woolsey)"
   caption: "A sign displays the current cost of using the I-66 Express Lanes from Vaden Drive in Oakton (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

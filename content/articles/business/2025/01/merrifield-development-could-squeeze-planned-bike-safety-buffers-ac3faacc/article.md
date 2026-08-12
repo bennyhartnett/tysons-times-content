@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Prosperity Avenue approaching the noise wall along I-66 in Merrifield (staff photo by Angela Woolsey)"
   caption: "Prosperity Avenue approaching the noise wall along I-66 in Merrifield (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

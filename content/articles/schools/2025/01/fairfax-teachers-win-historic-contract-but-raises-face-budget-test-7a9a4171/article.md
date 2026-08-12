@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The Fairfax County Public Schools administrative center in Merrifield (file photo)"
   caption: "The Fairfax County Public Schools administrative center in Merrifield (file photo)"
   credit: "FFXnow / archived source image"

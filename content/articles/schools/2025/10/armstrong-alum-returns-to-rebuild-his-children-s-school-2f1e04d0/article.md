@@ -11,7 +11,7 @@ tags:
   - "reston"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A dad shows his sons around a construction site, back hoe in the foreground"
   caption: "Archived source image accompanying Armstrong Alum Returns to Rebuild His Children’s School"
   credit: "FCPS News / archived source image"

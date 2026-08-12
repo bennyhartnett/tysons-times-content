@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"Blue brings me peace.\" Michael Lindsay with one of his blue-themed paintings. Courtesy FCA."
   caption: "\"Blue brings me peace.\" Michael Lindsay with one of his blue-themed paintings. Courtesy FCA."
   credit: "Courtesy FCA."

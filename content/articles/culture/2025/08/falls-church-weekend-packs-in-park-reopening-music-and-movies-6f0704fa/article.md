@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Play On! opens Tuesday, Aug. 12 at Signature Theatre. Courtesy Signature Theatre."
   caption: "Play On! opens Tuesday, Aug. 12 at Signature Theatre. Courtesy Signature Theatre."
   credit: "Courtesy Signature Theatre."

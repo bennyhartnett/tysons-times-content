@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Don't miss psychological thriller \"Fair Play\" at Capital One Tysons, extended through Sunday. Courtesy Capital One Tysons."
   caption: "Don't miss psychological thriller \"Fair Play\" at Capital One Tysons, extended through Sunday. Courtesy Capital One Tysons."
   credit: "Courtesy Capital One Tysons."

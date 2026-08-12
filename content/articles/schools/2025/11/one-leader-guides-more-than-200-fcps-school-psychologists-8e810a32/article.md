@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Donna smiles at a coworker"
   caption: "Archived source image accompanying One Leader Guides More Than 200 FCPS School Psychologists"
   credit: "FCPS News / archived source image"

@@ -11,7 +11,7 @@ tags:
   - "herndon"
   - "sports"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Braddock Elementary School students participate in a reading comprehension exercise."
   caption: "Braddock Elementary School students participate in a reading comprehension exercise."
   credit: "FCPS News / archived source image"

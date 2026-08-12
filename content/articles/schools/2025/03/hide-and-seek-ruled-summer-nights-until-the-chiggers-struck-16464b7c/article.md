@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"Who's not ready? Holler Aye!\" How much Hide and Seek did you play as a kid? Photo by Alex P."
   caption: "\"Who's not ready? Holler Aye!\" How much Hide and Seek did you play as a kid? Photo by Alex P."
   credit: "Falls Church Independent / archived source image"

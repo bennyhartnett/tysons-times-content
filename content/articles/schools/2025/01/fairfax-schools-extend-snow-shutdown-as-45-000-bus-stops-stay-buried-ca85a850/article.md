@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A Fairfax County Public School bus with snow on Jan. 6, 2025 (staff photo by Angela Woolsey)"
   caption: "A Fairfax County Public School bus with snow on Jan. 6, 2025 (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

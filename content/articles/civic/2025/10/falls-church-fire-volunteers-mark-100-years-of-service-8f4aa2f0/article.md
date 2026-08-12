@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Meet the Chief at Open House! Falls Church Volunteer Fire Department's first female Chief, retired Army Blackhawk helicopter pilot, Kelly Brown. Photo by Chris Jones."
   caption: "Meet the Chief at Open House! Falls Church Volunteer Fire Department's first female Chief, retired Army Blackhawk helicopter pilot, Kelly Brown. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

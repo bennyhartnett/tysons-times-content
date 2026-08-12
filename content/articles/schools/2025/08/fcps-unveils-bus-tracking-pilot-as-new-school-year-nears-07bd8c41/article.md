@@ -11,7 +11,7 @@ tags:
   - "tysons"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The display of a school bus tablet system showing navigation and student riders"
   caption: "Archived source image accompanying FCPS Unveils Bus-Tracking Pilot as New School Year Nears"
   credit: "FCPS News / archived source image"

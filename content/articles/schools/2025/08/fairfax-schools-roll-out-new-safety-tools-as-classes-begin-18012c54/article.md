@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Dr. Reid speaking with a military member."
   caption: "Archived source image accompanying Fairfax Schools Roll Out New Safety Tools as Classes Begin"
   credit: "FCPS News / archived source image"

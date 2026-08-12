@@ -11,7 +11,7 @@ tags:
   - "environment"
   - "events"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Salonga helps two students"
   caption: "Archived source image accompanying Justice High Teacher Wins Global Educator of the Year Honor"
   credit: "FCPS News / archived source image"

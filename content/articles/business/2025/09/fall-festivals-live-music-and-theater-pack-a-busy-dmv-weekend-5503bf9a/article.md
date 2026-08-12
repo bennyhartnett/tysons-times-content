@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Painter Jill Banks, 2018. Courtesy FCA."
   caption: "Painter Jill Banks, 2018. Courtesy FCA."
   credit: "Courtesy FCA."

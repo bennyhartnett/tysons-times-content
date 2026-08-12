@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A Fairfax County school bus in the snow (staff photo by Angela Woolsey)"
   caption: "A Fairfax County school bus in the snow (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

@@ -11,7 +11,7 @@ tags:
   - "arts"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "students in the lodge"
   caption: "Students hanging out in the Timberwolf Lodge."
   credit: "FCPS News / archived source image"

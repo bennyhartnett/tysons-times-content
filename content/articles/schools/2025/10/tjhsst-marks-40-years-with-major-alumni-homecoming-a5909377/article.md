@@ -11,7 +11,7 @@ tags:
   - "tysons"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A wide shot of TJHSST alumni and former staff members in the cafeteria."
   caption: "Alumni met with current and former TJHSST staff members during an Open House."
   credit: "FCPS News / archived source image"

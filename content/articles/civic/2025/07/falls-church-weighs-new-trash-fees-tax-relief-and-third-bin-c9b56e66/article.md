@@ -12,7 +12,7 @@ tags:
   - "business"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Could you use an \"Organics Bin\" for yard waste and composting? Courtesy City of Falls Church Solid Waste Task Force."
   caption: "Could you use an \"Organics Bin\" for yard waste and composting? Courtesy City of Falls Church Solid Waste Task Force."
   credit: "Courtesy City of Falls Church Solid Waste Task Force."

@@ -11,7 +11,7 @@ tags:
   - "herndon"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Three students grin excitedly. One is clapping her hands, another has both hands held to her mouth, eyes wide open."
   caption: "Syeda Fazeen Rizvi, Sidney Ide, and Clarissa Dantes react after winning the Real Food for Kids Culinary Challenge (photo courtesy: Real Food for Kids)"
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "An art wall designed by Dan Cheetham on 1950 Opportunity Way in the Reston Town Center expansion (staff photo by Angela Woolsey)"
   caption: "An art wall designed by Dan Cheetham on 1950 Opportunity Way in the Reston Town Center expansion (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

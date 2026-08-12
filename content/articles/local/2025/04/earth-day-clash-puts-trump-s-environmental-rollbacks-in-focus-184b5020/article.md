@@ -11,7 +11,7 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
   caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
   credit: "Tysons Times / AI illustration"

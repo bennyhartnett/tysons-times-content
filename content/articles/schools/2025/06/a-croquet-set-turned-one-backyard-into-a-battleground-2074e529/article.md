@@ -11,7 +11,7 @@ tags:
   - "business"
   - "events"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"The picture shows my next door neighbor, Bonnie, and me posing with the set after we’d practically worn it out.\" Photo courtesy Carol McEwen."
   caption: "\"The picture shows my next door neighbor, Bonnie, and me posing with the set after we’d practically worn it out.\" Photo courtesy Carol McEwen."
   credit: "Courtesy Carol McEwen."

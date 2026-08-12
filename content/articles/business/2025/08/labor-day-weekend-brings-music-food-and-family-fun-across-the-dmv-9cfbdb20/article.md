@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Enjoy the DC Jazz Festival this Labor Day weekend! Courtesy DCJazzFest."
   caption: "Enjoy the DC Jazz Festival this Labor Day weekend! Courtesy DCJazzFest."
   credit: "Courtesy DCJazzFest."

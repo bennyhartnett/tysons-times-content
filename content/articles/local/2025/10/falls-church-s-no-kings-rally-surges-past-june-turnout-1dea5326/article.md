@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"What I love is that it seems like we’ve had more families and young people than last time….\" Photo by Chris Jones."
   caption: "\"What I love is that it seems like we’ve had more families and young people than last time….\" Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

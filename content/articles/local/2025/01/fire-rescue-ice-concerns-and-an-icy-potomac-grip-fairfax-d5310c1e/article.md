@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A Silver Line Metro train passes the Adaire Apartments in Tysons (staff photo by Angela Woolsey)"
   caption: "A Silver Line Metro train passes the Adaire Apartments in Tysons (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

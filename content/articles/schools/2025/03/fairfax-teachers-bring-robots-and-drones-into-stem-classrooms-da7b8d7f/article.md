@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Desa Elwell works with power tools"
   caption: "Archived source image accompanying Fairfax Teachers Bring Robots and Drones Into STEM Classrooms"
   credit: "FCPS News / archived source image"

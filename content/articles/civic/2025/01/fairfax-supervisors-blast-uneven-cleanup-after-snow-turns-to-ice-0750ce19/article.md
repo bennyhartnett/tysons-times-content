@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Snow and ice cover Rupert Street in McLean on Jan. 8, 2025 (courtesy Jennifer Myers)"
   caption: "Snow and ice cover Rupert Street in McLean on Jan. 8, 2025 (courtesy Jennifer Myers)"
   credit: "Courtesy Jennifer Myers"

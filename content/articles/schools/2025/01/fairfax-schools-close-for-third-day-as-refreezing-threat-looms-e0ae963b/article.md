@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Fairfax County school buses lined up in the snow outside Vienna Elementary School (staff photo by Angela Woolsey)"
   caption: "Fairfax County school buses lined up in the snow outside Vienna Elementary School (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

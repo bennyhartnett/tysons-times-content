@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Don't miss Mariza at GMU's Center for the Performing Arts Nov. 16. Her career spans more than two decades and 30 platinum albums. Courtesy GMU."
   caption: "Don't miss Mariza at GMU's Center for the Performing Arts Nov. 16. Her career spans more than two decades and 30 platinum albums. Courtesy GMU."
   credit: "Courtesy GMU."

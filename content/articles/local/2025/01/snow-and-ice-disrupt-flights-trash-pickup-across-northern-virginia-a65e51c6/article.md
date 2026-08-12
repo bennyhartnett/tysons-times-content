@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Toy soldier flag hangs over a snowy Church Street in Vienna (staff photo by Angela Woolsey)"
   caption: "Toy soldier flag hangs over a snowy Church Street in Vienna (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

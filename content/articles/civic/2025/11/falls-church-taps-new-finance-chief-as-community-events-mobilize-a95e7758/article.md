@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Fairfax Tree Rescuers - PRISM will be holding a Week of Action (starting Nov. 9) in Falls Church and across Fairfax County dedicated to removing invasive species threatening..."
   caption: "Fairfax Tree Rescuers - PRISM will be holding a Week of Action (starting Nov. 9) in Falls Church and across Fairfax County dedicated to removing invasive species threatening trees. Courtesy Fairfax PRISM."
   credit: "Courtesy Fairfax PRISM."

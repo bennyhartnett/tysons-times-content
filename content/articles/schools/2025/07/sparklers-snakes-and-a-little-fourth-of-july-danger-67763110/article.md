@@ -11,7 +11,7 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Fourth of July sparklers: \"...we’d become more creative. I remember lighting a sparkler at both ends....\" Photo Courtesy Visit Southwest Michigan."
   caption: "Fourth of July sparklers: \"...we’d become more creative. I remember lighting a sparkler at both ends....\" Photo Courtesy Visit Southwest Michigan."
   credit: "Courtesy Visit Southwest Michigan."

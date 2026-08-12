@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Good crowd gathered at Viget to discuss housing issues and see Underhill's video premier. Photo by Chris Jones."
   caption: "Good crowd gathered at Viget to discuss housing issues and see Underhill's video premier. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"....One of our most important priorities as parents is to advocate for our kids. So, I will always keep that top of mind....\" On May 4, Dr. Terry J. Dade accepts appointment..."
   caption: "\"....One of our most important priorities as parents is to advocate for our kids. So, I will always keep that top of mind....\" On May 4, Dr. Terry J. Dade accepts appointment to succeed Dr. Peter Noonan on July 1, as..."
   credit: "Falls Church Independent / archived source image"

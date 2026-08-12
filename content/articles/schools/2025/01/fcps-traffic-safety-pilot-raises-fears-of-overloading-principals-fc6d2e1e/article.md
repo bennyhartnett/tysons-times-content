@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A crossing guard watches a crosswalk outside Daniels Run Elementary School in Fairfax City (staff photo by Angela Woolsey)"
   caption: "A crossing guard watches a crosswalk outside Daniels Run Elementary School in Fairfax City (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

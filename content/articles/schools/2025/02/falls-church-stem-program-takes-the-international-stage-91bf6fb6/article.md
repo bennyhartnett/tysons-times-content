@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Dr. Ray Wu-Rorrer (left) and Dr. Peter Mecca presenting at the 21st International Conference on Environmental, Cultural, Economic & Social Sustainability in Miami, Florida...."
   caption: "Dr. Ray Wu-Rorrer (left) and Dr. Peter Mecca presenting at the 21st International Conference on Environmental, Cultural, Economic & Social Sustainability in Miami, Florida. FCCPS Photo."
   credit: "Falls Church Independent / archived source image"

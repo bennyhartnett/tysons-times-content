@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Sunset Hills Road near the Reston Town Center Metro station (staff photo by Angela Woolsey)"
   caption: "Sunset Hills Road near the Reston Town Center Metro station (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Virginia Statehouse in Richmond. Photo by Ron Cogswell. Courtesy Environment Virginia."
   caption: "Virginia Statehouse in Richmond. Photo by Ron Cogswell. Courtesy Environment Virginia."
   credit: "Courtesy Environment Virginia."

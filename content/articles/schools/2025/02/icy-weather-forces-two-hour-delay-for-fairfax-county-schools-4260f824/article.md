@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "sports"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The surface of Wolftrap Creek turned to ice after snowstorms in January 2025 (staff photo by Angela Woolsey)"
   caption: "The surface of Wolftrap Creek turned to ice after snowstorms in January 2025 (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

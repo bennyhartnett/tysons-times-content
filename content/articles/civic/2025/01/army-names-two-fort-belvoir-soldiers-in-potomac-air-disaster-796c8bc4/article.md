@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "An American Airlines flight passes over nearly two dozen crosses near Gravelly Point, a tribute to the 67 victims of the mid-air collision over the Potomac River (staff photo..."
   caption: "An American Airlines flight passes over nearly two dozen crosses near Gravelly Point, a tribute to the 67 victims of the mid-air collision over the Potomac River (staff photo by James Jarvis)"
   credit: "James Jarvis / FFXnow"

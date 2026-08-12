@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Falls Church Antique Center's Owner Paul Quinn has served the community for over 40 years. Photo by Chris Jones."
   caption: "Falls Church Antique Center's Owner Paul Quinn has served the community for over 40 years. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

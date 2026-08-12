@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Photo by Chris Jones."
   caption: "Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

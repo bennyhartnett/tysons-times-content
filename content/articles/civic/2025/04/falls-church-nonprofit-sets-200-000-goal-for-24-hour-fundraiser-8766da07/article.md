@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Will you join the HopeToGrow campaign on April 30? Courtesy Comunidad."
   caption: "Will you join the HopeToGrow campaign on April 30? Courtesy Comunidad."
   credit: "Courtesy Comunidad."

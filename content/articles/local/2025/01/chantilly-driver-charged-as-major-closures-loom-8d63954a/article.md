@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Homes along Lake Audubon in Reston with snow on the ground (staff photo by Angela Woolsey)"
   caption: "Homes along Lake Audubon in Reston with snow on the ground (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

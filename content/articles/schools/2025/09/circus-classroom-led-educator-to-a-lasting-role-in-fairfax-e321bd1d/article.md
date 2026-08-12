@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A collage of photos featuring a man around the world, on a camel, in classrooms, in a desert, etc."
   caption: "Archived source image accompanying Circus Classroom Led Educator to a Lasting Role in Fairfax"
   credit: "FCPS News / archived source image"

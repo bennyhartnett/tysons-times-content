@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "local government"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Archived source image accompanying Thousands of Student Meals Delivered Despite Snow Closures"
   caption: "Archived source image accompanying Thousands of Student Meals Delivered Despite Snow Closures"
   credit: "FCPS News / archived source image"

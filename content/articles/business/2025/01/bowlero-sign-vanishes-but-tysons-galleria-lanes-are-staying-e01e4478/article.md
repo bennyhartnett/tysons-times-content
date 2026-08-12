@@ -10,7 +10,7 @@ tags:
   - "business"
   - "tysons"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Bowlero at Tysons Galleria shopping mall (staff photo)"
   caption: "Bowlero at Tysons Galleria shopping mall (staff photo)"
   credit: "FFXnow / archived source image"

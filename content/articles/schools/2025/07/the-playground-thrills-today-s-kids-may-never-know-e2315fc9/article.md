@@ -11,7 +11,7 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Kindergarten end-of-the-year party (1951) in southern Indiana. From the family photo album. Courtesy Carol McEwen."
   caption: "Kindergarten end-of-the-year party (1951) in southern Indiana. From the family photo album. Courtesy Carol McEwen."
   credit: "Courtesy Carol McEwen."

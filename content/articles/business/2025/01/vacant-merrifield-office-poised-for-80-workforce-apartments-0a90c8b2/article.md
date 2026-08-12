@@ -12,7 +12,7 @@ tags:
   - "development"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A vacant office building formerly occupied by Inova Health System at 2990 Telestar Court in Merrifield is being converted to affordable housing (staff photo by Angela Woolsey)"
   caption: "A vacant office building formerly occupied by Inova Health System at 2990 Telestar Court in Merrifield is being converted to affordable housing (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

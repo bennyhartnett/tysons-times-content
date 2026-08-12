@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Scaffolding has been erected around the U.S. Capitol for the 2025 presidential inauguration (staff photo by Angela Woolsey)"
   caption: "Scaffolding has been erected around the U.S. Capitol for the 2025 presidential inauguration (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Police and fire boats search the Potomac River after the Jan. 29 mid-air airplane and helicopter collision near Reagan National Airport with the crash site visible in the..."
   caption: "Police and fire boats search the Potomac River after the Jan. 29 mid-air airplane and helicopter collision near Reagan National Airport with the crash site visible in the background (staff photo by James Jarvis)"
   credit: "James Jarvis / FFXnow"

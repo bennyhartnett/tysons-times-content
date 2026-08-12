@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Fairfax politicians, Metro representatives, Rushmark Properties spokespeople, EYA officials, and City of Falls Church Mayor Letty Hardi (third from right) officially break..."
   caption: "Fairfax politicians, Metro representatives, Rushmark Properties spokespeople, EYA officials, and City of Falls Church Mayor Letty Hardi (third from right) officially break ground on Phase III of the West Falls..."
   credit: "Falls Church Independent / archived source image"

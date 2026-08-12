@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Library workers review books."
   caption: "Archived source image accompanying Beyond Books: How FCPS Libraries Keep Students Learning"
   credit: "FCPS News / archived source image"

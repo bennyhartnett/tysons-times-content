@@ -11,7 +11,7 @@ tags:
   - "sports"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Mary stands in the bleachers, wearing a sash and crown. Several medals dangle on the fence in front of her."
   caption: "Mary has competed in various national and international twirling competitions and championships."
   credit: "FCPS News / archived source image"

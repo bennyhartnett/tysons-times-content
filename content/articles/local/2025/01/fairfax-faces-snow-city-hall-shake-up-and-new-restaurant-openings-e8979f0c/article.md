@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A mound of snow blocks parking spaces in Merrifield’s Providence Place, formerly the Pan Am Shopping Center (photo by Susan Woolsey)"
   caption: "A mound of snow blocks parking spaces in Merrifield’s Providence Place, formerly the Pan Am Shopping Center (photo by Susan Woolsey)"
   credit: "FFXnow / archived source image"

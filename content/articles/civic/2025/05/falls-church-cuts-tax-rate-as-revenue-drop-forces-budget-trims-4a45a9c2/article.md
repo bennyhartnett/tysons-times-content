@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"We need to be a lot more nimble, and we need to be more prepared for the times ahead,\" Falls Church City Mayor Letty Hardi said before a formal Council vote on the City's..."
   caption: "\"We need to be a lot more nimble, and we need to be more prepared for the times ahead,\" Falls Church City Mayor Letty Hardi said before a formal Council vote on the City's cost-cutting FY '26 budget, May 12. YouTube..."
   credit: "Falls Church Independent / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Courtesy participating restaurant Borek-G at 315 S. Maple St., City of Falls Church."
   caption: "Courtesy participating restaurant Borek-G at 315 S. Maple St., City of Falls Church."
   credit: "Courtesy participating restaurant Borek-G at 315 S. Maple St., City of Falls..."

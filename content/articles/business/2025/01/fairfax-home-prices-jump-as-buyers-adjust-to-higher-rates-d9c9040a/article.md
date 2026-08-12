@@ -12,7 +12,7 @@ tags:
   - "transportation"
   - "local government"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A row of townhouses in Merrifield (staff photo by Angela Woolsey)"
   caption: "A row of townhouses in Merrifield (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

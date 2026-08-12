@@ -11,7 +11,7 @@ tags:
   - "arlington"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A student takes a school test (via Ben Mullins on Unsplash)"
   caption: "A student takes a school test (via Ben Mullins on Unsplash)"
   credit: "FFXnow / archived source image"

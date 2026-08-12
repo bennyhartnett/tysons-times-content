@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Guess what's going to be inside Founders Row? Architectural rendering of Paragon Theater entrance. Courtesy Paragon."
   caption: "Guess what's going to be inside Founders Row? Architectural rendering of Paragon Theater entrance. Courtesy Paragon."
   credit: "Courtesy Paragon."

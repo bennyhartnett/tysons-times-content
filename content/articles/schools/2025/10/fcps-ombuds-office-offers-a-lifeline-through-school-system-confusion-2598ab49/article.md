@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Two women talk at a networking event"
   caption: "Archived source image accompanying FCPS Ombuds Office Offers a Lifeline Through School System Confusion"
   credit: "FCPS News / archived source image"

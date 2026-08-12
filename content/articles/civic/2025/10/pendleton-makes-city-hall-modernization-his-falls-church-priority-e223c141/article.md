@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Brian Pendleton speaking at the CBC, FCF Candidate Forum, Oct. 22. YouTube screen capture."
   caption: "Brian Pendleton speaking at the CBC, FCF Candidate Forum, Oct. 22. YouTube screen capture."
   credit: "Falls Church Independent / archived source image"

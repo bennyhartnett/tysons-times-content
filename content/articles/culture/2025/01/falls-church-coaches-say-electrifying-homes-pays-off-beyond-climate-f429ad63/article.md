@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Photo of Powerpoint slide from Go Electric DMV."
   caption: "Photo of Powerpoint slide from Go Electric DMV."
   credit: "Falls Church Independent / archived source image"

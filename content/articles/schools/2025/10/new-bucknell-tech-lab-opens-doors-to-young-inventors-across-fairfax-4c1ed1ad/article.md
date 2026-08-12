@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Smiling students sit around a table working together on an engineering project."
   caption: "Students at Bucknell Elementary School in Alexandria are lucky to have the Thinkabit lab on site."
   credit: "FCPS News / archived source image"

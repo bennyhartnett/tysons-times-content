@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "\"Another southerner told how they’d encourage visitor kids from up north to play with Spanish Moss...\" Photo by Lynett Walther, courtesy St. Augustine.com."
   caption: "\"Another southerner told how they’d encourage visitor kids from up north to play with Spanish Moss...\" Photo by Lynett Walther, courtesy St. Augustine.com."
   credit: "Courtesy St. Augustine.com."

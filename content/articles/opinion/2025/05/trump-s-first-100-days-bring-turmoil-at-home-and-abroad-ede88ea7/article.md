@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "\"El Salvador's president has offered to incarcerate criminals deported from the U.S. at The Terrorism Confinement Center, a mega-prison intentionally isolated from urban areas..."
   caption: "\"El Salvador's president has offered to incarcerate criminals deported from the U.S. at The Terrorism Confinement Center, a mega-prison intentionally isolated from urban areas that can accommodate up to 40,000..."
   credit: "Falls Church Independent / archived source image"

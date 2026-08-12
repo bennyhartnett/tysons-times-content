@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "A picture containing grass, sky, outdoor AI-generated content may be incorrect."
   caption: "Archived source image accompanying Springfield’s Summer Calendar Packs in Concerts, Festivals and Milestones"
   credit: "Connection Newspapers / archived source image"

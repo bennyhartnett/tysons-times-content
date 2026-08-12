@@ -11,7 +11,7 @@ tags:
   - "vienna"
   - "development"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "A group of students and a teachers' aide hunch over laptops at a library table."
   caption: "The Vienna.i.Lab teaches students foundational concepts that help them better understand how artificial intelligence works."
   credit: "FCPS News / archived source image"

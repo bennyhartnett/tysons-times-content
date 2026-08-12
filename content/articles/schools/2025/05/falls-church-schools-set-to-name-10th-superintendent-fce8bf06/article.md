@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "falls church"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The Falls Church City School Board will announce and officially welcome the City's Tenth Superintendent of Schools this evening, May 5, at Meridian H.S. Members (l-r): Amie..."
   caption: "The Falls Church City School Board will announce and officially welcome the City's Tenth Superintendent of Schools this evening, May 5, at Meridian H.S. Members (l-r): Amie Murphy, Anne Sherwood (second row), Dr...."
   credit: "Courtesy FCCPS."

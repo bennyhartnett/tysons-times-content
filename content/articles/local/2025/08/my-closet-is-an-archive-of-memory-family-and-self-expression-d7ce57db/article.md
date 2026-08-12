@@ -10,7 +10,7 @@ tags:
   - "local"
   - "schools"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "\"I like to think that my love for fashion began long before I entered the world....\" Courtesy New York Vintage."
   caption: "\"I like to think that my love for fashion began long before I entered the world....\" Courtesy New York Vintage."
   credit: "Courtesy New York Vintage."

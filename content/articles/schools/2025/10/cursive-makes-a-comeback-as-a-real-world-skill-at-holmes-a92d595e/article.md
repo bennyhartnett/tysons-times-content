@@ -11,7 +11,7 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A student smiles as she points to a whiteboard covered in the cursive letter \"h.\""
   caption: "Students practice cursive handwriting on whiteboards and in worksheets."
   credit: "FCPS News / archived source image"

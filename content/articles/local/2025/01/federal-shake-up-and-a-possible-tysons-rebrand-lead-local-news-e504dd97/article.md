@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A Fairfax Connector bus passes the Idylwood Towers Condominiums (staff photo by Angela Woolsey)"
   caption: "A Fairfax Connector bus passes the Idylwood Towers Condominiums (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

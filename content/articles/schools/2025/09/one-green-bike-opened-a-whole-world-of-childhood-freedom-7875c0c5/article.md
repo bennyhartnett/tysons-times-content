@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "transportation"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "\"I’d chat with Mrs. McCool while making my purchase and eat the ice cream before I got back on my bike, since the wind melted it faster....\" Author not in photo. Courtesy Delish."
   caption: "\"I’d chat with Mrs. McCool while making my purchase and eat the ice cream before I got back on my bike, since the wind melted it faster....\" Author not in photo. Courtesy Delish."
   credit: "Courtesy Delish."

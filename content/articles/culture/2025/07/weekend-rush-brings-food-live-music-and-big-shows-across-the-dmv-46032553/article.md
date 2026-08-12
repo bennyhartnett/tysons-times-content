@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Archived source image accompanying Weekend Rush Brings Food, Live Music and Big Shows Across the DMV"
   caption: "Archived source image accompanying Weekend Rush Brings Food, Live Music and Big Shows Across the DMV"
   credit: "Falls Church Independent / archived source image"

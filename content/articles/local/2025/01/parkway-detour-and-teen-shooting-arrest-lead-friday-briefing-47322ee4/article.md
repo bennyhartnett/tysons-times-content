@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A “No Outlet” sign has fallen near a street curb in Vienna still blocked by snow (staff photo by Angela Woolsey)"
   caption: "A “No Outlet” sign has fallen near a street curb in Vienna still blocked by snow (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

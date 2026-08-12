@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Co-Founder and Owner of Rare Bird Coffee Roasters Lara Berenji stands before the local artworks on display in the café. Photo by Chris Jones."
   caption: "Co-Founder and Owner of Rare Bird Coffee Roasters Lara Berenji stands before the local artworks on display in the café. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

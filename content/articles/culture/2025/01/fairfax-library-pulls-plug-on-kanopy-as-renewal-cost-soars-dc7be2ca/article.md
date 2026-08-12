@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "local government"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A screenshot of Kanopy’s homepage for Fairfax County Public Library users (via Kanopy)"
   caption: "A screenshot of Kanopy’s homepage for Fairfax County Public Library users (via Kanopy)"
   credit: "FFXnow / archived source image"

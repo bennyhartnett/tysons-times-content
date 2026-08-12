@@ -12,7 +12,7 @@ tags:
   - "transportation"
   - "local government"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Archived source image accompanying Fairfax Library Smashes 4 Million Digital Loans for First Time"
   caption: "Archived source image accompanying Fairfax Library Smashes 4 Million Digital Loans for First Time"
   credit: "Fairfax County Public Library News and Events / archived source image"

@@ -11,7 +11,7 @@ tags:
   - "springfield"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Hundreds of students raise their hands. They're looking at an astronaut in a blue jumpsuit, raising his left hand while holding a microphone in his right."
   caption: "“Is there anybody here who thinks that someday they might want to go to space?” Many students at North Springfield Elementary School raised their hands."
   credit: "FCPS News / archived source image"

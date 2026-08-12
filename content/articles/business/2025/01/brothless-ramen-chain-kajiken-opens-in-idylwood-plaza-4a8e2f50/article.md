@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Kajiken in the Idylwood Plaza shopping center (staff photo by Jared Serre)"
   caption: "Kajiken in the Idylwood Plaza shopping center (staff photo by Jared Serre)"
   credit: "Jared Serre / FFXnow"

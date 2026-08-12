@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "local government"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Asif William Rahman, a Vienna resident and CIA analyst, has been charged with leaking classified information assessing Israel’s earlier plans to attack Iran. (Guam Department..."
   caption: "Asif William Rahman, a Vienna resident and CIA analyst, has been charged with leaking classified information assessing Israel’s earlier plans to attack Iran. (Guam Department of Corrections via AP)"
   credit: "FFXnow / archived source image"

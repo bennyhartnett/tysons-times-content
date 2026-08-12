@@ -11,7 +11,7 @@ tags:
   - "business"
   - "sports"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "A high school track star coaches the younger children in the relay."
   caption: "A West Potomac track star coaches the Hybla Valley students in relay."
   credit: "FCPS News / archived source image"

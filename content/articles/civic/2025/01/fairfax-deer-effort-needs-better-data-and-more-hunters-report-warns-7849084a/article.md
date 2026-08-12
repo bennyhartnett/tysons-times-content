@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A deer crosses an asphalt trail through Vienna’s Wildwood Park (staff photo by Angela Woolsey)"
   caption: "A deer crosses an asphalt trail through Vienna’s Wildwood Park (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

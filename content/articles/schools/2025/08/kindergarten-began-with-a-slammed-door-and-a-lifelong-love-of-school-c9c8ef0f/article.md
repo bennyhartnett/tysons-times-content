@@ -11,7 +11,7 @@ tags:
   - "development"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"No wonder I’m smiling so happily in this photo taken on my first day of First Grade....\" Courtesy Carol McEwen."
   caption: "\"No wonder I’m smiling so happily in this photo taken on my first day of First Grade....\" Courtesy Carol McEwen."
   credit: "Courtesy Carol McEwen."

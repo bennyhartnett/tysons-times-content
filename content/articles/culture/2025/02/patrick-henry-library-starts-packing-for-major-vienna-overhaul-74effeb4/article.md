@@ -12,7 +12,7 @@ tags:
   - "development"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Inside Patrick Henry Library in Vienna (staff photo by Angela Woolsey)"
   caption: "Inside Patrick Henry Library in Vienna (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

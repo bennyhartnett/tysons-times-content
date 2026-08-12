@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"I think she's a natural-born leader and advocate....\" Mawuli Vodi (facing camera). Photo by Chris Jones."
   caption: "\"I think she's a natural-born leader and advocate....\" Mawuli Vodi (facing camera). Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

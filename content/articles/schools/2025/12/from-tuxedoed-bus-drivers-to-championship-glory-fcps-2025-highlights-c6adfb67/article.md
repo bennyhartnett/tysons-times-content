@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Two female students in dark blue scrubs groom a dog."
   caption: "Archived source image accompanying From Tuxedoed Bus Drivers to Championship Glory: FCPS’ 2025 Highlights"
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Courtesy National Portrait Gallery. Photo by Norwood Photography."
   caption: "Courtesy National Portrait Gallery. Photo by Norwood Photography."
   credit: "Courtesy National Portrait Gallery. Photo by Norwood Photography."

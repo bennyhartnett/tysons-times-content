@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "northern virginia"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A student wearing glasses and a blue hoodie holds up a gold-colored puzzle cube."
   caption: "Irving Middle School's Sai Charan Kintali recently set an American record for solving 50 puzzle cubes in less than 7 minutes."
   credit: "FCPS News / archived source image"

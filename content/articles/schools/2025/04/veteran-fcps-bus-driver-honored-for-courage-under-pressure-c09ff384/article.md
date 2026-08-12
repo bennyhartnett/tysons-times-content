@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Tashima works the bus lift"
   caption: "Archived source image accompanying Veteran FCPS Bus Driver Honored for Courage Under Pressure"
   credit: "FCPS News / archived source image"

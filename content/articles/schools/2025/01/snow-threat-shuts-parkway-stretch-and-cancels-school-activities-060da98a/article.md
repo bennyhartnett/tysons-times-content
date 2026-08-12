@@ -11,7 +11,7 @@ tags:
   - "mclean"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Snow along Wolftrap Creek in Vienna (staff photo by Angela Woolsey)"
   caption: "Snow along Wolftrap Creek in Vienna (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

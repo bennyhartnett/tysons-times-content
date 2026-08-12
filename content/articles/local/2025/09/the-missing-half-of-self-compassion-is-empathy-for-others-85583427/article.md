@@ -10,7 +10,7 @@ tags:
   - "local"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"...research findings suggest the well-being benefits you receive from self-compassion depend on whether you also show compassion for others...\" Photo by Alexander Suhorucov."
   caption: "\"...research findings suggest the well-being benefits you receive from self-compassion depend on whether you also show compassion for others...\" Photo by Alexander Suhorucov."
   credit: "Falls Church Independent / archived source image"

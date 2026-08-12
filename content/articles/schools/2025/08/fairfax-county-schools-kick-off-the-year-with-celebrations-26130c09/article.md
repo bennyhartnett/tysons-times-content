@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Middle school students embrace and pose for a photo"
   caption: "First day vibes at Carson Middle School! These bright smiles and warm hugs are kicking off the school year with friendship, fun, and fresh starts."
   credit: "FCPS News / archived source image"

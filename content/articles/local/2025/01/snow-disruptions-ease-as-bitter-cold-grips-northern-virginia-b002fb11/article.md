@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Maple Avenue in Vienna lined with snow (staff photo by Angela Woolsey)"
   caption: "Maple Avenue in Vienna lined with snow (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

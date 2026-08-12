@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "arlington"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"The second tale is one about childhood greed and was told to me by my long-time friend, Alyce.....\" Courtesy Paul Holbrook on Facebook."
   caption: "\"The second tale is one about childhood greed and was told to me by my long-time friend, Alyce.....\" Courtesy Paul Holbrook on Facebook."
   credit: "Courtesy Paul Holbrook on Facebook."

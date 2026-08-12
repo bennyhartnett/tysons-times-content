@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "northern virginia"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "\"I often chose chocolate-covered vanilla ice cream on a stick, called a 'Smoozie.'\" Courtesy Good Humor."
   caption: "\"I often chose chocolate-covered vanilla ice cream on a stick, called a 'Smoozie.'\" Courtesy Good Humor."
   credit: "Courtesy Good Humor."

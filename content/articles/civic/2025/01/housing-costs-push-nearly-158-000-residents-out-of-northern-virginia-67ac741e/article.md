@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The Vienna Market condominium townhomes from across Maple Avenue (staff photo by Angela Woolsey)"
   caption: "The Vienna Market condominium townhomes from across Maple Avenue (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

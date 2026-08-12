@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "two interns work at a desk on their laptops"
   caption: "Office of Student Activities and Athletics interns Maya Perez (left) and Luke Huffman."
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "June 2024 dedication ceremony for the unveiling of the Tinner Hill Mural on S. Washington Street. Photo by Chris Jones."
   caption: "June 2024 dedication ceremony for the unveiling of the Tinner Hill Mural on S. Washington Street. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

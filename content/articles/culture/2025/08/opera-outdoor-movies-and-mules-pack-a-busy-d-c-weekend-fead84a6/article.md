@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Facebook Photo Courtesy Wolf Trap."
   caption: "Facebook Photo Courtesy Wolf Trap."
   credit: "Courtesy Wolf Trap."

@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Snow covers a fire hydrant on Park Street in Vienna (staff photo by Angela Woolsey)"
   caption: "Snow covers a fire hydrant on Park Street in Vienna (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

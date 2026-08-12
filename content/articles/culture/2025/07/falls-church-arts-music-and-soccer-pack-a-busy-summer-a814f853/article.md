@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Don't miss the opening of Falls Church Arts next member show (M-Z)! “Ewaste Elephant,” by Jenny Newberry. Courtesy FCA."
   caption: "Don't miss the opening of Falls Church Arts next member show (M-Z)! “Ewaste Elephant,” by Jenny Newberry. Courtesy FCA."
   credit: "Courtesy FCA."

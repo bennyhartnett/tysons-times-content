@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The proposed McLean Crossing redevelopment and its surroundings in Tysons (via LCOR and Fairfax County)"
   caption: "The proposed McLean Crossing redevelopment and its surroundings in Tysons (via LCOR and Fairfax County)"
   credit: "FFXnow / archived source image"

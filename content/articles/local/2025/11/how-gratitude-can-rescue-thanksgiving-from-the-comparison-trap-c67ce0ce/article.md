@@ -10,7 +10,7 @@ tags:
   - "local"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"....When you approach life with gratitude, i.e., you're a grateful person, you're more likely to feel inspired when comparing yourself to someone who seemingly has more than..."
   caption: "\"....When you approach life with gratitude, i.e., you're a grateful person, you're more likely to feel inspired when comparing yourself to someone who seemingly has more than you....\" Photo by Nicole Michalou."
   credit: "Falls Church Independent / archived source image"

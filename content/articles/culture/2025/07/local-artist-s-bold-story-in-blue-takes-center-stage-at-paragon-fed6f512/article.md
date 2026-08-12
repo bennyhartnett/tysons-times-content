@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Celebrating the unveiling of Michael LIndsay's \"Story in Blue\" at Paragon Theaters Founders Row. Left to right: CEO, Brian Hood, Art Mentor, Randa LoGerfo, Co-Owner, Michael..."
   caption: "Celebrating the unveiling of Michael LIndsay's \"Story in Blue\" at Paragon Theaters Founders Row. Left to right: CEO, Brian Hood, Art Mentor, Randa LoGerfo, Co-Owner, Michael Whalen, artist Michael Lindsay, the..."
   credit: "Falls Church Independent / archived source image"

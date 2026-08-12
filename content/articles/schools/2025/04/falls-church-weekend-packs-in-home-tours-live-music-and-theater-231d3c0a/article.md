@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Don't miss Sister Act at Ford's Theatre through May 17. Courtesy Ford's Theatre."
   caption: "Don't miss Sister Act at Ford's Theatre through May 17. Courtesy Ford's Theatre."
   credit: "Courtesy Ford's Theatre."

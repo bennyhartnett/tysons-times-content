@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"Across the nation, the sudden rise of generative Artificial Intelligence (Gen AI) has radically altered the secondary school learning environment....\" Courtesy Chitkara..."
   caption: "\"Across the nation, the sudden rise of generative Artificial Intelligence (Gen AI) has radically altered the secondary school learning environment....\" Courtesy Chitkara University."
   credit: "Courtesy Chitkara University."

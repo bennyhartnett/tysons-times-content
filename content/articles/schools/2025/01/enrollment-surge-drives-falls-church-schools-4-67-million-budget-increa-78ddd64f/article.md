@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Interior, Meridian High School, a \"premier International Baccalaureate public school,\" City of Falls Church. Courtesy Stantec.com."
   caption: "Interior, Meridian High School, a \"premier International Baccalaureate public school,\" City of Falls Church. Courtesy Stantec.com."
   credit: "Courtesy Stantec.com."

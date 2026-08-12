@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Group of bus drivers in front of a bus receiving umbrellas as a thank you."
   caption: "Archived source image accompanying FCPS Week Spans 130,000 Bus Riders, State Title and New Graduation Rules"
   credit: "FCPS News / archived source image"

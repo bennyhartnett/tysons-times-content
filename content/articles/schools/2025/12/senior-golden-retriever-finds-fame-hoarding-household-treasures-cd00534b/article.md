@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"But I had no idea how lucky I was until I read a piece in the October 12 issue of The Washington Post....\""
   caption: "\"But I had no idea how lucky I was until I read a piece in the October 12 issue of The Washington Post....\""
   credit: "Falls Church Independent / archived source image"

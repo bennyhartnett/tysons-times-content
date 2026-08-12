@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A Fairfax County police cruiser positioned outside the Tysons Corner Center Macy’s (staff photo by James Cullum)"
   caption: "A Fairfax County police cruiser positioned outside the Tysons Corner Center Macy’s (staff photo by James Cullum)"
   credit: "James Cullum / FFXnow"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The White House (via René DeAnda on Unsplash)"
   caption: "The White House (via René DeAnda on Unsplash)"
   credit: "FFXnow / archived source image"

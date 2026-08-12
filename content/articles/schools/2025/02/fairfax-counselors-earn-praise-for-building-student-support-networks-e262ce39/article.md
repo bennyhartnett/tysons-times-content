@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Alice Whitener talks to students in a hallway"
   caption: "Archived source image accompanying Fairfax Counselors Earn Praise for Building Student Support Networks"
   credit: "FCPS News / archived source image"

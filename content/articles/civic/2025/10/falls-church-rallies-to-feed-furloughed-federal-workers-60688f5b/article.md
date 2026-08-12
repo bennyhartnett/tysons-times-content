@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Falls Church's Virginia Dream FC (wearing black) is offering furloughed federal employees free tickets to this Sunday's match at Meridian High School. Photo by Jared Soares."
   caption: "Falls Church's Virginia Dream FC (wearing black) is offering furloughed federal employees free tickets to this Sunday's match at Meridian High School. Photo by Jared Soares."
   credit: "Falls Church Independent / archived source image"

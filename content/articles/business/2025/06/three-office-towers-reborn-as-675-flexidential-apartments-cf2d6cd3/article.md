@@ -11,7 +11,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Lounge at Three Collective (3co). Courtesy 3co."
   caption: "Lounge at Three Collective (3co). Courtesy 3co."
   credit: "Courtesy 3co."

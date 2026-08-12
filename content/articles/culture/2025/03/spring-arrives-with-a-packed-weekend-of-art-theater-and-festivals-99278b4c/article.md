@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Haft-sin table-setting to celebrate Nowruz. Courtesy SurfIran."
   caption: "Haft-sin table-setting to celebrate Nowruz. Courtesy SurfIran."
   credit: "Courtesy SurfIran."

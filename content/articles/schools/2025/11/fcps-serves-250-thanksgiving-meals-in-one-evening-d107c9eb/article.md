@@ -11,7 +11,7 @@ tags:
   - "herndon"
   - "local government"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A food worker hands over a tray of thanksgiving-inspired food."
   caption: "Archived source image accompanying FCPS Serves 250 Thanksgiving Meals in One Evening"
   credit: "FCPS News / archived source image"

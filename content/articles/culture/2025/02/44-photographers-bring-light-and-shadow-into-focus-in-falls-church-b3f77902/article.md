@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Exploring light, dark... and contrasts. “After the Rain,” by Susan Sanders. Courtesy FCA."
   caption: "Exploring light, dark... and contrasts. “After the Rain,” by Susan Sanders. Courtesy FCA."
   credit: "Courtesy FCA."

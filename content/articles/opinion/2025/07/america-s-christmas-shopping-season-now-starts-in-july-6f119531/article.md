@@ -12,7 +12,7 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Even though it's 100 degrees outside, it's sweater weather and pumpkin spiced latte season inside!"
   caption: "Even though it's 100 degrees outside, it's sweater weather and pumpkin spiced latte season inside!"
   credit: "Falls Church Independent / archived source image"

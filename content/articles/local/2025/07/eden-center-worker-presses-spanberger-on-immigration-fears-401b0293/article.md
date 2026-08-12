@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The Lion Gate at Eden Center is inspired by the Bến Thành Market in Saigon prior to the communist takeover in 1975. Photo by Chris Jones."
   caption: "The Lion Gate at Eden Center is inspired by the Bến Thành Market in Saigon prior to the communist takeover in 1975. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

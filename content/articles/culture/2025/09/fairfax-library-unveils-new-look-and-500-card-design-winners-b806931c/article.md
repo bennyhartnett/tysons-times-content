@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "local government"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Fairfax County Public Library logo"
   caption: "Archived source image accompanying Fairfax Library Unveils New Look and $500 Card Design Winners"
   credit: "Fairfax County Public Library News and Events / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Mason Square at George Mason University"
   caption: "Mason Square at George Mason University"
   credit: "FFXnow / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"Sandstorm Sunset,\" by Steve Jennings. Courtesy FCA."
   caption: "\"Sandstorm Sunset,\" by Steve Jennings. Courtesy FCA."
   credit: "Courtesy FCA."

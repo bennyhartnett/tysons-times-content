@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Bicycle parked in snow near Dominion Energy’s Clark substation in Vienna (staff photo by Angela Woolsey)"
   caption: "Bicycle parked in snow near Dominion Energy’s Clark substation in Vienna (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

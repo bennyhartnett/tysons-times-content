@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A teacher on a chair takes a selfie of a group of students"
   caption: "Archived source image accompanying Wolf Trap Grants Bring Three New Arts Projects to FCPS Classrooms"
   credit: "FCPS News / archived source image"

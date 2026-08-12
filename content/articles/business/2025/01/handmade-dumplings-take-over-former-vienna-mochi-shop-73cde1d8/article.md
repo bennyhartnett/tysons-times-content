@@ -10,7 +10,7 @@ tags:
   - "business"
   - "vienna"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Panda Dumpling launched its soft opening in Vienna on Jan. 1, 2025 (staff photo by Angela Woolsey)"
   caption: "Panda Dumpling launched its soft opening in Vienna on Jan. 1, 2025 (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

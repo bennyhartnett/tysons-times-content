@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "FCPS interns speak with a safety and security staff member"
   caption: "Office of Safety and Security interns Dylan Gwyn (center) and Thomas Rivera learn from Officer J.R. Hunt."
   credit: "FCPS News / archived source image"

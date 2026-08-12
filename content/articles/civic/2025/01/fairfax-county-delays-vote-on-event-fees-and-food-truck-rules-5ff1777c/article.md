@@ -12,7 +12,7 @@ tags:
   - "development"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Stands serve food at the 2024 Mosaic District Fall Festival (staff photo by Angela Woolsey)"
   caption: "Stands serve food at the 2024 Mosaic District Fall Festival (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

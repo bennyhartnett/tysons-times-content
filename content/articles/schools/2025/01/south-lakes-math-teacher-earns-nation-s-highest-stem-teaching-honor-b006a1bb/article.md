@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Emily and her students write on the whiteboard"
   caption: "Burrell and her students working on a math problem."
   credit: "FCPS News / archived source image"

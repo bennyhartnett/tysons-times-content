@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "It's Arts Day in Falls Church! Roxanne Kaylor, principal organizer for Arts at the Park stands behind her own paintings (on grass) and before the banner she created for the..."
   caption: "It's Arts Day in Falls Church! Roxanne Kaylor, principal organizer for Arts at the Park stands behind her own paintings (on grass) and before the banner she created for the event (on right). Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A woman holding a clock waves while another woman looks on smiling"
   caption: "Archived source image accompanying After 52 Years at Bailey’s, Joyce Sisk Is Finally Crossing Home"
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Map of road closures on I-495 North in late January (via VDOT)"
   caption: "Map of road closures on I-495 North in late January (via VDOT)"
   credit: "FFXnow / archived source image"

@@ -11,7 +11,7 @@ tags:
   - "tysons"
   - "events"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A sign for Marufuji Japanese Market and The Tile Shop in Tysons (staff photo by Angela Woolsey)"
   caption: "A sign for Marufuji Japanese Market and The Tile Shop in Tysons (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

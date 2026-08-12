@@ -11,7 +11,7 @@ tags:
   - "virginia"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Photo by Norwood Photography. Courtesy SAAM."
   caption: "Photo by Norwood Photography. Courtesy SAAM."
   credit: "Courtesy SAAM."

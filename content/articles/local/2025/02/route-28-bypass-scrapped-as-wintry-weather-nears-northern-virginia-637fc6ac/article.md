@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Sunset Hills Road heading toward the Skymark building at Reston Town Center (staff photo by Angela Woolsey)"
   caption: "Sunset Hills Road heading toward the Skymark building at Reston Town Center (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

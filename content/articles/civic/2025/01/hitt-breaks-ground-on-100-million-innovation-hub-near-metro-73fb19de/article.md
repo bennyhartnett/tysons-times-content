@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Dranesville District Supervisor Jimmy Bierman (right), Hitt Contracting CEO Kim Roy (center) and Rep. Don Beyer attend HITT headquarters groundbreaking on Jan. 23, 2025 (staff..."
   caption: "Dranesville District Supervisor Jimmy Bierman (right), Hitt Contracting CEO Kim Roy (center) and Rep. Don Beyer attend HITT headquarters groundbreaking on Jan. 23, 2025 (staff photo by James Jarvis)"
   credit: "James Jarvis / FFXnow"

@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Celebrate Lunar New Year with National Ballet of China: Chinese New Year (A Ballet in Two Acts) at the Kennedy Center. Courtesy Kennedy Center."
   caption: "Celebrate Lunar New Year with National Ballet of China: Chinese New Year (A Ballet in Two Acts) at the Kennedy Center. Courtesy Kennedy Center."
   credit: "Courtesy Kennedy Center."

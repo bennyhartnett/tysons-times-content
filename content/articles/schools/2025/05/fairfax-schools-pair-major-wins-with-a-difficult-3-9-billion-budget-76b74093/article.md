@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Dr. Reid with Centreville HS Geospatial Analysis students"
   caption: "Archived source image accompanying Fairfax Schools Pair Major Wins With a Difficult $3.9 Billion Budget"
   credit: "Fairfax County School Board / archived source image"

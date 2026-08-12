@@ -11,7 +11,7 @@ tags:
   - "springfield"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "New Thomas Jefferson High School for Science and Techology Principal Michael Mukai (via FCPS/YouTube)"
   caption: "New Thomas Jefferson High School for Science and Techology Principal Michael Mukai (via FCPS/YouTube)"
   credit: "FFXnow / archived source image"

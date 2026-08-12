@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Vienna Shopping Center in the snow (staff photo by Angela Woolsey)"
   caption: "Vienna Shopping Center in the snow (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

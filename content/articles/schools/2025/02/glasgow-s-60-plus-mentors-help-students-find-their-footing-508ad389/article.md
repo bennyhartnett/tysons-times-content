@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "sports"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Seven adults smile in a group photo in front of a Glasgow Middle School backdrop."
   caption: "Some of the more than 60 talented mentors at Glasgow Middle School."
   credit: "FCPS News / archived source image"

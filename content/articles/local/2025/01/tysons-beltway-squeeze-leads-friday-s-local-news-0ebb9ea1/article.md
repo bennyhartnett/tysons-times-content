@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Apartment buildings in MetroWest seen from across Vaden Drive in Oakton (staff photo by Angela Woolsey)"
   caption: "Apartment buildings in MetroWest seen from across Vaden Drive in Oakton (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

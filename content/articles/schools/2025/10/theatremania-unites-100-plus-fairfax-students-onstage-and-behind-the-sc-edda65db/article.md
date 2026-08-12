@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Student participates in a theatre directing workshop"
   caption: "Archived source image accompanying TheatreMania Unites 100-Plus Fairfax Students Onstage and Behind the Scenes"
   credit: "FCPS News / archived source image"

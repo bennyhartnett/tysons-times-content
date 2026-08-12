@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Visitors enjoy the National Gallery of Art’s Sculpture Garden"
   caption: "Archived source image accompanying Juneteenth and Solstice Events Pack a Busy Weekend Around Tysons"
   credit: "Falls Church Independent / archived source image"

@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "public safety"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Photo courtesy U.S. News & World Report, Emily Leayman, Falls Church Patch."
   caption: "Photo courtesy U.S. News & World Report, Emily Leayman, Falls Church Patch."
   credit: "Courtesy U.S. News & World Report, Emily Leayman, Falls Church Patch."

@@ -11,7 +11,7 @@ tags:
   - "reston"
   - "events"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Join the RA Board of Directors"
   caption: "Join the RA Board of Directors"
   credit: "FFXnow / archived source image"

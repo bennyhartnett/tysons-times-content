@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"There we are in the picture, doing backbends in her front yard....\" Courtesy Carol McEwen."
   caption: "\"There we are in the picture, doing backbends in her front yard....\" Courtesy Carol McEwen."
   credit: "Courtesy Carol McEwen."

@@ -11,7 +11,7 @@ tags:
   - "tysons"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Hanover Tysons is being rebranded as The Jones at Tysons by new owner Mesirow (courtesy Berkadia)"
   caption: "Hanover Tysons is being rebranded as The Jones at Tysons by new owner Mesirow (courtesy Berkadia)"
   credit: "Courtesy Berkadia"

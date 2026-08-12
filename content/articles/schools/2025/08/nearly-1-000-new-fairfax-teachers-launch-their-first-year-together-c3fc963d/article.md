@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "new teachers smile for a photo"
   caption: "Archived source image accompanying Nearly 1,000 New Fairfax Teachers Launch Their First Year Together"
   credit: "FCPS News / archived source image"

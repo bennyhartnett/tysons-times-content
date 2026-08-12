@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "sports"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Students wearing goggles hold bottles while vinegar is poured in"
   caption: "Archived source image accompanying Stubborn Rockets Turn Failure Into a Flint Hill Science Lesson"
   credit: "FCPS News / archived source image"

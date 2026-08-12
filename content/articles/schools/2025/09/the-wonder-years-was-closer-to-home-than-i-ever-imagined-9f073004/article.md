@@ -11,7 +11,7 @@ tags:
   - "arts"
   - "transportation"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "\"....the show featured an unforgettable soundtrack packed with hits and b-sides from artists like The Byrds, Joan Baez and The Who.\" Britannica photo."
   caption: "\"....the show featured an unforgettable soundtrack packed with hits and b-sides from artists like The Byrds, Joan Baez and The Who.\" Britannica photo."
   credit: "Falls Church Independent / archived source image"

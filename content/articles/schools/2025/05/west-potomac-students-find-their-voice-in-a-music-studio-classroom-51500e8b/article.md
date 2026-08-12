@@ -11,7 +11,7 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Luke looks at one of his student's laptops"
   caption: "Luke Pierce assisting one of his students during class."
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The Virginia State Capitol building (file photo)"
   caption: "The Virginia State Capitol building (file photo)"
   credit: "FFXnow / archived source image"

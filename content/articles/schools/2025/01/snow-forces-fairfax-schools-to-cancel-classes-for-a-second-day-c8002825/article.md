@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Sledding on Burke hill (staff photo by Dave Facinoli)"
   caption: "Sledding on Burke hill (staff photo by Dave Facinoli)"
   credit: "Dave Facinoli / FFXnow"

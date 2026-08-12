@@ -12,7 +12,7 @@ tags:
   - "development"
   - "business"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Founded in 1883, Brown's Hardware at 100 W. Broad St., is the City's oldest, most iconic retailer. The hardware store will shutter by April 1. Courtesy Visit Falls Church."
   caption: "Founded in 1883, Brown's Hardware at 100 W. Broad St., is the City's oldest, most iconic retailer. The hardware store will shutter by April 1. Courtesy Visit Falls Church."
   credit: "Courtesy Visit Falls Church."

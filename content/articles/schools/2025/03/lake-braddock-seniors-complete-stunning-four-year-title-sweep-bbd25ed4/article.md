@@ -11,7 +11,7 @@ tags:
   - "virginia"
   - "sports"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "gymnasts smile with their coaches"
   caption: "Archived source image accompanying Lake Braddock Seniors Complete Stunning Four-Year Title Sweep"
   credit: "FCPS News / archived source image"

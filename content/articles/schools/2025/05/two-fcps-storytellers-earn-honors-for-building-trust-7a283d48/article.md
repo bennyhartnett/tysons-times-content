@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "beth visioli"
   caption: "Archived source image accompanying Two FCPS Storytellers Earn Honors for Building Trust"
   credit: "FCPS News / archived source image"

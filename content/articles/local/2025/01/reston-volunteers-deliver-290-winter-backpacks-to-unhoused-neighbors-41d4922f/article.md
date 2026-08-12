@@ -10,7 +10,7 @@ tags:
   - "local"
   - "reston"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Members of “Made in Reston” at their winter 2024 backpack drive (photo courtesy of Rosa Simon)"
   caption: "Members of “Made in Reston” at their winter 2024 backpack drive (photo courtesy of Rosa Simon)"
   credit: "Courtesy of Rosa Simon"

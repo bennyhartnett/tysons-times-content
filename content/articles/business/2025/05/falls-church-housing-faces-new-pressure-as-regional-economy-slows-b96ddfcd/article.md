@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Is now the time to buy? 1940 Cape Cod home: 914 Park Ave., Falls Church, listed at $1,350,000 on Bright MLS and Zillow."
   caption: "Is now the time to buy? 1940 Cape Cod home: 914 Park Ave., Falls Church, listed at $1,350,000 on Bright MLS and Zillow."
   credit: "Falls Church Independent / archived source image"

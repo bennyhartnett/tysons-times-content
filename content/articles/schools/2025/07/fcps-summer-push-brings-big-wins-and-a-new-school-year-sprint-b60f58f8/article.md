@@ -11,7 +11,7 @@ tags:
   - "mclean"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Bill Bye looking at a student's science project"
   caption: "Archived source image accompanying FCPS Summer Push Brings Big Wins and a New-School-Year Sprint"
   credit: "Fairfax County School Board / archived source image"

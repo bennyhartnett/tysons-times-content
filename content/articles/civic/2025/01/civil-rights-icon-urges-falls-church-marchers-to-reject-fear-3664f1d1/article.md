@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Annual March for Unity and Freedom, with Social Justice Workshop, Sat. Jan. 18 in Falls Church. Tinner Hill Heritage Foundation Founder Ed Henderson (far left); City Manager..."
   caption: "Annual March for Unity and Freedom, with Social Justice Workshop, Sat. Jan. 18 in Falls Church. Tinner Hill Heritage Foundation Founder Ed Henderson (far left); City Manager Wyatt Shields and City of Falls Church..."
   credit: "Falls Church Independent / archived source image"

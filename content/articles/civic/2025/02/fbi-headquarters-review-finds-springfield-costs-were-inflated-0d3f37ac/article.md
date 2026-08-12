@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The General Services Administration Warehouse in Springfield, potential site of the FBI’s new headquarters (staff photo by Jay Westcott)"
   caption: "The General Services Administration Warehouse in Springfield, potential site of the FBI’s new headquarters (staff photo by Jay Westcott)"
   credit: "Jay Westcott / FFXnow"

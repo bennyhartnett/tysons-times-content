@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "In a formal June 10 resolution, the Falls Church City School Board (pictured above) unanimously nominated The Falls Church Independent and its publisher, Christopher Jones, for..."
   caption: "In a formal June 10 resolution, the Falls Church City School Board (pictured above) unanimously nominated The Falls Church Independent and its publisher, Christopher Jones, for a statewide Virginia School Boards..."
   credit: "Courtesy FCCPS."

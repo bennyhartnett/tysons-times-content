@@ -12,7 +12,7 @@ tags:
   - "sports"
   - "transportation"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Are you ready for the HYROX Competition? Courtesy HYROX."
   caption: "Are you ready for the HYROX Competition? Courtesy HYROX."
   credit: "Courtesy HYROX."

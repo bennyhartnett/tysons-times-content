@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A parked Fairfax County police car (file photo)"
   caption: "A parked Fairfax County police car (file photo)"
   credit: "FFXnow / archived source image"

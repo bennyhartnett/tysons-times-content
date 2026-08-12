@@ -12,7 +12,7 @@ tags:
   - "development"
   - "arts"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "\"Each of us is an artist.\" YouTube video screen capture. Courtesy Fredericksburg Center for the Creative Arts."
   caption: "\"Each of us is an artist.\" YouTube video screen capture. Courtesy Fredericksburg Center for the Creative Arts."
   credit: "Courtesy Fredericksburg Center for the Creative Arts."

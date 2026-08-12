@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Photo by Vincent Chin."
   caption: "Photo by Vincent Chin."
   credit: "Falls Church Independent / archived source image"

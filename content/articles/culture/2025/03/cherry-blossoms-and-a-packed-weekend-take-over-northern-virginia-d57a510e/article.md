@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Checkout the Bloomaroo Spring Festival at The Wharf DC this Saturday, March 29! Courtesy The Wharf DC."
   caption: "Checkout the Bloomaroo Spring Festival at The Wharf DC this Saturday, March 29! Courtesy The Wharf DC."
   credit: "Courtesy The Wharf DC."

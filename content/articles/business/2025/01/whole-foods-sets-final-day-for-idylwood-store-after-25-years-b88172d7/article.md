@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Whole Foods Market at Idylwood Plaza (staff photo by Angela Woolsey)"
   caption: "Whole Foods Market at Idylwood Plaza (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

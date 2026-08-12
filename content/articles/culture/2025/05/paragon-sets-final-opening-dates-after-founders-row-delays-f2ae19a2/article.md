@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Rendering of interior lounge spaces at Paragon Theaters at Founders Row. Courtesy Paragon Theaters."
   caption: "Rendering of interior lounge spaces at Paragon Theaters at Founders Row. Courtesy Paragon Theaters."
   credit: "Courtesy Paragon Theaters."

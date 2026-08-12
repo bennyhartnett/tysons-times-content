@@ -11,7 +11,7 @@ tags:
   - "mclean"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Inside Framebridge’s new store at the Chesterbrook Shopping Center in McLean (courtesy Federal Realty)"
   caption: "Inside Framebridge’s new store at the Chesterbrook Shopping Center in McLean (courtesy Federal Realty)"
   credit: "Courtesy Federal Realty"

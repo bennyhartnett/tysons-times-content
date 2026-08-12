@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "public safety"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Make way for joy -- and the Santamobile! Courtesy Falls Church VFD."
   caption: "Make way for joy -- and the Santamobile! Courtesy Falls Church VFD."
   credit: "Courtesy Falls Church VFD."

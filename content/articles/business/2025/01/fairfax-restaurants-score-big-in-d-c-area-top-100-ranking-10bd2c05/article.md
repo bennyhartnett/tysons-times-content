@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Chicken and beef satay skewers from Southeast Impression in Fairfax City (staff photo by Angela Woolsey)"
   caption: "Chicken and beef satay skewers from Southeast Impression in Fairfax City (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

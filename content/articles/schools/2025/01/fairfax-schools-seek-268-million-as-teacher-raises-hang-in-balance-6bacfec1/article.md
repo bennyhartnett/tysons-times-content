@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Superintendent Michelle Reid (staff file photo by James Jarvis)"
   caption: "Superintendent Michelle Reid (staff file photo by James Jarvis)"
   credit: "FFXnow / archived source image"

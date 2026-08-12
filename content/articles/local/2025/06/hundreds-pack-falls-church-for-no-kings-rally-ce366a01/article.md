@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Crowds of enthusiastic No Kings Day Rallyers lined West Broad St. on Saturday, June 14. Photo by Chris Jones."
   caption: "Crowds of enthusiastic No Kings Day Rallyers lined West Broad St. on Saturday, June 14. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The McLean Community Center is celebrating its 50th anniversary in 2025 (courtesy MCC)"
   caption: "The McLean Community Center is celebrating its 50th anniversary in 2025 (courtesy MCC)"
   credit: "Courtesy MCC"

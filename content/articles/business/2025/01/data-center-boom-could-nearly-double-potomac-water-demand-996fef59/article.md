@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A person fills a glass with tap water (photo by Eric Vance/U.S. EPA)"
   caption: "A person fills a glass with tap water (photo by Eric Vance/U.S. EPA)"
   credit: "FFXnow / archived source image"

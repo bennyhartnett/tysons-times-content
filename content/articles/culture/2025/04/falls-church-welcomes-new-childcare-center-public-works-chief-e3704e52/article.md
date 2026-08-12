@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Saturday, April 5 ribbon-cutting ceremony for Tierra Encantada, a new Spanish immersion childcare and preschool in the West Falls Development at 131 Haycock Road. Photo..."
   caption: "Saturday, April 5 ribbon-cutting ceremony for Tierra Encantada, a new Spanish immersion childcare and preschool in the West Falls Development at 131 Haycock Road. Photo courtesy Falls Church City Chronicler Phil..."
   credit: "Courtesy Falls Church City Chronicler Phil Duncan (4th from left, next to..."

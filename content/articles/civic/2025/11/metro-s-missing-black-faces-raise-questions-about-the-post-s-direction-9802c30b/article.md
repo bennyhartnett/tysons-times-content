@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "At day at the races. Jeff Bezos and Lauren Sanchez at Miami International Autodrome, May, 2024. Clive Mason/Formula 1 via Getty Images."
   caption: "At day at the races. Jeff Bezos and Lauren Sanchez at Miami International Autodrome, May, 2024. Clive Mason/Formula 1 via Getty Images."
   credit: "Falls Church Independent / archived source image"

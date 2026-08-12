@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "And this news isn't spam! Meridian H.S. graduate, Adam Belouad, 19, (back row, first on left) with nine other 2025 \"Food Heroes\" at Hormel Foods' Global Headquarters in Austin,..."
   caption: "And this news isn't spam! Meridian H.S. graduate, Adam Belouad, 19, (back row, first on left) with nine other 2025 \"Food Heroes\" at Hormel Foods' Global Headquarters in Austin, Minn. Courtesy Finn Partners."
   credit: "Courtesy Finn Partners."

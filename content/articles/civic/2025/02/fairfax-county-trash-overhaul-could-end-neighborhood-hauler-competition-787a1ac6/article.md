@@ -12,7 +12,7 @@ tags:
   - "environment"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Trash bins on the side of a road in Dunn Loring (staff photo by Angela Woolsey)"
   caption: "Trash bins on the side of a road in Dunn Loring (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

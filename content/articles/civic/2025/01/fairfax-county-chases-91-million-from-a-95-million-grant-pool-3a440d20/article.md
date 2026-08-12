@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The Fairfax Connector bus fleet has a growing number of electric buses (courtesy FCDOT)"
   caption: "The Fairfax Connector bus fleet has a growing number of electric buses (courtesy FCDOT)"
   credit: "Courtesy FCDOT"

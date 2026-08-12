@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Dr. Reid with Centreville HS Geospatial Analysis students"
   caption: "Archived source image accompanying FCPS Celebrates Student Wins While Navigating a $149.6 Million Gap"
   credit: "FCPS News / archived source image"

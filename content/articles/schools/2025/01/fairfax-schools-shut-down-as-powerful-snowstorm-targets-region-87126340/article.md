@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "metro"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A Fairfax County Public School bus in snow (staff photo by Angela Woolsey)"
   caption: "A Fairfax County Public School bus in snow (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Spanberger greets a well-wisher while sampling the boba tea. Photo by Chris Jones."
   caption: "Spanberger greets a well-wisher while sampling the boba tea. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

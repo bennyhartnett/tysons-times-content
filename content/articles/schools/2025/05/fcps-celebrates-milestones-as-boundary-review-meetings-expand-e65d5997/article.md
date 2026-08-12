@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Dr. Reid with Hahn Bu on the set of Our Voices, Our Future"
   caption: "Archived source image accompanying FCPS Celebrates Milestones as Boundary Review Meetings Expand"
   credit: "Fairfax County School Board / archived source image"

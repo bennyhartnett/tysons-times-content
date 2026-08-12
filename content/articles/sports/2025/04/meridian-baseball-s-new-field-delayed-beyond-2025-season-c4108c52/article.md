@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "No playing ball yet! Piles of dirt and gravel during construction on Meridian's baseball field. Photo by Alba Selle."
   caption: "No playing ball yet! Piles of dirt and gravel during construction on Meridian's baseball field. Photo by Alba Selle."
   credit: "Falls Church Independent / archived source image"

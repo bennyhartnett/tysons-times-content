@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A teacher sits on the floor to work with a student"
   caption: "Archived source image accompanying Key Center Tech Specialist Pushes Accessibility Beyond the Classroom"
   credit: "Fairfax County School Board / archived source image"

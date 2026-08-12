@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"Low Tide Reflections,\" by Noreen Brunini. Courtesy FCA."
   caption: "\"Low Tide Reflections,\" by Noreen Brunini. Courtesy FCA."
   credit: "Courtesy FCA."

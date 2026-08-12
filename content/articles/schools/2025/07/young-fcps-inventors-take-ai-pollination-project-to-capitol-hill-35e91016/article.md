@@ -11,7 +11,7 @@ tags:
   - "mclean"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Bill Bye looking at a student's science project"
   caption: "Archived source image accompanying Young FCPS Inventors Take AI Pollination Project to Capitol Hill"
   credit: "FCPS News / archived source image"

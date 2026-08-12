@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"First we hit the local Walmart and buy scads of artificial flowers, every color in the rainbow...\" Family members of the author, Carol McEwen, preparing commemorations for..."
   caption: "\"First we hit the local Walmart and buy scads of artificial flowers, every color in the rainbow...\" Family members of the author, Carol McEwen, preparing commemorations for Memorial Day. Photo courtesy Carol McEwen."
   credit: "Courtesy Carol McEwen."

@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "An anti-icing truck on Route 123 in Tysons from January 2021 (staff photo by Jay Westcott)"
   caption: "An anti-icing truck on Route 123 in Tysons from January 2021 (staff photo by Jay Westcott)"
   credit: "Jay Westcott / FFXnow"

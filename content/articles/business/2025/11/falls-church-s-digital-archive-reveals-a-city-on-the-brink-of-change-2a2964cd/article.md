@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "Plentiful enough for hunting in the Blue Ridge in 1948: the Chinese pheasant. Courtesy Pets of USA."
   caption: "Plentiful enough for hunting in the Blue Ridge in 1948: the Chinese pheasant. Courtesy Pets of USA."
   credit: "Courtesy Pets of USA."

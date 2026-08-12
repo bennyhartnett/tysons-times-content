@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The City of Falls Church's semi-pro soccer sensation, Virginia Dream FC continues to attract global attention. Photo courtesy Virginia Dream FC."
   caption: "The City of Falls Church's semi-pro soccer sensation, Virginia Dream FC continues to attract global attention. Photo courtesy Virginia Dream FC."
   credit: "Courtesy Virginia Dream FC."

@@ -11,7 +11,7 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "students count money"
   caption: "Archived source image accompanying Oak Hill’s Money Camp Returns With Taxes, Jobs and ‘Banananas’"
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "transportation"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "President Trump recently fell asleep on-and-off for close to 20 minutes during an official White House press event, according to The New York Times. Photo by Andrew Harnik /..."
   caption: "President Trump recently fell asleep on-and-off for close to 20 minutes during an official White House press event, according to The New York Times. Photo by Andrew Harnik / Getty Images. Courtesy Daily Beast."
   credit: "Courtesy Daily Beast."

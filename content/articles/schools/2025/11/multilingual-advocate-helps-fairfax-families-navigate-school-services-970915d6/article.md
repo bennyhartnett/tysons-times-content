@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "staff member smiles as she helps someone in the front office"
   caption: "Archived source image accompanying Multilingual Advocate Helps Fairfax Families Navigate School Services"
   credit: "FCPS News / archived source image"

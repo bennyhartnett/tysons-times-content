@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Anne Sherwood (far left) helps assemble campaign volunteers. Photo by Chris Jones."
   caption: "Anne Sherwood (far left) helps assemble campaign volunteers. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

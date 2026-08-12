@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Students meet with industry representatives at the 2025 Instruction 2 Industry Future Ready Conference"
   caption: "Archived source image accompanying 700 Students Explore High-Demand Careers at Future Ready Conference"
   credit: "FCPS News / archived source image"

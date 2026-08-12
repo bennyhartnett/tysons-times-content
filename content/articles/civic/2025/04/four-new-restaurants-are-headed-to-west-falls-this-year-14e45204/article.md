@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Four new restaurant-retailers will soon be coming to the West Falls Development, the largest in the City of Falls Church's history. Courtesy Hoffman & Associates."
   caption: "Four new restaurant-retailers will soon be coming to the West Falls Development, the largest in the City of Falls Church's history. Courtesy Hoffman & Associates."
   credit: "Courtesy Hoffman & Associates."

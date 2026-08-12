@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Courtesy VPIS."
   caption: "Archived source image accompanying Falls Church Pushes Toward 50% Tree Canopy Amid Development"
   credit: "Courtesy VPIS."

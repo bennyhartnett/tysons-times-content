@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Check out this recently acquired series, A Bigger Piece, at the Renwick (SAAM)! Joey Terrill, A Bigger Piece, 2008, acrylic and mixed media on canvas, 36 × 60 × 1 1⁄2 in.,..."
   caption: "Check out this recently acquired series, A Bigger Piece, at the Renwick (SAAM)! Joey Terrill, A Bigger Piece, 2008, acrylic and mixed media on canvas, 36 × 60 × 1 1⁄2 in., Smithsonian American Art Museum. Image..."
   credit: "Courtesy the artist, Ortuzar, New York and Marc Selwyn Fine Arts, Los..."

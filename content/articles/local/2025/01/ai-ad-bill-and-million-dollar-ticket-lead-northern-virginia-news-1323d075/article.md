@@ -12,7 +12,7 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Geese on a lake in Fairview Park (staff photo by Angela Woolsey)"
   caption: "Geese on a lake in Fairview Park (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

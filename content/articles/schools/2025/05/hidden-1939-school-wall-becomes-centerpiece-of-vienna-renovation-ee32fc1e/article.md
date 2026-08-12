@@ -11,7 +11,7 @@ tags:
   - "vienna"
   - "business"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "A woman with a walker points to an old photograph in a frame held up by a man."
   caption: "Gloria Carter, left, and Alees Coates-Richardson, center, attended the Vienna Colored School, now Louise Archer Elementary School, in the 1940s."
   credit: "FCPS News / archived source image"

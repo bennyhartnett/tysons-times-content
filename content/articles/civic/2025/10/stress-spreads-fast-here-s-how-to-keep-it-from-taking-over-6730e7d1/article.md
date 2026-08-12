@@ -11,7 +11,7 @@ tags:
   - "environment"
   - "events"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "We're all susceptible to stressful emotional contagions. So, what are our best responses? Photo by Yan Krukov."
   caption: "We're all susceptible to stressful emotional contagions. So, what are our best responses? Photo by Yan Krukov."
   credit: "Falls Church Independent / archived source image"

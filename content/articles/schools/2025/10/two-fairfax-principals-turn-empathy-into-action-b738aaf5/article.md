@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "sports"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A man (standing) talks to a table of girls in a classroom"
   caption: "Archived source image accompanying Two Fairfax Principals Turn Empathy Into Action"
   credit: "FCPS News / archived source image"

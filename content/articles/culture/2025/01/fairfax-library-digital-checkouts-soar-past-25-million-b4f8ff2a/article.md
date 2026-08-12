@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Bookcases inside the City of Fairfax Regional Library (staff photo by Angela Woolsey)"
   caption: "Bookcases inside the City of Fairfax Regional Library (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

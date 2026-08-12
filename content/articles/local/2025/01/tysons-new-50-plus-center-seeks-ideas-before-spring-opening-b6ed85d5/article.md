@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The entrance to The Mather’s southern building at 7929 Westpark Drive in Tysons (staff photo by Angela Woolsey)"
   caption: "The entrance to The Mather’s southern building at 7929 Westpark Drive in Tysons (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

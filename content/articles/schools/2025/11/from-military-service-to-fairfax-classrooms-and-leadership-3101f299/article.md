@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "A woman in fatigues wearing a medal stands before a man in uniform"
   caption: "Archived source image accompanying From Military Service to Fairfax Classrooms and Leadership"
   credit: "FCPS News / archived source image"

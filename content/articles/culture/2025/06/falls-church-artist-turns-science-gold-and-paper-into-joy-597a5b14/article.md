@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "For teaching purposes, examples of quilling techniques. Photo by Chris Jones."
   caption: "For teaching purposes, examples of quilling techniques. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

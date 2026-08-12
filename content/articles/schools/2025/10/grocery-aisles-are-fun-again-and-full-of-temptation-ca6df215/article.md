@@ -12,7 +12,7 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"...I should say I enjoy the fresh produce section the best, since that’s where all the healthy food lives. But....\" Photo by Cottonbro."
   caption: "\"...I should say I enjoy the fresh produce section the best, since that’s where all the healthy food lives. But....\" Photo by Cottonbro."
   credit: "Falls Church Independent / archived source image"

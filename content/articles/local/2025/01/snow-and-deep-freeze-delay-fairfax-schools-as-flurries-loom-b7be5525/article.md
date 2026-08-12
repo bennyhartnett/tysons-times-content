@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Snow on the Washington & Old Dominion Trail in Dunn Loring (staff photo by Angela Woolsey)"
   caption: "Snow on the Washington & Old Dominion Trail in Dunn Loring (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

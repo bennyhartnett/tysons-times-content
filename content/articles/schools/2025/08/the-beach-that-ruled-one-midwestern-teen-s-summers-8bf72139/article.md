@@ -11,7 +11,7 @@ tags:
   - "arlington"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"That was where my grade school pals and I swam, did underwater somersaults and handstands, and generally horsed around....\" Photo courtesy Carol McEwen."
   caption: "\"That was where my grade school pals and I swam, did underwater somersaults and handstands, and generally horsed around....\" Photo courtesy Carol McEwen."
   credit: "Courtesy Carol McEwen."

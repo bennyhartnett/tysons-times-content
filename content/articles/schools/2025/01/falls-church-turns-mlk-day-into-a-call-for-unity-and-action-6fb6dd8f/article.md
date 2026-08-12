@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "public safety"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "June 2024 dedication ceremony for the unveiling of the Tinner Hill Mural on S. Washington St., championed by Ed Henderson and the Tinner Hill Heritage Foundation. Photo by..."
   caption: "June 2024 dedication ceremony for the unveiling of the Tinner Hill Mural on S. Washington St., championed by Ed Henderson and the Tinner Hill Heritage Foundation. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

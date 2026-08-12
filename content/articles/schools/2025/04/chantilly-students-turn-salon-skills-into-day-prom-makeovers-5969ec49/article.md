@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "student does another student's hair"
   caption: "Archived source image accompanying Chantilly Students Turn Salon Skills Into Day Prom Makeovers"
   credit: "FCPS News / archived source image"

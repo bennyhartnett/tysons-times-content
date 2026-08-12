@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A monarch butterfly spotted by the W&OD Trail (staff photo by Angela Woolsey)"
   caption: "A monarch butterfly spotted by the W&OD Trail (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

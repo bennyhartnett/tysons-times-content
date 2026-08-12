@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Marian Costner Selby (5th from left) cuts the ribbon opening Meridian High School's new Marian Costner Selby Peace Garden (behind the ribbon cutters, on the school's 5th floor..."
   caption: "Marian Costner Selby (5th from left) cuts the ribbon opening Meridian High School's new Marian Costner Selby Peace Garden (behind the ribbon cutters, on the school's 5th floor rooftop), Sunday, May 18, 2025. Photo by..."
   credit: "Falls Church Independent / archived source image"

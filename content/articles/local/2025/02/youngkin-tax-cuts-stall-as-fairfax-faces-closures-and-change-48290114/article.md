@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A statue of a Girl Running with a Dog in Fairfax City (staff photo by Angela Woolsey)"
   caption: "A statue of a Girl Running with a Dog in Fairfax City (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

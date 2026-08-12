@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "northern virginia"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "student with valentine"
   caption: "Archived source image accompanying Waynewood Students Send Handmade Hope Beyond Their Classroom"
   credit: "FCPS News / archived source image"

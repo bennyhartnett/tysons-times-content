@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Fairfax County school buses lined up with snow (staff photo by Angela Woolsey)"
   caption: "Fairfax County school buses lined up with snow (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

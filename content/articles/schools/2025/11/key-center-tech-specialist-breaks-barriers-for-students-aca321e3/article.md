@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A teacher sits on the floor to work with a student"
   caption: "Archived source image accompanying Key Center Tech Specialist Breaks Barriers for Students"
   credit: "FCPS News / archived source image"

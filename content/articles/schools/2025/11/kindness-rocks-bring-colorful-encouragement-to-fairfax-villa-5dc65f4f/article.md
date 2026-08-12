@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Fairfax Villa students in the Peer Buddies program paint \"Kindness Rocks\" together."
   caption: "Fairfax Villa students in the Peer Buddies program paint \"Kindness Rocks\" together."
   credit: "FCPS News / archived source image"

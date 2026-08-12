@@ -12,7 +12,7 @@ tags:
   - "development"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Himalayan Soul Foods was among the five food trucks at the 10th annual Taste of Vienna in 2023 (staff photo by Angela Woolsey)"
   caption: "Himalayan Soul Foods was among the five food trucks at the 10th annual Taste of Vienna in 2023 (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

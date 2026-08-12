@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A person sits on a bench outside the Providence Rec Center (staff photo by Angela Woolsey)"
   caption: "A person sits on a bench outside the Providence Rec Center (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

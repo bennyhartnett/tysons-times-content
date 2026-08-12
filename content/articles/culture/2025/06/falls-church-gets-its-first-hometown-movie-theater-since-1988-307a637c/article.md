@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "At long last.... \"a joyous ribbon-cutting ceremony was held the evening of June 26 inside one of Paragon Founders Row’s Axis15 Extreme auditoriums...\" Photo by Chris Jones."
   caption: "At long last.... \"a joyous ribbon-cutting ceremony was held the evening of June 26 inside one of Paragon Founders Row’s Axis15 Extreme auditoriums...\" Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

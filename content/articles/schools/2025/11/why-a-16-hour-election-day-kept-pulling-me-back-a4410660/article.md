@@ -11,7 +11,7 @@ tags:
   - "arlington"
   - "events"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "\"I saw young moms with their kids in strollers, studying their sample ballots....\" Photo by Susan Broadbridge. Courtesy USA TODAY."
   caption: "\"I saw young moms with their kids in strollers, studying their sample ballots....\" Photo by Susan Broadbridge. Courtesy USA TODAY."
   credit: "Courtesy USA TODAY."

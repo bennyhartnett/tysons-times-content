@@ -12,7 +12,7 @@ tags:
   - "development"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Attendees gather for snacks and a 10-minute table discussion. Photo by Chris Jones."
   caption: "Attendees gather for snacks and a 10-minute table discussion. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

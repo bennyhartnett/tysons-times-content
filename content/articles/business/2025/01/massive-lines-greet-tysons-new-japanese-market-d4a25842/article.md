@@ -11,7 +11,7 @@ tags:
   - "tysons"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Marufuji Japanese Market’s grand opening in Tysons (staff photo by Angela Woolsey)"
   caption: "Marufuji Japanese Market’s grand opening in Tysons (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

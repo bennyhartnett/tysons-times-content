@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "arlington"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"Once the almost-grads marched in, things got interesting....\" Photo by Karolina Grabowska."
   caption: "\"Once the almost-grads marched in, things got interesting....\" Photo by Karolina Grabowska."
   credit: "Falls Church Independent / archived source image"

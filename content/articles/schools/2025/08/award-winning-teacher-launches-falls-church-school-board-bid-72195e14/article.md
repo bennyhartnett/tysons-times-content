@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The candidate MaryKate Hughes (far right) and her campaign volunteers sport t-shirts emphasizing Hughes's \"knowledge, experience, and heart.\""
   caption: "The candidate MaryKate Hughes (far right) and her campaign volunteers sport t-shirts emphasizing Hughes's \"knowledge, experience, and heart.\""
   credit: "Falls Church Independent / archived source image"

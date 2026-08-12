@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "a teacher stands in a stairwell, posing."
   caption: "Archived source image accompanying Quander Road Advocate Keeps Supporting Students Years After Graduation"
   credit: "FCPS News / archived source image"

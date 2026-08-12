@@ -11,7 +11,7 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "three students smile for a photo"
   caption: "Pictured from left to right: Maya Newman, Elaina Rivers, and Layla Michael."
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Exploring \"the circle\" in the upcoming Full Circle show at Falls Church Arts: \"The Marsh,\" by Bonnie Collier."
   caption: "Exploring \"the circle\" in the upcoming Full Circle show at Falls Church Arts: \"The Marsh,\" by Bonnie Collier."
   credit: "Falls Church Independent / archived source image"

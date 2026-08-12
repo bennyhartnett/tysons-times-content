@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A smiling teacher hands a note to a student. The student looks at the note."
   caption: "Kilmer Middle School staff members hand students Positive Referrals when they notice good behavior and positive habits."
   credit: "FCPS News / archived source image"

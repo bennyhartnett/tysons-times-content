@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Archer Hotel at the Mosaic District in Merrifield (staff photo by Angela Woolsey)"
   caption: "Archer Hotel at the Mosaic District in Merrifield (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

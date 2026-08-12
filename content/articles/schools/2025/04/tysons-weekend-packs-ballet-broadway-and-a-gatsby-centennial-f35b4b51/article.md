@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Don't miss Bitch Sesh: The You've Got a Friend in Me Tour, at The Warner Theatre, 513 13th St. NW, D.C. Sunday, April 13, 7:30 p.m. Courtesy Warner Theatre."
   caption: "Don't miss Bitch Sesh: The You've Got a Friend in Me Tour, at The Warner Theatre, 513 13th St. NW, D.C. Sunday, April 13, 7:30 p.m. Courtesy Warner Theatre."
   credit: "Courtesy Warner Theatre."

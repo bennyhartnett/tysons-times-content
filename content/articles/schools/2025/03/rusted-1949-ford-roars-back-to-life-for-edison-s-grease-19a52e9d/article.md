@@ -11,7 +11,7 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A man and two teenagers stand on either side of the front end of a red car."
   caption: "Automotive Collision Service Teacher Charles Cornwell, and students Elijah Knight and Kristian Granado, stand with the finished \"Greased Lightnin'\" prop."
   credit: "FCPS News / archived source image"

@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "New western high school lobby filled with people."
   caption: "Archived source image accompanying More Than 1,000 Turn Out for Fairfax’s New Western High School"
   credit: "FCPS News / archived source image"

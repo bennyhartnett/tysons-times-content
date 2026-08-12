@@ -11,7 +11,7 @@ tags:
   - "public safety"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Carol McEwen's newlywed parents, Charlie and LaVaughn Edwards (left), with LaVaughn's mother (right) accompanying them on their honeymoon trip to the U.S. Capitol. Photo..."
   caption: "Carol McEwen's newlywed parents, Charlie and LaVaughn Edwards (left), with LaVaughn's mother (right) accompanying them on their honeymoon trip to the U.S. Capitol. Photo provided by the author."
   credit: "Falls Church Independent / archived source image"

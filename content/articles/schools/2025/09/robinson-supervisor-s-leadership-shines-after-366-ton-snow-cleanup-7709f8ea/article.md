@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Liliana receives her honors award on stage"
   caption: "Archived source image accompanying Robinson Supervisor’s Leadership Shines After 366-Ton Snow Cleanup"
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "See Alvin Ailey American Dance Theater this weekend! They'll be celebrating the life and legacy of Artistic Director Emerita Judith Jamison. Courtesy Kennedy Center."
   caption: "See Alvin Ailey American Dance Theater this weekend! They'll be celebrating the life and legacy of Artistic Director Emerita Judith Jamison. Courtesy Kennedy Center."
   credit: "Courtesy Kennedy Center."

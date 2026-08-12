@@ -11,7 +11,7 @@ tags:
   - "oakton"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The four friends have been collaborating on the complex science and technology project."
   caption: "The four friends have been collaborating on the complex science and technology project."
   credit: "FCPS News / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Courtesy Urban Turf, Bright MLS."
   caption: "Courtesy Urban Turf, Bright MLS."
   credit: "Courtesy Urban Turf, Bright MLS."

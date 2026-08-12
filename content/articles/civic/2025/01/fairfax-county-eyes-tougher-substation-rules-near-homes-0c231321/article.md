@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Power lines connected to Reston substation (staff photo by James Jarvis)"
   caption: "Power lines connected to Reston substation (staff photo by James Jarvis)"
   credit: "James Jarvis / FFXnow"

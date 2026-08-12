@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Unveiling three new \"Saigon Blvd.\" street signs at Eden Center Jan. 22 to \"celebrate the strong Vietnamese-American community in the City of Falls Church, Fairfax County, and..."
   caption: "Unveiling three new \"Saigon Blvd.\" street signs at Eden Center Jan. 22 to \"celebrate the strong Vietnamese-American community in the City of Falls Church, Fairfax County, and the region.” Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

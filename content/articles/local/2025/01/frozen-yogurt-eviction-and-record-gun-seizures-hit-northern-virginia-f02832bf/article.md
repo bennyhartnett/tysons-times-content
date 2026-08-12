@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Cunningham Park Elementary School’s playground in snow in Vienna (staff photo by Angela Woolsey)"
   caption: "Cunningham Park Elementary School’s playground in snow in Vienna (staff photo by Angela Woolsey)"
   credit: "Angela Woolsey / FFXnow"

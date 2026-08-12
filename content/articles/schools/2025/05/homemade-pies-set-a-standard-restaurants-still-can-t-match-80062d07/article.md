@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"My favorites were the Cherry Pies, made with the fruit I picked from the Flory’s tree across the alley....\" Photo by Maksim Goncharenok."
   caption: "\"My favorites were the Cherry Pies, made with the fruit I picked from the Flory’s tree across the alley....\" Photo by Maksim Goncharenok."
   credit: "Falls Church Independent / archived source image"

@@ -11,7 +11,7 @@ tags:
   - "arts"
   - "transportation"
 hero:
-  file: "hero.webp"
+  file: "hero-pub.webp"
   alt: "\"The Avon Marching Black and Gold performs Saturday, Nov. 9, 2024, during the 51st Indiana State School Music Association marching band state finals at Lucas Oil Stadium in..."
   caption: "\"The Avon Marching Black and Gold performs Saturday, Nov. 9, 2024, during the 51st Indiana State School Music Association marching band state finals at Lucas Oil Stadium in Indianapolis.\" Courtesy Indiana Star /..."
   credit: "Courtesy Indiana Star / Mykal McEldowney."

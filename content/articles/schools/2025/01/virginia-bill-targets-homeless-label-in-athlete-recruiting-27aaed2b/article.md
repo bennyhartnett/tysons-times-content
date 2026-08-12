@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "sports"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Hayfield Secondary School (staff photo)"
   caption: "Hayfield Secondary School (staff photo)"
   credit: "FFXnow / archived source image"

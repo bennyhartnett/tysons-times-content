@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Honoring fallen EMS workers with a 62-mile ride. National EMS Memorial Bike Ride cyclists enjoy cooling off and re-hydrating at the Falls Church Volunteer Fire Department, 6,..."
   caption: "Honoring fallen EMS workers with a 62-mile ride. National EMS Memorial Bike Ride cyclists enjoy cooling off and re-hydrating at the Falls Church Volunteer Fire Department, 6, July 18. Photo by Chris Jones."
   credit: "Falls Church Independent / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "public safety"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "Check out Shakespeare's Twelfth Night at the Folger Shakespeare Theatre (FST) in the next few days (but hurry, tickets are selling out fast!) Courtesy FST."
   caption: "Check out Shakespeare's Twelfth Night at the Folger Shakespeare Theatre (FST) in the next few days (but hurry, tickets are selling out fast!) Courtesy FST."
   credit: "Courtesy FST."

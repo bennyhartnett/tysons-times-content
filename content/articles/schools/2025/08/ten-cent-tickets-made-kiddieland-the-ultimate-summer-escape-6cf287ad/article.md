@@ -12,7 +12,7 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"After we’d used up all our ten-cent tickets, we’d visit the baby goats and feed them pellets from a 25-cent cup. This black and white photo shows my childhood friend, Cheryl,..."
   caption: "\"After we’d used up all our ten-cent tickets, we’d visit the baby goats and feed them pellets from a 25-cent cup. This black and white photo shows my childhood friend, Cheryl, and me feeding them....\" Courtesy Carol..."
   credit: "Courtesy Carol McEwen."

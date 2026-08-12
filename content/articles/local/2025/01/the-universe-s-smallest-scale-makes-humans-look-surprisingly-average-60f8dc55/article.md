@@ -10,7 +10,7 @@ tags:
   - "local"
   - "northern virginia"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "For 2025, have you resolved to \"appreciate the finer things in life\"? Photo by Mart Production."
   caption: "For 2025, have you resolved to \"appreciate the finer things in life\"? Photo by Mart Production."
   credit: "Falls Church Independent / archived source image"

@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A D.C. fire boat searches the Potomac River the morning after the mid-air airplane and helicopter crash outside Reagan National Airport (staff photo by James Jarvis)"
   caption: "A D.C. fire boat searches the Potomac River the morning after the mid-air airplane and helicopter crash outside Reagan National Airport (staff photo by James Jarvis)"
   credit: "James Jarvis / FFXnow"

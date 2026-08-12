@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "events"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "A principal looks over a child's shoulder"
   caption: "Archived source image accompanying Spring Hill Principal Returns for a Remarkable 34th First Day"
   credit: "FCPS News / archived source image"

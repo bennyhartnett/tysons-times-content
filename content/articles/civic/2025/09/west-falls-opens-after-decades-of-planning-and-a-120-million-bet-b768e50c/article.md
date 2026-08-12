@@ -12,7 +12,7 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Sept. 25 'Grand Opening' ribbon-cutting for West Falls, a nearly 10-acre transit-oriented mixed-use neighborhood at 255 West Falls Station Blvd. Left-to-right: Partner at..."
   caption: "Sept. 25 'Grand Opening' ribbon-cutting for West Falls, a nearly 10-acre transit-oriented mixed-use neighborhood at 255 West Falls Station Blvd. Left-to-right: Partner at Rockwood Capital David Streicher, Pres. of..."
   credit: "Falls Church Independent / archived source image"

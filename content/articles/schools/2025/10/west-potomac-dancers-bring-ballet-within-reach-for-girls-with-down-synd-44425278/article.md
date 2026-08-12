@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "the dancers lead the younger girls at the barre"
   caption: "The students from the West Potomac Dance Team lead the younger girls at the barre."
   credit: "FCPS News / archived source image"

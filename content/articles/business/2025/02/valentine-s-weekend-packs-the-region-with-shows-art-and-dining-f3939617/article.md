@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "In the Heights opens this weekend at Signature Theatre. Courtesy Signature Theatre."
   caption: "In the Heights opens this weekend at Signature Theatre. Courtesy Signature Theatre."
   credit: "Courtesy Signature Theatre."

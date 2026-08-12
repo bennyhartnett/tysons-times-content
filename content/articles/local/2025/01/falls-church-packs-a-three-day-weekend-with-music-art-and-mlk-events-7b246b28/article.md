@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Do you know ASL? Photo by RDNE Stock."
   caption: "Do you know ASL? Photo by RDNE Stock."
   credit: "Falls Church Independent / archived source image"

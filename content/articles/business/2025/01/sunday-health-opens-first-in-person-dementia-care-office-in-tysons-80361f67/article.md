@@ -12,7 +12,7 @@ tags:
   - "schools"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "The Tysons Professional Center office building (photo courtesy of Symbiosis)"
   caption: "The Tysons Professional Center office building (photo courtesy of Symbiosis)"
   credit: "Courtesy of Symbiosis"

@@ -11,7 +11,7 @@ tags:
   - "arts"
   - "transportation"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"....We also organized parades through the neighborhood. We decorated our bikes with crepe paper streamers through the wheel spokes and organized the paraders.\" Photo by the..."
   caption: "\"....We also organized parades through the neighborhood. We decorated our bikes with crepe paper streamers through the wheel spokes and organized the paraders.\" Photo by the author's mom, Mrs. LaVaughn Edwards...."
   credit: "Courtesy Carol McEwen."

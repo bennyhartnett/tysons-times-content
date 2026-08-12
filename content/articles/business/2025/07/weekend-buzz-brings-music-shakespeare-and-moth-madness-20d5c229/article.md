@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Bongo District"
   caption: "Archived source image accompanying Weekend Buzz Brings Music, Shakespeare and Moth Madness"
   credit: "Falls Church Independent / archived source image"

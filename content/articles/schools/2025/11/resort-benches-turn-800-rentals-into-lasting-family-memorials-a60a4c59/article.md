@@ -12,7 +12,7 @@ tags:
   - "sports"
   - "environment"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "\"It seems the mere sum of $800 buys the use of the bench for three years....\" Photo courtesy Carol McEwen."
   caption: "\"It seems the mere sum of $800 buys the use of the bench for three years....\" Photo courtesy Carol McEwen."
   credit: "Courtesy Carol McEwen."

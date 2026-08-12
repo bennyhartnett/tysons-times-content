@@ -11,7 +11,7 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Symone Keolani Jenkins"
   caption: "Archived source image accompanying Two FCPS Teachers Stand Out for Leadership Beyond the Classroom"
   credit: "FCPS News / archived source image"

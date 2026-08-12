@@ -10,7 +10,7 @@ tags:
   - "schools"
   - "events"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Have you gained fluency in Pig Latin -- the \"secret language formed from English by transferring the initial consonant or consonant cluster of each word to the end of the word..."
   caption: "Have you gained fluency in Pig Latin -- the \"secret language formed from English by transferring the initial consonant or consonant cluster of each word to the end of the word and adding a vocalic syllable (usually..."
   credit: "Falls Church Independent / archived source image"

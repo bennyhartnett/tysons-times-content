@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Fairfax County Park Authority offers a robust summer-camp program (screenshot via Fairfax County Park Authority)"
   caption: "Fairfax County Park Authority offers a robust summer-camp program (screenshot via Fairfax County Park Authority)"
   credit: "Fairfax County"

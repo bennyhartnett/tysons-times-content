@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Snow is falling in Merrifield (staff photo by Jared Serre)"
   caption: "Snow is falling in Merrifield (staff photo by Jared Serre)"
   credit: "Jared Serre / FFXnow"

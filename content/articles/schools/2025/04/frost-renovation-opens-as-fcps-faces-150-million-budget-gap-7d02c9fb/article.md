@@ -12,7 +12,7 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero.png"
+  file: "hero-pub.webp"
   alt: "The FCPS community posing for a picture on Purple Up! Day"
   caption: "Archived source image accompanying Frost Renovation Opens as FCPS Faces $150 Million Budget Gap"
   credit: "Fairfax County School Board / archived source image"

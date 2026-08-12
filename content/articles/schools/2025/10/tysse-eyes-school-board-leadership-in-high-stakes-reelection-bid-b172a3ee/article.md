@@ -11,7 +11,7 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Current members of the Falls Church City School Board. Front seated left to right: Board Chair Dr. Tate Gould, and Kathleen Tysse. Standing left to right: Amie Murphy, Anne..."
   caption: "Current members of the Falls Church City School Board. Front seated left to right: Board Chair Dr. Tate Gould, and Kathleen Tysse. Standing left to right: Amie Murphy, Anne Sherwood, Dr. Jerrod Anderson, Bethany..."
   credit: "Courtesy FCCSB."

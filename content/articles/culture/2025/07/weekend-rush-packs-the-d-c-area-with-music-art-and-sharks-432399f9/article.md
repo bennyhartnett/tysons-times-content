@@ -12,7 +12,7 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero.jpg"
+  file: "hero-pub.webp"
   alt: "Archived source image accompanying Weekend Rush Packs the D.C. Area With Music, Art and Sharks"
   caption: "Archived source image accompanying Weekend Rush Packs the D.C. Area With Music, Art and Sharks"
   credit: "Falls Church Independent / archived source image"
