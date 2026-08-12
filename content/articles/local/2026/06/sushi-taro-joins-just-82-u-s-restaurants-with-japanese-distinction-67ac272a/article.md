@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sushi Taro Joins Just 82 U.S. Restaurants With Japanese Distinction"
+  caption: "Sushi Taro Joins Just 82 U.S. Restaurants With Japanese Distinction. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After four decades of serving traditional Japanese cuisine in Washington, D.C., Sushi Taro has earned national recognition for its commitment to authentic ingredients and techniques.

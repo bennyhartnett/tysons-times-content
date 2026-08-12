@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna’s Liberty Amendments Celebration Expands for America’s 250th"
+  caption: "Vienna’s Liberty Amendments Celebration Expands for America’s 250th."
+  credit: "Town of Vienna"
 ---
 
 Vienna will mark the nation’s 250th anniversary with a parade, a Juneteenth festival, a naturalization ceremony, fireworks and other community events during the sixth annual Liberty Amendments Month.

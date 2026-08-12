@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Nine Cappies Nominations Put TheatreMcLean Back in the Spotlight"
+  caption: "Nine Cappies Nominations Put TheatreMcLean Back in the Spotlight. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 TheatreMcLean’s *Men on Boats* ended its run Feb. 15, leaving behind a dismantled set and packed-away costumes. But a May 5 announcement sent the cast and crew back to work: McLean High School had earned nine Cappies nominations.

@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid speaks on stage during the Beyond the Tassel celebration at Lewis High School."
+  caption: "Perfect SOL Results and Major Honors Cap a Big Week Across FCPS. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered June with graduations approaching and a packed week of student achievements, scholarships, performances, athletics and community events.

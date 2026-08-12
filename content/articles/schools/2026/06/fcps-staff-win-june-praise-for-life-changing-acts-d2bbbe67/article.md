@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Staff Win June Praise for Life-Changing Acts"
+  caption: "FCPS Staff Win June Praise for Life-Changing Acts. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools’ June 2026 FCPS Cares submissions spotlight employees whose work ranged from averting a divisionwide payroll disruption to helping students regain confidence, independence and a love of school.

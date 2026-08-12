@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Phone Restrictions Could Soon Stretch Through School Lunch"
+  caption: "Virginia Phone Restrictions Could Soon Stretch Through School Lunch. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia students could face a full-day ban on cellphone use beginning next school year, with lunch no longer exempt under Senate Bill 108.

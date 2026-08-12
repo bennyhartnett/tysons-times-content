@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Oakton Surge Ends McLean’s Season in Regional Opener"
+  caption: "Oakton Surge Ends McLean’s Season in Regional Opener. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s baseball season ended Thursday, May 28, after Oakton pulled away late for a 13-3 mercy-rule victory in the first round of the regional tournament.

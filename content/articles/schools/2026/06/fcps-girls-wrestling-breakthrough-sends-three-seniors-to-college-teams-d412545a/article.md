@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Oakton All-American wrestler Kate Crockett poses in the school's wrestling room."
+  caption: "FCPS Girls Wrestling Breakthrough Sends Three Seniors to College Teams. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Just two years after Fairfax County Public Schools made girls wrestling an official varsity sport, three graduating seniors have secured places on college teams.

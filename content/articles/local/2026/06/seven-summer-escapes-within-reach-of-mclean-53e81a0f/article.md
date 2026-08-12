@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Seven Summer Escapes Within Reach of McLean"
+  caption: "Seven Summer Escapes Within Reach of McLean. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 With the school year ending, McLean-area families and friends have plenty of nearby options for summer adventures. From rooftop mini golf and shaded trails to beaches and carnival rides, these seven destinations offer ways to stay active, cool off or simply relax.

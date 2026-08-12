@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Chantilly High School senior Titus Er holds up a large ceremonial check indicating that he is the recipient of a $5,000 scholarship from the Virginia School Boards Association."
+  caption: "Perfect SOL Scores and Major Honors Cap a Big FCPS Week. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools entered June with perfect test results, statewide student honors, major scholarship awards, championship performances and celebrations across the county.
