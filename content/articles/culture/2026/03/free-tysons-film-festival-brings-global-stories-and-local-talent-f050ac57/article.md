@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Free Tysons Film Festival Brings Global Stories and Local Talent"
+  caption: "Free Tysons Film Festival Brings Global Stories and Local Talent. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Drama, documentaries, comedy, horror and music videos will take over LOOK Dine-in Cinemas at The Boro in Tysons during the 12th annual Northern Virginia International Film & Music Festival.

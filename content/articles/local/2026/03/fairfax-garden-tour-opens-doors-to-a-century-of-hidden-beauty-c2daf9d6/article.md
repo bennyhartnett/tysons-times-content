@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Garden Tour Opens Doors to a Century of Hidden Beauty"
+  caption: "Fairfax Garden Tour Opens Doors to a Century of Hidden Beauty. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Garden Club of Fairfax will celebrate its 100th year April 21 with rare access to three distinctive Fairfax County properties during Virginia’s Historic Garden Week.

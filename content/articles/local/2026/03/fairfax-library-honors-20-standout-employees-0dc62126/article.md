@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A group of seven adults stands in a row inside a library in front of an “Information” sign, each person holding a framed certificate and facing the camera. Bookshelves and compute…"
+  caption: "Fairfax Library Honors 20 Standout Employees. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 The Fairfax County Public Library Board of Trustees honored 20 employees with annual staff excellence awards during its monthly meeting on Wednesday, March 11.

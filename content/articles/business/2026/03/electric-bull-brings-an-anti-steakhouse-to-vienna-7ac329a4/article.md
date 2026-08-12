@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Electric Bull Brings an “Anti-Steakhouse” to Vienna"
+  caption: "Electric Bull Brings an “Anti-Steakhouse” to Vienna. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Chef Victor Albisu is preparing to open Electric Bull, a live-fire steakhouse and butcher shop that will challenge the familiar steakhouse formula on Vienna’s Maple Avenue.

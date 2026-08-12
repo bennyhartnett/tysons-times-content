@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Chocolate Festival Serves Up Treats and Colonial History"
+  caption: "McLean Chocolate Festival Serves Up Treats and Colonial History. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Chocolate in all its forms drew visitors to the McLean Chocolate Festival, where guests sampled dipped sweets, explored chocolate’s colonial-era origins and selected bars ranging from white to dark.

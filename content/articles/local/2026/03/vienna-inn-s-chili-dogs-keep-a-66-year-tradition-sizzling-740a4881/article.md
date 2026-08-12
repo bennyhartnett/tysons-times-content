@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Inn’s Chili Dogs Keep a 66-Year Tradition Sizzling"
+  caption: "Vienna Inn’s Chili Dogs Keep a 66-Year Tradition Sizzling. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Vienna Inn has served generations of customers from its longtime home at 120 Maple Avenue East since Mike and Mollie Abraham opened the restaurant in 1960.

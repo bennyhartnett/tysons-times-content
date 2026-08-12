@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Alexandria Students Turn King’s Legacy Into Visions for the Future"
+  caption: "Alexandria Students Turn King’s Legacy Into Visions for the Future. Openly licensed thematic image selected for this article."
+  credit: "Berenice Abbott / Public domain / Wikimedia Commons"
 ---
 
 Alexandria opened Black History Month with young artists sharing their visions of justice, equality and community through the city’s annual Dr. Martin Luther King Jr. Student Poster Exhibition.

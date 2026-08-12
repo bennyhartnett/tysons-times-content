@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Two New Hot Spots Are Opening at The Boro in Tysons"
+  caption: "Two New Hot Spots Are Opening at The Boro in Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Boro will welcome an Egyptian street-food restaurant and an interactive game-show venue to Tysons with two grand-opening events in March.

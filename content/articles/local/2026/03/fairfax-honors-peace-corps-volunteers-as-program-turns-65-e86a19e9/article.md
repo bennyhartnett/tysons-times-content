@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Honors Peace Corps Volunteers as Program Turns 65"
+  caption: "Fairfax Honors Peace Corps Volunteers as Program Turns 65. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County has honored Returned Peace Corps Volunteers for decades of service abroad—and for bringing that commitment home—as the Peace Corps marks its 65th anniversary.

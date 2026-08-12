@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Stitches Together a Growing Culture of Repair"
+  caption: "Belen Quellet, Executive Director of The Learning Quest at a local business spotlight hosted by Harvey's restaurant. Photo by Chris Jones."
+  credit: "Falls Church Independent"
 ---
 
 Across Falls Church, residents, businesses and community groups are turning mending, lending and creative reuse into a more sustainable way of life.
