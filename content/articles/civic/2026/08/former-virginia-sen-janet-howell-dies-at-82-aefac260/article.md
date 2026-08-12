@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "woman pictured from shoulders up leaning head on hand during legislative proceedings"
+  caption: "Former Virginia Sen. Janet Howell, longtime Tysons-area representative, dies at 82. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 Former Virginia state Sen. Janet Howell, who represented Tysons and neighboring Fairfax and Arlington communities for more than three decades, has died at 82, according to reports published Aug. 3.

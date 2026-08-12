@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County police car with lights flashing"
+  caption: "Fairfax County police car with lights flashing (file photo)"
+  credit: "Fairfax County police car with lights flashing (file photo)"
 ---
 
 Fairfax County police arrested a 19-year-old Alexandria resident after a shooting in Groveton on July 28 left a man hospitalized with an upper-body gunshot wound and in life-threatening condition.

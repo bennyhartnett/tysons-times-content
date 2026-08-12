@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Rendering of a modern multi-story apartment building with red brick and beige facades, lined by trees along a street."
+  caption: "Revamped conceptual design of housing on Courthouse Plaza parcel (via Combined Properties)"
+  credit: "FFXnow"
 ---
 
 Combined Properties presented revised conceptual plans for a two-phase redevelopment of Fairfax City’s approximately 10-acre Courthouse Plaza site during a July 28 City Council work session, drawing generally favorable reactions from council members while leaving questions about the number of new homes.

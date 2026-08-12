@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Modern glass-fronted barn-like building with wooden siding, illuminated at dusk among trees and lawn for a serene landscape scene;"
+  caption: "The Barns at Wolf Trap will open The Virginian Barn as a dining and gathering space in November. (courtesy of Wolf Trap Foundation for the Performing Arts)"
+  credit: "FFXnow"
 ---
 
 Wolf Trap plans to begin operating the relocated and renovated Virginian Barn in November, adding a third historic structure to The Barns at Wolf Trap.

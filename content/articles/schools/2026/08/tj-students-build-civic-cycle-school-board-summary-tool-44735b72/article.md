@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County Public School buses"
+  caption: "Fairfax County Public School buses idle at a middle school in Falls Church, Va., July 20, 2020. (AP Photo/J. Scott Applewhite, File)"
+  credit: "WTOP Fairfax County"
 ---
 
 Students at Thomas Jefferson High School for Science and Technology have launched Civic Cycle, a free web application designed to help residents follow local school board meetings.

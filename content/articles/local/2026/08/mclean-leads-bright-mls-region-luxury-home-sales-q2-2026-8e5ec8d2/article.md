@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "White colonial-style house with dormer windows, black shutters, a red front door, brick chimney, and lush landscaping in front."
+  caption: "Luxury home (via Elijah Crouch/Unsplash)"
+  credit: "Luxury home (via Elijah Crouch/Unsplash)"
 ---
 
 McLean’s 22101 ZIP code recorded the highest number of luxury-home sales in the Bright MLS service region during the second quarter of 2026, according to Bright MLS data.

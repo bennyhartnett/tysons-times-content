@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Curved glass entrance of a modern brick building, framed by purple flowering trees on both sides."
+  caption: "The space at 8190 Strawberry Lane, Suite 1, in the Mosaic District has been vacant since Four Sisters closed in May 2023 (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Charles Schwab plans to open a financial-services branch in the former Four Sisters restaurant space in Merrifield’s Mosaic District.

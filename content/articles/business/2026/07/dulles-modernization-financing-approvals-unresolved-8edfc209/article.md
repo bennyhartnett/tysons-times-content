@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Airport terminal lobby with glass walls, planes on the tarmac at sunset, people walking with luggage and seating areas visible."
+  caption: "Conceptual rendering of interior of new Dulles International Airport facilities (courtesy of MWAA)"
+  credit: "FFXnow"
 ---
 
 A proposed overhaul of Dulles International Airport would reshape how passengers move through the airport, but major questions about financing, government approvals and potential costs to travelers remain unanswered.

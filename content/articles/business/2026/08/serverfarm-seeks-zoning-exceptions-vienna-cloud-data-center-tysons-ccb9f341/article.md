@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A parking lot, with a shopping mall and a skyscraper in the background in Tysons"
+  caption: "Overlooking a hedge into a parking lot, with a shopping mall and a skyscraper in the background in Tysons, Virginia. (WTOP/Scott Gelman)"
+  credit: "WTOP Fairfax County"
 ---
 
 Serverfarm is seeking Fairfax County zoning exceptions to convert two existing office buildings and a parking garage at 7980 and 7990 Quantum Drive into a 316,000-square-foot data center called Vienna Cloud.

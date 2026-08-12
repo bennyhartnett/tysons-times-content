@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Paul Thomas was nominated to be the new Hunter Mill District planning commissioner (courtesy of Paul Thomas)"
+  caption: "Paul Thomas was nominated to be the new Hunter Mill District planning commissioner (courtesy of Paul Thomas)"
+  credit: "FFXnow"
 ---
 
 Walter Alcorn plans to recommend lifelong Restonian Paul Thomas as the Fairfax County Planning Commission representative for Hunter Mill District, following John Carter’s announcement that he will retire after nearly nine years in the role.
