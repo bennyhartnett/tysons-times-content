@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 3,000-Egg Hunt and Street-Level Festivities Return to Tysons"
+  caption: "Cherry blossom-themed sign for The Perch during Easter egg hunt (courtesy Capital One Center)"
+  credit: "Cherry blossom-themed sign for The Perch during Easter egg hunt (courtesy Capit…"
 ---
 
 Capital One Center is welcoming spring with a 3,000-egg Easter hunt, a color run and an expanded lineup of activities stretching from The Perch to Metro Park.

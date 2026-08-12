@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Braddock Road Metro Plan Would Remove Kiss & Ride Facilities"
+  caption: "Braddock Road Metro Plan Would Remove Kiss & Ride Facilities. Openly licensed thematic image selected for this article."
+  credit: "Andre Carrotflower / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Metro is seeking public feedback on a proposal to reconfigure the bus loop and eliminate Kiss & Ride facilities at Braddock Road station in Alexandria. The changes are intended to support future joint development, improve the customer experience and increase ridership.

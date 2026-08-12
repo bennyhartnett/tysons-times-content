@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Salon Puts Personalized Hair Color and Curl Care First"
+  caption: "Tysons Salon Puts Personalized Hair Color and Curl Care First. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Noufal Haircolor Studio offers customized color, cutting and styling services at Westwood Center in Tysons, with an emphasis on detailed consultations and individualized results.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for ChalkFest Sets April Return With Art, Poetry and Family Fun"
+  caption: "ChalkFest Sets April Return With Art, Poetry and Family Fun. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 ChalkFest will bring colorful pavement art, live music and family activities back to Reston Town Square Park on Saturday, April 25, 2026.

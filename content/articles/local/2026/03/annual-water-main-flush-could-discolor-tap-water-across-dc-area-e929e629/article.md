@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Tap water from a faucet filling a glass."
+  caption: "Residents may notice a slight change in the odor or taste of their tap water as chlorine is added to disinfect and clear away bacteria and natural biofilm buildup. (Getty/iStockphoto/sonsam)"
+  credit: "Residents may notice a slight change in the odor or taste of their tap water as…"
 ---
 
 Residents in D.C., Fairfax County and Arlington County may notice changes in the taste, smell or appearance of their tap water as the region begins its annual water main cleaning Monday.

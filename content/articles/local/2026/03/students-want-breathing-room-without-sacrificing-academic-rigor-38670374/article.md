@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Students Want Breathing Room Without Sacrificing Academic Rigor"
+  caption: "Students Want Breathing Room Without Sacrificing Academic Rigor. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Student burnout rarely stems from one difficult class. It builds during weeks when tests, projects, homework, extracurricular activities and college-related pressures converge.

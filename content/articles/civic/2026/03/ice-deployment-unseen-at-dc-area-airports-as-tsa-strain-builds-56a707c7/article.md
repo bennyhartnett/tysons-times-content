@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "DHS police at Dulles"
+  caption: "ICE Deployment Unseen at DC-Area Airports as TSA Strain Builds. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 Travelers at the Washington region’s three major airports saw no visible presence of U.S. Immigration and Customs Enforcement officers Monday, the first day of a White House plan to use immigration personnel to help ease airport screening delays during the partial government shutdown.

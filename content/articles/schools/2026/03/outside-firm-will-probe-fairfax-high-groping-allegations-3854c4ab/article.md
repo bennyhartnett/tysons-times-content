@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Sign for Fairfax County Public Schools headquarters"
+  caption: "A sign for Fairfax County Public Schools headquarters. (WTOP/Nick Iannelli)"
+  credit: "A sign for Fairfax County Public Schools headquarters. (WTOP/Nick Iannelli)"
 ---
 
 Fairfax County Public Schools has hired an outside law firm to investigate allegations that an 18-year-old student improperly touched several classmates at Fairfax High School.

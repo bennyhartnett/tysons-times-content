@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dulles Concourse E Nears Major Milestone Ahead of Fall Opening"
+  caption: "Interior construction work inside future Concourse E at Dulles International Airport (via MWAA)"
+  credit: "Interior construction work inside future Concourse E at Dulles International Ai…"
 ---
 
 Dulles International Airport’s new 14-gate Concourse E is approaching a key transition as crews prepare restaurant, retail and entertainment spaces for an expected fall opening.

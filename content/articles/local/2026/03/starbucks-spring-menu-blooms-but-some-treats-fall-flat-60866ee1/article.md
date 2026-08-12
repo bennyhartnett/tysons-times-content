@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Starbucks’ Spring Menu Blooms, but Some Treats Fall Flat"
+  caption: "Starbucks’ Spring Menu Blooms, but Some Treats Fall Flat. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Starbucks is welcoming warmer weather with floral drinks and bright citrus flavors, but its new spring menu delivers mixed results. The Lavender Chai and Yuzu Citrus Blossom emerged as standouts, while other seasonal additions proved less memorable.
