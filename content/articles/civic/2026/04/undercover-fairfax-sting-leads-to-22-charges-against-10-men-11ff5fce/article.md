@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County police patch"
+  caption: "Patch on the shoulder of a Fairfax County police officer. (Courtesy Fairfax County Police Department)"
+  credit: "Patch on the shoulder of a Fairfax County police officer. (Courtesy Fairfax Cou…"
 ---
 
 Ten men were arrested after allegedly arranging sexual encounters in Fairfax County with people they believed were children, police said.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for AI Romance Surges as Millions Turn to Chatbots for Connection"
+  caption: "AI Romance Surges as Millions Turn to Chatbots for Connection. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Falling in love with artificial intelligence is moving from science fiction into everyday life. People now use chatbots not only to answer questions or plan trips, but also as friends, romantic partners and even spouses.

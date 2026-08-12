@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Honors 147 Local Lives Lost in Vietnam War"
+  caption: "Fairfax Honors 147 Local Lives Lost in Vietnam War. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax-area veterans and community members gathered March 28 at American Legion Post 177 in Fairfax City to honor those who served during the Vietnam War, including 147 Fairfax County residents who died in the conflict.

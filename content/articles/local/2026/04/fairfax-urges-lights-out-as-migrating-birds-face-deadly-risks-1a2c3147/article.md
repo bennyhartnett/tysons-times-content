@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Urges Lights Out as Migrating Birds Face Deadly Risks"
+  caption: "Fairfax Urges Lights Out as Migrating Birds Face Deadly Risks. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County residents are being asked to switch off unnecessary outdoor lights during International Dark Sky Week, April 13-19, to help protect birds migrating along the Atlantic Flyway.

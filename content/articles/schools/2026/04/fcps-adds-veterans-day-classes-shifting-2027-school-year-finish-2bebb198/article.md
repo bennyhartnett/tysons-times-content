@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Adds Veterans Day Classes, Shifting 2027 School-Year Finish"
+  caption: "FCPS Adds Veterans Day Classes, Shifting 2027 School-Year Finish."
+  credit: "Fairfax County Public Schools"
 ---
 
 Fairfax County Public Schools students will attend classes on Veterans Day during the 2026-27 school year, a calendar change that moves their final day to Wednesday, June 16, 2027.

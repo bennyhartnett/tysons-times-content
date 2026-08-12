@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Students Rally as Afterschool Funding Deadline Looms"
+  caption: "Arlington Students Rally as Afterschool Funding Deadline Looms. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Nearly 500 students and parents gathered at Kenmore Middle School with elected officials and community leaders to press Arlington County for continued, dedicated funding for afterschool programs.

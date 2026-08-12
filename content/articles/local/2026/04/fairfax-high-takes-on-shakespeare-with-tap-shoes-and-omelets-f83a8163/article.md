@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax High Takes on Shakespeare With Tap Shoes and Omelets"
+  caption: "Fairfax High Takes on Shakespeare With Tap Shoes and Omelets. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax High School is preparing a musical comedy packed with tap dancing, Renaissance costumes and an absurd plan to outdo William Shakespeare.

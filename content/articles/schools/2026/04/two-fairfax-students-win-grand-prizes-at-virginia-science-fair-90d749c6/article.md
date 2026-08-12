@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Press release graphic with a microscope and an atom - teal"
+  caption: "Two Fairfax Students Win Grand Prizes at Virginia Science Fair. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Two Fairfax County Public Schools students earned grand prizes at the 2026 Virginia Science and Engineering Fair, advancing their projects to an international competition in Phoenix.

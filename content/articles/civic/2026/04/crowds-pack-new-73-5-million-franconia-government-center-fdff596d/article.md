@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Crowds Pack New $73.5 Million Franconia Government Center"
+  caption: "Crowds Pack New $73.5 Million Franconia Government Center. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A larger-than-expected crowd gathered Saturday for the opening of the new Franconia District Governmental Center, a roughly 90,000-square-foot facility bringing numerous Fairfax County services under one roof.
