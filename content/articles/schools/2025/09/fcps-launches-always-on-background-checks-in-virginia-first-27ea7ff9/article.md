@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Students carry signs in a parade"
+  caption: "FCPS Launches Always-On Background Checks in Virginia First. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has become the first school division in Virginia to use Rap Back, a system that continuously monitors criminal background information.

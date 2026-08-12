@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Discarded Smoking Material Sparks $865,540 Townhouse Fire"
+  caption: "Discarded Smoking Material Sparks $865,540 Townhouse Fire. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 A two-alarm fire sparked by improperly discarded smoking material damaged three townhouses in Springfield on Monday, September 22, 2025, causing an estimated $865,540 in damage.

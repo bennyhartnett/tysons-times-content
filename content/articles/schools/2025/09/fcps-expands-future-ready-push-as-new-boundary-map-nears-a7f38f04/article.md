@@ -11,10 +11,10 @@ tags:
   - "mclean"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Boundary graphic."
+  caption: "FCPS Expands Future-Ready Push as New Boundary Map Nears. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools launched the third year of its Lighthouse Schools program last week, advancing an effort to test new teaching strategies and technology before sharing successful approaches across the division.

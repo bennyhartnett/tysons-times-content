@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A band plays for students and adults in front of a school bus and a tent."
+  caption: "Fairfax Schools Add 17 Electric Buses, Launch 34-School Solar Push. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools celebrated two major clean-energy advances on Sept. 21: a long-planned solar initiative covering 34 elementary schools and the arrival of 17 additional electric buses.

@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Fairfax Schools Prepare to Unveil Scenario 4 Boundary Map"
+  caption: "Fairfax Schools Prepare to Unveil Scenario 4 Boundary Map. Openly licensed thematic image selected for this article."
+  credit: "Manitoba Historical Maps / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools is preparing to release a new draft boundary map for public review at community meetings in October.

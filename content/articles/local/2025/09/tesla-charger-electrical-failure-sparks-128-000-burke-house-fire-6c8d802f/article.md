@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Tesla Charger Electrical Failure Sparks $128,000 Burke House Fire"
+  caption: "Tesla Charger Electrical Failure Sparks $128,000 Burke House Fire. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 An electrical event involving a Tesla Charger caused a house fire that displaced six people in Burke early Friday, Sept. 26, 2025, investigators determined.

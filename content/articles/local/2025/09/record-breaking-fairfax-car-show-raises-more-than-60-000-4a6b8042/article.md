@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Record-Breaking Fairfax Car Show Raises More Than $60,000"
+  caption: "Record-Breaking Fairfax Car Show Raises More Than $60,000. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 More than 7,000 people packed downtown Fairfax for the 26th annual Labor Day Car Show, where a record 423 vehicles were displayed and over $60,000 was raised for charity.

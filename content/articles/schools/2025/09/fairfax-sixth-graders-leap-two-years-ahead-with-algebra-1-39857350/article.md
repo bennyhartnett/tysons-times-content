@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "sports"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A sixth grade student uses a rule on the white board during Algebra 1 class."
+  caption: "Fairfax Sixth Graders Leap Two Years Ahead With Algebra 1. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 More than 700 Fairfax County Public Schools sixth graders are taking Algebra 1 this year, a dramatic increase from the roughly 30 elementary students who typically enrolled in the high school-level course in previous years.

@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying FCPS Expands School Security as Gun Violence Concerns Intensify"
+  caption: "FCPS Expands School Security as Gun Violence Concerns Intensify. Openly licensed thematic image selected for this article."
+  credit: "Smuconlaw. / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools is strengthening security across its campuses while urging families to help prevent children from accessing firearms at home.

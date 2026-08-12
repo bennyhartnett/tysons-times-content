@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Message from the Superintendent"
+  caption: "Fairfax Schools Fight Federal Threat to $167 Million in Funding. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has asked a federal appeals court to prevent the U.S. Department of Education from suspending as much as $167 million over the division’s bathroom and locker room policies.
