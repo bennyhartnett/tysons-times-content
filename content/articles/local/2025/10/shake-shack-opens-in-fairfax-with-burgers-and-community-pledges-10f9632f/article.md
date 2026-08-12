@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Shake Shack Opens in Fairfax With Burgers and Community Pledges"
+  caption: "Shake Shack Opens in Fairfax With Burgers and Community Pledges. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax City’s newest Shake Shack opened Sept. 17 at Kamp Washington Shopping Center, welcoming a line of customers to its location between routes 50 and 29.

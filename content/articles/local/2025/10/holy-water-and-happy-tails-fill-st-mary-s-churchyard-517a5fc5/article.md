@@ -10,10 +10,10 @@ tags:
   - "local"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Holy Water and Happy Tails Fill St. Mary’s Churchyard"
+  caption: "Holy Water and Happy Tails Fill St. Mary’s Churchyard. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Dogs settled beside their owners, sniffed out new friends and occasionally added a bark to the prayers during St. Mary’s Episcopal Church’s Blessing of the Animals on Saturday, Oct. 4.

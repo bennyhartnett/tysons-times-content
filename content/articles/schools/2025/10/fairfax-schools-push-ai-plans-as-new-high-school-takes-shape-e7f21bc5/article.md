@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid at Herndon High School Homecoming Parade with JROTC."
+  caption: "Fairfax Schools Push AI Plans as New High School Takes Shape. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools advanced plans for artificial intelligence in classrooms, a new western high school and a broader measure of student success during a busy week of meetings and community events.

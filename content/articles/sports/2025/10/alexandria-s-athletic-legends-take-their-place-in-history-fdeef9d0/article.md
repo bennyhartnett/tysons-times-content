@@ -11,10 +11,10 @@ tags:
   - "virginia"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Alexandria’s Athletic Legends Take Their Place in History"
+  caption: "Alexandria’s Athletic Legends Take Their Place in History. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria City Public Schools celebrated standout athletes, coaches and championship teams on Oct. 11 as the 2025 Athletic Hall of Fame class was inducted at Alexandria City High School.

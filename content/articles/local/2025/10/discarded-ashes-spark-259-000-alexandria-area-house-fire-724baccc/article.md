@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Discarded Ashes Spark $259,000 Alexandria-Area House Fire"
+  caption: "Discarded Ashes Spark $259,000 Alexandria-Area House Fire. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Improperly discarded ashes ignited a fire at an Alexandria-area home Sunday morning, causing an estimated $259,338 in damage but leaving residents and firefighters uninjured.

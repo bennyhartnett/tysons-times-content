@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Great Falls Fire Station Wins Top Open House Honor Again"
+  caption: "Great Falls Fire Station Wins Top Open House Honor Again. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Great Falls Volunteer Fire Department earned the 1st Battalion’s Best Open House award for the second consecutive year after welcoming local families for hands-on safety demonstrations and emergency preparedness activities.

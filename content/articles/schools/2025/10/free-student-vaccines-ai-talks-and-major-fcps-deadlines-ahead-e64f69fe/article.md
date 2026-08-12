@@ -12,10 +12,10 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Free Student Vaccines, AI Talks and Major FCPS Deadlines Ahead"
+  caption: "Free Student Vaccines, AI Talks and Major FCPS Deadlines Ahead. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools families face a packed stretch of events and deadlines, including no-cost student immunization clinics, a public discussion about artificial intelligence, Thomas Jefferson High School applications and community meetings on proposed boundary changes.

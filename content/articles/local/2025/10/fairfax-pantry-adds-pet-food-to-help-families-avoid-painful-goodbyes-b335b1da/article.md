@@ -12,10 +12,10 @@ tags:
   - "development"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Pantry Adds Pet Food to Help Families Avoid Painful Goodbyes"
+  caption: "Fairfax Pantry Adds Pet Food to Help Families Avoid Painful Goodbyes. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Families facing financial hardship now have another option to help them keep their pets at home.

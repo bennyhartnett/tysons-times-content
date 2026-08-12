@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Gulf Branch Festival Brings Arlington’s Past to Life"
+  caption: "Gulf Branch Festival Brings Arlington’s Past to Life. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Gulf Branch Fall Festival turned everyday life in early Arlington into a hands-on experience, inviting visitors to make butter, press cider, sew fabric and experiment with natural dyes.

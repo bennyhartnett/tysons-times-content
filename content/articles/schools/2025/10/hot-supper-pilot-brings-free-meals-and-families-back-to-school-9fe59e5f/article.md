@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A tray of lunch food including Macaroni"
+  caption: "Hot Supper Pilot Brings Free Meals and Families Back to School. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Hybla Valley Elementary School added something unexpected to its Back-to-School Night: a hot supper that gave families a chance to sample Fairfax County Public Schools’ changing menu.
