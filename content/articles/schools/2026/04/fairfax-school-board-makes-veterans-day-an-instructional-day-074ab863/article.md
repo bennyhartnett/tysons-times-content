@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "School Board celebrates 2026 National Board Certified Teachers"
+  caption: "Fairfax School Board Makes Veterans Day an Instructional Day. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board voted April 9 to make Veterans Day a standard instructional day beginning with the 2026-27 school year, while rejecting a proposal to do the same for Indigenous Peoples’ Day.

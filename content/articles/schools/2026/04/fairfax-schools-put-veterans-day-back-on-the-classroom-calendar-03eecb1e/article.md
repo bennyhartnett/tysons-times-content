@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Whitmas MS Symphonic Orchestra performs National Anthem"
+  caption: "Fairfax Schools Put Veterans Day Back on the Classroom Calendar. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County students and staff will attend school on Veterans Day beginning in the 2026-27 academic year, following a series of calendar decisions approved by the School Board on April 9.

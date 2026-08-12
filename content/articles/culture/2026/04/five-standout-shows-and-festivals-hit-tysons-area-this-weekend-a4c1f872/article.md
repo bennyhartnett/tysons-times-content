@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Five Standout Shows and Festivals Hit Tysons Area This Weekend"
+  caption: "Five Standout Shows and Festivals Hit Tysons Area This Weekend. Openly licensed thematic image selected for this article."
+  credit: "Tammy Lo from New York, NY / CC BY 2.0 / Wikimedia Commons"
 ---
 
 The Tysons area comes alive April 10-12 with theater, dance, live music, circus arts and a two-day spring festival. Here are five events scheduled across Herndon, Fairfax, Tysons and Vienna.

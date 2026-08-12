@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Eyes 14 New Bikeshare Stops Along the I-66 Trail"
+  caption: "Fairfax County’s proposed new Capital Bikeshare stations in the I-66 corridor will be smaller and feature more flexible pillar docks, similar to the pictured station in Arlington (via FCDOT)"
+  credit: "Fairfax County’s proposed new Capital Bikeshare stations in the I-66 corridor w…"
 ---
 
 Fairfax County is considering 14 new Capital Bikeshare stations along the I-66 corridor, extending service from Centreville to Dunn Loring and giving trail users more places to pick up and return bicycles.

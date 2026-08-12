@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Plastic Surgery Practice Puts Subtle Results in the Spotlight"
+  caption: "Tysons Plastic Surgery Practice Puts Subtle Results in the Spotlight. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Munique Maia has built a boutique cosmetic surgery practice in Tysons focused on personalized care and natural-looking results.

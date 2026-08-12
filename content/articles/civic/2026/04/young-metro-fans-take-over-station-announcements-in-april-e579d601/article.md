@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Young Metro Fans Take Over Station Announcements in April"
+  caption: "Young Metro Fans Take Over Station Announcements in April. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro riders will hear a new group of voices in stations throughout April as 10 young transit enthusiasts with autism deliver recorded boarding and safety announcements.

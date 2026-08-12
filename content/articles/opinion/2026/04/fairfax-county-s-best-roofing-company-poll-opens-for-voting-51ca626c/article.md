@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best Roofing Company Poll Opens for Voting"
+  caption: "Fairfax County’s Best Roofing Company Poll Opens for Voting. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Voting is underway to choose the best roofing company in Fairfax County as part of a local Readers’ Choice Awards contest.

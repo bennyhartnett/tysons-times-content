@@ -11,9 +11,9 @@ tags:
   - "vienna"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Community Center Turns 60 With a 1960s-Themed Bash"
+  caption: "Vienna Community Center Turns 60 With a 1960s-Themed Bash. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Vienna Community Center will celebrate six decades of serving residents with a 1960s-themed open house on Friday, April 17.

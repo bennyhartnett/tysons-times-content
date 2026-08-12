@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for The Giant Philco That Changed Everything in 1955"
+  caption: "\"A happy memory of mine is the day we got our first TV, in 1955....\" Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 The arrival of our first television in 1955 remains one of my happiest childhood memories. My frugal parents were among the last people in the neighborhood to buy one, so for a while, the Edmonsons’ living room up the street became our community theater.

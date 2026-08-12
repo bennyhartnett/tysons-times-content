@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Eating from a bowl with chopsticks"
+  caption: "Chao Ban is a fast-casual Vietnamese-American concept headed by Chef Kevin Tien and Managing Partner Alan Vo. (Courtesy Rey Lopez)"
+  credit: "Chao Ban is a fast-casual Vietnamese-American concept headed by Chef Kevin Tien…"
 ---
 
 Chef Kevin Tien is blending Vietnamese street food with flavors from Louisiana, Sichuan and Nashville at Chao Ban, his new 36-seat counter-service restaurant in Tysons Galleria.
