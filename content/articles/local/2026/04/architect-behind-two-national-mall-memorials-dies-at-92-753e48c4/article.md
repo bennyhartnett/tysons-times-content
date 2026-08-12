@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Architect Behind Two National Mall Memorials Dies at 92"
+  caption: "Architect Behind Two National Mall Memorials Dies at 92. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 William “Bill” Prescott Lecky, a Washington-area architect who helped bring the Vietnam Veterans Memorial and Korean War Veterans Memorial to life, died April 5, 2026, surrounded by his family. The Annapolis resident was 92.

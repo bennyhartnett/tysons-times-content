@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Eyes Overhaul After Sidewalk Projects Swamp Staff"
+  caption: "Fairfax County Department of Transportation director Gregg Steverson (screenshot via Fairfax County)"
+  credit: "Fairfax County Department of Transportation director Gregg Steverson (screensho…"
 ---
 
 Fairfax County transportation officials want to replace a frustrating system for managing sidewalk, trail and crosswalk improvements with a three-year planning cycle.

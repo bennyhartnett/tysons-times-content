@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Family-Run Seray Brings Refined Lebanese Flavor to Vienna"
+  caption: "Family-Run Seray Brings Refined Lebanese Flavor to Vienna. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Seray has transformed a spot along Maple Avenue into an inviting destination for Lebanese cooking, pairing traditional recipes with a polished dining-room experience.

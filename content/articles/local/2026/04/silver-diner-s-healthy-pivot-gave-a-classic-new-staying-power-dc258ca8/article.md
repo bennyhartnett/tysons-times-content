@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Silver Diner’s Healthy Pivot Gave a Classic New Staying Power"
+  caption: "Silver Diner’s Healthy Pivot Gave a Classic New Staying Power. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Silver Diner has spent more than three decades expanding across the Washington region while holding onto its identity as a neighborhood gathering place.

@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Band conductor standing in front of a middle school age band."
+  caption: "273 Fairfax Students Earn Spots in Elite All-Virginia Ensembles. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A total of 273 Fairfax County Public Schools students have earned places in prestigious statewide music ensembles following a competitive audition process.

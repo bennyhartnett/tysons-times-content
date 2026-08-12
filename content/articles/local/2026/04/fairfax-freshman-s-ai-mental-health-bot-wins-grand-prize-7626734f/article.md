@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Freshman’s AI Mental Health Bot Wins Grand Prize"
+  caption: "Fairfax Freshman’s AI Mental Health Bot Wins Grand Prize. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After months of coding and therapy research, freshman Emmanuel Beakal turned a concern he had seen affect his community for years into an award-winning mental health tool.

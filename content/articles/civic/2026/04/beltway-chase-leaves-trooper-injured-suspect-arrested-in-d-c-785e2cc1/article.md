@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Virginia State Police cruiser"
+  caption: "File photo of a Virginia State Police cruiser. (AP Photo/Jacquelyn Martin)"
+  credit: "File photo of a Virginia State Police cruiser. (AP Photo/Jacquelyn Martin)"
 ---
 
 A Virginia State Police trooper was injured Tuesday night after a traffic stop attempt escalated into a vehicle pursuit, a crash and a foot chase across Interstate 495. The suspect was later arrested at a Metro station in Washington, D.C.

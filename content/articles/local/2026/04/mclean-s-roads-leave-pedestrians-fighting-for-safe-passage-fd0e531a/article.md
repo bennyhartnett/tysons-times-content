@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Roads Leave Pedestrians Fighting for Safe Passage"
+  caption: "McLean’s Roads Leave Pedestrians Fighting for Safe Passage. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 In McLean, traveling without a car can feel nearly impossible. Roads designed to move vehicles quickly often leave pedestrians navigating busy intersections, highway entrances and crosswalks with limited protection.

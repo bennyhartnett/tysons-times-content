@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Modan Brings a Luxe Taste of Tokyo to Tysons"
+  caption: "Modan Brings a Luxe Taste of Tokyo to Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Tysons has no shortage of steakhouses, but Modan is offering Northern Virginia diners something different: an upscale Japanese experience built around shareable plates, dry-aged fish and an elaborate omakase menu.
