@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Tysons Larceny Arrest Uncovers Stolen Firearm"
+  caption: "Tysons Larceny Arrest Uncovers Stolen Firearm. Image from FCPD News — Tysons Urban Team."
+  credit: "FCPD News — Tysons Urban Team"
 ---
 
 An 18-year-old Washington, D.C., man was arrested in Tysons after detectives investigating a reported larceny found him carrying a stolen firearm, police said.

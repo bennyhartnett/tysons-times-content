@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "sports"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Food Services workers serving Thanksgiving dinner at Annandale High School."
+  caption: "Fairfax Schools Boundary Review Enters Its Final Stages. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is moving closer to possible boundary changes as its advisory committee prepares recommendations for a final proposal and implementation plan.

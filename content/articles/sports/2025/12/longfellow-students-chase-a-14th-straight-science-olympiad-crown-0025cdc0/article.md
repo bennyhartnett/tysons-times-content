@@ -11,10 +11,10 @@ tags:
   - "mclean"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Longfellow Science Olympiad team members ensure projects meet specifications."
+  caption: "Longfellow Students Chase a 14th Straight Science Olympiad Crown. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Three afternoons each week, 30 students at Longfellow Middle School gather in McLean classrooms to study scientific concepts and test creations ranging from hovercraft and helicopters to gravity-powered vehicles.

@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "School Boundary Review"
+  caption: "Fairfax Schools Near Final Stages of Major Boundary Review. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools moved closer to completing its comprehensive boundary review as an advisory committee considered changes to one scenario and prepared for another.

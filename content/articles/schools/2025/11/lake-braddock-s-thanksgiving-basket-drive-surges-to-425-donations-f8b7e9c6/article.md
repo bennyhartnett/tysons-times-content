@@ -11,10 +11,10 @@ tags:
   - "herndon"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "baskets full of food"
+  caption: "Lake Braddock’s Thanksgiving Basket Drive Surges to 425 Donations. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A Thanksgiving effort that began with just 30 baskets has grown dramatically, with Lake Braddock Secondary School collecting 425 baskets for families across Fairfax County in 2025.

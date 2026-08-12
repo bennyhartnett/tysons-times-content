@@ -11,10 +11,10 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for When a Box of Crayons Could Brighten an Entire Winter"
+  caption: "\"There were books about famous people like Shirley Temple, cartoon characters like Donald Duck, and movies like the “Wizard of Oz....”"
+  credit: "Falls Church Independent"
 ---
 
 Coloring was a year-round childhood pastime in the 1950s, but it became especially valuable during winter, when cold weather kept us indoors. At home and in school, we put our Crayola crayons to steady use.

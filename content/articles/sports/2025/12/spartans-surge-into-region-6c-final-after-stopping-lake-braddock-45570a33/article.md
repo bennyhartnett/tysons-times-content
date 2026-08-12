@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Spartans Surge Into Region 6C Final After Stopping Lake Braddock"
+  caption: "Spartans Surge Into Region 6C Final After Stopping Lake Braddock. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 West Springfield defeated Lake Braddock 28-14 on Saturday, Nov. 29, sending the Spartans to the Region 6C championship and one step closer to the state title.

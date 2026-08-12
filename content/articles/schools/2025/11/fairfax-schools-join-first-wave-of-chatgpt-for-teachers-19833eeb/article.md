@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid with astronaut George Nield, students and staff at North Springfield ES."
+  caption: "Fairfax Schools Join First Wave of ChatGPT for Teachers. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools will be among the first school divisions in the country to help shape the rollout of ChatGPT for Teachers, Superintendent Michelle Reid announced during the week of Nov. 24.

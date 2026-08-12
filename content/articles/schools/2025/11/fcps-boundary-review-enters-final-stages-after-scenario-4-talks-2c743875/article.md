@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying FCPS Boundary Review Enters Final Stages After Scenario 4 Talks"
+  caption: "FCPS Boundary Review Enters Final Stages After Scenario 4 Talks. Openly licensed thematic image selected for this article."
+  credit: "Josh Kalov from Chicago / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools’ comprehensive boundary review moved closer to completion during a Nov. 24 advisory committee meeting at the Gatehouse Administration Center.
