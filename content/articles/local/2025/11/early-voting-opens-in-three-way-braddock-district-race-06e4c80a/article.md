@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Early Voting Opens in Three-Way Braddock District Race"
+  caption: "Early Voting Opens in Three-Way Braddock District Race. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Early in-person voting begins Friday, Oct. 24, in the special election that will determine who fills Braddock District’s vacant seat on the Fairfax County Board of Supervisors.

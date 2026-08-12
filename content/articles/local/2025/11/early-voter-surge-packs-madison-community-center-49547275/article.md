@@ -12,10 +12,10 @@ tags:
   - "environment"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Early Voter Surge Packs Madison Community Center"
+  caption: "Early Voter Surge Packs Madison Community Center. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 More than 100 people cast ballots at Madison Community Center before 8 a.m., an unusually busy start that soon left the parking lot full.

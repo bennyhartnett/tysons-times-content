@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "fcps cares recognition and forest edge elementary school"
+  caption: "FCPS Honors Staff Who Went the Extra Mile for Students and Families. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools highlighted employees across the division in its November 2025 FCPS CARES recognitions, celebrating acts ranging from emergency bus coordination and family assistance to classroom support, community service and behind-the-scenes problem-solving.

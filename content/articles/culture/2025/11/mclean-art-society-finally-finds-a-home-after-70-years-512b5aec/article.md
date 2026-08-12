@@ -12,10 +12,10 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for McLean Art Society Finally Finds a Home After 70 Years"
+  caption: "McLean Art Society Finally Finds a Home After 70 Years. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 After seven decades without a permanent gallery, the McLean Art Society has opened a temporary home in the reimagined Chesterbrook Shopping Center on Old Dominion Drive.

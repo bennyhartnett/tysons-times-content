@@ -11,10 +11,10 @@ tags:
   - "arlington"
   - "sports"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Arlington Schools Defy Federal Pressure Over Transgender Policy"
+  caption: "Arlington Schools Defy Federal Pressure Over Transgender Policy. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A packed Arlington School Board meeting became a heated debate over transgender students’ rights as district leaders vowed to maintain their inclusive policies despite the threat of losing federal funding.

@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Boundary graphic."
+  caption: "Fairfax Schools See Attendance Gains as Boundary Decisions Loom. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools reported progress on chronic absenteeism as the division moved closer to possible boundary changes, promoted a $460 million school bond referendum and highlighted student achievements across the county.

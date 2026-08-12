@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Generic news graphic - teal"
+  caption: "209 Fairfax Students Secure Prestigious AP Capstone Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools recognized 209 students for completing demanding AP Capstone requirements during the 2024-25 school year. Of those students, 187 earned the AP Capstone Diploma and 22 received the AP Seminar and Research Certificate.

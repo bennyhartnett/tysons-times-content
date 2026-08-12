@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Voters Back $460 Million School Bond as SOL Changes Loom"
+  caption: "Fairfax Voters Back $460 Million School Bond as SOL Changes Loom. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County voters overwhelmingly approved a $460 million school bond referendum on November 4, with roughly seven in 10 voters supporting the measure.
