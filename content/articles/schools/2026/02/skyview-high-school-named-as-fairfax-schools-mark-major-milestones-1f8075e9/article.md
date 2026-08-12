@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Cover of book by Olivia Zhang titled: YOUth - The Young Person's Guide to Starting a Nonprofit"
+  caption: "Skyview High School Named as Fairfax Schools Mark Major Milestones. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County’s newest high school will be called Skyview High School following a unanimous School Board vote, clearing another milestone before the school welcomes students for the 2026-27 academic year.

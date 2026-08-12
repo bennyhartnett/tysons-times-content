@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a plaque for the Fairfax Rosenwald School"
+  caption: "A revolutionary education program called the Rosenwald Schools built new schoolhouses all across the Southeast for Black children, and the remnants of these schools can still be seen in Northern Virginia and Maryland."
+  credit: "A revolutionary education program called the Rosenwald Schools built new school…"
 ---
 
 Thousands of modest schoolhouses erected across the segregated South gave Black children access to education while helping lay the groundwork for the Civil Rights Movement.

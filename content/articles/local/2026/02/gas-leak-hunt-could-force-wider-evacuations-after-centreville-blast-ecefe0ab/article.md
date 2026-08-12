@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Gas Leak Hunt Could Force Wider Evacuations After Centreville Blast"
+  caption: "Fire crews in Fairfax County, Virginia, respond to a house fire in Centreville that callers say started after a loud explosion on Feb. 15, 2026. (Courtesy Fairfax County Fire and Rescue)"
+  credit: "WTOP Fairfax County"
 ---
 
 Investigators were working Tuesday to pinpoint the gas leak behind a Centreville house explosion that injured two people and displaced dozens of families, with officials warning that the evacuation zone could expand if a large transmission line is involved.

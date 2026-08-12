@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a yellow sign in Vietnamese"
+  caption: "This banner from the Vietnamese community at the Eden Center announces a Lunar New Year celebration and flag-raising ceremony."
+  credit: "This banner from the Vietnamese community at the Eden Center announces a Lunar…"
 ---
 
 Hundreds gathered Tuesday afternoon at the Eden Center in Falls Church to welcome the Year of the Horse with Vietnamese traditions, performances and a celebration of cultural heritage.

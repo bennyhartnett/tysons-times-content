@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "reenactors at mount vernon"
+  caption: "Reenactors at Mount Vernon in Virginia honoring George Washington on Feb. 16, 2026."
+  credit: "Reenactors at Mount Vernon in Virginia honoring George Washington on Feb. 16, 2…"
 ---
 
 About 10,000 visitors gathered at George Washington’s Mount Vernon estate in Virginia on Presidents Day, celebrating the nation’s first president shortly before what would be his 294th birthday.

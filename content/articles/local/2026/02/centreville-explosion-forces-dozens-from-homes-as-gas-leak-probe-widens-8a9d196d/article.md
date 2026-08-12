@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Centreville Explosion Forces Dozens From Homes as Gas Leak Probe Widens"
+  caption: "CLICK MAP TO ENLARGE. (Courtesy Google Maps)"
+  credit: "WTOP Fairfax County"
 ---
 
 A house explosion in Centreville injured two people and forced dozens of families from their homes Sunday night as crews investigated an active gas leak that left four nearby houses at risk of exploding.

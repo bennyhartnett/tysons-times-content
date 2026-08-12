@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid with Twain Middle School advanced theater class at Gatehouse Administration Center."
+  caption: "Skyview High Gets Its Name as FCPS Celebrates a Week of Firsts. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools reached a major milestone when the School Board unanimously approved Skyview High School as the name of the division’s newest school.

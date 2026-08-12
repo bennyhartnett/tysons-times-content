@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Teen Faces Multiple Charges After Springfield Mall Shooting"
+  caption: "Teen Faces Multiple Charges After Springfield Mall Shooting. Image from WTOP Fairfax County."
+  credit: "Recovered weapon."
 ---
 
 A juvenile suspect faces several felony charges after a verbal dispute at Springfield Mall escalated into gunfire Thursday evening, leaving a man hospitalized.

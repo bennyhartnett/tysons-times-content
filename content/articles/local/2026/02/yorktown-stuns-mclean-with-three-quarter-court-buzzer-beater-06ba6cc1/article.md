@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Yorktown Stuns McLean With Three-Quarter-Court Buzzer-Beater"
+  caption: "Yorktown Stuns McLean With Three-Quarter-Court Buzzer-Beater. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean appeared to have secured a senior-night victory when Iftoni sank a floater with fewer than three seconds remaining. Yorktown answered with a three-quarter-court heave at the buzzer, stunning the Highlanders 52-51.
