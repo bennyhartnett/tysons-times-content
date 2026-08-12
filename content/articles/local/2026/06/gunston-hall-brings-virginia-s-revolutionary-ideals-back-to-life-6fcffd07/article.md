@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Gunston Hall Brings Virginia’s Revolutionary Ideals Back to Life"
+  caption: "Gunston Hall Brings Virginia’s Revolutionary Ideals Back to Life. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County’s pivotal role in the American Revolution came alive at Gunston Hall on June 13, as historical interpreters, musicians and community groups marked Declaration Day ahead of the nation’s 250th anniversary.

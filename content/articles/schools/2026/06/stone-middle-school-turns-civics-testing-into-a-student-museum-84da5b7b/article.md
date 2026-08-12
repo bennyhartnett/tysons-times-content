@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Student demonstrates learning through project"
+  caption: "Stone Middle School Turns Civics Testing Into a Student Museum. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Eighth graders at Stone Middle School recently transformed their classroom into a museum, replacing a traditional civics test with projects connecting current events to lessons about American government.

@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sleep-Away Camp Was the Ultimate ’50s Summer Escape"
+  caption: "\"At camp, we’d swim every afternoon in the big natural lake, paddle out to the dock, dive off and swim some more....\" Courtesy Rockbrook Camp."
+  credit: "Falls Church Independent"
 ---
 
 For me, nothing topped the freedom of sleep-away camp during the summers of the 1950s.

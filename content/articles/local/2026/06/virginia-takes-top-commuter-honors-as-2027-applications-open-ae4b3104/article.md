@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Takes Top Commuter Honors as 2027 Applications Open"
+  caption: "Virginia Takes Top Commuter Honors as 2027 Applications Open. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Virginia transportation leaders celebrated the commonwealth’s national leadership in commuter-friendly workplaces while opening the application cycle for the 2027 Best Workplaces for Commuters list.

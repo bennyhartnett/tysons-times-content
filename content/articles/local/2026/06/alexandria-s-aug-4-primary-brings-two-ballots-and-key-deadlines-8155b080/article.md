@@ -11,9 +11,9 @@ tags:
   - "virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria’s Aug. 4 Primary Brings Two Ballots and Key Deadlines"
+  caption: "Alexandria’s Aug. 4 Primary Brings Two Ballots and Key Deadlines. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria voters will return to the polls Aug. 4 for a dual primary covering congressional and statewide races. Virginia’s open-primary system allows voters to select either a Democratic or Republican ballot—but not both.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna’s July 2 Celebration to End With a 9:30 Fireworks Show"
+  caption: "Vienna’s July 2 Celebration to End With a 9:30 Fireworks Show."
+  credit: "Town of Vienna"
 ---
 
 Vienna will begin celebrating the nation’s 250th birthday early with a free Independence Day event on Thursday, July 2, 2026.

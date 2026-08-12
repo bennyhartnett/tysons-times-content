@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Jerry and Joanne O’Donnell Die Weeks Apart After 70-Year Marriage"
+  caption: "Jerry and Joanne O’Donnell Die Weeks Apart After 70-Year Marriage. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Gerald “Jerry” M. O’Donnell and Joanne M. O’Donnell, whose marriage spanned more than 70 years, died just over a month apart in spring 2026.

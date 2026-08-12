@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Inova CEO Presses Fairfax to Speed Up Building Approvals"
+  caption: "Construction work on Franconia-Springfield campus (via Inova Health System and Fairfax County)"
+  credit: "Construction work on Franconia-Springfield campus (via Inova Health System and…"
 ---
 
 As Inova Health System pushes ahead with $2.5 billion in new hospital construction, its CEO is urging Fairfax County to simplify a development process he says can delay or derail projects.

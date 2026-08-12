@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Dead in 48 Hours as Fairfax Police Plead for Road Safety"
+  caption: "Fairfax County Deputy Police Chief Dalton Becker highlights recent fatal crashes in a press conference at the corner of Richmond Highway and Frye Road in Woodlawn (via FCPD/X)"
+  credit: "Fairfax County Deputy Police Chief Dalton Becker highlights recent fatal crashe…"
 ---
 
 Five people were killed in Fairfax County crashes over a two-day period, prompting police to urge drivers and pedestrians to slow down, stay sober and pay closer attention on local roads.

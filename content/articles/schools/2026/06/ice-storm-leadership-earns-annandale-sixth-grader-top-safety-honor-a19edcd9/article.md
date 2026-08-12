@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Canterbury Woods Safety Patrol Captain Will Kinne opens a car door for a student."
+  caption: "Ice-Storm Leadership Earns Annandale Sixth Grader Top Safety Honor. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Sixth grader Will Kinne’s calm response to students darting into traffic for chunks of ice helped earn the Canterbury Woods Elementary School safety patrol captain a regional honor.
