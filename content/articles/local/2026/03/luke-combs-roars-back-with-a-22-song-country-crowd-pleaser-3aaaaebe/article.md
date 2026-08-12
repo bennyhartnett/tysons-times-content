@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Luke Combs Roars Back With a 22-Song Country Crowd-Pleaser"
+  caption: "Luke Combs Roars Back With a 22-Song Country Crowd-Pleaser. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Luke Combs returns to the high-energy sound that helped make him one of country music’s biggest stars on *The Way I Am*, a sprawling 22-song album built for everything from car speakers to sold-out stadiums.

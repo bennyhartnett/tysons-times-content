@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Are Hungry for a School Lunch Overhaul"
+  caption: "McLean Students Are Hungry for a School Lunch Overhaul. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 For many McLean High School students, lunch is less of a welcome break and more of a daily frustration. Repetitive menus, limited vegetarian choices and concerns about flavor, portion size, quality and price have left some students dissatisfied with cafeteria meals.

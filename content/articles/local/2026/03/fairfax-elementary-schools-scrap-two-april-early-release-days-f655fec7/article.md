@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Elementary Schools Scrap Two April Early-Release Days"
+  caption: "Fairfax Elementary Schools Scrap Two April Early-Release Days. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has canceled its two elementary early-release days scheduled for April, giving students full days of instruction instead.

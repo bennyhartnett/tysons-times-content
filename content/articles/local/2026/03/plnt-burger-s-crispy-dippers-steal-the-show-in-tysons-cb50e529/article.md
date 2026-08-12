@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for PLNT Burger’s Crispy Dippers Steal the Show in Tysons"
+  caption: "PLNT Burger’s Crispy Dippers Steal the Show in Tysons. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Located beside the entrance to Whole Foods Market at Tysons Boro, PLNT Burger serves entirely vegan takes on fast-food staples. Its menu is also kosher and halal, offering plant-based burgers, chicken-style bites and desserts.

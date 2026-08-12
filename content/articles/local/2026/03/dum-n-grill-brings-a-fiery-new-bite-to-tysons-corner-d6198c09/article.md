@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dum N Grill Brings a Fiery New Bite to Tysons Corner"
+  caption: "Dum N Grill Brings a Fiery New Bite to Tysons Corner. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Dum N Grill, a new Indian fusion restaurant beside Chipotle at Tysons Corner Mall, stands out with bold flavors, generous biryani portions and a colorful setting geared largely toward takeout.

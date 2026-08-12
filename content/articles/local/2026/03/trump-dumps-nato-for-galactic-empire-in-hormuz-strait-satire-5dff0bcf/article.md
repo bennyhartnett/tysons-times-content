@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Trump Dumps NATO for Galactic Empire in Hormuz Strait Satire"
+  caption: "Trump Dumps NATO for Galactic Empire in Hormuz Strait Satire. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 President Donald Trump turned to a galaxy far, far away for military support after declaring that he had “fired” NATO over its refusal to help reopen the Strait of Hormuz.

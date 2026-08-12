@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Lawmakers Pass 1,208 Bills, but a $1 Billion Budget Gap Remains"
+  caption: "Virginia Lawmakers Pass 1,208 Bills, but a $1 Billion Budget Gap Remains. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia lawmakers ended their 60-day legislative session after passing 1,208 bills, advancing major changes to wages and workers’ rights while leaving the state’s next two-year budget unresolved.

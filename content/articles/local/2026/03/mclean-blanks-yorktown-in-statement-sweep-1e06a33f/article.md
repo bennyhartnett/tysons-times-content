@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Blanks Yorktown in Statement Sweep"
+  caption: "McLean Blanks Yorktown in Statement Sweep. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean girls tennis delivered a dominant performance Tuesday, defeating district opponent Yorktown 9-0 and improving to 3-0 on the season.

@@ -11,9 +11,9 @@ tags:
   - "vienna"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Pie Gourmet Still Delivers After 38 Years in Vienna"
+  caption: "Pie Gourmet Still Delivers After 38 Years in Vienna. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After 38 years in the Vienna area, Pie Gourmet has avoided the decline that can follow decades of success. Its inviting shop, extensive selection and memorable pies show why it remains a local favorite.
