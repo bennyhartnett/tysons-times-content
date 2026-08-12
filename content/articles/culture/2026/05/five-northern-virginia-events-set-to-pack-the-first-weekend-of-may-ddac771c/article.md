@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Northern Virginia Events Set to Pack the First Weekend of May"
+  caption: "Five Northern Virginia Events Set to Pack the First Weekend of May."
+  credit: "Tysons Corner Center"
 ---
 
 Northern Virginia’s first weekend in May brings live music, dance, pet competitions and a colorful anniversary celebration to venues across the region. Here are five events scheduled from Friday, May 1, through Sunday, May 3.

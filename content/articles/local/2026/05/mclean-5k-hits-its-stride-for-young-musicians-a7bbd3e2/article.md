@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean 5K Hits Its Stride for Young Musicians"
+  caption: "McLean 5K Hits Its Stride for Young Musicians. Image from The Saxon Scope — Langley High School."
+  credit: "The Saxon Scope — Langley High School"
 ---
 
 More than 100 people registered to run and walk through McLean in support of the band programs at Langley High School and Cooper Middle School.

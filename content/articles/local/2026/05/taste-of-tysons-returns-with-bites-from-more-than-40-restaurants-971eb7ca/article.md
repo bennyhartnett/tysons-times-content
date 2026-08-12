@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Taste of Tysons Returns With Bites From More Than 40 Restaurants"
+  caption: "Taste of Tysons Returns With Bites From More Than 40 Restaurants. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Tysons Corner Center will serve up samples from more than 40 restaurants during the fourth annual Taste of Tysons on Saturday, May 16.

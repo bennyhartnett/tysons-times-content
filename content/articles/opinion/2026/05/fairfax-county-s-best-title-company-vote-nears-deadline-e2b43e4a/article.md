@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best Title Company Vote Nears Deadline"
+  caption: "Fairfax County’s Best Title Company Vote Nears Deadline. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents have until 8:30 a.m. Friday, May 15, to vote for the area’s best title company in the Readers’ Choice Awards.

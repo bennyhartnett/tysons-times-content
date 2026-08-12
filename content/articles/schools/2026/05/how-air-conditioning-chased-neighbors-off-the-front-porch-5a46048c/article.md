@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for How Air Conditioning Chased Neighbors Off the Front Porch"
+  caption: "\"In this photo, my pal Susie and I are enjoying our porch and the glider, but not “visiting” much. ....\" Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 Before a “visit” became a trip, it meant sitting down with someone face-to-face and talking. There were no emails, texts, Zoom calls or Snapchat messages—just conversation shared in person.

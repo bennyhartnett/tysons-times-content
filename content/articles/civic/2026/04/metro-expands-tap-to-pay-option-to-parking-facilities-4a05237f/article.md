@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Expands Tap-to-Pay Option to Parking Facilities"
+  caption: "Metro Expands Tap-to-Pay Option to Parking Facilities. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro riders can now use a contactless credit or debit card, smartphone or other payment-enabled device at participating parking facilities as the transit agency expands its Tap. Ride. Go. system.

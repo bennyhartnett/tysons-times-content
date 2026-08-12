@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Agent Tops $12 Million in Northern Virginia Home Sales"
+  caption: "Vienna Agent Tops $12 Million in Northern Virginia Home Sales. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Missy Whittington has sold more than $12 million in homes during her first few years in Northern Virginia real estate, drawing on an earlier career in accounting and finance to guide buyers and sellers through high-value transactions.

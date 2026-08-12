@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Bike Month Rolls Out E-Bike Prizes and New Mobility Upgrades"
+  caption: "Tysons Bike Month Rolls Out E-Bike Prizes and New Mobility Upgrades. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 Tysons Community Alliance is expanding Bike Month this May with new programs, prizes and infrastructure designed to help residents, workers and visitors travel around Tysons by bicycle.

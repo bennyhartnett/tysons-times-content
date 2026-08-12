@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Two Locally Owned “Beerstros” Tap Into Northern Virginia"
+  caption: "Two Locally Owned “Beerstros” Tap Into Northern Virginia. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Casual Pint has established two locally owned Northern Virginia outposts, pairing extensive craft beer selections with full food menus and neighborhood-focused events.

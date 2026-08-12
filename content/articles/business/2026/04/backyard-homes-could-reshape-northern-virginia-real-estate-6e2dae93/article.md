@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Backyard Homes Could Reshape Northern Virginia Real Estate"
+  caption: "Backyard Homes Could Reshape Northern Virginia Real Estate. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Unused backyard space across Tysons, Vienna, McLean and Great Falls could soon become far more valuable as Virginia prepares to make accessory dwelling units easier to build.
