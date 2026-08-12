@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Danny Jolles’ D.C. Sports Loyalty Survived a Move to Los Angeles"
+  caption: "Comedian and actor Danny Jolles spoke to WTOP about his rabid DC sports fanhood and what he wants in his sports coverage. (WTOP/Rob Woodfork)"
+  credit: "Comedian and actor Danny Jolles spoke to WTOP about his rabid DC sports fanhood…"
 ---
 
 Danny Jolles may live in Los Angeles, but his sports allegiance remains firmly planted in the Washington region.

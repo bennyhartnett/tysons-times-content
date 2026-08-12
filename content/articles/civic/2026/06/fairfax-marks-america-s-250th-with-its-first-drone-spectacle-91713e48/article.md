@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Marks America’s 250th With Its First Drone Spectacle"
+  caption: "Fairfax Marks America’s 250th With Its First Drone Spectacle. Image from Providence District Newsletter / The Palchik Post."
+  credit: "Providence District Newsletter / The Palchik Post"
 ---
 
 Fairfax County will launch its first drone light show Saturday, June 27, as Providence District begins celebrating the nation’s 250th anniversary alongside a packed schedule of government updates, environmental initiatives and summer events.

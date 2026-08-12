@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Achievement of Excellence in Procurement 2026 Award Winner"
+  caption: "Fairfax Schools Boundary Proposal Heads to Board in July. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is preparing for a key boundary decision as Superintendent Michelle Reid finalizes her preliminary recommendation for Skyview High School and the Western Pyramids Boundary Study.

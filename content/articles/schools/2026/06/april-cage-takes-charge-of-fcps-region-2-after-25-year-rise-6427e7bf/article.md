@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "news graphic"
+  caption: "April Cage Takes Charge of FCPS Region 2 After 25-Year Rise. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 April Cage will become Fairfax County Public Schools’ assistant superintendent for Region 2 on July 1, overseeing schools in the Falls Church, McLean and Justice High School pyramids.

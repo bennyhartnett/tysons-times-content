@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS Superintendent Dr. Reid speaking to Office of Facilities Management team members in an auditorium."
+  caption: "Boundary Decisions and Student Wins Shape FCPS Summer Update. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools entered summer with a major boundary recommendation approaching, extensive facilities work underway and students earning recognition in academics, business and international athletics.

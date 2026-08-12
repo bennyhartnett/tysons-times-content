@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Surveillance Images Could Hold Clues to Lorton Training Facility Fire"
+  caption: "Surveillance Images Could Hold Clues to Lorton Training Facility Fire. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fairfax County authorities are asking the public to identify several people seen near an Urban Search and Rescue training facility around the time a fire engulfed a storage building filled with commercial equipment.

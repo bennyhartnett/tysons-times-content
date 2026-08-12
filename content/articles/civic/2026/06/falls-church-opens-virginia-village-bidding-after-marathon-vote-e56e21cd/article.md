@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Opens Virginia Village Bidding After Marathon Vote"
+  caption: "Mayor Hardi presiding over the five and a-half hour Council Action Meeting June 22-23 with the City's Virginia Village Redevelopment Project atop the agenda. YouTube screen capture."
+  credit: "Falls Church Independent"
 ---
 
 After a five-and-a-half-hour meeting that stretched to 1:11 a.m. Tuesday, July 23, the Falls Church City Council voted 6-1 to seek development proposals for Virginia Village, advancing a closely watched affordable-housing project while requiring public summaries of the competing plans.

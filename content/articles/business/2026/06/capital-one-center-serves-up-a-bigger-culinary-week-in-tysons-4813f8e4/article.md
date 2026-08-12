@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Capital One Center Serves Up a Bigger Culinary Week in Tysons"
+  caption: "Ometeo offers samples to Battle of the Chefs during Capital One Center’s 2025 Culinary Week (courtesy Capital One Center)"
+  credit: "Ometeo offers samples to Battle of the Chefs during Capital One Center’s 2025 C…"
 ---
 
 Capital One Center’s Culinary Week will return to Tysons from July 27-31, bringing five days of cooking classes, chef and cocktail competitions, demonstrations and special dining events to the headquarters campus.

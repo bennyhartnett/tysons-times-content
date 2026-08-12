@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia’s 28-Line Bus Vision Hinges on Local Support"
+  caption: "Alexandria City Council member Canek Aguirre discusses proposed Route 7 bus rapid transit at June 2026 open house (staff photo by Scott McCaffrey)"
+  credit: "Alexandria City Council member Canek Aguirre discusses proposed Route 7 bus rap…"
 ---
 
 Northern Virginia could support as many as 28 bus rapid transit lines in the coming decades, but turning that sweeping vision into a working regional network will require local governments to commit to it.

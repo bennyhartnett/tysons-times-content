@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sleepless Nights Ruled Indiana’s 1950s Teen Social Scene"
+  caption: "\"Soon afterward, the lights went out and it was ghost story time....\" Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 Slumber parties were a cornerstone of teenage life in 1950s middle America—and about much more than staying up late. An invitation confirmed that you still belonged. Being left out felt like exile.
