@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Marks 50 Years of Moving the Washington Region"
+  caption: "Metro Marks 50 Years of Moving the Washington Region. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro is celebrating 50 years of service, marking a half-century of carrying riders to major regional events and the everyday destinations that shape their lives.

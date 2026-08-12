@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Casino Bill Sparks Labor Push as Spanberger Weighs Fate"
+  caption: "Proponents of Tysons entertainment complex rally at site (staff photo by Scott McCaffrey)"
+  credit: "Proponents of Tysons entertainment complex rally at site (staff photo by Scott…"
 ---
 
 About 60 union members rallied near the Spring Hill Metro station on March 25, urging Gov. Abigail Spanberger to approve legislation that could clear the way for Fairfax County voters to decide whether a casino should be built in Tysons.

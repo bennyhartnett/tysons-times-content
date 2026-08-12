@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for German Exchange Students Strike a Chord in McLean"
+  caption: "German Exchange Students Strike a Chord in McLean. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Students from Detmold, Germany, joined the McLean Orchestra on Wednesday for a concert that blended two ensembles, two cultures and months of preparation.

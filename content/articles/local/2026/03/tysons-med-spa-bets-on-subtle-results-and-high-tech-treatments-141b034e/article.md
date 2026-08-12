@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Med-Spa Bets on Subtle Results and High-Tech Treatments"
+  caption: "Tysons Med-Spa Bets on Subtle Results and High-Tech Treatments. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Luise Estelle is bringing a boutique approach to medical aesthetics in the Tysons–McLean corridor, combining advanced cosmetic technology with personalized treatment plans and an emphasis on discreet service.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Prom Costs Soar as Friday Date Threatens School Attendance"
+  caption: "McLean Prom Costs Soar as Friday Date Threatens School Attendance. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s “Enchanted Forest” prom promises a memorable night on Friday, April 17, but students say the celebration could require hundreds of dollars—and even a missed day of school.

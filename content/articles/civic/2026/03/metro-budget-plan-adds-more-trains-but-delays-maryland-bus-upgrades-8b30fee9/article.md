@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Budget Plan Adds More Trains but Delays Maryland Bus Upgrades"
+  caption: "Metro Budget Plan Adds More Trains but Delays Maryland Bus Upgrades. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro’s revised fiscal 2027 budget proposal would increase rail and bus service while limiting growth in subsidies from participating jurisdictions to 1.8%, below both inflation and the region’s 3% target.

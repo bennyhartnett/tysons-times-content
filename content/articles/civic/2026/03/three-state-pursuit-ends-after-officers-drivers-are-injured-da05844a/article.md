@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Virginia State Police cruiser"
+  caption: "A Virginia State Police cruiser is seen. (WTOP/Nick Iannelli)"
+  credit: "A Virginia State Police cruiser is seen. (WTOP/Nick Iannelli)"
 ---
 
 A North Carolina man was arrested early Thursday after a pursuit crossed through D.C., Maryland and Virginia, leaving two officers and another driver injured.

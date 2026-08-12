@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Concert Fans Hit With $200 Tickets Before Fees Even Begin"
+  caption: "Concert Fans Hit With $200 Tickets Before Fees Even Begin. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A packed 2026 touring calendar has left some music fans confronting steep ticket prices and substantial fees as they try to see artists such as Bruno Mars, Harry Styles and Noah Kahan.

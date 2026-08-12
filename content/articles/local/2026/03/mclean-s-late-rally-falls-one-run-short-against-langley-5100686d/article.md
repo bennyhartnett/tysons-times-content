@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Late Rally Falls One Run Short Against Langley"
+  caption: "McLean’s Late Rally Falls One Run Short Against Langley. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s offense came alive too late in a 3-2 loss to rival Langley on March 24 at Capital One Park, leaving the Highlanders searching for a rebound in their first district series.

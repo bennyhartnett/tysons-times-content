@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Satire: A 19-Year-Old Will Crush Your Ivy Dreams for $25,000"
+  caption: "Satire: A 19-Year-Old Will Crush Your Ivy Dreams for $25,000. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Eliza Phung takes risks—as long as she can take them from her Boston penthouse. The red-carpet regular and self-styled innovator says she wrote the bestselling *Thirteen Ways to Make GPT Wrappers* in exactly 20 minutes.
