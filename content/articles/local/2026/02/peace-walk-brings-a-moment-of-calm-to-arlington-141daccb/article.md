@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Peace Walk Brings a Moment of Calm to Arlington"
+  caption: "Peace Walk Brings a Moment of Calm to Arlington. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A group of 19 Buddhist monks brought an emotional message of forgiveness, mindfulness and resilience to Arlington, drawing crowds to Marymount University during their walk across the United States.

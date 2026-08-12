@@ -11,9 +11,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Valentine’s Gifts Get a Creative Twist Beyond Roses and Chocolate"
+  caption: "Valentine’s Gifts Get a Creative Twist Beyond Roses and Chocolate. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Valentine’s Day staples such as roses, teddy bears and chocolate remain reliable gifts, but more unusual alternatives can add a personal touch to the celebration.

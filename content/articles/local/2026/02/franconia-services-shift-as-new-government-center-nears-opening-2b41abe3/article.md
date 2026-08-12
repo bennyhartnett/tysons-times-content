@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Franconia Services Shift as New Government Center Nears Opening"
+  caption: "Franconia Services Shift as New Government Center Nears Opening. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County is moving the Franconia District supervisor’s office and Kingstowne Library into the new Franconia Governmental Center at 7130 Silver Lake Blvd. in Alexandria, temporarily disrupting walk-in and meeting-room services.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Two Springfield Shootings Leave Men Wounded, Trigger School Lockdown"
+  caption: "Two Springfield Shootings Leave Men Wounded, Trigger School Lockdown. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Two separate shootings in Springfield left two men wounded within a week, prompting a temporary shelter-in-place at Lewis High School and leading to multiple arrests.

@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Public Broadcasting Faces a Reckoning as CPB Shuts Down"
+  caption: "Public Broadcasting Faces a Reckoning as CPB Shuts Down. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 The Corporation for Public Broadcasting voted to dissolve on Jan. 5, 2026, ending a 58-year run and forcing public radio and television stations to prepare for a future without a key source of federal support.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Four Local Songwriters Turn MoCA Arlington Into an Intimate Nashville Stage"
+  caption: "Four Local Songwriters Turn MoCA Arlington Into an Intimate Nashville Stage. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Four local songwriters filled the Tiffany Gallery at the Museum of Contemporary Art Arlington with original music, personal stories and plenty of humor on Jan. 23, 2026.

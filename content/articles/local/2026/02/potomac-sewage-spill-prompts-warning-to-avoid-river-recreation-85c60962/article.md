@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Potomac Sewage Spill Prompts Warning to Avoid River Recreation"
+  caption: "Potomac Sewage Spill Prompts Warning to Avoid River Recreation. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington health officials are urging residents to avoid recreational activity in the Potomac River as authorities respond to a sewage spill that has released more than 200 million gallons of wastewater.

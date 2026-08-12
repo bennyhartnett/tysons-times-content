@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students dressed in red wear dragon masks for a Lunar new year celebration"
+  caption: "New High School Name Leads a Packed Week of Fairfax School News. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County’s newest high school has a name. The School Board voted unanimously on February 12 to call it Skyview High School, one of several major developments announced across the school division this week.

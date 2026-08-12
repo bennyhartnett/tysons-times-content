@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Pleasant Grove Church Marks 130 Years With a New Mission"
+  caption: "McLean’s Pleasant Grove Church Marks 130 Years With a New Mission. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A church built by descendants of freed slaves and Native Americans is approaching its 130th anniversary in McLean, even as preservationists work to restore the sanctuary and expand its role as a center for local Black and Native American history.

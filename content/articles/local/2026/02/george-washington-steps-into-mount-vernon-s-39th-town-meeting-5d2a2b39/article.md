@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for George Washington Steps Into Mount Vernon’s 39th Town Meeting"
+  caption: "George Washington Steps Into Mount Vernon’s 39th Town Meeting. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Mount Vernon’s annual town meeting brought local and federal officials together Saturday, Feb. 7, before George Washington himself took the stage to discuss the nation’s 250th anniversary.
