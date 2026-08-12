@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Nude Intruder Linked to Four Centreville Home Break-Ins"
+  caption: "Composite sketch of the man connected to four Centreville burglary and indecent exposure incidents."
+  credit: "Composite sketch of the man connected to four Centreville burglary and indecent…"
 ---
 
 Fairfax County police have released a composite sketch of a man suspected of entering at least four Centreville homes while naked during a series of burglary and indecent exposure incidents.

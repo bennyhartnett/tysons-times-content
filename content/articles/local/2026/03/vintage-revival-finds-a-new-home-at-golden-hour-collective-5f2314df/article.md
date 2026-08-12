@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vintage Revival Finds a New Home at Golden Hour Collective"
+  caption: "Vintage Revival Finds a New Home at Golden Hour Collective. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Golden Hour Collective is bringing decades of fashion under one roof, offering racks of vintage clothing alongside secondhand jewelry and home decor in Washington’s Adams Morgan neighborhood.

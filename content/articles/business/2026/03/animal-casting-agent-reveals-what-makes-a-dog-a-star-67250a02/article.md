@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "two small dogs in sweaters"
+  caption: "Tinkerbelle the Dog and her sister Belle"
+  credit: "Tinkerbelle the Dog and her sister Belle"
 ---
 
 The Super Pet Expo is moving to Manassas Mall this weekend after spending 25 years at the now-closed Dulles Expo Center in Chantilly.

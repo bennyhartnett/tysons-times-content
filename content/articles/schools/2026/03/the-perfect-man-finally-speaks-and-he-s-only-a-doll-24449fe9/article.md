@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for The ‘Perfect Man’ Finally Speaks—and He’s Only a Doll"
+  caption: "\"So I was in a random store when I came across this beaming, small male doll with a sign on his chest that said, “Press Me.” Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 I like to believe I’m immune to impulse purchases, though temptation wins more often than I care to admit. A friend calls herself “a sucker for a pretty face.” My weakness is anything—or anyone—that makes me laugh.

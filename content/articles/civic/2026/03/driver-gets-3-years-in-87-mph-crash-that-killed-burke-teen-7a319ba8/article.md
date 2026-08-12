@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "crash that killed Rebekah Zarco"
+  caption: "The crash happened outside the Burke Centre Shopping Centeron July 18, 2023. (Courtesy NBC Washington)"
+  credit: "The crash happened outside the Burke Centre Shopping Centeron July 18, 2023. (C…"
 ---
 
 A driver who was traveling 87 mph before a 2023 crash that killed 17-year-old Rebekah Zarco will serve three years in prison.

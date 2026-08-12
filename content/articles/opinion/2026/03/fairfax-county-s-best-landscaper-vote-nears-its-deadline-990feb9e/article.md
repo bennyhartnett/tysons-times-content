@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best Landscaper Vote Nears Its Deadline"
+  caption: "Fairfax County’s Best Landscaper Vote Nears Its Deadline. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents have two weeks to choose their favorite local landscaping business as spring approaches and greenery begins returning to yards and gardens across the area.

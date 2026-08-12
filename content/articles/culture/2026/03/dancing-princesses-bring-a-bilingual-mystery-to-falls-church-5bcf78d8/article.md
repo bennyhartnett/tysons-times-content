@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dancing Princesses Bring a Bilingual Mystery to Falls Church"
+  caption: "Dancing Princesses Bring a Bilingual Mystery to Falls Church. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A secret kingdom, a trail of ruined shoes and a determined young soldier will take the stage in Falls Church when *Twelve Dancing Princesses / Doce Princesas Bailarinas* opens March 13.

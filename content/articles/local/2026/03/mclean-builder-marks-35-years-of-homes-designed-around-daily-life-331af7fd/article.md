@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Builder Marks 35 Years of Homes Designed Around Daily Life"
+  caption: "McLean Builder Marks 35 Years of Homes Designed Around Daily Life. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Bowers Design Build has grown from a third-generation builder’s venture into a McLean firm that has completed hundreds of custom projects across Northern Virginia.

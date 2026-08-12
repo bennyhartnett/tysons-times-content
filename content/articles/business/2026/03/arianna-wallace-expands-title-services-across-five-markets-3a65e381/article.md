@@ -11,9 +11,9 @@ tags:
   - "virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arianna Wallace Expands Title Services Across Five Markets"
+  caption: "Arianna Wallace Expands Title Services Across Five Markets. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Arianna Wallace serves as senior vice president of marketing at Certified Title Corporation, supporting title services in Virginia, Maryland, Washington, D.C., West Virginia and Florida.

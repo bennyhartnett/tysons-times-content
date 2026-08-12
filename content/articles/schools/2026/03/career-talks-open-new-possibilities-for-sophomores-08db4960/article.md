@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Career Talks Open New Possibilities for Sophomores"
+  caption: "Career Talks Open New Possibilities for Sophomores. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Sophomores explored careers ranging from architecture and law to health care and digital technology during a first-period event Wednesday that brought parent professionals into school classrooms.
