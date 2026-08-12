@@ -12,10 +12,10 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Surprise Horse Steals the Show at Alexandria Bollywood Celebration"
+  caption: "Surprise Horse Steals the Show at Alexandria Bollywood Celebration. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Brightview Senior Living welcomed more than 140 people to its third annual Bollywood Extravaganza in Alexandria, bringing residents, families, professionals and other community members together for a cultural celebration.

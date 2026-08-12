@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Thousands to Honor Alexandria Veterans in Massive Wreath-Laying Tribute"
+  caption: "Thousands to Honor Alexandria Veterans in Massive Wreath-Laying Tribute. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Thousands of volunteers are expected to gather Saturday, Dec. 13, to place remembrance wreaths at the graves of more than 4,200 veterans in Alexandria National Cemetery.

@@ -11,10 +11,10 @@ tags:
   - "environment"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Hidden Fungal Kingdom Finally Gets a Conservation Spotlight"
+  caption: "Hidden Fungal Kingdom Finally Gets a Conservation Spotlight. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fungi quietly support life above and below ground, yet they have long received far less conservation attention than plants and animals. NatureServe is seeking to change that with a new mycology program focused on organisms essential to biodiversity, ecosystems and human health.

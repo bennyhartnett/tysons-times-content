@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Local Food Pantries Strain as Demand Surges and Volunteers Dwindle"
+  caption: "Local Food Pantries Strain as Demand Surges and Volunteers Dwindle. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Food pantries in Lorton and Springfield are serving growing numbers of families as higher grocery costs and a prolonged federal government shutdown intensify financial pressure across the region.

@@ -12,10 +12,10 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for McLean Teen Turns His Mother’s Cancer Fight Into a Nonprofit"
+  caption: "McLean Teen Turns His Mother’s Cancer Fight Into a Nonprofit. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 After watching his mother carry pink tennis shoes and a familiar blanket to chemotherapy, 16-year-old Owen Singer decided to help other patients find the same sense of comfort.

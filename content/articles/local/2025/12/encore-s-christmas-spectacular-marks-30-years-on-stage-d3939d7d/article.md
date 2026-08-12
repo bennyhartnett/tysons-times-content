@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Encore’s Christmas Spectacular Marks 30 Years on Stage"
+  caption: "Encore’s Christmas Spectacular Marks 30 Years on Stage. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A forgotten childhood wish sends an elf to New York City—and launches three decades of Encore holiday tradition into a milestone celebration.

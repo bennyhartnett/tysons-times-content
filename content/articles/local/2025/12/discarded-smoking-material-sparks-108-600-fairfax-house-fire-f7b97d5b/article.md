@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Discarded Smoking Material Sparks $108,600 Fairfax House Fire"
+  caption: "Discarded Smoking Material Sparks $108,600 Fairfax House Fire. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Improperly discarded smoking material sparked a fire at a Fairfax County home undergoing renovations, causing an estimated $108,600 in damage.

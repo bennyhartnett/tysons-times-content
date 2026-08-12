@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for New FCPS Tools Put Graduation Tracking and Online Safety in Focus"
+  caption: "New FCPS Tools Put Graduation Tracking and Online Safety in Focus. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools families have new ways to track graduation progress, build safer digital habits and explore career-focused courses as the division heads toward winter break.

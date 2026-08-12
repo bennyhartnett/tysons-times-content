@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Two girls share an overstuffed chair and read books, making excited faces"
+  caption: "FCPS Unveils Graduation Tracker as Key December Deadlines Near. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools families have several new tools, events and deadlines to track this December, including a graduation-status feature, an internet-safety workshop and a career and technical education fair.

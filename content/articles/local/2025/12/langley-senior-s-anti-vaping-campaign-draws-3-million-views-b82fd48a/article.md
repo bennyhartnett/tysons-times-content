@@ -12,10 +12,10 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Langley Senior’s Anti-Vaping Campaign Draws 3 Million Views"
+  caption: "Langley Senior’s Anti-Vaping Campaign Draws 3 Million Views. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Langley High School senior Rujvi Thakkar is taking her campaign against youth vaping directly to teenagers, using TikTok and Instagram to spread a peer-led message about nicotine addiction.
