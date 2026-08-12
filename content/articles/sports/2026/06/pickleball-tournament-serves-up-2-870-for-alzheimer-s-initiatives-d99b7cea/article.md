@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Rolling Valley West Park courts"
+  caption: "The tournament began at Rolling Valley West Park in Burke."
+  credit: "Bounce"
 ---
 
 Northern Virginia’s fourth annual NOVA Amateur Pickleball Tournament raised more than $2,870 for Alzheimer’s awareness, research and related initiatives during a weekend of competition May 30-31, 2026.

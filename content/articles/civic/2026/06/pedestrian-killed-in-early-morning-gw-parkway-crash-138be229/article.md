@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Police lights"
+  caption: "File photo of lights flashing on top of a police car. (AP/Matt Rourke)"
+  credit: "File photo of lights flashing on top of a police car. (AP/Matt Rourke)"
 ---
 
 A pedestrian died after being struck by a vehicle early Saturday on the northbound George Washington Memorial Parkway near Columbia Island, according to U.S. Park Police.

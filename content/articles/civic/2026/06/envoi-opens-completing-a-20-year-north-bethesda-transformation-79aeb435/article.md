@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Envoi at North Bethesda Station"
+  caption: "Envoi completes the transit-oriented development beside North Bethesda Station."
+  credit: "WMATA"
 ---
 
 The first residents are moving into Envoi, a 354-unit apartment building that completes a two-decade effort to transform Metro-owned land beside North Bethesda Station into a transit-centered neighborhood.

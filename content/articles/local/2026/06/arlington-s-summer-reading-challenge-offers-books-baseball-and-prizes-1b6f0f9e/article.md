@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington’s Summer Reading Challenge Offers Books, Baseball and Prizes"
+  caption: "Arlington’s Summer Reading Challenge Offers Books, Baseball and Prizes. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington Public Library launched its Summer Reading Challenge at local branches Saturday, June 6, drawing children with books, a Washington Nationals mascot and a garden-themed treat.

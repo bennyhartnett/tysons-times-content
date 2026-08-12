@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Mount Vernon Education Center ribbon cutting"
+  caption: "Mount Vernon opens its redesigned Education Center with a ribbon-cutting ceremony."
+  credit: "Mount Vernon Ladies Association"
 ---
 
 George Washington’s journey from an ambitious Virginia teenager to a revolutionary leader and the nation’s first president takes center stage in Mount Vernon’s newly redesigned Education Center.

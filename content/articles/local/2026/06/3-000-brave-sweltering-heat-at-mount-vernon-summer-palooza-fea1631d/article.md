@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 3,000 Brave Sweltering Heat at Mount Vernon Summer Palooza"
+  caption: "3,000 Brave Sweltering Heat at Mount Vernon Summer Palooza. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 About 3,000 Mount Vernon residents packed the Mount Vernon Government Center on June 6 for Supervisor Dan Storck’s Summer Palooza, despite temperatures above 90 degrees and a heat index near 95.

@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "\"Suffs\" castmates"
+  caption: "“Suffs” castmates Gwynne Wood, Amanda Lopez, Livvy Marcus, Gretchen Shope and Abigail Aziz at Lucy Burns Gallery on June 18, 2026. (WTOP/Sandy Kozel)"
+  credit: "WTOP Fairfax County"
 ---
 
 Cast members from the Tony-winning musical “Suffs” visited the Workhouse Arts Center in Lorton last Thursday, stepping into a place closely connected to the history portrayed onstage.

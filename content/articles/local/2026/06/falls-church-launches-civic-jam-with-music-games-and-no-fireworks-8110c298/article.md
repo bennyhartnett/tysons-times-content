@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Launches Civic Jam With Music, Games and No Fireworks"
+  caption: "Falls Church Launches Civic Jam With Music, Games and No Fireworks. Image from City of Falls Church News Releases."
+  credit: "City of Falls Church News Releases"
 ---
 
 Falls Church will mark the nation’s 250th anniversary with a new community celebration featuring live music, local food and drinks, civic activities and an all-ages team competition.

@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best Golf Course Vote Opens"
+  caption: "Fairfax County’s Best Golf Course Vote Opens. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Voting is underway to choose the best golf course in Fairfax County, giving local players a chance to support their favorite place for everything from quick practice swings to a full 18-hole round.

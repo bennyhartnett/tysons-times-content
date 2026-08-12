@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "WMATA Metrobus"
+  caption: "A WMATA electric Metrobus departs Deanwood Station."
+  credit: "ErIckRailfan / Wikimedia Commons"
 ---
 
 Metro will revise nearly 50 bus routes across Washington, D.C., Maryland and Virginia beginning Sunday, June 21, promising more reliable service and stronger regional connections.
