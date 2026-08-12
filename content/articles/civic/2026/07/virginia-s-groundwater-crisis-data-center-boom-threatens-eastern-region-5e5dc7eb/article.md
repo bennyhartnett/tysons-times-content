@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia's Groundwater Crisis: Data Center Boom Threatens Eastern Region's Water Future"
+  caption: "FILE – Cars drive past data centers in Ashburn, Virginia, on July 16, 2023 (AP Photo/Ted Shaffrey, File)"
+  credit: "FILE – Cars drive past data centers in Ashburn, Virginia, on July 16, 2023 (AP…"
 ---
 
 Virginia has finally released a long-withheld study on groundwater in its eastern coastal region, and the findings paint a troubling picture for the world's largest data center hub.

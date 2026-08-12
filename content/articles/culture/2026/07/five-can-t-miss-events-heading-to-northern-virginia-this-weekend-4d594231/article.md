@@ -12,9 +12,9 @@ tags:
   - "family activities"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Can't-Miss Events Heading to Northern Virginia This Weekend"
+  caption: "Five Can't-Miss Events Heading to Northern Virginia This Weekend. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Summer heats up across Northern Virginia this weekend with a packed calendar spanning frozen treats, founding fathers, and fandom celebrations. Here's what's happening from July 24 through 26.

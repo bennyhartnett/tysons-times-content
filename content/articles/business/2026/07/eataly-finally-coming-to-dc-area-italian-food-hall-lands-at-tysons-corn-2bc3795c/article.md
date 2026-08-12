@@ -12,9 +12,9 @@ tags:
   - "retail"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Eataly Finally Coming to DC Area: Italian Food Hall Lands at Tysons Corner Center"
+  caption: "Eataly Finally Coming to DC Area: Italian Food Hall Lands at Tysons Corner Center. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 The wait is nearly over for Washington-area fans of the famed Italian marketplace. Eataly has officially confirmed it will open its first DC-region location at Tysons Corner Center in 2027.

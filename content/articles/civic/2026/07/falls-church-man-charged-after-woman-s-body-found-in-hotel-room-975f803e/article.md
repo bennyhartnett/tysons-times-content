@@ -12,9 +12,9 @@ tags:
   - "criminal justice"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Man Charged After Woman's Body Found in Hotel Room"
+  caption: "\"At approximately 10:10 a.m., police were dispatched for a welfare check of a guest at the Sonesta Simply Suites at 205 Hillwood Ave.\""
+  credit: "Falls Church Independent"
 ---
 
 A 37-year-old Falls Church man is facing charges after police discovered the body of a 78-year-old woman inside a hotel room he refused to let officers enter.

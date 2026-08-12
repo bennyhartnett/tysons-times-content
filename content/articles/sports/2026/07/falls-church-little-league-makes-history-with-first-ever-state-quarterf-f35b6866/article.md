@@ -12,9 +12,9 @@ tags:
   - "Falls Church"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Little League Makes History With First-Ever State Quarterfinal Run"
+  caption: "Falls Church Little League Makes History With First-Ever State Quarterfinal Run. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 The Falls Church Kiwanis Little League 12U Majors All Stars Team delivered a summer that will echo through the community for years to come, capturing a District 4 championship and advancing further in the state tournament than any team in the league's history.

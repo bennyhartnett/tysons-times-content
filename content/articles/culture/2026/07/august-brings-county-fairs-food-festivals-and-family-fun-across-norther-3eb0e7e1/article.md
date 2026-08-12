@@ -12,9 +12,9 @@ tags:
   - "festivals"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for August Brings County Fairs, Food Festivals, and Family Fun Across Northern Virginia"
+  caption: "August Brings County Fairs, Food Festivals, and Family Fun Across Northern Virginia. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Summer isn't over yet. With back-to-school season approaching, August packs in a final burst of outdoor entertainment across Northern Virginia and the surrounding region, from agricultural fairs showcasing livestock and tractor demos to festivals celebrating oysters, bourbon, and watermelons.

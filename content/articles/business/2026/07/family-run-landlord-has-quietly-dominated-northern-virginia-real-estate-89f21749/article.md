@@ -12,9 +12,9 @@ tags:
   - "Northern Virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Family-Run Landlord Has Quietly Dominated Northern Virginia Real Estate for 70 Years"
+  caption: "Family-Run Landlord Has Quietly Dominated Northern Virginia Real Estate for 70 Years. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 While national real estate firms churn through tenants and turnover, one Vienna-based company has spent seven decades doing things differently—and their clients keep coming back.

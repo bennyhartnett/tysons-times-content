@@ -12,9 +12,9 @@ tags:
   - "Oakton"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Oakton High School students hold their new book on financial literacy"
+  caption: "Oakton High School students hold their new book on financial literacy for elementary school students. (Courtesy Dev Rai)"
+  credit: "Oakton High School students hold their new book on financial literacy for eleme…"
 ---
 
 Three Oakton High School students turned a school project into an international effort to teach young children about money management through storytelling.

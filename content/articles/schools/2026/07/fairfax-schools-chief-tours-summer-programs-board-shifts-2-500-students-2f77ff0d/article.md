@@ -12,9 +12,9 @@ tags:
   - "school boundaries"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid poses with students and staff members holding a handmade, colorful sign with a dragon that says “Welcome Dr. Reid,” at Dogwood Elementary School."
+  caption: "Fairfax Schools Chief Tours Summer Programs, Board Shifts 2,500 Students. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools Superintendent Michelle Reid spent last week visiting summer learning programs across the district while the School Board finalized boundary changes that will shift more than 2,500 students when Skyview High School opens.

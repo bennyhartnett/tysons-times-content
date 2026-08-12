@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington's Gift of Bells: A Tower That Rang Through Generations"
+  caption: "\"Thinking about that old bell made me remember other sonorous bells I’ve heard in my life....\" Netherlands Carillon at U.S. Marine Corps War Memorial, Marshall Dr., Arlington. Courtesy Washington DC Cherry Blossom Watch."
+  credit: "Falls Church Independent"
 ---
 
 The rope hung rough and hairy from the tower at James Whitcomb Riley Elementary School, and every morning Mr. Brown the custodian gave it a pull. That clang sent a clear message across the neighborhood: walk faster, pedal harder, or face the shame of a tardy slip.
