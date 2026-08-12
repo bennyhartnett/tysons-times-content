@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Jewelry Swap Thieves Target Women Across Fairfax County"
+  caption: "Jewelry Swap Thieves Target Women Across Fairfax County. Openly licensed thematic image selected for this article."
+  credit: "vastateparksstaff / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Fairfax County police are searching for a woman suspected in a series of thefts in which women were approached in parking lots, offered costume jewelry and stripped of their real jewelry through sleight of hand.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Free Falls Church Festival Lets Audiences Help Pick a Mainstage Show"
+  caption: "Free Falls Church Festival Lets Audiences Help Pick a Mainstage Show. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Creative Cauldron Stage will give theatergoers a role in choosing a future mainstage production when its “Bold New Voices” Festival returns to Falls Church from April 11 through May 9, 2026.

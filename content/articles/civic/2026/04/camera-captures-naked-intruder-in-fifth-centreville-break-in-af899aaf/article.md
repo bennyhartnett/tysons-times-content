@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Camera Captures Naked Intruder in Fifth Centreville Break-In"
+  caption: "Camera Captures Naked Intruder in Fifth Centreville Break-In. Openly licensed thematic image selected for this article."
+  credit: "Dmitry G / Public domain / Wikimedia Commons"
 ---
 
 A naked man suspected in a monthlong series of burglaries in Centreville was captured on surveillance footage early Wednesday while trying to enter another home, Fairfax County police said.

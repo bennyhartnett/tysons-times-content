@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Bluebells Take Over Riverbend Park for One-Day Spring Festival"
+  caption: "Bluebells Take Over Riverbend Park for One-Day Spring Festival. Openly licensed thematic image selected for this article."
+  credit: "Virginia State Parks staff / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Riverbend Park will celebrate peak wildflower season Saturday, April 11, with guided walks through its blooming bluebell fields and four hours of live entertainment, animal encounters and family activities.

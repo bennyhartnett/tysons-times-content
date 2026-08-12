@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Blue Sky Bets $7 Million on Reston Expansion, Adding 175 Jobs"
+  caption: "Blue Sky Bets $7 Million on Reston Expansion, Adding 175 Jobs. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Blue Sky Innovators plans to invest $7 million in a major Fairfax County expansion that will create 175 jobs and establish a secure defense technology laboratory in Reston.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Dogs Will Race for Prizes at Bark in Boro Park"
+  caption: "Tysons Dogs Will Race for Prizes at Bark in Boro Park. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Bark in Boro Park will return to Tysons on Saturday, April 25, with agility challenges, training sessions, giveaways and spring activities for dogs and their owners.

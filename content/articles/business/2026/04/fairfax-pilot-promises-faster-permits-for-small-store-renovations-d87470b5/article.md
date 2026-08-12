@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Pilot Promises Faster Permits for Small Store Renovations"
+  caption: "Fairfax Pilot Promises Faster Permits for Small Store Renovations. Openly licensed thematic image selected for this article."
+  credit: "Warren LeMay / CC BY-SA 2.0 / Wikimedia Commons"
 ---
 
 Fairfax County is testing a new service intended to help small business owners navigate permits for minor renovations, including an expedited review process that could take as little as three to five business days for qualifying submissions.

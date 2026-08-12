@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Vienna’s Shipley Do-Nuts Opening Slips to Summer"
+  caption: "Vienna’s Shipley Do-Nuts Opening Slips to Summer. Openly licensed thematic image selected for this article."
+  credit: "Michael Rivera / CC BY-SA 3.0 / Wikimedia Commons"
 ---
 
 Vienna residents will have to wait longer than some expected for Shipley Do-Nuts to open its new Maple Avenue shop.

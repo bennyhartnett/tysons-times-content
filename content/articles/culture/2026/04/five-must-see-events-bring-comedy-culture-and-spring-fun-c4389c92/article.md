@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Five Must-See Events Bring Comedy, Culture and Spring Fun"
+  caption: "Five Must-See Events Bring Comedy, Culture and Spring Fun. Openly licensed thematic image selected for this article."
+  credit: "Chicken4War / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Northern Virginia’s first weekend in April brings a packed lineup of comedy, seasonal celebrations, live music and theatrical history. Here are five events scheduled across the area from Friday, April 3, through Sunday, April 5.

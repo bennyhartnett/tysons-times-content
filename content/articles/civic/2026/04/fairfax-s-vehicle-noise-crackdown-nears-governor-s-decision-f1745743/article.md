@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax’s Vehicle Noise Crackdown Nears Governor’s Decision"
+  caption: "Fairfax’s Vehicle Noise Crackdown Nears Governor’s Decision. Openly licensed thematic image selected for this article."
+  credit: "KeysPhotography.com / CC BY 2.5 / Wikimedia Commons"
 ---
 
 A two-year pilot program targeting excessively loud vehicle mufflers could soon become law, giving Fairfax County and other participating localities a new enforcement tool.
