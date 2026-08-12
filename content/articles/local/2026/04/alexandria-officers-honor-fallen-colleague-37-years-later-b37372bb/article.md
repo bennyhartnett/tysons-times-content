@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria Officers Honor Fallen Colleague 37 Years Later"
+  caption: "Alexandria Officers Honor Fallen Colleague 37 Years Later. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria police officers gathered in Del Ray on March 22 to honor Charles W. “Charlie” Hill, the last department officer killed in the line of duty.

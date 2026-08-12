@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Gas Prices Jump Nearly $1 in Just One Month"
+  caption: "Arlington Gas Prices Jump Nearly $1 in Just One Month. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Gas prices have climbed sharply in recent weeks, pushing the national average to $3.97 a gallon and prices above $5 in parts of California.

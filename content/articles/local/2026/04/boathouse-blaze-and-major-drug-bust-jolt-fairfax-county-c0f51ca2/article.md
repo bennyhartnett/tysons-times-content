@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Boathouse Blaze and Major Drug Bust Jolt Fairfax County"
+  caption: "Boathouse Blaze and Major Drug Bust Jolt Fairfax County. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County firefighters rushed to the Fairfax Yacht Club on Old Colchester Road in Lorton shortly after 1 a.m. March 30, finding a boathouse engulfed in flames and the fire spreading into nearby brush.

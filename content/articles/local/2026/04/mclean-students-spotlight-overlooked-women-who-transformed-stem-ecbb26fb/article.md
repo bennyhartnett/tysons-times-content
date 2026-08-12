@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Spotlight Overlooked Women Who Transformed STEM"
+  caption: "McLean Students Spotlight Overlooked Women Who Transformed STEM. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Five local middle school students were honored for essays exploring women whose contributions to science, technology, engineering and mathematics received little recognition during their lifetimes.

@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria’s Waterfront Park Puts Visitors Between “Now” and “Never”"
+  caption: "Alexandria’s Waterfront Park Puts Visitors Between “Now” and “Never”. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A pair of monumental words is transforming Alexandria’s Waterfront Park, inviting visitors to walk through the tension between “NOW” and “NEVER.”

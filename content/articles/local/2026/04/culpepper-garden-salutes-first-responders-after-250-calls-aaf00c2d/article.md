@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Culpepper Garden Salutes First Responders After 250 Calls"
+  caption: "Culpepper Garden Salutes First Responders After 250 Calls. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Culpepper Garden residents and local officials gathered indoors March 18 to thank Arlington’s first responders during the community’s fifth annual First Responders Day.

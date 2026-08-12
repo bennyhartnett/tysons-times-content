@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Mount Vernon Woods Park Unveils Major Recreation Upgrade"
+  caption: "Mount Vernon Woods Park Unveils Major Recreation Upgrade. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Mount Vernon’s Hybla Valley community is getting a new place to skateboard, shoot hoops, play futsal and enjoy the outdoors after years of planning and construction.

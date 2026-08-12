@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Glory Days Grill Returns to Burke Roots for 30th Anniversary"
+  caption: "Glory Days Grill Returns to Burke Roots for 30th Anniversary. Openly licensed thematic image selected for this article."
+  credit: "Boston Public Library / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Glory Days Grill will celebrate its 30th anniversary April 16 at the chain’s original Burke location, with 1990s music, discounted wings and other one-day specials.

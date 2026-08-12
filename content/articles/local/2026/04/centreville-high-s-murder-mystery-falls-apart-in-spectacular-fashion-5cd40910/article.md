@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Centreville High’s Murder Mystery Falls Apart in Spectacular Fashion"
+  caption: "Centreville High’s Murder Mystery Falls Apart in Spectacular Fashion. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Centreville High School is preparing for theatrical disaster—entirely by design—in its upcoming production of “The Play That Goes Wrong (high-school edition).”

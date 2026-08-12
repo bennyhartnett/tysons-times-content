@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Giant Costumes Bring Whimsy to Northern Virginia Protests"
+  caption: "Giant Costumes Bring Whimsy to Northern Virginia Protests. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Superheroes, ducks, unicorns and even a T-Rex stood above the crowds at No Kings rallies across Northern Virginia, using humor and oversized costumes to draw attention to opposition to the federal administration.
