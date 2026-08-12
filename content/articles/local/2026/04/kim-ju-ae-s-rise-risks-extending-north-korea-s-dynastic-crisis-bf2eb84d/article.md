@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Kim Ju-Ae’s Rise Risks Extending North Korea’s Dynastic Crisis"
+  caption: "Kim Ju-Ae’s Rise Risks Extending North Korea’s Dynastic Crisis. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Kim Ju-Ae’s increasingly prominent appearances alongside her father, North Korean leader Kim Jong Un, are fueling expectations that the 13-year-old is being prepared to inherit one of the world’s most isolated states.

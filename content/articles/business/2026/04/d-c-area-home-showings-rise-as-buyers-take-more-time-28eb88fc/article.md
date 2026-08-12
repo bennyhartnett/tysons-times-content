@@ -11,9 +11,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for D.C.-Area Home Showings Rise as Buyers Take More Time"
+  caption: "D.C.-Area Home Showings Rise as Buyers Take More Time. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Homebuyer activity picked up across the Mid-Atlantic during the first full week of spring, with Washington-area markets helping drive an increase in purchase contracts.

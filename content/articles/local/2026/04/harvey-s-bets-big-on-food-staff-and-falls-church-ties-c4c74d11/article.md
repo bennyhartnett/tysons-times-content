@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Harvey’s Bets Big on Food, Staff and Falls Church Ties"
+  caption: "Harvey’s Bets Big on Food, Staff and Falls Church Ties. Openly licensed thematic image selected for this article."
+  credit: "Peachyeung316 / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Harvey’s has built its identity around more than serving meals. The restaurant at 513 W. Broad Street in Falls Church combines multiple dining styles, farm-fresh ingredients, homewares and a strong emphasis on neighborhood hospitality.

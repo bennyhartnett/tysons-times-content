@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for DMV Drivers Can Get Free Wipers During Weeklong Safety Push"
+  caption: "DMV Drivers Can Get Free Wipers During Weeklong Safety Push. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Drivers across the D.C. region can receive free windshield wipers and installation during Wiper Week, a road-safety initiative running April 5-11 at locations in Washington, Maryland and Virginia.

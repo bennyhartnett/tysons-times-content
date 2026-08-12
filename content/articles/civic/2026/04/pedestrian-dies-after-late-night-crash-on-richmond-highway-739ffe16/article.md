@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County police cruiser"
+  caption: "Fairfax County police cruiser. July 2018. (WTOP/Dave Dildine)"
+  credit: "Fairfax County police cruiser. July 2018. (WTOP/Dave Dildine)"
 ---
 
 A 67-year-old Maryland man died after a pickup truck struck him late Friday night at a Fairfax County intersection near Woodlawn.

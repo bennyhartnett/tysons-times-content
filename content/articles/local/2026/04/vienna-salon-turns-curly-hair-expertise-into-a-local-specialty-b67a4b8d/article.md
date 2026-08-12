@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Salon Turns Curly-Hair Expertise Into a Local Specialty"
+  caption: "Vienna Salon Turns Curly-Hair Expertise Into a Local Specialty. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Lofty Salon has carved out a specialty on Maple Avenue in Vienna by focusing on curly and textured hair, offering clients an approach designed around their natural hair patterns.

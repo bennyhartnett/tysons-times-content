@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Tysons Film Festival Leads a Busy Friday as Fog Blankets Route 7"
+  caption: "Tysons Film Festival Leads a Busy Friday as Fog Blankets Route 7. Openly licensed thematic image selected for this article."
+  credit: "Kalai Ramu / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Fog covered Leesburg Pike in Tysons early Friday, April 3, ahead of a warm afternoon and a busy stretch of local events, government action and development news.

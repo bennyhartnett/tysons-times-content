@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Tysons Casino Fight Heads Toward a Possible Fairfax County Vote"
+  caption: "Tysons Casino Fight Heads Toward a Possible Fairfax County Vote. Openly licensed thematic image selected for this article."
+  credit: "Antoine Taveneaux / CC BY-SA 3.0 / Wikimedia Commons"
 ---
 
 Fairfax County voters could get the final say on a casino-anchored entertainment district in Tysons, but only if Gov. Abigail Spanberger signs legislation clearing the way for a referendum.

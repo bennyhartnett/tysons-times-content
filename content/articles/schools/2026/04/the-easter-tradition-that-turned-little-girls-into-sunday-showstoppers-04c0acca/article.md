@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for The Easter Tradition That Turned Little Girls Into Sunday Showstoppers"
+  caption: "“'Outfit' included the whole shebang: a dress, shoes, purse, hat, gloves and probably socks, too....\" Courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 Long before rising prices helped push the custom aside, Easter Sunday in the 1940s and ’50s meant an entirely new outfit for many little girls. And “outfit” meant everything: dress, shoes, socks, purse, hat and gloves.
