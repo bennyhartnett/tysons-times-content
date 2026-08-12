@@ -11,10 +11,10 @@ tags:
   - "virginia"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Financial Plan Clears Review as Start-Time Decision Looms"
+  caption: "Financial Plan Clears Review as Start-Time Decision Looms. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Superintendent Michelle C. Reid cleared a financial planning review at the Oct. 9 meeting, while proposals involving K-12 start times, pre-K-12 goals and an accessible playground moved toward future consideration.

@@ -11,10 +11,10 @@ tags:
   - "springfield"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid with Shelli Farqhuarson at 2025 Impact Awards"
+  caption: "FCPS Pushes Into AI as New Western High School Takes Shape. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is advancing plans for artificial intelligence in classrooms while preparing to open a new western high school for the 2026–27 school year.

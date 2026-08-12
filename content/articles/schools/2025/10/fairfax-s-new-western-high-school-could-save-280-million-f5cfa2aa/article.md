@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax’s New Western High School Could Save $280 Million"
+  caption: "Fairfax’s New Western High School Could Save $280 Million. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools plans to open a new high school in western Fairfax County for the 2026-27 school year after acquiring a nearly 33-acre campus this summer.

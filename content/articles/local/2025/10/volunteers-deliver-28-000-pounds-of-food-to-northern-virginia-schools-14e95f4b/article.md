@@ -12,10 +12,10 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Volunteers Deliver 28,000 Pounds of Food to Northern Virginia Schools"
+  caption: "Volunteers Deliver 28,000 Pounds of Food to Northern Virginia Schools. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Nearly 1,000 volunteers collected and sorted more than 28,000 pounds of food on Sept. 13, helping stock school pantries that serve more than 10,000 students across Northern Virginia.

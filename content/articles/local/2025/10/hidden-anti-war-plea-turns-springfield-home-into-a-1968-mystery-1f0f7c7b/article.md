@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Hidden Anti-War Plea Turns Springfield Home Into a 1968 Mystery"
+  caption: "Hidden Anti-War Plea Turns Springfield Home Into a 1968 Mystery. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A message carved into a Springfield house during its construction has left homeowner Robin Campbell wondering for years about the worker who quietly wrote: “Get Out of Viet-Nam.”

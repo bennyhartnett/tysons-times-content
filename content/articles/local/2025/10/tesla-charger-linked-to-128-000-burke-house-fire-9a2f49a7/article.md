@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Tesla Charger Linked to $128,000 Burke House Fire"
+  caption: "Tesla Charger Linked to $128,000 Burke House Fire. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Six people escaped a Burke home early Friday after an electrical event involving a Tesla Charger sparked a garage fire, according to the Fairfax County Fire and Rescue Department.

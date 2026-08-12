@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "West Potomac HS Guitar Ensemble performs the National Anthem"
+  caption: "Fairfax School Board Backs Financial Plan, Tees Up Start-Time Talks. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board found Superintendent Michelle C. Reid in compliance with the division’s financial-planning guardrails during its Oct. 9, 2025, regular meeting, while several major issues—including K-12 start times—were introduced for future action.

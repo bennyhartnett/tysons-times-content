@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Westfield’s Underdog Wizards Take Center Stage in ‘Puffs’"
+  caption: "Westfield’s Underdog Wizards Take Center Stage in ‘Puffs’. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Westfield High School’s next production will tell a familiar wizarding-school saga from a decidedly different perspective: the overlooked, fiercely loyal and frequently bewildered Puffs.

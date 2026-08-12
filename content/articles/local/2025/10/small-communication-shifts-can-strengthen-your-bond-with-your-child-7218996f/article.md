@@ -12,10 +12,10 @@ tags:
   - "local government"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "parent with child"
+  caption: "Small Communication Shifts Can Strengthen Your Bond With Your Child. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Strong relationships with children are often shaped by ordinary daily conversations—not only by how families handle major disagreements. Missed signals, unspoken emotions, and misunderstood intentions can quietly create distance. Thoughtful, consistent communication can rebuild trust and deepen understanding.
