@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Blindfolded Concert Gives Indie-Folk Band a Surprising New Sound"
+  caption: "Blindfolded Concert Gives Indie-Folk Band a Surprising New Sound. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Golden Hours found an unusual way to transform a live performance: blindfolding audience members so they could experience the music without visual distractions.

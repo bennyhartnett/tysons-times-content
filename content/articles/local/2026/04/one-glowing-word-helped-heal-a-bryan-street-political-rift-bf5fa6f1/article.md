@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for One Glowing Word Helped Heal a Bryan Street Political Rift"
+  caption: "One Glowing Word Helped Heal a Bryan Street Political Rift. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Long before political tension reached North Bryan Street, the Arlington dead end had the feel of a close-knit village. Children spent summer evenings climbing trees, playing ball and riding bikes while families across generations watched out for one another.

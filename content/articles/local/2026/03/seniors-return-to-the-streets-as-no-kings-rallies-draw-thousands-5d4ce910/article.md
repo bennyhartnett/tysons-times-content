@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Seniors Return to the Streets as No Kings Rallies Draw Thousands"
+  caption: "Seniors Return to the Streets as No Kings Rallies Draw Thousands. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Decades after protesting the Vietnam War, Joe joined hundreds of other seniors on the streets of Herndon and Reston on March 28, continuing what he sees as a lifelong fight for democracy.

@@ -11,9 +11,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Gas prices over five dollars a gallon are displayed at an Exxon gas station near the U.S. Capitol Building on March 31, 2026 in D.C"
+  caption: "Gas prices over five dollars a gallon are displayed at an Exxon gas station near the U.S. Capitol Building on March 31, 2026 in D.C. (Photo by Andrew Harnik/Getty Images)"
+  credit: "Gas prices over five dollars a gallon are displayed at an Exxon gas station nea…"
 ---
 
 Gas prices have climbed above $4 a gallon nationwide for the first time in four years as the war in Iran strains oil supplies and drives fuel costs higher around the world.

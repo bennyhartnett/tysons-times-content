@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Stylized FCPL logo surrounded by wavy stripes filled with nature and landscape photos."
+  caption: "Fairfax Libraries Turn April Into a Celebration of America’s Wild Side. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Fairfax County Public Library will spotlight America’s natural landscapes throughout April with scavenger hunts, wildlife encounters, art projects and environmental programs at branches across the county.

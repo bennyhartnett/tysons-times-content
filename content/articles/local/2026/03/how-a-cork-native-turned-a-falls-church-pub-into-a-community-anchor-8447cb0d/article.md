@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for How a Cork Native Turned a Falls Church Pub Into a Community Anchor"
+  caption: "How a Cork Native Turned a Falls Church Pub Into a Community Anchor. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 For more than two decades, Ireland’s Four Provinces has offered Falls Church something more enduring than pints and pub fare: a gathering place where newcomers can quickly feel like regulars.

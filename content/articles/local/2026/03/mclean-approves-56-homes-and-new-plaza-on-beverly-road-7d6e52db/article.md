@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Approves 56 Homes and New Plaza on Beverly Road"
+  caption: "McLean Approves 56 Homes and New Plaza on Beverly Road. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County supervisors unanimously approved a seven-story residential redevelopment in downtown McLean on March 17, advancing a project expected to bring new housing and public space to a prominent corner.

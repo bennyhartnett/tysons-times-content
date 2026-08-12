@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Burke Cadets Beat Thousands to Claim CyberPatriot Bronze"
+  caption: "Burke Cadets Beat Thousands to Claim CyberPatriot Bronze. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Civil Air Patrol cadets from Burke Composite Squadron in Springfield placed third in the All Service Division at the CyberPatriot 18 National Finals, emerging from a field that began with 1,342 All Service teams.

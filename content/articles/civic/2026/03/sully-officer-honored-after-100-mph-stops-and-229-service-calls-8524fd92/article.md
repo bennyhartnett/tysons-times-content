@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sully Officer Honored After 100-Mph Stops and 229 Service Calls"
+  caption: "Sully Officer Honored After 100-Mph Stops and 229 Service Calls. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 PFC Henry Viar was named the Sully District Police Station’s Officer of the Year during the Citizens Advisory Committee’s Feb. 11 meeting, adding to Officer of the Quarter honors he received in 2020 and 2022.

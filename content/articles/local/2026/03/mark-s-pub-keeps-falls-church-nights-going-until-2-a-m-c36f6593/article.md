@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Mark’s Pub Keeps Falls Church Nights Going Until 2 A.M."
+  caption: "Mark’s Pub Keeps Falls Church Nights Going Until 2 A.M.. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Mark’s Pub has served the Falls Church area since 1976, evolving from a longtime tavern into a modern neighborhood gathering place with homemade food, drinks and regular entertainment.
