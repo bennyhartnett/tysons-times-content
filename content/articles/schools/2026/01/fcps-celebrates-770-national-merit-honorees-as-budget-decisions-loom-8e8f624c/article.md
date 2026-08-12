@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid with Regeneron Scholars at TJHSST."
+  caption: "FCPS Celebrates 770 National Merit Honorees as Budget Decisions Loom. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is celebrating 770 students named National Merit Commended Scholars, an 11% increase from the previous year, while preparing for major decisions involving its budget, facilities and staffing.

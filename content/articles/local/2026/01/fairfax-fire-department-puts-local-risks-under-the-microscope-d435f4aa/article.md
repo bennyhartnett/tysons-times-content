@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Fire Department Puts Local Risks Under the Microscope"
+  caption: "Fairfax Fire Department Puts Local Risks Under the Microscope. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Community Risk Reduction Week 2026 is highlighting how the Fairfax County Fire and Rescue Department uses local data to prevent emergencies and lessen their impact.

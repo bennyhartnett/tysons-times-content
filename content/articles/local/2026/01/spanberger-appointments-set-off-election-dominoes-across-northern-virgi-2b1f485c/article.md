@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Spanberger Appointments Set Off Election Dominoes Across Northern Virginia"
+  caption: "Spanberger Appointments Set Off Election Dominoes Across Northern Virginia. Openly licensed thematic image selected for this article."
+  credit: "Ron Cogswell / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Northern Virginia voters entered 2026 amid a rapid series of special elections after Gov. Abigail Spanberger selected several veteran lawmakers for roles in her new administration.

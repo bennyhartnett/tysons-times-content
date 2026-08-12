@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Schools’ First Full Boundary Review in Decades Nears Final Vote"
+  caption: "Fairfax Schools’ First Full Boundary Review in Decades Nears Final Vote. Openly licensed thematic image selected for this article."
+  credit: "Josh Kalov from Chicago / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools is approaching a pivotal vote on its first comprehensive boundary review in roughly 40 years, with a revised plan that could reassign about 1,700 students to relieve crowding and simplify attendance patterns.

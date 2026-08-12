@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Spanberger Makes History With a Call for Unity in Virginia"
+  caption: "Spanberger Makes History With a Call for Unity in Virginia. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Rain stopped just as Virginia’s inauguration began at noon under gray skies at the state Capitol in Richmond, where Abigail Davis Spanberger took office as the commonwealth’s 75th governor—and the first woman to hold the job.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Test-Optional Admissions May Be Deepening the Inequity They Promised to Fix"
+  caption: "Test-Optional Admissions May Be Deepening the Inequity They Promised to Fix. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Colleges embraced test-optional admissions when COVID-19 shuttered SAT and ACT testing centers worldwide in 2020. Years after that emergency ended, however, the policy remains widespread—and evidence suggests it may disadvantage the very students it was intended to help.

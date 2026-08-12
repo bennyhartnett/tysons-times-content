@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students practice giving an ultrasound to plush dogs."
+  caption: "Plush Patients Bring Real Ultrasound Training to Chantilly Students. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Chantilly Academy veterinary science students recently practiced ultrasounds and eye exams on an unusual group of patients: stuffed dogs, a model horse leg, and life-size animal eyes.

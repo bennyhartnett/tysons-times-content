@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Teso Life Draws Block-Long Lines for Virginia Debut"
+  caption: "Teso Life Draws Block-Long Lines for Virginia Debut. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Teso Life opened its first Virginia store on Jan. 16, drawing a line that stretched nearly three blocks as shoppers waited to explore its expansive collection of Asian imports.

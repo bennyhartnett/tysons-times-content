@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for More Than 1,000 Volunteers Turn MLK Day Into Local Action"
+  caption: "More Than 1,000 Volunteers Turn MLK Day Into Local Action. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 More than 1,000 residents marked Martin Luther King Jr. Day by taking part in Volunteer Fairfax’s 17th annual day of service on Monday, Jan. 19.

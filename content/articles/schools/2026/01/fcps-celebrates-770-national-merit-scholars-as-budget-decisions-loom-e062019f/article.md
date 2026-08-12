@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Exterior shot of Western High School"
+  caption: "FCPS Celebrates 770 National Merit Scholars as Budget Decisions Loom. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is celebrating a major academic milestone while preparing for consequential budget, construction and hiring decisions. The division announced that 770 students were named National Merit Commended Scholars, an 11% increase from the previous year.
