@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "building with a collapsed roof"
+  caption: "The St. George Tigrai Orthodox Tewahdo Church in Mt. Vernon, Virginia. (WTOP/Scott Gelman)"
+  credit: "The St. George Tigrai Orthodox Tewahdo Church in Mt. Vernon, Virginia. (WTOP/Sc…"
 ---
 
 More than 100 Ethiopian congregants are searching for a temporary gathering place after heavy snow caused the roof of St. George Tigrai Orthodox Tewahdo Church in Mount Vernon to collapse Monday.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Rare Grassland Birds Turn Fairfax Landfill Into a Thriving Refuge"
+  caption: "Rare Grassland Birds Turn Fairfax Landfill Into a Thriving Refuge. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A closed section of Fairfax County’s I-95 landfill has become valuable habitat for dozens of bird species, including several facing regional or continental conservation concerns.

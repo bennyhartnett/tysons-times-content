@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Winter Road Salt Is Quietly Raising Risks for Fairfax Water"
+  caption: "Winter Road Salt Is Quietly Raising Risks for Fairfax Water. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 As road crews prepared for heavy ice and snow during the Jan. 24 weekend, Virginia Department of Transportation trucks pretreated major routes with brine to keep ice from bonding to pavement. After an inch of snow accumulated, crews shifted to rock salt, while plowing and sand remained the preferred treatments on subdivision streets.

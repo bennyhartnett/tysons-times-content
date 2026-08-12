@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Northern Virginia Prosecutors Join Push to Police Federal Agents"
+  caption: "Northern Virginia Prosecutors Join Push to Police Federal Agents. Openly licensed thematic image selected for this article."
+  credit: "Yu tptw / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Two Northern Virginia prosecutors have joined a national coalition promising to investigate and prosecute federal agents accused of violating state law.

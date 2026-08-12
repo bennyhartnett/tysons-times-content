@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Casino Bill Advances Despite Fairfax County Opposition"
+  caption: "Tysons Casino Bill Advances Despite Fairfax County Opposition. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia lawmakers advanced legislation that could clear the way for a casino in the Tysons area, pushing the proposal forward despite formal opposition from the Fairfax County Board of Supervisors.

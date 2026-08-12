@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Boundary Reversal Spares 513 Students but Delays Tough Decisions"
+  caption: "Fairfax Boundary Reversal Spares 513 Students but Delays Tough Decisions. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County’s sweeping school boundary plan shrank dramatically in the final two weeks before its approval, sparing 513 students while postponing several overcrowding decisions.

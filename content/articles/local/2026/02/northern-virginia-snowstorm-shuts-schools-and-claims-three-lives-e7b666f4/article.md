@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Snowstorm Shuts Schools and Claims Three Lives"
+  caption: "Northern Virginia Snowstorm Shuts Schools and Claims Three Lives. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A punishing mix of snow and ice brought Northern Virginia roads, schools and deliveries to a standstill as crews confronted the storm’s aftermath and three Fairfax County-area residents died during the extreme weather.

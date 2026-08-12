@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Urgent Sewer Work Will Close Scott’s Run for a Third Spring"
+  caption: "The Potomac River seen from Scott’s Run Nature Preserve in McLean (staff photo by Jay Westcott)"
+  credit: "The Potomac River seen from Scott’s Run Nature Preserve in McLean (staff photo…"
 ---
 
 Scott’s Run Nature Preserve will close to visitors for a third consecutive spring as Fairfax County undertakes an urgent sewer rehabilitation project intended to prevent wastewater from overflowing into the Potomac River.

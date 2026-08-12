@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Teen’s SmartGait App Targets Hidden Mobility Problems"
+  caption: "Teen’s SmartGait App Targets Hidden Mobility Problems. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After watching his grandmother suffer repeated fall-related injuries despite reassuring physical therapy checkups, junior Jony Li spent more than five months developing a new way to assess mobility problems.

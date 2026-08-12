@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Camera Bans Advance as Safety and Revenue Fight Escalates"
+  caption: "Virginia Camera Bans Advance as Safety and Revenue Fight Escalates. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Two Virginia Senate bills that would eliminate red-light cameras and speed cameras in school and highway work zones advanced Jan. 22, intensifying a debate over whether the devices protect the public or primarily generate local revenue.
