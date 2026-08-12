@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Languages Power Sasha Hendrickson’s Mortgage Career"
+  caption: "Five Languages Power Sasha Hendrickson’s Mortgage Career. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Sasha Hendrickson has built a mortgage career around helping clients navigate complicated financial decisions across languages and cultures.

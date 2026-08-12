@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sweeping Housing Bill Clears House in 390-9 Vote"
+  caption: "Sweeping Housing Bill Clears House in 390-9 Vote. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A broad housing package aimed at easing the nation’s shortage of roughly 5 million homes has passed the House of Representatives with overwhelming bipartisan support and now heads to the Senate.

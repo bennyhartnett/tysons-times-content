@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Generic hero image with math symbols - green"
+  caption: "Fairfax Students Capture Five Top Regional MATHCOUNTS Awards. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools teams claimed five of the top eight awards at the Northern Virginia Regional MATHCOUNTS competition, recently held at Robinson Secondary School.

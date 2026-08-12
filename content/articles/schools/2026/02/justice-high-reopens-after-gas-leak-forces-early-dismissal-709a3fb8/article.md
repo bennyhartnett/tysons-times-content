@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Justice High Reopens After Gas Leak Forces Early Dismissal"
+  caption: "Justice High Reopens After Gas Leak Forces Early Dismissal. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Justice High School reopened on time for students and staff Wednesday, Feb. 11, after a gas leak prompted an early dismissal the previous day.

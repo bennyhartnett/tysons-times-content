@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Makes Sports History as Major Changes and Events Approach"
+  caption: "FCPS Makes Sports History as Major Changes and Events Approach. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is celebrating a Virginia first at Thomas Jefferson High School for Science and Technology, where women have been appointed to lead both the varsity baseball and football programs. The appointments make them the first female head coaches of those sports at the high school varsity level in the state.

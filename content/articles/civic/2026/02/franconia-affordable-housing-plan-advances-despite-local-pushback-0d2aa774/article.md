@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Franconia Affordable Housing Plan Advances Despite Local Pushback"
+  caption: "Rendering of affordable housing on Franconia Governmental Center site (via Soto Architecture & Urban Design/Fairfax County)"
+  credit: "Rendering of affordable housing on Franconia Governmental Center site (via Soto…"
 ---
 
 A plan to replace the Franconia Governmental Center with 120 affordable apartments has cleared the Fairfax County Planning Commission, despite objections from some nearby residents.

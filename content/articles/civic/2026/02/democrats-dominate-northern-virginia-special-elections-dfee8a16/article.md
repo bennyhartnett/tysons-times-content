@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Democrats Dominate Northern Virginia Special Elections"
+  caption: "A voter casts her ballot at a polling station at Rose Hill Elementary School during the midterm primary election on June 21, 2022 in Alexandria, Virginia. (Photo by Alex Wong/Getty Images)"
+  credit: "A voter casts her ballot at a polling station at Rose Hill Elementary School du…"
 ---
 
 Democrats won both Northern Virginia special elections held Tuesday to fill vacancies created by appointments to Gov. Abigail Spanberger’s administration.

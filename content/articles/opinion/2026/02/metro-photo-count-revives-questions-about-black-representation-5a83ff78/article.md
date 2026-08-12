@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Photo Count Revives Questions About Black Representation"
+  caption: "Is white-washing taking place at The Washington Post? \"Rally to support journalists fired by The Washington Post in February 2026.\" Wikimedia Commons."
+  credit: "Falls Church Independent"
 ---
 
 A review of The Washington Post’s Metro section has renewed concerns about how often Black residents appear in its photographs as the newspaper undergoes major newsroom cuts and leadership changes.

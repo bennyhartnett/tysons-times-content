@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna’s Peking Express Marks 35 Years of Food and Familiar Faces"
+  caption: "Vienna’s Peking Express Marks 35 Years of Food and Familiar Faces. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 For 35 years, Peking Express has served Chinese-American favorites from its home at 103 Center Street North in Vienna, growing from a modest carryout business into a restaurant offering dine-in, takeout and delivery.

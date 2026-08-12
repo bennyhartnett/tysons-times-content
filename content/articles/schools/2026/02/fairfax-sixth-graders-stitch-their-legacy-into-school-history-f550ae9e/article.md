@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "students gathered around table as teacher demonstrates for art project"
+  caption: "Students at Hunters Woods Elementary School in Reston, Virginia, watch as their art teacher digs through materials for a project. (WTOP/Scott Gelman)"
+  credit: "Students at Hunters Woods Elementary School in Reston, Virginia, watch as their…"
 ---
 
 A flower that didn’t turn out exactly as Mera Alemayehu imagined will soon become part of Hunters Woods Elementary School for years to come.
