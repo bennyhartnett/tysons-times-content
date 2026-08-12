@@ -10,10 +10,10 @@ tags:
   - "local"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Spotted Lanternfly Fight Shifts to Egg Masses"
+  caption: "Spotted Lanternfly Fight Shifts to Egg Masses. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Northern Virginians battling spotted lanternflies have a new target: the invasive insect’s hard-to-find egg masses.

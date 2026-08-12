@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Western High’s Fall 2026 Opening Hinges on Land-Use Review"
+  caption: "Western High’s Fall 2026 Opening Hinges on Land-Use Review. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Plans to open Western High School at the former King Abdullah Academy campus could face a crucial delay as Fairfax County officials decide whether the $150 million project requires a full public land-use review.

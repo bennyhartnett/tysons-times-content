@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Young Volunteers Bring Holiday Glow Back to Seniors’ Homes"
+  caption: "Young Volunteers Bring Holiday Glow Back to Seniors’ Homes. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Recent college graduates are spending Fridays in December climbing ladders, untangling lights and restoring treasured holiday traditions for older residents across Northern Virginia.

@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for ICE Detentions Spur Hybla Valley Vigil and Rapid Response"
+  caption: "ICE Detentions Spur Hybla Valley Vigil and Rapid Response. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Faith leaders, neighbors and Latino organizers gathered for a candlelight vigil along Richmond Highway after three Hybla Valley men were detained during increased immigration enforcement activity in the area.

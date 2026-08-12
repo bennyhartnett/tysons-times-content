@@ -10,10 +10,10 @@ tags:
   - "local"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Local Shops Stock Festive Treats for Every Kind of Pet"
+  caption: "Local Shops Stock Festive Treats for Every Kind of Pet. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Christmas stockings aren’t just for people. Several shops along Langston Boulevard offer seasonal treats and toys for dogs, cats and backyard birds.

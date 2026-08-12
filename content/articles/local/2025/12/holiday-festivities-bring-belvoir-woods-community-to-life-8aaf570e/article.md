@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Holiday Festivities Bring Belvoir Woods Community to Life"
+  caption: "Holiday Festivities Bring Belvoir Woods Community to Life. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A packed holiday calendar is helping residents at The Fairfax at Belvoir Woods celebrate the season while strengthening connections across the retirement community.

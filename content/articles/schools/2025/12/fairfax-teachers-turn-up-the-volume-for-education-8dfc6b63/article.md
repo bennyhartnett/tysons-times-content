@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Teachers Turn Up the Volume for Education"
+  caption: "Fairfax Teachers Turn Up the Volume for Education. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County teachers traded classrooms for the concert stage Dec. 7, performing at Jammin’ Java in Vienna and raising about $1,000 for Educate Fairfax.

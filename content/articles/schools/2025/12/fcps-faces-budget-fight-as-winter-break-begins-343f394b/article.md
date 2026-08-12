@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for FCPS Faces Budget Fight as Winter Break Begins"
+  caption: "FCPS Faces Budget Fight as Winter Break Begins. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is closing out 2025 fully accredited, but Superintendent Michelle Reid says maintaining that achievement will require adequate funding as Virginia school divisions contend with outdated state funding formulas.

@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Laurel Hill Barn Demolition Erases Fairfax’s Final Dairy Remnant"
+  caption: "Laurel Hill Barn Demolition Erases Fairfax’s Final Dairy Remnant. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A fading piece of Fairfax County’s agricultural history is coming down at Laurel Hill Park, where the former dairy and feed barns near the Laurel Hill Equestrian Center are being demolished for safety reasons.
