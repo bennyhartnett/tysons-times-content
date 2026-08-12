@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Voters Clear the Way for a One-Time Congressional Remap"
+  caption: "Virginia Voters Clear the Way for a One-Time Congressional Remap. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia voters narrowly approved a constitutional amendment allowing state lawmakers to redraw congressional districts before November’s midterm elections.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Teen Wildlife Photographer Earns Rare National Arts Honor"
+  caption: "Teen Wildlife Photographer Earns Rare National Arts Honor. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 At 5 a.m., while many of his classmates are still asleep, senior Wonwoo Do is often carrying cameras, lenses and tripods through the marshy woods of Huntley Meadows Park. He searches for birds, waits for the right moment and then returns home to refine each image.

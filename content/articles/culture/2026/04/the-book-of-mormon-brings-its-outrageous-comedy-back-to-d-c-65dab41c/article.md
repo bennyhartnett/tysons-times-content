@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for “The Book of Mormon” Brings Its Outrageous Comedy Back to D.C."
+  caption: "“The Book of Mormon” Brings Its Outrageous Comedy Back to D.C.. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 “The Book of Mormon” will return to Washington’s National Theatre from April 28 through May 3, bringing its boundary-pushing humor, energetic performances and unexpected emotional warmth back to the stage.

@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid listens to a parent describing a school traffic situation as part of a Community Conversations meeting."
+  caption: "Fairfax Schools Celebrate National Honors and Rising Algebra Access. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools marked a busy final week of April with national recognition for its music programs, major student awards, expanded access to Algebra 1 and community discussions about budgets, boundaries and school programs.

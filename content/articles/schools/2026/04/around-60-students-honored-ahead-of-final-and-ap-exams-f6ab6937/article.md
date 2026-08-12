@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Around 60 Students Honored Ahead of Final and AP Exams"
+  caption: "Around 60 Students Honored Ahead of Final and AP Exams. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Students, families, counselors and teachers gathered in the Lecture Hall on April 22 to celebrate academic achievement at the All School Awards.

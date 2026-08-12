@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A group of students and adults stand outdoors on green grass, a wall of solar panels behind them."
+  caption: "Fairfax Students Turn Climate Concerns Into Solar Action. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Student advocates from Falls Church and McLean high schools are taking their environmental concerns beyond the classroom, speaking to local leaders about solar power and community change.

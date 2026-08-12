@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thomas-Jefferson-building-092014-1043.jpg"
+  caption: "TJ Admissions Reach Every Fairfax Middle School for Sixth Year. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools offered 550 students admission to Thomas Jefferson High School for Science and Technology’s Class of 2030, marking the sixth consecutive year that every FCPS middle school is represented.

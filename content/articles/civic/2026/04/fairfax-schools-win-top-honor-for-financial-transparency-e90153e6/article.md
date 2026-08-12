@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools Win Top Honor for Financial Transparency"
+  caption: "Fairfax Schools Win Top Honor for Financial Transparency."
+  credit: "Government Finance Officers Association"
 ---
 
 Fairfax County Public Schools has earned the highest recognition awarded in governmental accounting and financial reporting for its work documenting how the school division manages public money.

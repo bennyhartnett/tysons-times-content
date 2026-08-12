@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Puts AI and 30,000 Cameras at Center of Regional Safety Push"
+  caption: "Metro Puts AI and 30,000 Cameras at Center of Regional Safety Push. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro brought first responders and public safety leaders from across the National Capital Region together for its second annual Safety and Security Summit, aiming to improve coordination and emergency response across jurisdictional lines.

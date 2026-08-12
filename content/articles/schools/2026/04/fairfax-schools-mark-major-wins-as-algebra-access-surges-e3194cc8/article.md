@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Justice High School teacher and Fulbright Teachers for Global Classrooms Fellow Kristen Salonga stands in front of several international flags while holding a Senegalese flag."
+  caption: "Fairfax Schools Mark Major Wins as Algebra Access Surges. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools celebrated national recognition in music, student success in science and academics, and an expansion of middle school Algebra 1 access during a busy final week of April.
