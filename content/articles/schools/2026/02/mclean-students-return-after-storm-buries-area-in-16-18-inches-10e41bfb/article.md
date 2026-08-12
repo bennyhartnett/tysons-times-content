@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Return After Storm Buries Area in 16-18 Inches"
+  caption: "McLean Students Return After Storm Buries Area in 16-18 Inches. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean students returned to class on a two-hour delay Tuesday, Feb. 3, after a powerful winter storm shut down Fairfax County Public Schools for a full week.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "two south county high school staff members with flowers and certificates at an informal fcps cares recognition event held in the south lakes high school auditorium"
+  caption: "Frozen Pipes, Snow and Student Needs Spark Extraordinary FCPS Response. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools recognized employees across the division in February 2026 for responding to emergencies, supporting students and families, strengthening instruction and keeping schools operating through winter disruptions.

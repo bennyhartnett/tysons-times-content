@@ -11,9 +11,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Puppy Yoga Brings a Playful Twist to Weekend Wellness"
+  caption: "Puppy Yoga Brings a Playful Twist to Weekend Wellness. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A weekend yoga class in Washington, D.C., is pairing gentle exercise with puppy playtime, giving participants 75 minutes to stretch, unwind and mingle with young dogs.

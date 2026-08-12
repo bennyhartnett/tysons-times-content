@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "two staff members in front of the bucknell elementary school mural"
+  caption: "FCPS Honors Staff Who Stepped Up in Emergencies and Classrooms. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools’ February 2026 CARES recognitions spotlighted employees who kept buildings operating, expanded opportunities for students, supported families and responded to emergencies across the division.

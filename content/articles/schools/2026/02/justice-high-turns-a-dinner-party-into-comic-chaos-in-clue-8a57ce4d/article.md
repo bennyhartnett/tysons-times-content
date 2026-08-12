@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Justice High School students dressed in costume performing in \"Clue: On Stage.\""
+  caption: "Justice High Turns a Dinner Party Into Comic Chaos in ‘Clue’. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A routine dinner spiraled into murder, blackmail and frantic suspicion as Justice High School staged *Clue: On Stage*, pairing an ominous mystery with exaggerated physical comedy.

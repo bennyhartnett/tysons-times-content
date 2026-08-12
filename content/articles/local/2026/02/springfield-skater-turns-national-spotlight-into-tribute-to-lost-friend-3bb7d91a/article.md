@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Springfield Skater Turns National Spotlight Into Tribute to Lost Friend"
+  caption: "Springfield Skater Turns National Spotlight Into Tribute to Lost Friend. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 For 15-year-old figure skater Sofia Bezkorovainaya, performing brings an exhilarating rush. But when she takes the ice for her short program, the experience also carries the memory of her friend Everly Livingston.

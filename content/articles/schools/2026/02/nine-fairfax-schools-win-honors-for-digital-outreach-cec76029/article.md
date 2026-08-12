@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "website header image of students smiling"
+  caption: "Nine Fairfax Schools Win Honors for Digital Outreach. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools honored nine schools for outstanding websites, newsletters and social media during the annual School Communicators Conference on Jan. 30.

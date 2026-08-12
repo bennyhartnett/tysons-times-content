@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Don Toliver Pushes Into Overdrive on the Daring ‘OCTANE’"
+  caption: "Don Toliver Pushes Into Overdrive on the Daring ‘OCTANE’. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Don Toliver’s fifth studio album, *OCTANE*, delivers a meticulously produced 49-minute rush of heavy bass, futuristic textures and soulful R&B. Beneath that speed and spectacle, however, lies a persistent emotional detachment that gives the record an uneasy edge.

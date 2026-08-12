@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Valentine’s Dining Specials Sweep Tysons Area Restaurants"
+  caption: "Valentine’s Dining Specials Sweep Tysons Area Restaurants. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Restaurants across the Tysons area are preparing special menus, wine pairings and live entertainment for Valentine’s Day 2026, with celebrations extending throughout February.

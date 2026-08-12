@@ -11,9 +11,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Feeling Stuck? Small Choices Can Rebuild Your Confidence"
+  caption: "\"Humans love control. We need control. It is fundamental to our well-being and survival....\" Photo by Pavel Danilyuk."
+  credit: "Falls Church Independent"
 ---
 
 Confidence can grow through setbacks, encouragement, positive examples and a new interpretation of nervous energy. But those strategies may seem out of reach when support is scarce or failure has made it difficult to keep trying.
