@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Restaurant Blends Global Flavors With Late-Night Dancing"
+  caption: "Tysons Restaurant Blends Global Flavors With Late-Night Dancing. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Greenhouse Kitchen + Bar combines international dining, live performances and late-night dancing in Vienna’s Tysons Corner corridor.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia’s Minimum Wage Is Rising—But Not All at Once"
+  caption: "Virginia’s Minimum Wage Is Rising—But Not All at Once. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia’s plan to gradually raise its minimum wage offers workers relief from rising living costs while giving small businesses time to absorb higher payroll expenses.

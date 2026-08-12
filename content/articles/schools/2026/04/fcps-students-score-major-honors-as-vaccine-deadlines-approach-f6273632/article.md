@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Students Score Major Honors as Vaccine Deadlines Approach"
+  caption: "FCPS Students Score Major Honors as Vaccine Deadlines Approach."
+  credit: "Fairfax County Public Schools"
 ---
 
 Fairfax County Public Schools students are earning major recognition in science, academics and literary competition, while families of rising seventh- and 12th-graders are being urged to complete required immunizations before fall.

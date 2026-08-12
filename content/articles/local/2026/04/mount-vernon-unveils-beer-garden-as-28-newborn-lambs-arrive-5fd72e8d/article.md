@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Mount Vernon Unveils Beer Garden as 28 Newborn Lambs Arrive"
+  caption: "Sheep with new lambs at George Washington’s Mount Vernon (courtesy Mount Vernon Ladies’ Association)"
+  credit: "Sheep with new lambs at George Washington’s Mount Vernon (courtesy Mount Vernon…"
 ---
 
 George Washington’s Mount Vernon is welcoming spring with a new outdoor beer garden, 28 newborn lambs and a packed schedule of events tied to the country’s 250th anniversary.

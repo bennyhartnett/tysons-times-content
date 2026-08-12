@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Weekend Metro Work Cuts Blue and Silver Service to Downtown Largo"
+  caption: "Weekend Metro Work Cuts Blue and Silver Service to Downtown Largo. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro riders heading to Downtown Largo this weekend will need to use free shuttle buses for part of their trips as rail service is suspended beyond Stadium-Armory on the Blue Line and rerouted on the Silver Line.

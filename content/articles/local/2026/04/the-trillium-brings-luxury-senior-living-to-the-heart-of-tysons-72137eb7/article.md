@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for The Trillium Brings Luxury Senior Living to the Heart of Tysons"
+  caption: "The Trillium Brings Luxury Senior Living to the Heart of Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Trillium Tysons is offering older adults a rental-based approach to luxury senior living in The Boro, combining flexible leases, extensive amenities and access to additional care in a walkable part of Tysons.

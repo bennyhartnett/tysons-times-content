@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Legal Experts Give Students a Candid Look Inside Law Careers"
+  caption: "Legal Experts Give Students a Candid Look Inside Law Careers. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Students considering careers in law received firsthand guidance on April 14 when Highlanders for Criminal Justice hosted a panel featuring former federal prosecutor Lawrence Leiser and trademark attorney Erik Pelton.

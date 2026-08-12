@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna’s Walk on the Hill Blooms With a Patriotic Twist"
+  caption: "Vienna’s Walk on the Hill Blooms With a Patriotic Twist. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Vienna’s historic Windover Heights neighborhood will welcome spring with more than 40 picturesque properties, landscaped gardens and colorful lawns during the 55th annual Walk on the Hill.

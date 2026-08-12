@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Packs Three Spring Events Into One Saturday"
+  caption: "Vienna Packs Three Spring Events Into One Saturday."
+  credit: "Hill House Nursery"
 ---
 
 Vienna will welcome May with native plants, fresh produce and a live community program during three events at the Vienna Community Center on Saturday, May 2.
