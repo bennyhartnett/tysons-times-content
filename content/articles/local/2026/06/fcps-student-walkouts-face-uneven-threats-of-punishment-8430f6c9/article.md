@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Student Walkouts Face Uneven Threats of Punishment"
+  caption: "FCPS Student Walkouts Face Uneven Threats of Punishment. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Students protesting U.S. Immigration and Customs Enforcement raids and deportations across Fairfax County Public Schools say administrators have responded with inconsistent warnings and penalties, ranging from detention to possible graduation restrictions.

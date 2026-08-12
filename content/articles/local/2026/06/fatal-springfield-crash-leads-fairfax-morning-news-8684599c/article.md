@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fatal Springfield Crash Leads Fairfax Morning News"
+  caption: "North American toad spotted in Turkey Run Park in McLean (photo by Susan Woolsey)"
+  credit: "North American toad spotted in Turkey Run Park in McLean (photo by Susan Woolse…"
 ---
 
 A driver died and two passengers were injured Tuesday afternoon in a single-vehicle crash on Old Keene Mill Road near Tiverton Drive in Springfield.

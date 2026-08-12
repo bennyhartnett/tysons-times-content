@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dulles Crews Race Around the Clock to Open $700 Million Concourse"
+  caption: "Construction work at the concessions area of Dulles International Airport’s new Concourse E (staff photo by Scott McCaffrey)"
+  credit: "Construction work at the concessions area of Dulles International Airport’s new…"
 ---
 
 A 600-person construction crew is moving to around-the-clock work as Dulles International Airport pushes to open its new $700 million Concourse E by early fall.

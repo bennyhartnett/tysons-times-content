@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for “Office Romance” Revives the Spark Modern Rom-Coms Have Lost"
+  caption: "“Office Romance” Revives the Spark Modern Rom-Coms Have Lost. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 “Office Romance” reaches back to the golden age of 2000s romantic comedies, pairing a forbidden workplace relationship with the charm, humor and predictability that made the genre so memorable.

@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid with FCCPTA President Debbie Kilpatrick"
+  caption: "FCPS Superintendent Dr. Michelle Reid and FCCPTA President Debbie Kilpatrick."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools Superintendent Dr. Michelle Reid received the Virginia Parent Teacher Association’s 2026 Power Partner Award after holding more than 100 community meetings during the 2025-26 school year.

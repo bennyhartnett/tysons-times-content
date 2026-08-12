@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Blood Drive Perks, Board Openings and Oakton Cleanup Set"
+  caption: "Blood Drive Perks, Board Openings and Oakton Cleanup Set. Image from Providence District Newsletter / The Palchik Post."
+  credit: "Providence District Newsletter / The Palchik Post"
 ---
 
 Providence District residents can give blood, pursue a county advisory role or help restore native habitat through several upcoming community opportunities.

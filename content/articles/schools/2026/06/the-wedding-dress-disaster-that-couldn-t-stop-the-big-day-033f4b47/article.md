@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for The Wedding Dress Disaster That Couldn’t Stop the Big Day"
+  caption: "\"....Mom had one week to put together a wedding....\" Photo courtesy Carol McEwen."
+  credit: "Falls Church Independent"
 ---
 
 Weddings have a way of throwing families into chaos, and ours was no exception.

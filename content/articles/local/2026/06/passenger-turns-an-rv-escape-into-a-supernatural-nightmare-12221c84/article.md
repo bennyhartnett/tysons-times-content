@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Passenger Turns an RV Escape Into a Supernatural Nightmare"
+  caption: "Passenger Turns an RV Escape Into a Supernatural Nightmare. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A newly engaged couple’s fresh start takes a terrifying turn in “Passenger,” director André Øvredal’s suspenseful supernatural horror film about an RV journey consumed by pursuit and fear.

@@ -11,9 +11,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for One French Pastry Steals the Show in a Global Brunch Taste Test"
+  caption: "One French Pastry Steals the Show in a Global Brunch Taste Test. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A brunch tour spanning French, Israeli, Turkish and English dishes produced one clear standout: Le Diplomate’s Paris-Brest, a delicate pastry that earned a perfect 10 out of 10. Other plates ranged from crisp, satisfying cheese rolls to pancakes whose colorful appearance could not overcome their disappointing texture.

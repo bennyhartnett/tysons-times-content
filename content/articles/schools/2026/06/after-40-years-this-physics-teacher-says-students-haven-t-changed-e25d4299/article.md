@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A physics teacher in a lab."
+  caption: "After 40 Years, This Physics Teacher Says Students Haven’t Changed. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Technology has transformed education and advanced the study of physics, but longtime Hayfield Secondary School teacher Dave Hincher says one crucial part of the classroom remains familiar.
