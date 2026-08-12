@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Aerial view of a residential property showing a 20' front setback and 8' side setbacks in green, with a gray ADU in the center labeled ADU."
+  caption: "Setbacks for an example accessory dwelling unit in a Fairfax City backyard (screenshot via City of Fairfax)"
+  credit: "FFXnow"
 ---
 
 The Fairfax City Council voted 4-2 on July 28 to permit detached accessory dwelling units by right on residential properties where the homeowner occupies the main residence.

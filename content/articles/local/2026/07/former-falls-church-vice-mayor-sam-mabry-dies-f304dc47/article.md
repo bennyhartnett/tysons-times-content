@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Former Falls Church Vice Mayor Sam Mabry Dies at 84"
+  caption: "Former Falls Church Vice Mayor Sam Mabry Dies at 84. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Samuel Albert “Sam” Mabry, a former Falls Church City Council member and vice mayor, died peacefully in his sleep July 4 in Falls Church, Virginia. He was 84, according to the reported March 27, 1942, birth date and the age identified in the article’s body.

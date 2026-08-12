@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A temporary trailer at Centreville High School in Fairfax County, Virginia."
+  caption: "A temporary trailer at Centreville High School in Fairfax County, Virginia."
+  credit: "A temporary trailer at Centreville High School in Fairfax County, Virginia."
 ---
 
 Centreville High School families are pushing Fairfax County officials to address reported building deficiencies while a voter-approved renovation project sits on hold, caught between a zoning dispute and the district's reassessment of whether the school still needs added capacity.

@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "First-person view from a body camera in a dense green outdoor area; hands grip a black device in the foreground, timestamp shown."
+  caption: "A still image from the officer’s bodycamera of a man identified as Nehemia Fuentes Banegas in a bush, released by the Fairfax County Police Department. (Courtesy FCPD)"
+  credit: "FFXnow"
 ---
 
 A 26-year-old Annandale man has been charged with attempting to disarm a law-enforcement officer after Fairfax County police said an officer shot him during a struggle in a wooded area.

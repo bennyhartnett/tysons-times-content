@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Front view of a two-story blue house with stone veneer, white trim, and a three-car garage; porch with hanging chair and landscaped yard."
+  caption: "Housing concept design for Pohick Episcopal Church site (via Urban Ltd/Fairfax County)"
+  credit: "FFXnow"
 ---
 
 Pohick Episcopal Church and Christopher Land LLC have submitted a Fairfax County rezoning application for Cunningham Woods Reserve, a proposed 49-home subdivision on approximately 17.5 acres of the church’s historic property in Lorton.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Aerial map showing a district outlined in red, with a mix of residential and commercial buildings along a central highway near Pohick Bay."
+  caption: "The Fairfax County Board of Supervisors approved a comprehensive plan update in July 2026 for Lorton (via Fairfax County)"
+  credit: "FFXnow"
 ---
 
 The Fairfax County Board of Supervisors has adopted a long-range framework intended to guide land use, transportation and community design in Lorton over the coming decades.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Person in a colorful shirt with a bright pink bag buys pastries at an outdoor bakery stall under a white canopy."
+  caption: "Toimoi Bakery at the Mosaic District farmers market (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Toimoi Bakery is preparing to open its first full retail storefront in the Mosaic District, taking over the compact space that Falafel Inc. plans to leave as it expands elsewhere in the development.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Professionals mingle at a reception in a large event space with wooden floors, high ceiling, and large windows in the background."
+  caption: "A reception celebrating the fifth anniversary of the Capital One Hall Community Arts Partnership (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 ArtsFairfax, Capital One and local artists marked five seasons of a partnership designed to make Capital One Hall more accessible to Fairfax County arts and culture nonprofits at a July 14 reception in Tysons.

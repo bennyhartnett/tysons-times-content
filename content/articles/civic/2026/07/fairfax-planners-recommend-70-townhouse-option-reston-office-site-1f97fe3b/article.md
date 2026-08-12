@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Aerial view of an office campus with a building outlined in red along Dulles Airport Access Road, near Sunrise Valley Drive."
+  caption: "Location, in red, of 1850 Roland Clarke Place (via Stewart Investment Partners and Fairfax County)"
+  credit: "FFXnow"
 ---
 
 The Fairfax County Planning Commission voted 10-0 on July 8 to recommend adding a 70-townhouse redevelopment option for a 3.5-acre office property at 1850 Roland Clarke Place in Reston.

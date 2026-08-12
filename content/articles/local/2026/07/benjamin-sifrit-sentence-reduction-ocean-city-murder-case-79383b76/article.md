@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "benjamin sifrit photos"
+  caption: "Benjamin Sifrit seeks reduced sentence in 2002 Ocean City murder case. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 Benjamin “B.J.” Sifrit is scheduled to appear at an Aug. 11 hearing in Rockville, Maryland, on his request for a reduced sentence and release with time served under Maryland’s Second Look Act.
