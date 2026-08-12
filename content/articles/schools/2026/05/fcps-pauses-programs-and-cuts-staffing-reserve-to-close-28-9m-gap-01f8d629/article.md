@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Pauses Programs and Cuts Staffing Reserve to Close $28.9M Gap"
+  caption: "FCPS Pauses Programs and Cuts Staffing Reserve to Close $28.9M Gap. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Fairfax County Public Schools is pausing six budget items as it works to close a $28.9 million funding gap without eliminating full-time positions.

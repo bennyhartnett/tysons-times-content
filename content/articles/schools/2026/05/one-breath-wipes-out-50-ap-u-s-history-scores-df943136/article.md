@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for One Breath Wipes Out 50 AP U.S. History Scores"
+  caption: "One Breath Wipes Out 50 AP U.S. History Scores. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Fifty AP U.S. History scores were canceled Thursday after a student reportedly breathed with unusual force during the document-based question section in McLean’s Lower Gym.

@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for More Than 12,000 Mason Graduates Turn Differences Into Strength"
+  caption: "George Mason University 2026 commencement ceremony (screenshot via George Mason)"
+  credit: "George Mason University 2026 commencement ceremony (screenshot via George Mason)"
 ---
 
 Four years after arriving from India unsure whether she would belong, Saniya Dilip Darediya stood before George Mason University’s Class of 2026 as its student commencement speaker.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Pohick Road Safety Upgrades Would Add Walkways and Move Crossing"
+  caption: "Pohick Road Safety Upgrades Would Add Walkways and Move Crossing. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Fairfax County transportation officials are planning a series of pedestrian safety and connectivity upgrades along Pohick Road, covering the corridor between Route 1 and the bridge over Interstate 95.

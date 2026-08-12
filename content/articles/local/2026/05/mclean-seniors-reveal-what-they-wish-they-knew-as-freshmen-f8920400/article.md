@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Seniors Reveal What They Wish They Knew as Freshmen"
+  caption: "McLean Seniors Reveal What They Wish They Knew as Freshmen. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Starting high school can be intimidating, from navigating unfamiliar hallways and tougher classes to finding friends and worrying about college. But as McLean seniors finished their last day of school, they said freshmen should embrace new experiences without letting the pressure consume them.

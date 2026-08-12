@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s $28 Dim Sum Deal Delivers—If You Can Wait"
+  caption: "McLean’s $28 Dim Sum Deal Delivers—If You Can Wait. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Peter Chang’s downtown McLean restaurant has added a compelling reason to visit: all-you-can-eat dim sum for $28 per person, available daily from 11 a.m. to 3 p.m.

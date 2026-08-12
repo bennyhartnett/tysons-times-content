@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Physics Teacher Earns Region 2 Honors in Just His Second Year"
+  caption: "McLean Physics Teacher Earns Region 2 Honors in Just His Second Year. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Sean Jones has spent less than two years adapting his teaching to McLean High School, but his energetic, student-focused approach has already earned him the FCPS Region 2 Outstanding Teacher of the Year award.

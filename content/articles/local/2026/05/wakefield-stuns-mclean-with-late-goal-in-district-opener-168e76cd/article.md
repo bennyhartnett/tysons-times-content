@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Wakefield Stuns McLean With Late Goal in District Opener"
+  caption: "Wakefield Stuns McLean With Late Goal in District Opener. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s bid for redemption ended in heartbreak May 14 as Wakefield rallied for a 2-1 victory in the first round of the district tournament, eliminating the Highlanders one week after spoiling their Senior Night.

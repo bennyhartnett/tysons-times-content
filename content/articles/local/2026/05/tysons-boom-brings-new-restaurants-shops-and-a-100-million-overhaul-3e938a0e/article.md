@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Boom Brings New Restaurants, Shops and a $100 Million Overhaul"
+  caption: "Tysons Boom Brings New Restaurants, Shops and a $100 Million Overhaul. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Tysons is welcoming a wave of new restaurants, stores and entertainment venues as its two major malls prepare for additional openings and a yearslong, $100 million redevelopment.

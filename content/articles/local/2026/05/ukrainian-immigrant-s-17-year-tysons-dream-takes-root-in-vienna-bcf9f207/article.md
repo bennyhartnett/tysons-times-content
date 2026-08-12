@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Ukrainian Immigrant’s 17-Year Tysons Dream Takes Root in Vienna"
+  caption: "Ukrainian Immigrant’s 17-Year Tysons Dream Takes Root in Vienna. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 After cutting hair in Tysons for 17 years, Ukrainian immigrant Natalya Anderson achieved her longtime goal of owning a salon when Alya Salon and Spa opened in Vienna on Feb. 1, 2019.
