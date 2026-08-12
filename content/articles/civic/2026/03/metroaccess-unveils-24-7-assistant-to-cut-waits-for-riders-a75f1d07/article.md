@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for MetroAccess Unveils 24/7 Assistant to Cut Waits for Riders"
+  caption: "MetroAccess Unveils 24/7 Assistant to Cut Waits for Riders. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 MetroAccess customers will gain around-the-clock help booking and managing trips beginning Wednesday, March 18, when a new digital assistant starts handling routine requests by phone.

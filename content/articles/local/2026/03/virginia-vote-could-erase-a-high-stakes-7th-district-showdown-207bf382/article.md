@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Vote Could Erase a High-Stakes 7th District Showdown"
+  caption: "Virginia Vote Could Erase a High-Stakes 7th District Showdown. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Northern Virginia voters are already casting ballots in a constitutional referendum that could reshape the state’s congressional map—and determine whether an emerging contest between Dorothy McAuliffe and Del. Dan Helmer has a future.

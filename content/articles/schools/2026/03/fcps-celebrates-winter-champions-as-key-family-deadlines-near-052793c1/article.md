@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students work on a white board"
+  caption: "FCPS Celebrates Winter Champions as Key Family Deadlines Near. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is celebrating three teams and 34 individual athletes who won Virginia High School League Class 6 championships during the 2025-26 winter season.

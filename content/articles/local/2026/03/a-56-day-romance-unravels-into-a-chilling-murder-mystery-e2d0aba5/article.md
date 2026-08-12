@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for A 56-Day Romance Unravels Into a Chilling Murder Mystery"
+  caption: "A 56-Day Romance Unravels Into a Chilling Murder Mystery. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A chance encounter in a grocery store sparks a whirlwind romance in *56 Days*, but the relationship takes a sinister turn when police discover a body in a bathtub.

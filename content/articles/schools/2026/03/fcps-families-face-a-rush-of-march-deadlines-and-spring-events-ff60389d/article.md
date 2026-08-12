@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Families Face a Rush of March Deadlines and Spring Events"
+  caption: "FCPS Families Face a Rush of March Deadlines and Spring Events. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools families have several major deadlines approaching, including a March 23 cutoff for the Family Engagement Survey and March 27 deadlines for course-request acknowledgments, magnet-school applications, and special education award nominations.

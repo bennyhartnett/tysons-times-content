@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Defies Regional Uncertainty With 65.3 Million Visits"
+  caption: "Tysons Defies Regional Uncertainty With 65.3 Million Visits. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 Tysons recorded 65.3 million visits in 2025, up 5% from the previous year as workplace activity and consumer demand continued to strengthen across the district.

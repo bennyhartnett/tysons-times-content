@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Artist Turns Trash Into Unexpected Sculpture"
+  caption: "Reston Artist Turns Trash Into Unexpected Sculpture. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Discarded crankshafts, crushed cans, plastic scraps and rusty metal will take on new forms in Doug Fuller’s latest exhibition at Reston Art Gallery and Studios.

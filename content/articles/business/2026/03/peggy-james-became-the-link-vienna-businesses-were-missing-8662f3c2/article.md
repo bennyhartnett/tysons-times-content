@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Peggy James Became the Link Vienna Businesses Were Missing"
+  caption: "Peggy James Became the Link Vienna Businesses Were Missing. Openly licensed thematic image selected for this article."
+  credit: "Deb Haaland / Public domain / Wikimedia Commons"
 ---
 
 When Vienna’s small businesses lost their local chamber of commerce, Peggy James helped build a replacement—and spent more than a decade turning it into a network connecting merchants, nonprofits and residents.

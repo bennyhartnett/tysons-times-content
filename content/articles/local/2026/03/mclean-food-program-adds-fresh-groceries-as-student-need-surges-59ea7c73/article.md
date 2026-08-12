@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Food Program Adds Fresh Groceries as Student Need Surges"
+  caption: "McLean Food Program Adds Fresh Groceries as Student Need Surges. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean Food for Neighbors has expanded beyond shelf-stable donations, launching its first monthly grocery pop-up as organizers report that the number of students needing food has doubled or even tripled compared with previous years.

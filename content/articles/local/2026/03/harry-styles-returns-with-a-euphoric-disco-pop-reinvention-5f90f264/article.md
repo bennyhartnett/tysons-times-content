@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Harry Styles Returns With a Euphoric Disco-Pop Reinvention"
+  caption: "Harry Styles Returns With a Euphoric Disco-Pop Reinvention. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Harry Styles has ended his nearly four-year musical hiatus with a striking change of pace. Released March 6, his fourth studio album, *Kiss All the Time. Disco, Occasionally.*, launches a joyful new era built around dance-floor energy, candid reflection and a renewed appreciation for everyday life.
