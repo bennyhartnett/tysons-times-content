@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Moves Ahead With Deer Sharpshooters in Eight Parks"
+  caption: "Arlington Moves Ahead With Deer Sharpshooters in Eight Parks. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington will move forward in February with a sharpshooter program targeting deer in eight parks where officials say overpopulation has caused the greatest ecological damage.

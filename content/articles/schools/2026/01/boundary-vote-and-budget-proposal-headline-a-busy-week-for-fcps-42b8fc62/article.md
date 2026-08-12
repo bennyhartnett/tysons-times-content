@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Four young boys sit on a bench in a playground with their arms around each other, smiling."
+  caption: "Boundary Vote and Budget Proposal Headline a Busy Week for FCPS. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County’s School Board is set to consider revised school boundary changes and hear Superintendent Dr. Michelle Reid’s proposed fiscal 2026-27 budget during a packed schedule on Thursday, January 22.

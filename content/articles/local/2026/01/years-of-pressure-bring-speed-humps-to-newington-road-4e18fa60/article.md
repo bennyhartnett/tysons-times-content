@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Years of Pressure Bring Speed Humps to Newington Road"
+  caption: "Years of Pressure Bring Speed Humps to Newington Road. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 After years of complaints about speeding, crashes and the lack of sidewalks, residents along Newington Road in southern Fairfax County have secured new traffic-calming measures.

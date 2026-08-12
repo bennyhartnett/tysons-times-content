@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Ousted Space Force Colonel Launches Fairfax-Area Run for Congress"
+  caption: "Bree Fram, a military member forced to retire due to the Trump administration’s transgender ban, is running for Congress. (courtesy of Bree Fram for Congress)"
+  credit: "FFXnow"
 ---
 
 Former Space Force Col. Bree Fram, who was forced to retire under the Trump administration’s ban on transgender military service members, filed Tuesday to run for Congress as a Democrat.

@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Otters Make a Splash at Huntley Meadows Park"
+  caption: "Otters Make a Splash at Huntley Meadows Park. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Northern river otters have taken up residence in the estuary at Huntley Meadows Park in Mount Vernon, delighting photographers and visitors who catch sight of them from the watchtower.

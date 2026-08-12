@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Swim and Dive Rolls Past Wakefield in Dual-Meet Rout"
+  caption: "McLean Swim and Dive Rolls Past Wakefield in Dual-Meet Rout. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s girls’ and boys’ swim and dive teams delivered commanding victories over Wakefield on Jan. 16 in one of their final dual meets of the season.

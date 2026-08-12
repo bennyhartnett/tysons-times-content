@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "elections voter in fairfax county"
+  caption: "Cheryl Terio-Simon casts her ballot at the community center in Lake Anne Plaza as voters take to the polls for the Virginia primary elections on Tuesday, June 11, 2019, in Reston, VA. (Photo by Jahi Chikwendiu/The Washi…"
+  credit: "Cheryl Terio-Simon casts her ballot at the community center in Lake Anne Plaza…"
 ---
 
 Democrat Garrett McGuire won a special election for Virginia’s House of Delegates on Tuesday, securing the District 17 seat with more than 78.6% of the vote as of 8:25 p.m.

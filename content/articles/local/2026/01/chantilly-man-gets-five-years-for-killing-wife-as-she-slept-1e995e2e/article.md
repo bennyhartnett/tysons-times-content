@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Chantilly Man Gets Five Years for Killing Wife as She Slept"
+  caption: "Chantilly Man Gets Five Years for Killing Wife as She Slept. Openly licensed thematic image selected for this article."
+  credit: "Lee Haywood from Wollaton, Nottingham, England / CC BY-SA 2.0 / Wikimedia Commo…"
 ---
 
 An 89-year-old Chantilly man was sentenced Jan. 9 to five years in prison for fatally shooting his ailing wife as she slept, ending a marriage of nearly 65 years and devastating a family that once viewed him as a devoted husband and caregiver.

@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Boundary Shake-Up Could Move Nearly 1,700 Students"
+  caption: "Fairfax Boundary Shake-Up Could Move Nearly 1,700 Students. Openly licensed thematic image selected for this article."
+  credit: "Ktkvtsh / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Fairfax County is nearing a vote on its first comprehensive school boundary review in decades, with Superintendent Michelle Reid’s recommended plan affecting 1,697 students across elementary, middle and high schools.

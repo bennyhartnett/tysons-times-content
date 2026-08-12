@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for A$AP Rocky’s Long-Awaited Return Takes a Bold Creative Swing"
+  caption: "A$AP Rocky’s Long-Awaited Return Takes a Bold Creative Swing. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Nearly eight years after 2018’s experimental *Testing*, A$AP Rocky returned Jan. 16, 2026, with *Don’t Be Dumb*, his fourth studio album and one of the year’s most anticipated releases.
