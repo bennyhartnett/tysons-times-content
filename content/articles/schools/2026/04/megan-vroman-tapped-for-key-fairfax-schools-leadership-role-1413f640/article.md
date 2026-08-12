@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Professional headshot of a smiling woman in a black blazer and white blouse against a gray background."
+  caption: "Megan Vroman Tapped for Key Fairfax Schools Leadership Role. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has appointed Megan Vroman as its new chief of schools, elevating the current Region 2 assistant superintendent to a critical executive leadership position.

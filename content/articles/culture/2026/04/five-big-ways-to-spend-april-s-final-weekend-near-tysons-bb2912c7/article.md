@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Big Ways to Spend April’s Final Weekend Near Tysons"
+  caption: "Five Big Ways to Spend April’s Final Weekend Near Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Five events across Tysons, Reston, Vienna and McLean will offer live theater, music, art, food and dog-friendly activities from Friday, April 24, through Sunday, April 26.

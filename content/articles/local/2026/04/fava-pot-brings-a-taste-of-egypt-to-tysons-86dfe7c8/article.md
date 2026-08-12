@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fava Pot Brings a Taste of Egypt to Tysons"
+  caption: "Fava Pot Brings a Taste of Egypt to Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Fava Pot has expanded its Egyptian menu to The Boro, bringing its signature fava-bean falafel, koshary and other traditional dishes closer to diners in Tysons and McLean.

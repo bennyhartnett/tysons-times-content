@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Opens Anonymous Drug Drop-Off for One Day in April"
+  caption: "Vienna Opens Anonymous Drug Drop-Off for One Day in April. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Vienna Police Department will accept expired, unused and unwanted medications during the 30th National Drug Take Back Day on Saturday, April 25.

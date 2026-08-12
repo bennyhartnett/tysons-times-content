@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro 29 Marks 30 Years as Arlington’s All-Day Diner Landmark"
+  caption: "Metro 29 Marks 30 Years as Arlington’s All-Day Diner Landmark. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Metro 29 Diner has spent three decades serving oversized breakfasts, house-made desserts and classic American fare from its chrome-clad home at Langston Boulevard and Glebe Road in North Arlington.

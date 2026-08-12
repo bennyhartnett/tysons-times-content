@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Candidate Vows to Fight Gerrymandering and Dark Money in Congress"
+  caption: "\"While I don’t love what Virginia Democrats had to do, I am proud of my party for turning the tide on Trump’s orders to Texas last July.\" Image composite courtesy 5NBCDFW, WJLA."
+  credit: "Falls Church Independent"
 ---
 
 Virginia is nearing the end of what I see as a season of aggressive gerrymandering. Although I am uneasy about the steps Virginia Democrats took, I believe the party was responding to a national redistricting push encouraged by President Donald Trump.

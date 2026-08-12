@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Mid-Atlantic Home Prices Hit a Record as Buyer Activity Surges"
+  caption: "Mid-Atlantic Home Prices Hit a Record as Buyer Activity Surges. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Mid-Atlantic housing market gained momentum in the week ending April 19, 2026, as the median list price climbed to an all-time weekly high and new contracts jumped from a year earlier.

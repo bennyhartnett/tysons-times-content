@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Langley Student Warns Fairfax Libraries Are Falling Behind"
+  caption: "Kingstowne Regional Library patrons checked out its offerings during opening day on April 11, 2026 (staff photo by Scott McCaffrey)"
+  credit: "Kingstowne Regional Library patrons checked out its offerings during opening da…"
 ---
 
 Fairfax County supervisors are facing growing pressure to increase spending on library materials, with advocates warning that limited print collections are leaving students without enough reliable research resources.

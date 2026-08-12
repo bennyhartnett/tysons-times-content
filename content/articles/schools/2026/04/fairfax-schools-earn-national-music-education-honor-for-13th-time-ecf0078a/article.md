@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students performing at the 2026 All-County Choral Festival."
+  caption: "Fairfax Schools Earn National Music Education Honor for 13th Time. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has again been named one of the nation’s Best Communities for Music Education, marking the district’s 13th time receiving the designation.

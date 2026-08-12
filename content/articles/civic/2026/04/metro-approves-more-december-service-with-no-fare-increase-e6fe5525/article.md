@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Approves More December Service With No Fare Increase"
+  caption: "Metro Approves More December Service With No Fare Increase. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro’s board has approved its fiscal 2027 budget, keeping fares unchanged while planning more frequent rail service and two new limited-stop bus routes in Virginia.
