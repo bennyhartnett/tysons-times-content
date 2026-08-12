@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Flushable Wipes Worsen Potomac Sewage Spill During Critical Repairs"
+  caption: "Crews are working on a bypass system to divert wastewater from the Potomac River after a sewer line collapse in Maryland (via DC Water)"
+  credit: "Crews are working on a bypass system to divert wastewater from the Potomac Rive…"
 ---
 
 Fairfax County is urging residents to throw all wipes in the trash after clogged pumps triggered another major wastewater overflow into the Potomac River during repairs to a collapsed regional sewer line.

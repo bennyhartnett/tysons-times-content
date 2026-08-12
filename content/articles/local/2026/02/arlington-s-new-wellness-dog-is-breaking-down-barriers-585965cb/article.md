@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington’s New Wellness Dog Is Breaking Down Barriers"
+  caption: "Arlington’s New Wellness Dog Is Breaking Down Barriers. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A 15-month-old Black Labrador named Dottie is helping Arlington County’s first responders navigate difficult conversations about trauma, mental health and the pressures of public safety work.

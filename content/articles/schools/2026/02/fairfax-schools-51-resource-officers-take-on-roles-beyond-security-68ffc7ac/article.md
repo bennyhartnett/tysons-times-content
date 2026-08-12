@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools’ 51 Resource Officers Take on Roles Beyond Security"
+  caption: "Fairfax Schools’ 51 Resource Officers Take on Roles Beyond Security. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County marked National School Resource Officer Appreciation Day on Feb. 15 by recognizing 51 officers assigned to high, secondary and middle schools throughout the county’s public school system.

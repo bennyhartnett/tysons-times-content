@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax’s Newest High School Gets a Name—and a High-Tech Mission"
+  caption: "Fairfax’s Newest High School Gets a Name—and a High-Tech Mission. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County’s newest high school is now officially Skyview High School, marking a major step toward its August 2026 opening in Herndon.

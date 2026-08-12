@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax City Restaurant Week Serves Up a World of Flavors"
+  caption: "Fairfax City Restaurant Week Serves Up a World of Flavors. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax City Restaurant Week will bring 10 days of globally inspired dining deals to more than two dozen local restaurants from Feb. 27 through March 8.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for War Refugee Becomes a Lifeline for Alexandria’s Underserved Youth"
+  caption: "War Refugee Becomes a Lifeline for Alexandria’s Underserved Youth. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Ana Bonilla-Galdamez tells young Latinos that their heritage is a source of strength, their voices have power and they belong in every space. That message is rooted in her own journey from civil war in El Salvador to decades of advocacy for vulnerable students in Alexandria.

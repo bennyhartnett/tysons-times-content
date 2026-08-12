@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Rubble is seen after a home explosion in a suburban neighborhood"
+  caption: "Rubble is seen days after a home exploded in Centreville, Virginia, on Feb. 15, 2026. (WTOP/Luke Lukert)"
+  credit: "Rubble is seen days after a home exploded in Centreville, Virginia, on Feb. 15,…"
 ---
 
 Thirty-five Centreville homes remained under evacuation orders Wednesday as investigators searched for a natural gas leak that may have contributed to Sunday’s house explosion on Quail Pond Court.

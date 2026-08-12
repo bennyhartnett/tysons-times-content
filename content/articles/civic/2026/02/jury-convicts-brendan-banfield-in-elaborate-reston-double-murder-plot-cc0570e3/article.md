@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Jury Convicts Brendan Banfield in Elaborate Reston Double-Murder Plot"
+  caption: "Jury Convicts Brendan Banfield in Elaborate Reston Double-Murder Plot. Openly licensed thematic image selected for this article."
+  credit: "Carol M. Highsmith / Public domain / Wikimedia Commons"
 ---
 
 A jury convicted Brendan Banfield, 40, of two counts of aggravated murder for orchestrating a plot that left his wife, Christine Banfield, and a stranger, Joseph Ryan, dead inside the Banfields’ Reston home.

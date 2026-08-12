@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Transit Funding Plan Stalls, but Fairfax Keeps Pushing"
+  caption: "Hunter Mill Supervisor Walter Alcorn (screenshot via Fairfax County)"
+  credit: "Hunter Mill Supervisor Walter Alcorn (screenshot via Fairfax County)"
 ---
 
 Fairfax County leaders are pressing state lawmakers to keep Northern Virginia transit funding alive after legislation authorizing new regional taxes and fees stalled during the 2026 General Assembly session.

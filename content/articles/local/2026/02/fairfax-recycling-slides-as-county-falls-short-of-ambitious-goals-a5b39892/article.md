@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Recycling Slides as County Falls Short of Ambitious Goals"
+  caption: "Fairfax Recycling Slides as County Falls Short of Ambitious Goals. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County’s familiar blue curbside bins mask a troubling trend: The county’s overall recycling rate declined in 2024, leaving it far from its ambitious waste-reduction targets.
