@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Extra Credit Ban Leaves McLean Students With No Room for Error"
+  caption: "Extra Credit Ban Leaves McLean Students With No Room for Error. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 As the semester ends Feb. 4 and final grades are calculated, many students are asking teachers for a last-minute boost. Unless a grade is within roughly 0.1 percentage points of the next letter, however, students are often told there is nothing they can do.

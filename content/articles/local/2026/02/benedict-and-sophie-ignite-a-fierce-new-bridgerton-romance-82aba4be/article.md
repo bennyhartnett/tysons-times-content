@@ -11,9 +11,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Benedict and Sophie Ignite a Fierce New Bridgerton Romance"
+  caption: "Benedict and Sophie Ignite a Fierce New Bridgerton Romance. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Bridgerton’s fourth season finds its spark in Benedict Bridgerton and Sophie Baek, a pairing whose immediate chemistry drives the first half of the story. Played by Luke Thompson and Yerin Ha, the couple brings the yearning, tension and emotional disorder that have fueled the show’s strongest romances.

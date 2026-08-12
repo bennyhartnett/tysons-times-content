@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Track Ends 21-Year District Title Drought"
+  caption: "McLean Track Ends 21-Year District Title Drought. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A snowbound week without team training could not stop McLean’s indoor track team from securing its first Liberty District championship since 2005.

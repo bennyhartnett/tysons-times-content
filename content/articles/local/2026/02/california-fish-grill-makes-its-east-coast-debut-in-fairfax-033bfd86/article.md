@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for California Fish Grill Makes Its East Coast Debut in Fairfax"
+  caption: "California Fish Grill Makes Its East Coast Debut in Fairfax. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 California Fish Grill has opened its first East Coast restaurant in Fairfax City, bringing its sustainably sourced seafood menu to the Kamp Washington Shopping Center while supporting a national campaign against childhood hunger.

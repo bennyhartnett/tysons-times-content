@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Culmore Library Shuts Down for Yearlong HVAC Overhaul"
+  caption: "Culmore Library Shuts Down for Yearlong HVAC Overhaul. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Culmore Community Library in Falls Church closed Jan. 17, 2026, for major HVAC repairs and other upgrades expected to keep the building inaccessible for about a year.

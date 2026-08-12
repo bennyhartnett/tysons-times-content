@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fern’s Sleet Hardens Into a Weeklong Fairfax Deep Freeze"
+  caption: "Fern’s Sleet Hardens Into a Weeklong Fairfax Deep Freeze. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Winter Storm Fern stopped dropping snow and sleet on Northern Virginia by Monday morning, Jan. 26, but its impact only intensified as a prolonged freeze transformed the accumulation into pavement-bound “ice-crete.”

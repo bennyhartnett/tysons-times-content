@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Lockdown Drill Exposes Unease Over Classroom Safety"
+  caption: "McLean’s Lockdown Drill Exposes Unease Over Classroom Safety. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School held its second lockdown drill of the school year on Feb. 5, giving students and staff another chance to practice emergency procedures as school shootings remain a national concern.

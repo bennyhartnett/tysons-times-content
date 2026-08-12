@@ -11,9 +11,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for College Friendships Face a Social Media Trap"
+  caption: "College Friendships Face a Social Media Trap. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 College-bound seniors are using social media to find classmates, potential roommates and new social circles before ever arriving on campus. Those early connections may ease the leap from high school, but they can also undermine one of college’s defining experiences: learning to build friendships with strangers.

@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean History Society Caps Semester With Nearly 150 Active Members"
+  caption: "McLean History Society Caps Semester With Nearly 150 Active Members. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School’s History Honors Society is closing out the semester with nearly 150 active members and a growing record of volunteer work, educational projects and participation in national commemorations.

@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Local Folk Duo Scores Surprise Triple Chart Victory"
+  caption: "Local Folk Duo Scores Surprise Triple Chart Victory. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Ann Granger never expected to enter a recording studio, let alone become part of a nationally charting folk act. But the Arlington resident, formerly of Reston, overcame her reluctance and joined Falls Church musician Larry Rice to form The Two Peas — an acoustic duo whose close harmonies recently delivered an unlikely sweep.
