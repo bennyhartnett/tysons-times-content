@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia’s Kitten Season Now Stretches Nearly All Year"
+  caption: "Northern Virginia’s Kitten Season Now Stretches Nearly All Year."
+  credit: "Patch"
 ---
 
 A days-old kitten trapped inside a car engine became one of the first signs of another demanding kitten season for Northern Virginia animal rescuers.

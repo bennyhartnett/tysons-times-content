@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Exterior Remodeler Marks More Than 60 Years in Business"
+  caption: "Fairfax Exterior Remodeler Marks More Than 60 Years in Business. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Pond Roofing & Exteriors is marking more than six decades of serving homeowners across Northern Virginia.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Cherrydale Market Springs Back With Golden Eggs and Bubbles"
+  caption: "Cherrydale Market Springs Back With Golden Eggs and Bubbles. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Cherrydale Farmer’s Market returns to Dorothy Hamm Middle School on Vacation Lane on April 4, launching its spring season with an Easter egg hunt, sidewalk chalk and bubbles drifting among the vendor stands.

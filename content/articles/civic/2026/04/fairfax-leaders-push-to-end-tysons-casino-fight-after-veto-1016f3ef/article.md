@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Leaders Push to End Tysons Casino Fight After Veto"
+  caption: "Hunter Mill Supervisor Walter Alcorn with anti-casino forces in 2025 (courtesy Hunter Mill District Office)"
+  credit: "Hunter Mill Supervisor Walter Alcorn with anti-casino forces in 2025 (courtesy…"
 ---
 
 Fairfax County supervisors are urging state lawmakers to abandon efforts to bring a casino to Tysons after Gov. Abigail Spanberger vetoed legislation that would have forced the county to hold a referendum.

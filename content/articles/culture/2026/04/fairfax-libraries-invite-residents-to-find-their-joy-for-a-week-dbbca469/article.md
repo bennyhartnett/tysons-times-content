@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Libraries Invite Residents to Find Their Joy for a Week"
+  caption: "Fairfax Libraries Invite Residents to Find Their Joy for a Week. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Fairfax County Public Library will celebrate National Library Week from April 19-25, 2026, with free activities, special observances and an invitation for residents to discover something they love at their local branch.

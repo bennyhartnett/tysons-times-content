@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Redistricting Vote Nears as Confusion Clouds the Campaign"
+  caption: "Virginia Redistricting Vote Nears as Confusion Clouds the Campaign. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia voters have until April 21 to decide whether the General Assembly should temporarily gain the power to redraw the state’s congressional districts before the next once-a-decade cycle. Conflicting advertisements and political messages have left some voters confused about what the proposed constitutional amendment would do.

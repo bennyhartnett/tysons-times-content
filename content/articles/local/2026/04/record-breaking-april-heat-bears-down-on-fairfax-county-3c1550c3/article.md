@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Record-Breaking April Heat Bears Down on Fairfax County"
+  caption: "Heat forecast for the D.C. region on April 15, 2026 (via National Weather Service)"
+  credit: "Heat forecast for the D.C. region on April 15, 2026 (via National Weather Servi…"
 ---
 
 Fairfax County is facing an unusually early burst of summer weather, with temperatures forecast to climb into the low 90s and potentially break records set decades ago.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Clock Shop Marks 50 Years With 25,000 Restorations"
+  caption: "Vienna Clock Shop Marks 50 Years With 25,000 Restorations. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 For half a century, the Clock Shop of Vienna has kept mechanical timepieces ticking from its distinctive storefront at 109 Church Street NW.

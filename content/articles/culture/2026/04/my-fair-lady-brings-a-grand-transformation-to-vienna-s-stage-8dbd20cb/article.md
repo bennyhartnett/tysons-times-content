@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for “My Fair Lady” Brings a Grand Transformation to Vienna’s Stage"
+  caption: "“My Fair Lady” Brings a Grand Transformation to Vienna’s Stage. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Vienna Theatre Company will open its spring production of “My Fair Lady” at 7 p.m. Friday, April 17, at the Vienna Community Center, 120 Cherry St. SE.

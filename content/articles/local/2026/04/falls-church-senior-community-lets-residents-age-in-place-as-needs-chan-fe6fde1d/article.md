@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Senior Community Lets Residents Age in Place as Needs Change"
+  caption: "Falls Church Senior Community Lets Residents Age in Place as Needs Change. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Kensington Falls Church offers assisted living and memory care designed to support residents even as their medical or cognitive needs become more complex.
