@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Realtor Ann Wilson Marks Two Decades in a Competitive Market"
+  caption: "Arlington Realtor Ann Wilson Marks Two Decades in a Competitive Market. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Ann Wilson has helped clients buy and sell homes across Northern Virginia and Washington, D.C., since 2004, building a career that has brought repeated industry recognition and an expanding Arlington-based team.

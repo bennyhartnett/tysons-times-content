@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Group of kids take group photo in school hallway"
+  caption: "The Rising Star Fund held a summer camp at Garfield Elementary last summer."
+  credit: "The Rising Star Fund held a summer camp at Garfield Elementary last summer."
 ---
 
 Two Langley High School seniors are working to narrow educational gaps in Fairfax County after seeing that students at nearby Title I schools lacked access to programs and resources available in wealthier communities.

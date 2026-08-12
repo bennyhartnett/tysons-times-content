@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Jeweler Nears 50 Years With Luxury Legacy Intact"
+  caption: "Tysons Jeweler Nears 50 Years With Luxury Legacy Intact. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Liljenquist & Beckstead is approaching five decades in business, growing from a modest jewelry store opened by two college friends into a prominent luxury retailer at Fairfax Square in Tysons Corner.

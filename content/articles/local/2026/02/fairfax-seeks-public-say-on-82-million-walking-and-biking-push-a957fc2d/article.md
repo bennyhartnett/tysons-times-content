@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Seeks Public Say on $82 Million Walking and Biking Push"
+  caption: "Fairfax Seeks Public Say on $82 Million Walking and Biking Push. Openly licensed thematic image selected for this article."
+  credit: "Joe Mabel / CC BY-SA 3.0 / Wikimedia Commons"
 ---
 
 Fairfax County residents can help decide which proposed sidewalks, crosswalk upgrades and other pedestrian and bicycle projects should receive funding.

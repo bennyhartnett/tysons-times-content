@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna’s Trousseau Puts 4,500 Bras and Expert Fittings Under One Roof"
+  caption: "Vienna’s Trousseau Puts 4,500 Bras and Expert Fittings Under One Roof. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 For shoppers struggling to find the right bra, Trousseau offers an unusually deep selection on Maple Avenue in Vienna. The independently owned boutique says it keeps more than 4,500 bras in over 160 sizes available while providing personalized fittings and alterations.

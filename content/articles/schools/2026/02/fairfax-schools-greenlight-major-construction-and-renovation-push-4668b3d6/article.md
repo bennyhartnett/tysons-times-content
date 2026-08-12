@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools Greenlight Major Construction and Renovation Push"
+  caption: "Fairfax Schools Greenlight Major Construction and Renovation Push. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools will move ahead with new schools, extensive renovations and capacity upgrades under a five-year capital plan approved by the School Board on February 12.

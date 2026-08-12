@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County police vehicle"
+  caption: "Fairfax County police vehicle. (WTOP/Dave Dildine)"
+  credit: "Fairfax County police vehicle. (WTOP/Dave Dildine)"
 ---
 
 Fairfax County police are searching for a person of interest after a woman died at a bus stop in Hybla Valley on Monday night.

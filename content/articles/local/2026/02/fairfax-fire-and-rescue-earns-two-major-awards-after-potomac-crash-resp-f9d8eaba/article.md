@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Fire and Rescue Earns Two Major Awards After Potomac Crash Response"
+  caption: "Fairfax Fire and Rescue Earns Two Major Awards After Potomac Crash Response. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 The Fairfax County Fire and Rescue Department received two statewide honors for its role in the emergency response to the January 2025 Potomac River aircraft crash and its efforts to protect firefighters’ health.

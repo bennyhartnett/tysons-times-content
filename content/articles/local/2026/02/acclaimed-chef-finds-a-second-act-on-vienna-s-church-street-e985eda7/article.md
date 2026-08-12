@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Acclaimed Chef Finds a Second Act on Vienna’s Church Street"
+  caption: "Acclaimed Chef Finds a Second Act on Vienna’s Church Street. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Chef Roberto Donna and restaurateur Nancy Sabbagh have built their latest chapter around two restaurants facing each other on Church Street in Vienna: one devoted to regional Italian cooking and the other to French comfort food.

@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Budget Vote Looms as New School Security System Goes Live"
+  caption: "FCPS Budget Vote Looms as New School Security System Goes Live. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools will reach a key point in its budget process Thursday, February 26, when the School Board is scheduled to adopt the advertised budget for fiscal year 2027.
