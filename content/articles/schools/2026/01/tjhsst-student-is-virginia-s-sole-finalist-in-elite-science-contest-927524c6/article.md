@@ -11,9 +11,9 @@ tags:
   - "virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Generic science hero image - gold"
+  caption: "TJHSST Student Is Virginia’s Sole Finalist in Elite Science Contest. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Aashritha Penumudi of Thomas Jefferson High School for Science and Technology has been selected as one of 40 finalists in the 2026 Regeneron Science Talent Search.

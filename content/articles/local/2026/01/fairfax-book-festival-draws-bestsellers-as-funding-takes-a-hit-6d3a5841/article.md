@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Book Festival Draws Bestsellers as Funding Takes a Hit"
+  caption: "Fairfax Book Festival Draws Bestsellers as Funding Takes a Hit. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Northern Virginia’s oldest and largest festival of literature and the arts is bringing prominent authors and packed audiences to Fairfax, even as a recent funding cut eliminated 10% of its budget.

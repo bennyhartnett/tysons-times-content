@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for ICE Shootings Spark Large Protests Across Northern Virginia"
+  caption: "ICE Shootings Spark Large Protests Across Northern Virginia. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Northern Virginia residents joined a wave of nationwide demonstrations in January after the fatal shooting of Renee Nicole Good by an ICE agent in Minneapolis on Jan. 7.

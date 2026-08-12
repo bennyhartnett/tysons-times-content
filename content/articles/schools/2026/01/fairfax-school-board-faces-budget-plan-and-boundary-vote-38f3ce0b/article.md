@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax School Board Faces Budget Plan and Boundary Vote"
+  caption: "Fairfax School Board Faces Budget Plan and Boundary Vote. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County school leaders will take up two major issues Thursday, January 22, as Superintendent Dr. Michelle Reid presents her proposed fiscal year 2026-27 budget and the School Board considers revised school boundary changes.

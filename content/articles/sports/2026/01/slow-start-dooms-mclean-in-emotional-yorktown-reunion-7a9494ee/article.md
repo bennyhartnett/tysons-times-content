@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Slow Start Dooms McLean in Emotional Yorktown Reunion"
+  caption: "Slow Start Dooms McLean in Emotional Yorktown Reunion. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s girls’ varsity basketball team found its energy too late on Jan. 20, falling 45-34 to Yorktown in an emotional first meeting with the Highlanders’ former coach and her new team.

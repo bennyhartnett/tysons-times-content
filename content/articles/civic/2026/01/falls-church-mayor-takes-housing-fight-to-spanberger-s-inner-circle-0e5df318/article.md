@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Mayor Takes Housing Fight to Spanberger’s Inner Circle"
+  caption: "\"We asked Hardi about the nature of her service to Spanberger, who was inaugurated in Richmond, Saturday, Jan. 17 as Virginia's first woman Governor....\" Newly re-elected City of Falls Church Mayor Letty Hardi. Courtesy…"
+  credit: "Falls Church Independent"
 ---
 
 Falls Church Mayor Letty Hardi brought the Little City’s housing experience to Richmond as a policy co-chair on Gov. Abigail Spanberger’s transition team, joining roughly 35 specialists tasked with examining affordable housing across Virginia.

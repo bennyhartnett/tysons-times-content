@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Mark Sickles"
+  caption: "Del. Mark Sickles, D-Fairfax, smiles after explaining a conference committee report during the House session at the Capitol Saturday March 7 , 2020, in Richmond, Va. (AP Photo/Steve Helber)"
+  credit: "Del. Mark Sickles, D-Fairfax, smiles after explaining a conference committee re…"
 ---
 
 Voters in Virginia’s House District 17 headed to the polls Tuesday to choose between Democrat Garrett McGuire and Republican Chris Cardiff in a special election prompted by Del. Mark Sickles’ departure.

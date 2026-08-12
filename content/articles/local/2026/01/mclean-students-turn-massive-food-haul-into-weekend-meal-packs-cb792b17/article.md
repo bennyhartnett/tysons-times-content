@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Turn Massive Food Haul Into Weekend Meal Packs"
+  caption: "McLean Students Turn Massive Food Haul Into Weekend Meal Packs. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean McPantry volunteers gathered at Luther Jackson Middle School on Saturday, Jan. 17, to sort a large collection of donated food destined for students and families facing food insecurity.

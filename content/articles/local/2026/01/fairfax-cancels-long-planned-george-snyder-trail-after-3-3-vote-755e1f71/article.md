@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Cancels Long-Planned George Snyder Trail After 3-3 Vote"
+  caption: "Fairfax Cancels Long-Planned George Snyder Trail After 3-3 Vote. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax has canceled the nearly two-mile George Snyder Trail after the City Council deadlocked over accepting another $4.6 million for the project, ending plans that had appeared in the city’s Comprehensive Plan since 2012.

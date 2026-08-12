@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Bulova Couple Takes On Two Powerful New Roles in Virginia"
+  caption: "Bulova Couple Takes On Two Powerful New Roles in Virginia. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia’s government now includes two members of the Bulova family after David Bulova joined Gov. Abigail Spanberger’s cabinet and Gretchen Bulova took his former seat in the House of Delegates.
