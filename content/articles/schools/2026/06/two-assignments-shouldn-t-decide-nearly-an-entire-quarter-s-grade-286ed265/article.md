@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Two Assignments Shouldn’t Decide Nearly an Entire Quarter’s Grade"
+  caption: "Two Assignments Shouldn’t Decide Nearly an Entire Quarter’s Grade. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 In classes such as AP Language and Composition, students may reach the end of a quarter and discover that just two summative assignments determine most of their grade.

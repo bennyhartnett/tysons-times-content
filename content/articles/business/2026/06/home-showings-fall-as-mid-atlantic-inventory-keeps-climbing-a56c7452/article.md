@@ -11,9 +11,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Home Showings Fall as Mid-Atlantic Inventory Keeps Climbing"
+  caption: "Home Showings Fall as Mid-Atlantic Inventory Keeps Climbing. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Home showings across the Mid-Atlantic declined even as more properties reached the market during the week ending May 31, 2026.

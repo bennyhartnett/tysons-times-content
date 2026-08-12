@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Four Pop Heavyweights Take Strikingly Different Turns"
+  caption: "Four Pop Heavyweights Take Strikingly Different Turns. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Olivia Rodrigo, Charli xcx, Niall Horan and Ariana Grande deliver a mixed batch of recent releases, ranging from sharp social criticism to familiar pop that struggles to stand out.

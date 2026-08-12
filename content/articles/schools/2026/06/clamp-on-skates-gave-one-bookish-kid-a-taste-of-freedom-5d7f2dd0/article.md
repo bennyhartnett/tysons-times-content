@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Clamp-On Skates Gave One Bookish Kid a Taste of Freedom"
+  caption: "\"My home-grown friends and I had the metal clamp-on skates which attached to our shoes and adjusted with a skate key....\" Photo courtesy Click Americana."
+  credit: "Falls Church Independent"
 ---
 
 I was never the athletic type. During team selections, I usually landed near the end—just ahead of the shortest classmate and the child with thick glasses. If my mother had not pushed me outdoors, I would have happily spent the day reading, sleeping or eating.

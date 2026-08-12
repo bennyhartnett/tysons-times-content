@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A map showing road closures for the West Falls Summer Bash on Saturday, June 6, 2026. Several streets near the West Falls development are marked with red dashed lines to indicate…"
+  caption: "Weekend Events Will Close Several Falls Church Streets. Image from City of Falls Church News Releases."
+  credit: "City of Falls Church News Releases"
 ---
 
 Drivers in Falls Church should expect road closures and parking restrictions during two events on Saturday, June 6, and Sunday, June 7, 2026.

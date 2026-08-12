@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Prada Sequel Loses Some of the Original’s Cutting Edge"
+  caption: "Prada Sequel Loses Some of the Original’s Cutting Edge. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Nearly 20 years after “The Devil Wears Prada” became a hit, its sequel brought Miranda Priestly and the Runway Magazine staff back to theaters May 1. But while “The Devil Wears Prada 2” delivers lavish fashion, familiar humor and plenty of nostalgia, it does not always recapture the force of the 2006 original.

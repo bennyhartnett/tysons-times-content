@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Will Text Scam Alerts to Seniors as Fraud Surges"
+  caption: "Older man texting (photo by Vitaly Gariev/Unsplash)"
+  credit: "Older man texting (photo by Vitaly Gariev/Unsplash)"
 ---
 
 Fairfax County is developing a text-message alert service to help older residents recognize scams while avoiding a flood of notifications that could cause them to tune out.

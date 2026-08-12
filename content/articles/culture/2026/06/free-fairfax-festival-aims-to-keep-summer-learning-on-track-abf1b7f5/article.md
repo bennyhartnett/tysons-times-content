@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Free Fairfax Festival Aims to Keep Summer Learning on Track"
+  caption: "Free Fairfax Festival Aims to Keep Summer Learning on Track. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Fairfax Library Foundation will bring back its free Children’s Summer Reading Festival on Saturday, June 13, offering books, entertainment and hands-on activities intended to keep children reading during summer break.

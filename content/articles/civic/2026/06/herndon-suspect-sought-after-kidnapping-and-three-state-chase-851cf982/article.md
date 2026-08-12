@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Police lights"
+  caption: "File photo of police lights."
+  credit: "File photo of police lights."
 ---
 
 A 25-year-old Herndon man remains at large after allegedly kidnapping someone he knew, stealing that person’s car and leading police on a chase across Virginia, Washington, D.C., and Maryland.

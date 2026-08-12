@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Big Weekend Events Bring Music, Food and Pets to Tysons"
+  caption: "Five Big Weekend Events Bring Music, Food and Pets to Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 From a Greek festival packed with traditional food and dancing to a Beach Boys concert featuring John Stamos, the Tysons-area calendar is loaded with entertainment from Friday, June 5, through Sunday, June 7.
