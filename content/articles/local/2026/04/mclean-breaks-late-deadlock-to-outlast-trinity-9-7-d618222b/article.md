@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Breaks Late Deadlock to Outlast Trinity, 9-7"
+  caption: "McLean Breaks Late Deadlock to Outlast Trinity, 9-7. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s boys lacrosse team overcame a sluggish start and pulled away in the fourth quarter for a 9-7 victory over Trinity Christian School.

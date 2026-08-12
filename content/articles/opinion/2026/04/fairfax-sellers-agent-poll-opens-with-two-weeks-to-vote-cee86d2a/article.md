@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Sellers’ Agent Poll Opens With Two Weeks to Vote"
+  caption: "Fairfax Sellers’ Agent Poll Opens With Two Weeks to Vote. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County readers have two weeks to choose their favorite real estate professional for sellers in the Readers’ Choice Awards.

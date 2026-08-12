@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "student solves math problem"
+  caption: "Algebra 1 Enrollment Surges as FCPS Starts Math Skills Early. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is expanding access to Algebra 1 by teaching problem-solving, pattern recognition and early algebraic thinking from kindergarten through sixth grade.

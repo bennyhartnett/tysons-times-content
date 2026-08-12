@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Olivia Rodrigo’s Softer New Era Hits Millions in Hours"
+  caption: "Olivia Rodrigo’s Softer New Era Hits Millions in Hours. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After nearly three years of anticipation, Olivia Rodrigo opened a new musical chapter April 17 with “drop dead,” the first track from her album *you seem pretty sad for a girl so in love*.

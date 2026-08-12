@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Students Turn Climate Lessons Into Solar Action"
+  caption: "Fairfax Students Turn Climate Lessons Into Solar Action."
+  credit: "Jessica Reeder / Wikimedia Commons"
 ---
 
 Student advocates from Falls Church and McLean high schools are taking environmental concerns beyond the classroom, promoting solar energy and other changes across Fairfax County Public Schools.

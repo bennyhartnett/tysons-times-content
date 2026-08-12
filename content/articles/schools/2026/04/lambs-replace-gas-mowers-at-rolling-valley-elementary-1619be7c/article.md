@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students watch a lamb trim the grass at Rolling Valley Elementary."
+  caption: "Lambs Replace Gas Mowers at Rolling Valley Elementary. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Rolling Valley Elementary School turned its lawn care over to a flock of lambs during the finale of its Earth Week activities, giving students a firsthand look at an unusual approach to sustainability.

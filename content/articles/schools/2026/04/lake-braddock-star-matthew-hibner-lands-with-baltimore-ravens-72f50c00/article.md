@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Lake Braddock Star Matthew Hibner Lands With Baltimore Ravens"
+  caption: "Lake Braddock Star Matthew Hibner Lands With Baltimore Ravens. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Lake Braddock High School alumnus Matthew Hibner is headed to the NFL after the Baltimore Ravens selected him with the 33rd pick of the fourth round in this year’s draft.

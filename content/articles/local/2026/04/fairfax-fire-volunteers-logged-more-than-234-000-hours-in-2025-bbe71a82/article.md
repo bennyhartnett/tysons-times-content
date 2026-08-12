@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Fire Volunteers Logged More Than 234,000 Hours in 2025"
+  caption: "Fairfax Fire Volunteers Logged More Than 234,000 Hours in 2025. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Volunteers supporting the Fairfax County Fire and Rescue Department contributed more than 234,000 service hours in 2025, providing emergency staffing, disaster assistance, training support and public safety education across the county.

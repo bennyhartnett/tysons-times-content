@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Victim Advocates Earn Virginia’s Unsung Heroes Honors"
+  caption: "Virginia Attorney General Jay Jones with 2026 Unsung Heroes Award recipients (courtesy Office of Attorney General)"
+  credit: "Virginia Attorney General Jay Jones with 2026 Unsung Heroes Award recipients (c…"
 ---
 
 Two Fairfax County Police Department employees were among 19 people honored Friday at Virginia’s ninth annual Unsung Heroes Awards in Richmond.

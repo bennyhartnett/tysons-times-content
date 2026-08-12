@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Earns Top Recognition for Financial Transparency"
+  caption: "FCPS Earns Top Recognition for Financial Transparency."
+  credit: "ASBO International"
 ---
 
 Fairfax County Public Schools has received a Certificate of Excellence in Financial Reporting for its comprehensive annual financial report covering the fiscal year that ended June 30, 2025.
