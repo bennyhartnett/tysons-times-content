@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A parking lot, with a shopping mall and a skyscraper in the background in Tysons"
+  caption: "Overlooking a hedge into a parking lot, with a shopping mall and a skyscraper in the background in Tysons, Virginia. (WTOP/Scott Gelman)"
+  credit: "WTOP Fairfax County"
 ---
 
 The Fairfax County Board of Supervisors has asked county staff to assess the feasibility of pursuing a conference center in Tysons, beginning a review rather than approving a project.

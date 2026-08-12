@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "police officers stand around and have a conversation"
+  caption: "First responders in Fairfax County, Virginia, rescued a woman from a sinking car in late June, 2026."
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County first responders formed a human chain to rescue a woman trapped by her seat belt inside a car that was sinking in a Chantilly pond on Sunday, June 28.

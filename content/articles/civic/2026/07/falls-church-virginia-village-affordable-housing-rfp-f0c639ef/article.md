@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Seeks Team for Virginia Village Affordable-Housing Project"
+  caption: "Falls Church Seeks Team for Virginia Village Affordable-Housing Project. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Falls Church is seeking an owner, ground lessee or developer to help shape the future of Virginia Village, a city Economic Development Authority-owned housing property where the stated goal is to preserve and potentially expand access to affordable housing.

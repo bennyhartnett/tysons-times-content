@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "an old colonial era home"
+  caption: "President George Washington home at Mount Vernon in Virginia"
+  credit: "President George Washington home at Mount Vernon in Virginia"
 ---
 
 Mount Vernon will host its annual Independence Day celebration on July 4, 2026, highlighted by a naturalization ceremony welcoming 150 new U.S. citizens to the nation on the lawn in front of George Washington's mansion.

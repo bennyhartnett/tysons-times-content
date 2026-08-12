@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Civic Group Seeks Lower Income Limits in Housing RFP"
+  caption: "Falls Church Civic Group Seeks Lower Income Limits in Housing RFP. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Citizens for a Better City is asking the Falls Church City Council to revise a pending affordable-housing request for proposals so that it focuses more heavily on households with lower incomes.

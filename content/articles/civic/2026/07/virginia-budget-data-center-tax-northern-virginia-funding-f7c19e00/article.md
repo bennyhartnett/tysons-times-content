@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia’s $207 billion budget adds data-center tax, Northern Virginia funding"
+  caption: "Virginia’s $207 billion budget adds data-center tax, Northern Virginia funding. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia has enacted a $207 billion, two-year budget that creates a statewide electricity-consumption tax on data centers and directs money toward transit, schools, utility-bill relief and other priorities affecting Northern Virginia.

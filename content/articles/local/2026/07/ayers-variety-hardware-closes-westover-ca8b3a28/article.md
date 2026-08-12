@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for After Nearly 78 Years, Ayers Variety & Hardware Expected to Close"
+  caption: "After Nearly 78 Years, Ayers Variety & Hardware Expected to Close. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Ayers Variety & Hardware, a fixture on Washington Boulevard in Arlington's Westover neighborhood since 1948, is expected to close by the end of July when its lease expires, ending nearly 78 years of operation.

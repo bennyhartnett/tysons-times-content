@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Quilt artwork by Sheryl Sims depicting her Quaker ancestors"
+  caption: "Sheryl Sims creates quilt artworks depicting members of her Quaker family history."
+  credit: "Connection Newspapers"
 ---
 
 Woodlawn’s new exhibit, “Friends Gather Here,” examines an anti-slavery agricultural community formed there by Quaker abolitionists and free African Americans beginning in 1846. The exhibit opened June 27 and is scheduled to remain on view through Dec. 30.

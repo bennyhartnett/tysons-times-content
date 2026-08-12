@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Semiautomatic rifle and ammunition magazines seized by Herndon police"
+  caption: "A semiautomatic rifle and two ammunition magazines seized in Herndon illustrate the firearms covered by Virginia's contested restrictions."
+  credit: "Connection Newspapers"
 ---
 
 A Virginia judge has temporarily blocked restrictions on certain semi-automatic firearms and large-capacity magazines, preventing the law from taking effect as scheduled July 1.

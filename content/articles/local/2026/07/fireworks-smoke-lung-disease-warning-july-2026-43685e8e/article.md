@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Inova doctor warns fireworks smoke risks people with lung disease"
+  caption: "Inova doctor warns fireworks smoke risks people with lung disease. Image from WTOP Fairfax County."
+  credit: "MEHMET ESER/Middle East Images/AFP via Getty Images / WTOP Fairfax County"
 ---
 
 As Washington-area residents prepared for Independence Day celebrations on July 4, a Fairfax-based pulmonologist urged people with asthma, emphysema, and other lung conditions to take precautions against fireworks smoke.
