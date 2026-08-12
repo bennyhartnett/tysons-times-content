@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "man working out"
+  caption: "An Alexandria man is facing nearly 200 criminal charges connected with stealing from cars parked at fitness centers across Fairfax County and neighboring jurisdictions."
+  credit: "WTOP Fairfax County"
 ---
 
 An Alexandria man faces nearly 200 criminal charges across Fairfax County and Falls Church after police accused him of stealing wallets, credit cards and other belongings from unlocked vehicles outside Northern Virginia fitness centers.

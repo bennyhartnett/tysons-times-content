@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church police investigate suspicious death at Hillwood Avenue hotel"
+  caption: "Falls Church police investigate suspicious death at Hillwood Avenue hotel. Image from City of Falls Church News Releases."
+  credit: "City of Falls Church News Releases"
 ---
 
 Falls Church police are investigating the suspicious death of a 78-year-old woman found inside a hotel room at 205 Hillwood Ave.

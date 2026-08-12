@@ -12,9 +12,9 @@ tags:
   - "Capital One Center"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Capital One Center's Outdoor Arts Festival Returns to Tysons This September"
+  caption: "Capital One Center's Outdoor Arts Festival Returns to Tysons This September. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 Tysons will transform into a creative hub this fall when the Celebration of the Arts returns to Capital One Center for its second year.

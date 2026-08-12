@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax City Hall"
+  caption: "Fairfax City Hall (staff photo by Mary Stachyra Lopez)"
+  credit: "Fairfax City Hall (staff photo by Mary Stachyra Lopez)"
 ---
 
 Fairfax City's council voted unanimously on July 14 to ask a circuit court to place a sales tax referendum on the November 3 ballot, seeking voter authorization for a retail sales tax increase of up to 1%.

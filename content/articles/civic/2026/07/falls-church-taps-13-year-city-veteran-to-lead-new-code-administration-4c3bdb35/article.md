@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Taps 13-Year City Veteran to Lead New Code Administration"
+  caption: "Falls Church Taps 13-Year City Veteran to Lead New Code Administration. Image from City of Falls Church News Releases."
+  credit: "City of Falls Church News Releases"
 ---
 
 Falls Church has promoted one of its own to head the city's newly formed Department of Code Administration.

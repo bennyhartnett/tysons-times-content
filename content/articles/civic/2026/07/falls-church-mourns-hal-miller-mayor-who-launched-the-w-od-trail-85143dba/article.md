@@ -12,9 +12,9 @@ tags:
   - "local history"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Mourns Hal Miller, Mayor Who Launched the W&OD Trail"
+  caption: "Falls Church Mourns Hal Miller, Mayor Who Launched the W&OD Trail. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Harold "Hal" Lister Miller, the Falls Church mayor who cut the ribbon on the first section of the Washington and Old Dominion Railroad Bike Trail, died July 15, 2026, at Spring Arbor of Fredericksburg. He was 96.

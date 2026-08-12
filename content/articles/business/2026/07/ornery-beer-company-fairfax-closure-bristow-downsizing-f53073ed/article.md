@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Ornery Beer Company in Fairfax City with Girl Scouts selling cookies outside"
+  caption: "Ornery Beer Company in Fairfax City with Girl Scouts selling cookies outside (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Ornery Beer Company announced that it would permanently close its Old Town Fairfax brewpub after nearly eight years while reducing the size of its brewing operation in Bristow.

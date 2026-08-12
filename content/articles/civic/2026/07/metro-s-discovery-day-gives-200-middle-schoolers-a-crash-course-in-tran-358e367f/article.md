@@ -12,9 +12,9 @@ tags:
   - "careers"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Middle school students participating in Metro Discovery Day"
+  caption: "Students explore transit careers and Metro operations during the agency's Discovery Day program."
+  credit: "WMATA"
 ---
 
 Metro opened its doors this week to middle school students from across the D.C. region, offering a rare behind-the-scenes look at how America's Metro System keeps hundreds of thousands of daily riders moving.

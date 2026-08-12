@@ -12,9 +12,9 @@ tags:
   - "traffic safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Driver Mistakes Gas for Brake, Slams Into Fairfax Farmers' Market Stand"
+  caption: "Driver Mistakes Gas for Brake, Slams Into Fairfax Farmers' Market Stand. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 A Saturday morning trip to the Fairfax Farmers' Market turned chaotic when an elderly driver lost control of her vehicle and plowed into a vendor stand, injuring a woman and a child.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Link Logistics Reveals Massive 5-Acre Park Plan for Tysons' The Mile Development"
+  caption: "Link Logistics Reveals Massive 5-Acre Park Plan for Tysons' The Mile Development. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 Link Logistics has unveiled its final design for an ambitious public park at The Mile in Tysons, featuring extensive recreational amenities for the growing community.
