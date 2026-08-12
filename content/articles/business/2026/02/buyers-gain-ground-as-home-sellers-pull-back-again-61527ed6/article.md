@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Buyers Gain Ground as Home Sellers Pull Back Again"
+  caption: "Buyers Gain Ground as Home Sellers Pull Back Again. Openly licensed thematic image selected for this article."
+  credit: "Rick Obst / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Home sellers remained cautious during the week ending Feb. 22, 2026, as new listings across the Mid-Atlantic fell 4.1% from the same period last year.

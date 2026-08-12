@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Student Art Could Transform a Metro Bus for Earth Day"
+  caption: "Student Art Could Transform a Metro Bus for Earth Day. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Students in kindergarten through sixth grade across Washington, D.C., Maryland and Virginia can submit original handmade artwork for a chance to have it displayed on a Metro bus wrap this Earth Day.

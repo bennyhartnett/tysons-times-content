@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for NextStop Pulls Audiences Into the Birth of Two Bold New Plays"
+  caption: "NextStop Pulls Audiences Into the Birth of Two Bold New Plays. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 NextStop Theatre will give audiences an early look at two developing plays this spring through NextDraft, a new series built around weeklong workshops, public readings and structured feedback sessions.

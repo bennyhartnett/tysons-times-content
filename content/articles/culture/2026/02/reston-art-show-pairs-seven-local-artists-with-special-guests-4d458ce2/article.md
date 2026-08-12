@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Art Show Pairs Seven Local Artists With Special Guests"
+  caption: "Reston Art Show Pairs Seven Local Artists With Special Guests. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Reston Art Gallery and Studios will bring together seven member artists and their chosen guests for its ninth annual Invitational exhibition, featuring contemporary works in a broad mix of styles and materials.

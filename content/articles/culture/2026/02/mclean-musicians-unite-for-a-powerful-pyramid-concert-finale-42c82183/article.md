@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Musicians Unite for a Powerful Pyramid Concert Finale"
+  caption: "McLean Musicians Unite for a Powerful Pyramid Concert Finale. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Families and students packed McLean High School’s auditorium Thursday night as musicians from elementary through high school demonstrated their growing skills at the annual Pyramid Concert.

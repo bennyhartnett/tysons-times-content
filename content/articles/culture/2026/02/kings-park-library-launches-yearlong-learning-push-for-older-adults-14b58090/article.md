@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Stick figure running up a ballpoint pen with icons of a clock, a lightbulb with a brain and gears on sticky notes under the pen."
+  caption: "Kings Park Library Launches Yearlong Learning Push for Older Adults. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Kings Park Library is expanding opportunities for older adults in 2026 with a yearlong series shaped by requests for more programming aimed at seniors and retirees.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a sign on a blocked road"
+  caption: "A Road Closed Ahead sign blocks off a street in a Centreville neighborhood where a home exploded after a gas leak."
+  credit: "A Road Closed Ahead sign blocks off a street in a Centreville neighborhood wher…"
 ---
 
 Families are returning to a Centreville neighborhood less than two weeks after a gas leak caused a house on Quail Pond Court to explode. Among them is a new homeowner moving in within sight of the damaged property.

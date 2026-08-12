@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna’s Café Renaissance Marks 30 Years of Old-World Dining"
+  caption: "Vienna’s Café Renaissance Marks 30 Years of Old-World Dining. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Café Renaissance has served classical European cuisine in downtown Vienna since owner Saeed Abtahi opened the restaurant in 1994.

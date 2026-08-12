@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Braddock School Board Vacancy Heads to Two-Candidate Vote"
+  caption: "Braddock School Board Vacancy Heads to Two-Candidate Vote. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Braddock District voters will choose between Tom F. Dannan and Saundra T. Davis in a March 3 special election for the Fairfax County School Board.

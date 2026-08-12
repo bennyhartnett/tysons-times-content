@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "March: Women Who Shaped America - Graphic depiction of woman in starry dress walking with american flag cape and fist raised"
+  caption: "Women Who Shaped America Take Center Stage at Fairfax Libraries. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Fairfax County Public Library is marking Women’s History Month with events celebrating women who influenced the county, the nation and the world during America’s 250-year history.
