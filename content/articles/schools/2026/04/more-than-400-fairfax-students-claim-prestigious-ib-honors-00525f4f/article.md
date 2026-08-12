@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Generic news release graphic - blue"
+  caption: "More Than 400 Fairfax Students Claim Prestigious IB Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 More than 400 Fairfax County Public Schools students earned International Baccalaureate credentials in 2025, completing demanding academic or career-focused programs at schools across the county.

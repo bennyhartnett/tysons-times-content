@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Membership-Based Vet Clinic Brings Concierge Care to McLean"
+  caption: "Membership-Based Vet Clinic Brings Concierge Care to McLean. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Small Door Veterinary is offering McLean-area pet owners a membership-driven alternative to the traditional veterinary visit, combining longer appointments, digital services and round-the-clock telehealth access.

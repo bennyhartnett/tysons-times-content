@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS Superintendent Dr. Michelle Reid poses outside with a large group of participants of the Annandale High School Special Olympics Feet Meet."
+  caption: "Fairfax Students Turn Spring Into a Season of Standout Achievements. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools students earned major honors in writing, music, science and journalism during a busy spring week that also featured community service, inclusive athletics, cultural celebrations and conversations about the school division’s future.

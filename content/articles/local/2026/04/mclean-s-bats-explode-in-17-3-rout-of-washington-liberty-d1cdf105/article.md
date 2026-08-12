@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Bats Explode in 17-3 Rout of Washington-Liberty"
+  caption: "McLean’s Bats Explode in 17-3 Rout of Washington-Liberty. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Two days after needing extra innings to edge Washington-Liberty 5-4, McLean left no room for another close finish. The Highlanders erupted early and piled on late for a 17-3 victory at Quincy Park on April 15.

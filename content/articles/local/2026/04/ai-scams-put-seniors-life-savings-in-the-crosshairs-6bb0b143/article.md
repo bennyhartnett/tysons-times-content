@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for AI Scams Put Seniors’ Life Savings in the Crosshairs"
+  caption: "AI Scams Put Seniors’ Life Savings in the Crosshairs. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A convincing phone call or fraudulent email can now threaten savings that took decades to build. Seniors are particularly attractive targets because scammers often assume they have retirement funds, 401(k) accounts and other accumulated assets.

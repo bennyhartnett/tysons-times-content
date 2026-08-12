@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for The Nields Bring a Creative Surge Back to Vienna"
+  caption: "Photo Credit: Chris Sikich"
+  credit: "TysonsToday"
 ---
 
 The Nields will return to Jammin Java in Vienna on April 24 with more than three decades of music behind them and a growing collection of new work ahead.

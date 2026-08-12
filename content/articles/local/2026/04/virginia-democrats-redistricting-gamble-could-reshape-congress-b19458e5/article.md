@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Democrats’ Redistricting Gamble Could Reshape Congress"
+  caption: "Virginia Democrats’ Redistricting Gamble Could Reshape Congress. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia voters will decide in an April 21 special election whether the General Assembly may temporarily redraw the state’s congressional districts—a move projected to transform the current 6-5 partisan split into a 10-1 Democratic advantage.

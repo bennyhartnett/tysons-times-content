@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Orthodontics Expands Reach With Six DMV Offices"
+  caption: "Northern Virginia Orthodontics Expands Reach With Six DMV Offices. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Northern Virginia Orthodontics operates six locations across the DMV and says it has completed more than 35,000 smile transformations, including over 30,000 Invisalign treatments ranging from mild to complex cases.

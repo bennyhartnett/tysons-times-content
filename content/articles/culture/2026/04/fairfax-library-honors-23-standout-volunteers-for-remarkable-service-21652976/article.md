@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Library Honors 23 Standout Volunteers for Remarkable Service"
+  caption: "Fairfax Library Honors 23 Standout Volunteers for Remarkable Service."
+  credit: "Fairfax County Public Library"
 ---
 
 Fairfax County Public Library honored 23 volunteers for their longevity and exceptional service during the 2026 Star Volunteer Awards.
