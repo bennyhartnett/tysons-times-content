@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Police Set One-Day Drop-Off for Unwanted Medications"
+  caption: "Vienna Police Set One-Day Drop-Off for Unwanted Medications."
+  credit: "Patch"
 ---
 
 Vienna residents can safely and anonymously dispose of expired, unused or unwanted medications during the 30th National Drug Take Back Day on Saturday, April 25.

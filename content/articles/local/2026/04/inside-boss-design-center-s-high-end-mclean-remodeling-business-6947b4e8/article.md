@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Inside Boss Design Center’s High-End McLean Remodeling Business"
+  caption: "Inside Boss Design Center’s High-End McLean Remodeling Business. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Boss Design Center has grown from a neighborhood contractor into a full-service design-build company specializing in luxury renovations across Northern Virginia and the Washington area.

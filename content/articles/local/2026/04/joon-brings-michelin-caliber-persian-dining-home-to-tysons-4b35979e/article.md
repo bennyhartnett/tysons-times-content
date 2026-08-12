@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Joon Brings Michelin-Caliber Persian Dining Home to Tysons"
+  caption: "Joon Brings Michelin-Caliber Persian Dining Home to Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Joon has turned a 9,700-square-foot space at Fairfax Square into an ambitious showcase for Persian food and hospitality. Located at 8045 Leesburg Pike in Tysons, near McLean, the restaurant combines traditional Iranian recipes, live-fire cooking and an elaborate dining room with seating for 240 guests.

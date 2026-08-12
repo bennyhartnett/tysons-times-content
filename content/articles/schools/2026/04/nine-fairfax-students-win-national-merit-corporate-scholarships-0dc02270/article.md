@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Nine Fairfax Students Win National Merit Corporate Scholarships"
+  caption: "Nine Fairfax Students Win National Merit Corporate Scholarships."
+  credit: "The Potomac School"
 ---
 
 Nine Fairfax County Public Schools students are among more than 700 National Merit finalists selected nationwide for corporate-sponsored scholarships in 2026.

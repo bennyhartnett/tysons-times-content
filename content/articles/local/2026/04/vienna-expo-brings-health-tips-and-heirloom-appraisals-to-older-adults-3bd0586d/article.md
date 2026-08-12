@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Expo Brings Health Tips and Heirloom Appraisals to Older Adults"
+  caption: "Vienna Expo Brings Health Tips and Heirloom Appraisals to Older Adults."
+  credit: "WJLA"
 ---
 
 Vienna residents ages 55 and older can explore health resources and have family heirlooms evaluated during the town’s Wellness and Safety Expo on Friday, May 8.

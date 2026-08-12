@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A group photo taken at the School Board dais."
+  caption: "12 Fairfax County Teachers Secure Prestigious National Credential. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Twelve Fairfax County Public Schools teachers have earned or renewed National Board Certification, a nationally recognized credential reflecting rigorous standards for teaching.

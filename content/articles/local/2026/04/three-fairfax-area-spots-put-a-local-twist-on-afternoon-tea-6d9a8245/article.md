@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Three Fairfax-Area Spots Put a Local Twist on Afternoon Tea"
+  caption: "Three Fairfax-Area Spots Put a Local Twist on Afternoon Tea. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Afternoon tea offers a leisurely break at several venues across Northern Virginia’s Fairfax area, ranging from a cozy Vienna café to an upscale Tysons hotel.

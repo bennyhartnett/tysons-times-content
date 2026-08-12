@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A teacher watches a student work in a garden."
+  caption: "From Alaska Oil Fields to an Alexandria Classroom. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Josh McFarland returned to West Potomac High School with an unusual career change and a hands-on approach to helping students build confidence.
