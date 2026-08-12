@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia’s Outdoor Movie Nights Return for Summer 2026"
+  caption: "Northern Virginia’s Outdoor Movie Nights Return for Summer 2026. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Outdoor movie season is returning to Northern Virginia with family-friendly screenings planned in Vienna, Fairfax, Reston and Ashburn throughout summer 2026. Families can bring blankets or folding chairs and settle in for films under the stars.

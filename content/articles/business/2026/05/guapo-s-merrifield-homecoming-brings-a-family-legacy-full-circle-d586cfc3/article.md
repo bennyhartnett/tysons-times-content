@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Guapo’s Merrifield Homecoming Brings a Family Legacy Full Circle"
+  caption: "Guapo’s Merrifield Homecoming Brings a Family Legacy Full Circle. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Guapo’s Cocina & Bar returned to the community where its founding family began life in the United States when it opened in Merrifield in December 2023.

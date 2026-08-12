@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Kathy Tracey Built a Real Estate Career Around Reston’s Growth"
+  caption: "Kathy Tracey Built a Real Estate Career Around Reston’s Growth. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Kathy Tracey has spent nearly three decades watching Reston and Herndon evolve—and building a real estate business around her experience in those communities.

@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "new hero image"
+  caption: "Fairfax Schools Tighten Phone Ban From Bell to Bell. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County students will face a stricter ban on cell phones and smart devices during the 2026-27 school year, including a new prohibition on high school phone use at lunch.

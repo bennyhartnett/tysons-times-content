@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Jason Aldean Turns Personal on Expansive ‘Songs About Us’"
+  caption: "Jason Aldean Turns Personal on Expansive ‘Songs About Us’. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Jason Aldean balances arena-ready country rock with some of his most personal material on *Songs About Us*, a 20-track album set for release April 24.

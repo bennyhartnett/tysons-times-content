@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Koe Wetzel Reveals a More Vulnerable Side on ‘The Night Champion’"
+  caption: "Koe Wetzel Reveals a More Vulnerable Side on ‘The Night Champion’. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Koe Wetzel is pushing beyond his trademark rowdy sound as he prepares to release *The Night Champion* on June 12.

@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Crew Misses State Final, Finishes Eighth"
+  caption: "McLean Crew Misses State Final, Finishes Eighth. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean boys crew finished eighth among 12 boats in the first varsity eight at the Virginia Scholastic Rowing Championship on May 9 at the Occoquan Reservoir.

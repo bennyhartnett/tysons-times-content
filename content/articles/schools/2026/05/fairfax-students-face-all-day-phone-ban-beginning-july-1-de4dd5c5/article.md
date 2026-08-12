@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Students Face All-Day Phone Ban Beginning July 1"
+  caption: "Fairfax Students Face All-Day Phone Ban Beginning July 1."
+  credit: "TIME"
 ---
 
 Fairfax County Public Schools students must keep phones and other smart devices turned off and personally stored throughout the school day beginning July 1, 2026.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Inside the Modern Dermatology Practice Dr. Lily Built in McLean"
+  caption: "Inside the Modern Dermatology Practice Dr. Lily Built in McLean. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Lily Talakoub has spent more than two decades combining medical dermatology, cosmetic procedures and physician education. In McLean, that experience anchors a practice designed to treat everything from chronic skin conditions to patients seeking subtle aesthetic enhancements.

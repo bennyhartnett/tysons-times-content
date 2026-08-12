@@ -12,9 +12,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Faces $28 Million Gap as Phone-Free Rule Nears"
+  caption: "FCPS Faces $28 Million Gap as Phone-Free Rule Nears."
+  credit: "FFXnow"
 ---
 
 Fairfax County Public Schools is confronting a $28 million budget gap while preparing to prohibit student cellphone use throughout the entire school day beginning July 1. The school division’s May 13 update also celebrated 31 National Merit Scholarship winners and two students advancing to the Scripps National Spelling Bee.
