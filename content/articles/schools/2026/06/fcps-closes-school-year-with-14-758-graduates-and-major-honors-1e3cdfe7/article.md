@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students jump in the hallway at Crossfield Elementary School"
+  caption: "FCPS Closes School Year With 14,758 Graduates and Major Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools ended the 2025-26 school year celebrating 14,758 graduates and a series of academic, athletic and artistic achievements across the division.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria’s E-Bike Boom Brings New Scrutiny to Speed and Safety"
+  caption: "Alexandria’s E-Bike Boom Brings New Scrutiny to Speed and Safety. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Electric bicycles are becoming a common sight on Alexandria’s streets and trails, offering riders an easier commute while raising concerns about speed and responsible use.

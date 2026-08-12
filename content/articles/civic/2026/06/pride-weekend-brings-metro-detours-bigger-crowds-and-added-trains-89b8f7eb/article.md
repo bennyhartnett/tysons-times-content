@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Pride Weekend Brings Metro Detours, Bigger Crowds and Added Trains"
+  caption: "Pride Weekend Brings Metro Detours, Bigger Crowds and Added Trains."
+  credit: "WUSA9"
 ---
 
 Metro riders should prepare for bus detours, crowded stations and schedule changes from Friday, June 19, through Sunday, June 21, as the Juneteenth holiday and Capital Pride events reshape travel across the region.

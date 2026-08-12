@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Opens Summer With Key Surveys, Free Meals and Student Resources"
+  caption: "FCPS Opens Summer With Key Surveys, Free Meals and Student Resources."
+  credit: "WTOP"
 ---
 
 Fairfax County Public Schools is beginning summer with new learning and wellness resources, opportunities for families to shape instructional decisions, and a slate of student and staff achievements.

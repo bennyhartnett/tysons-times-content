@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Faster E-Bikes Raise Safety Concerns on Fairfax Trails"
+  caption: "Faster E-Bikes Raise Safety Concerns on Fairfax Trails."
+  credit: "Fairfax County Bicycle Guide"
 ---
 
 The growing number of e-bikes on Fairfax County roads and trails is prompting renewed warnings about speed, yielding and responsible riding.

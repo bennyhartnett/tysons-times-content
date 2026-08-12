@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria’s Juneteenth Celebration Confronts a Painful Past"
+  caption: "Alexandria’s Juneteenth Celebration Confronts a Painful Past. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria will mark Juneteenth with ceremonies, concerts, museum programs and a community festival connecting the celebration of freedom to the city’s prominent role in the domestic slave trade.

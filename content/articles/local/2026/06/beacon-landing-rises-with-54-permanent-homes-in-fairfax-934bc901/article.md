@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Beacon Landing Rises With 54 Permanent Homes in Fairfax"
+  caption: "Beacon Landing Rises With 54 Permanent Homes in Fairfax. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A five-story housing development designed for people with disabilities who have experienced chronic homelessness is taking shape in Fairfax City, with organizers hoping to welcome residents by the holidays.

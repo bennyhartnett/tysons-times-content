@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for George Mason Coaches Head to Fairfax for Free Fan Event"
+  caption: "George Mason Coaches Head to Fairfax for Free Fan Event. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 George Mason University sports fans will get a chance to meet the school’s coaches and athletics leaders during a free community event in downtown Fairfax.

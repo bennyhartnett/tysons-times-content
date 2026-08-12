@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Teachers wish students a good summer."
+  caption: "FCPS Launches Summer Resources as Key Feedback Deadlines Loom. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools ended the 2025-26 school year with new summer resources, approaching public-feedback deadlines, student achievements and expanded access to meals and mental health services.
