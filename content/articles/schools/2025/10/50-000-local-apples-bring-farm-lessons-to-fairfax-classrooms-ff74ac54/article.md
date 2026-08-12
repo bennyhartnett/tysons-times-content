@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A group of children and adults eat apples outdoors"
+  caption: "50,000 Local Apples Bring Farm Lessons to Fairfax Classrooms. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A chorus of crunches replaced the usual classroom sounds at Lynbrook Elementary School as fourth graders marked Virginia Farm-to-School Week with local apples and a firsthand lesson in how food reaches their trays.

@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "fcps cares recognition at Cunningham Park Elementary School"
+  caption: "Officer’s Lifesaving Actions Lead October FCPS Honors. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 A school safety officer whose rapid responses may have saved two lives led Fairfax County Public Schools’ employee recognitions for October 2025.

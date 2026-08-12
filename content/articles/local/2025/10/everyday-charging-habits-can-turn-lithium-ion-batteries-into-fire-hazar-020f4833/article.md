@@ -11,10 +11,10 @@ tags:
   - "public safety"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Everyday Charging Habits Can Turn Lithium-Ion Batteries Into Fire Hazards"
+  caption: "Everyday Charging Habits Can Turn Lithium-Ion Batteries Into Fire Hazards. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Lithium-ion batteries power many household devices, but damaged batteries and unsafe charging practices can cause them to overheat, catch fire or explode.

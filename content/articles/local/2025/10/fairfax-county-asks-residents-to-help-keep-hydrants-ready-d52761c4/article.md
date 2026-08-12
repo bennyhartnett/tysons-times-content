@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax County Asks Residents to Help Keep Hydrants Ready"
+  caption: "Fairfax County Asks Residents to Help Keep Hydrants Ready. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fairfax County Fire and Rescue has launched an updated Adopt A Hydrant program, asking residents to help keep neighborhood hydrants visible and accessible during emergencies.

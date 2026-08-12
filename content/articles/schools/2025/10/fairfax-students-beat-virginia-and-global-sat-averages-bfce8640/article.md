@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Students Beat Virginia and Global SAT Averages"
+  caption: "Fairfax Students Beat Virginia and Global SAT Averages. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools’ Class of 2025 earned an average SAT score of 1183, outperforming Virginia’s average of 1112 and the global average of 1029.

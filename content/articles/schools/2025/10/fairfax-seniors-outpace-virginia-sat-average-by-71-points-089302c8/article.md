@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Seniors Outpace Virginia SAT Average by 71 Points"
+  caption: "Fairfax Seniors Outpace Virginia SAT Average by 71 Points. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools seniors in the Class of 2025 earned an average SAT score of 1183, beating Virginia’s average by 71 points and the global average by 154 points.

@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Group shot of Rebecca Fenton receiving Harbor Freight award."
+  caption: "Fairfax Students Beat SAT Benchmarks as Schools Launch New Programs. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools’ Class of 2025 outperformed both Virginia and global averages on the SAT while posting higher scores than the previous graduating class.

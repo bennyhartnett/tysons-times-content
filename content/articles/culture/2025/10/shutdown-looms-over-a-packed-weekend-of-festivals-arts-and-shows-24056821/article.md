@@ -12,10 +12,10 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Shutdown Looms Over a Packed Weekend of Festivals, Arts and Shows"
+  caption: "Grammy Award-winning singer Joss Stone brings her Less is More tour to Strathmore, Oct. 9! Courtesy Strathmore."
+  credit: "Falls Church Independent"
 ---
 
 A federal government shutdown could limit access to some Smithsonian exhibitions after Saturday, Oct. 11, but the Washington area still has a crowded calendar of festivals, concerts, theater, art and family activities through the holiday weekend.

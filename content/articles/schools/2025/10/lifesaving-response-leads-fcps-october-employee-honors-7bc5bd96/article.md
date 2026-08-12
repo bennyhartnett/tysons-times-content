@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "fcps cares informal recognition at Haycock Elementary School"
+  caption: "Lifesaving Response Leads FCPS’ October Employee Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Two emergency responses that may have saved lives earned Officer Dani Khalife one of Fairfax County Public Schools’ top employee recognitions for October 2025.

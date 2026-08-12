@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Students in a classroom raise their hands"
+  caption: "Fairfax Students Beat SAT Averages as Major School Updates Arrive. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County students in the Class of 2025 outperformed both Virginia and worldwide averages on the SAT, one of several developments announced for local families this week.
