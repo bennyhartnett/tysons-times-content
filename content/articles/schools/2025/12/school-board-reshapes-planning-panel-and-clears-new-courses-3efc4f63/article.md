@@ -11,10 +11,10 @@ tags:
   - "development"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for School Board Reshapes Planning Panel and Clears New Courses"
+  caption: "School Board Reshapes Planning Panel and Clears New Courses. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 New secondary courses, legislative priorities and a major committee restructuring won approval during a Dec. 4, 2025, School Board meeting that continued past midnight.

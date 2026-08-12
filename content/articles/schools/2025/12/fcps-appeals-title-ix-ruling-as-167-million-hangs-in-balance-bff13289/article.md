@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for FCPS Appeals Title IX Ruling as $167 Million Hangs in Balance"
+  caption: "FCPS Appeals Title IX Ruling as $167 Million Hangs in Balance. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is pressing ahead with a federal appeal as the division faces the potential loss of up to $167 million over its bathroom and locker room policies for transgender and gender-expansive students.

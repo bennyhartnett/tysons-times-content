@@ -12,10 +12,10 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid with elementary school age students in front of a bus."
+  caption: "Snow Response, Student Triumphs Mark a Packed Week Across Fairfax Schools. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools entered December with winter weather, concerts, community gatherings, championship celebrations and major discussions about budgets and academic standards.

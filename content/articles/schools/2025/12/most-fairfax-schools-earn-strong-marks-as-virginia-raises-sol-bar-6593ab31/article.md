@@ -12,10 +12,10 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Students pose laying on a colorful carpet"
+  caption: "Most Fairfax Schools Earn Strong Marks as Virginia Raises SOL Bar. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Most Fairfax County Public Schools were rated “distinguished” or “on track” during the first year of Virginia’s School Performance and Support Framework. Every FCPS school remains fully accredited despite the state’s transition to a model that provides less flexibility in measuring student growth.

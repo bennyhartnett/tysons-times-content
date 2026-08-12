@@ -12,10 +12,10 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid with students at West Potomac Academy."
+  caption: "Snow Response, Budget Stakes and Student Wins Shape Busy FCPS Week. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered December with winter weather, concerts, championship celebrations and major discussions about budgets and academic standards.

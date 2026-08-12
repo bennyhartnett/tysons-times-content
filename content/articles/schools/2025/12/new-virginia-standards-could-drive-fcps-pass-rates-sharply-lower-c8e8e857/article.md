@@ -12,10 +12,10 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for New Virginia Standards Could Drive FCPS Pass Rates Sharply Lower"
+  caption: "New Virginia Standards Could Drive FCPS Pass Rates Sharply Lower. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Most Fairfax County Public Schools earned “distinguished” or “on track” ratings during the first year of Virginia’s School Performance and Support Framework, and every FCPS school remains fully accredited.

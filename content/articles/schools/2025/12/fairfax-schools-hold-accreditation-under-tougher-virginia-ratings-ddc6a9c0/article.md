@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Schools Hold Accreditation Under Tougher Virginia Ratings"
+  caption: "Fairfax Schools Hold Accreditation Under Tougher Virginia Ratings. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Every Fairfax County public school remains fully accredited under Virginia’s new School Performance and Support Framework, while most earned ratings of “distinguished” or “on track.”

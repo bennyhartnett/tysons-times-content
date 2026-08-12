@@ -11,10 +11,10 @@ tags:
   - "public safety"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for When Holiday Perfection Collides With Messy Reality"
+  caption: "\"Expectations in the sense of hope can motivate us. But taken too far, these predictions about the future can leave us unmoored....\" Courtesy London Mums."
+  credit: "Falls Church Independent"
 ---
 
 A child’s first encounter with snow can expose the distance between expectation and reality in seconds.

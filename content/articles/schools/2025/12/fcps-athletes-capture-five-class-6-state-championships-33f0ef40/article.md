@@ -11,10 +11,10 @@ tags:
   - "springfield"
   - "sports"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lake Braddock Secondary School Boys Cross Country team."
+  caption: "FCPS Athletes Capture Five Class 6 State Championships. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools athletes closed the fall 2025 season with five Virginia High School League Class 6 championships and five state runner-up finishes.

@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "School Board celebrates Inclusive Schools Week 2025"
+  caption: "Fairfax School Board Reshapes Planning Panel, Approves New Courses. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board approved course changes, adopted its 2026 legislative priorities and reorganized part of its facilities-planning structure during a regular meeting that stretched past midnight on Dec. 4, 2025.
