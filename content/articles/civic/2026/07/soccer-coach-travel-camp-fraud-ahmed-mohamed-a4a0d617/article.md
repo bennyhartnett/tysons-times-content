@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County police vehicle"
+  caption: "Fairfax County police vehicle. (WTOP/Dave Dildine)"
+  credit: "Fairfax County police vehicle. (WTOP/Dave Dildine)"
 ---
 
 A Fairfax County soccer coach was arrested in late June on charges that he defrauded families out of approximately $70,000 by collecting payments for a promised travel soccer camp in Italy that authorities say never took place.

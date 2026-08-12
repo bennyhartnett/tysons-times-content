@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Julie and Kaveh Safa inside The Cellar on Seneca restaurant"
+  caption: "Julie and Kaveh Safa prepare to open their wine-focused restaurant in Great Falls."
+  credit: "Connection Newspapers"
 ---
 
 Julie and Kaveh Safa are preparing to open The Cellar on Seneca, a wine-focused restaurant taking over the former BRX American Bistro space in Great Falls.

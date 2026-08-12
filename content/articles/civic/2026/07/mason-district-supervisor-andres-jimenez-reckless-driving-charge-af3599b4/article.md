@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County Mason District Supervisor Andres Jimenez"
+  caption: "Andres Jimenez represents the Mason District on the Fairfax County Board of Supervisors. (Courtesy Andres Jimenez)"
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County Mason District Supervisor Andres Jimenez was charged with reckless driving in connection with a speeding ticket issued in May, according to court records cited in the supplied reporting.

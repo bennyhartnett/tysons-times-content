@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dominion public-sector electricity accounts see 24.9% rate increase"
+  caption: "Dominion public-sector electricity accounts see 24.9% rate increase. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Government and municipal institutional accounts participating in a statewide electricity-purchasing group saw an overall 24.9% rate increase take effect July 1 in Dominion Energy territory, adding costs for public entities that include local governments and school divisions.

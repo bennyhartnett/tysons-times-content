@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "drones on table"
+  caption: "The Drone as First Responder, or DFR, launched within Fairfax County in early 2026."
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County police are expanding their use of artificial intelligence tools for emergency response, combining AI-equipped body cameras with an expanding drone network.

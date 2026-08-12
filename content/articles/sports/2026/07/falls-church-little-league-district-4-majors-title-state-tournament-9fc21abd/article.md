@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Little League wins District 4 title, advances to state tournament"
+  caption: "Falls Church Little League wins District 4 title, advances to state tournament. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 The Falls Church Kiwanis Little League Majors All Stars White Team won the 2026 Virginia Little League District 4 Majors Championship, defeating McLean American 8-4 at Westgate Field.

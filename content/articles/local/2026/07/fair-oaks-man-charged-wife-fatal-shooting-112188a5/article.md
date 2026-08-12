@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "homes in neighborhood with police tape"
+  caption: "The domestic shooting happened in the 12000 block of Washington Brice Road in the Fair Oaks neighborhood, according to Fairfax County police."
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County police charged a 64-year-old Fair Oaks man with second-degree murder after his wife was found fatally shot inside a home late July 12.

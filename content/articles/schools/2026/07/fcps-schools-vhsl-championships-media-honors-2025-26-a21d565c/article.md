@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Group photo of Chantilly High School's League of Legends team holding the championship trophy and medals."
+  caption: "FCPS schools collect VHSL championships and media honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools reported four Class 6 Virginia High School League team championships and 11 championship entries during the 2025-26 school year, along with five team runner-up finishes and nine runner-up entries.

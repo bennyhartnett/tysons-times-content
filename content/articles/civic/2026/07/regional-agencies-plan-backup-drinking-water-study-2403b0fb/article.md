@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Little Seneca Lake reservoir in Black Hill Regional Park"
+  caption: "Little Seneca Lake serves as an emergency water supply for the Washington region."
+  credit: "Connection Newspapers"
 ---
 
 Regional water agencies announced a two-year, $25 million study to identify backup drinking-water supplies for parts of the Washington region if primary supplies become unavailable.

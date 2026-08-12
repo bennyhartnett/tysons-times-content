@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Vienna sisters Suraiya and Safiya Farooqui, founders of Plates Without Politics"
+  caption: "Suraiya and Safiya Farooqui organized direct grocery aid for families facing shortages in Cuba."
+  credit: "Connection Newspapers"
 ---
 
 Two Vienna students have created a grassroots food-aid initiative to purchase and distribute groceries to families in Cuba, saying they hope to expand the effort to reach 100 people.
