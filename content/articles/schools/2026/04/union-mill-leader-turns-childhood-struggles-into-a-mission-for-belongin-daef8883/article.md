@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "An adult and a student looking over a paper high five"
+  caption: "Union Mill Leader Turns Childhood Struggles Into a Mission for Belonging. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Dominic Williams remembers struggling in school until a fourth grade teacher made him feel seen and heard. Now, as assistant principal at Union Mill Elementary School, he works to give every student that same sense of belonging.

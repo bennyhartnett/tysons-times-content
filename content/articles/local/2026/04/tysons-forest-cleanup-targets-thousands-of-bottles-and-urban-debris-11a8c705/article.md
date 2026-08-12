@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Forest Cleanup Targets Thousands of Bottles and Urban Debris"
+  caption: "Hunter Mill District Supervisor Walter Alcorn with Tysons Forest Task Force Chair Jack Russell and other members for a cleanup event in 2025 (courtesy Hunter Mill District Office)"
+  credit: "Hunter Mill District Supervisor Walter Alcorn with Tysons Forest Task Force Cha…"
 ---
 
 Volunteers will return to a 65-acre wooded oasis in Tysons on Sunday, April 12, for an annual cleanup aimed at protecting the forest from litter and continued urban encroachment.

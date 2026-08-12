@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Samina speaking with a colleague"
+  caption: "Irving Aide’s Patient Approach Delivers Big Wins for Students. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 For seven years, instructional assistant Samina Butt has helped Irving Middle School students with diverse learning needs gain confidence, independence and a stronger sense of belonging.

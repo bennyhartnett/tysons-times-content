@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A mother in space force uniform is hugged by three kids."
+  caption: "241 Fairfax Students Reach National Merit Finals as Budget Debate Looms. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools announced that 241 students from 16 schools have been named 2026 National Merit finalists, while county leaders prepare to hear public feedback on a budget that provides most of the school division’s funding.

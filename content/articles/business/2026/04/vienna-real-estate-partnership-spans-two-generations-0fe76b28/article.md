@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Real Estate Partnership Spans Two Generations"
+  caption: "Vienna Real Estate Partnership Spans Two Generations. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Tana Keeffe and her mother, Debbie Earman, operate Earman Family Realtors, serving first-time and experienced homebuyers and sellers across Northern Virginia.

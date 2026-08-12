@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Parents Push Back Against School Calendar Disruptions"
+  caption: "Fairfax Parents Push Back Against School Calendar Disruptions. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County parents are urging school leaders to reduce midweek closures and irregular early-release days as the School Board prepares to vote Thursday on proposed calendar changes.

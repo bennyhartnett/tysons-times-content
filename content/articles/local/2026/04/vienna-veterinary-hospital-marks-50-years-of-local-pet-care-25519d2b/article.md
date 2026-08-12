@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Veterinary Hospital Marks 50 Years of Local Pet Care"
+  caption: "Vienna Veterinary Hospital Marks 50 Years of Local Pet Care. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Oakton-Vienna Veterinary Hospital is marking 50 years of caring for pets across Vienna, Oakton, McLean, Tysons, Merrifield and Reston.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Yard sign protesting construction of local pool"
+  caption: "A yard sign reads “small pool, BIG cost” and protests the construction of an indoor pool in the town of Vienna, Virginia. (WTOP/Scott Gelman)"
+  credit: "A yard sign reads “small pool, BIG cost” and protests the construction of an in…"
 ---
 
 Vienna’s plan for an indoor pool and fitness center is moving forward, but its potential $28 million price tag has prompted protests on social media and lawns across town.

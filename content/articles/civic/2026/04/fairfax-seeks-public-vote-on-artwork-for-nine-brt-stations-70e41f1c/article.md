@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Seeks Public Vote on Artwork for Nine BRT Stations"
+  caption: "Fairfax Seeks Public Vote on Artwork for Nine BRT Stations. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Fairfax County residents can help choose artwork for nine planned Richmond Highway Bus Rapid Transit stations through an online survey open from April 6 to May 8, 2026.
