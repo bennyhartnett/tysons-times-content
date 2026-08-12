@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Erupts Early, Cruises to Senior Night Rout"
+  caption: "McLean Erupts Early, Cruises to Senior Night Rout. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s boys lacrosse team raced to an overwhelming first-quarter lead Tuesday and defeated Wakefield 18-3, giving its seniors a commanding victory in their final home game.

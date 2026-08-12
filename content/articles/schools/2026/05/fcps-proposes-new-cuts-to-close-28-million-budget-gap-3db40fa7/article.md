@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Proposes New Cuts to Close $28 Million Budget Gap"
+  caption: "FCPS Proposes New Cuts to Close $28 Million Budget Gap."
+  credit: "Fairfax County Public Schools"
 ---
 
 Fairfax County Public Schools is proposing a series of spending reductions to close a $28 million gap in its fiscal year 2027 budget as officials await the outcome of Virginia’s budget process.

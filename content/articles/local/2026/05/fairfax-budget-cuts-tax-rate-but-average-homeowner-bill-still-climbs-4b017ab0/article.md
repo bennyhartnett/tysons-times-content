@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Budget Cuts Tax Rate, but Average Homeowner Bill Still Climbs"
+  caption: "Fairfax Budget Cuts Tax Rate, but Average Homeowner Bill Still Climbs. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County supervisors informally backed a $5.9 billion general fund budget on April 28, advancing a plan that slightly lowers the real estate tax rate while restoring some human services funding and increasing the county’s recurring investment in affordable housing.

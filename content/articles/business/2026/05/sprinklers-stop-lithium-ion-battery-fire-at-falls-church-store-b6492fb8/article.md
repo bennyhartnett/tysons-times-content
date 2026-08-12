@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sprinklers Stop Lithium-Ion Battery Fire at Falls Church Store"
+  caption: "Sprinklers Stop Lithium-Ion Battery Fire at Falls Church Store. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 A lithium-ion battery discharged and sparked a late-night fire inside a West Falls Church business, but two ceiling sprinklers stopped the flames before they could spread.

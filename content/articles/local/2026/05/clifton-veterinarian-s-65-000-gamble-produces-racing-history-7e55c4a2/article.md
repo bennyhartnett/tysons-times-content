@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Clifton Veterinarian’s $65,000 Gamble Produces Racing History"
+  caption: "Clifton Veterinarian’s $65,000 Gamble Produces Racing History. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Horse racing owners lose far more often than they win. But Clifton veterinarian Adam S. Ainspan and his wife, Mary Beth Roberts, have beaten those odds with standout horses in two different forms of racing.

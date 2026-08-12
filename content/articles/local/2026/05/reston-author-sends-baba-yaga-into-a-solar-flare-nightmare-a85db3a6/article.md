@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Author Sends Baba Yaga Into a Solar-Flare Nightmare"
+  caption: "Reston Author Sends Baba Yaga Into a Solar-Flare Nightmare. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Reston author Ivy Grimes has transported a Russian fairy tale into a dark modern survival story where a massive solar flare threatens society—and an unsettling secret waits beneath an already-creepy cellar.

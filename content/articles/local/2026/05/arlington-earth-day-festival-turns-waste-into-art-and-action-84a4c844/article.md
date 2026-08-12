@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Earth Day Festival Turns Waste Into Art and Action"
+  caption: "Arlington Earth Day Festival Turns Waste Into Art and Action. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Bags sailed into metal buckets, children planted seeds and a mariachi band filled Cherry Hill Road with music as Arlington marked Earth Day with a community festival in Langston on Sunday, April 26.

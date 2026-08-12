@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Scholarship recipients at the 2026 Hispanic Leadership Alliance Awards Ceremony."
+  caption: "29 Scholars Honored for Leadership Across Fairfax County Schools. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Hispanic Leadership Alliance recognized 29 Fairfax County Public Schools high school seniors, adult learners and community leaders with scholarships on Monday, May 4.

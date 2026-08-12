@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Women’s 500-Mile Earth Pilgrimage Makes a Final Stop in Lorton"
+  caption: "Women’s 500-Mile Earth Pilgrimage Makes a Final Stop in Lorton. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A women-led pilgrimage reached Lorton near the end of a 500-mile journey aimed at strengthening the connection between people and the Earth.

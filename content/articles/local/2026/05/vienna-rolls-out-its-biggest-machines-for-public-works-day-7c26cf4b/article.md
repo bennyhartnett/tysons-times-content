@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Rolls Out Its Biggest Machines for Public Works Day"
+  caption: "Vienna Rolls Out Its Biggest Machines for Public Works Day."
+  credit: "Alexandria Living Magazine"
 ---
 
 Vienna residents can climb aboard some of the town’s largest trucks and explore the machinery that keeps local services running during Public Works Day on Thursday, May 21.
