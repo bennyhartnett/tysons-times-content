@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Superintendent's signature \"Michelle C. Reid\""
+  caption: "FCPS Seeks Community Help to Reopen Schools After Winter Storm. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is asking residents to clear snow and ice from neighborhood sidewalks and bus stops as the division prepares to reopen schools following a major winter storm.

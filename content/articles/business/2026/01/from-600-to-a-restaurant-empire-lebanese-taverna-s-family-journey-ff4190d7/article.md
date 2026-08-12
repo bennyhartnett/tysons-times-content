@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for From $600 to a Restaurant Empire: Lebanese Taverna’s Family Journey"
+  caption: "From $600 to a Restaurant Empire: Lebanese Taverna’s Family Journey. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Tanios and Marie Abi-Najm arrived in Arlington in 1976 with five young children, a few pieces of luggage and $600. Fleeing Lebanon’s civil war aboard a cargo ship, the family settled temporarily with relatives in Rosslyn and began working toward a shared ambition: opening a restaurant.

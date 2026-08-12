@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Lorton Home Inspector Promises Same-Day Reports and Roof-to-Foundation Checks"
+  caption: "Lorton Home Inspector Promises Same-Day Reports and Roof-to-Foundation Checks. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Square One Home Inspections offers residential property inspections across Northern Virginia, Washington, D.C., and surrounding communities.

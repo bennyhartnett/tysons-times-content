@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Bree Fram Launches Congressional Bid as Virginia District Lines Hang in Balance"
+  caption: "Bree Fram, a military member forced to retire due to the Trump administration’s transgender ban, is running for Congress. (courtesy of Bree Fram for Congress)"
+  credit: "Bree Fram, a military member forced to retire due to the Trump administration’s…"
 ---
 
 Former Space Force Col. Bree Fram is running for Congress from Reston, even though a contested redistricting effort could determine which Virginia district she ultimately seeks to represent.

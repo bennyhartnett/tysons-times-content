@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Four Fairfax Students Rise Above 13,000 YoungArts Applicants"
+  caption: "Four Fairfax Students Rise Above 13,000 YoungArts Applicants. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Four Fairfax County Public Schools students earned recognition in the 2026 National YoungArts Foundation Competition, with two receiving awards with distinction.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for How a Neighborhood Café Built a Lifeline for Homeless Pets"
+  caption: "How a Neighborhood Café Built a Lifeline for Homeless Pets. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A Northern Virginia café that began as a small wine, beer and cheese shop has grown into a regional restaurant network closely connected to an animal rescue that finds homes for thousands of dogs and cats.

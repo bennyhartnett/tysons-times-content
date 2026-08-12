@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A snow-covered road"
+  caption: "A snow-covered road in Fairfax County, Virginia."
+  credit: "A snow-covered road in Fairfax County, Virginia."
 ---
 
 Some Northern Virginia neighborhoods could remain only partly cleared as crews continue wrestling with heavy snow and ice left by the weekend storm.

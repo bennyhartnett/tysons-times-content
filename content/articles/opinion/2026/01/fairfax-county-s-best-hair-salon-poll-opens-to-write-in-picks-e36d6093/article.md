@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best Hair Salon Poll Opens to Write-In Picks"
+  caption: "Fairfax County’s Best Hair Salon Poll Opens to Write-In Picks. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County readers can now vote for their favorite local hair salon, with write-in selections available for businesses that are not among the listed nominees.

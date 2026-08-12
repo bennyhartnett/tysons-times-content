@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Student artwork created by Thomas Chestnut, from McLean High School, and the title is \"Pinning Hopes.\""
+  caption: "Fairfax Teen Artists Earn 299 Awards in New ARTiFAX Program. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has launched ARTiFAX, a new recognition program celebrating teen artists in grades 7 through 12 who are enrolled in the division’s visual arts programs.
