@@ -12,10 +12,10 @@ tags:
   - "business"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Pumpkin Season Surges as Families Flock to Franconia Tradition"
+  caption: "Pumpkin Season Surges as Families Flock to Franconia Tradition. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Pumpkins of every size, shape and color have taken over the fall landscape at Nalls Produce in Franconia, where an “immense” supply is fueling a 30-year seasonal tradition.

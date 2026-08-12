@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying FCPS Says Centreville High School Abortion Claims Likely Untrue"
+  caption: "FCPS Says Centreville High School Abortion Claims Likely Untrue. Openly licensed thematic image selected for this article."
+  credit: "G. Edward Johnson / CC BY 4.0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools said interim findings from an external investigation indicate allegations involving Centreville High School in 2021 are likely untrue.

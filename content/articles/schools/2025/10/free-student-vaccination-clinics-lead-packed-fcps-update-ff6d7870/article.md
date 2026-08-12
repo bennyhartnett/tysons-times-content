@@ -12,10 +12,10 @@ tags:
   - "metro"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Teens wearing sashes pose in a school hallway"
+  caption: "Free Student Vaccination Clinics Lead Packed FCPS Update. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools students can receive required immunizations and optional flu shots at upcoming clinics offered with Inspire Health Alliance. Families will have no out-of-pocket costs, and more clinic dates are expected during the school year.

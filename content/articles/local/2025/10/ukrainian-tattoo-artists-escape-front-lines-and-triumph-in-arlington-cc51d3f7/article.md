@@ -12,10 +12,10 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Ukrainian Tattoo Artists Escape Front Lines and Triumph in Arlington"
+  caption: "Ukrainian Tattoo Artists Escape Front Lines and Triumph in Arlington. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Karyna Sidorenko and Artem Ivanov left Ukraine as Russian artillery battered Zaporizhzhia, where the neighborhood surrounding their tattoo shop became part of the front lines. They ultimately rebuilt their business in Arlington, opening Banana Peel Tattoos on Washington Boulevard.

@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Lorton Recycling Fire Injures Seven and Traps Crane Operator"
+  caption: "Lorton Recycling Fire Injures Seven and Traps Crane Operator. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A two-alarm fire at a large recycling pile in Lorton injured six civilians and a firefighter Tuesday, Oct. 14, while forcing an extended closure of Richmond Highway.

@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Tour de Mount Vernon Marks 10 Years With Two Scenic Routes"
+  caption: "Tour de Mount Vernon Marks 10 Years With Two Scenic Routes. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Tour de Mount Vernon Community Bike Ride will celebrate its 10th anniversary Saturday, Oct. 18, with cyclists traveling past historical, ecological and cultural sites across the Mount Vernon District.

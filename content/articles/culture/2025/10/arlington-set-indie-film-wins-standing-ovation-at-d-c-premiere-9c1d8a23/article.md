@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Arlington-Set Indie Film Wins Standing Ovation at D.C. Premiere"
+  caption: "Arlington-Set Indie Film Wins Standing Ovation at D.C. Premiere. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A 23-year-old Washington filmmaker brought his first feature film to the Avalon Theatre in D.C., where an enthusiastic crowd gave the Arlington-set “A Christmas Party” a standing ovation.

@@ -12,10 +12,10 @@ tags:
   - "local government"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for David Bulova Receives Newly Renamed Spirit of Hope Award"
+  caption: "David Bulova Receives Newly Renamed Spirit of Hope Award. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Del. David Bulova received the Congressman Gerry Connolly Spirit of Hope Award on Oct. 3, becoming the first recipient since the honor was renamed for the late Northern Virginia congressman.

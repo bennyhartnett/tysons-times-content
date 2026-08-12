@@ -12,10 +12,10 @@ tags:
   - "environment"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Premium Pasture-Raised Turkeys Arrive for Thanksgiving"
+  caption: "Premium Pasture-Raised Turkeys Arrive for Thanksgiving. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Thanksgiving turkey orders are opening in Mount Vernon, with two local sellers offering pasture-raised birds for holiday tables.

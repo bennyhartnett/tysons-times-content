@@ -11,10 +11,10 @@ tags:
   - "arts"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Oktoberfest Raises $41,000 for Alexandria’s Older Adults"
+  caption: "Oktoberfest Raises $41,000 for Alexandria’s Older Adults. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Senior Services of Alexandria raised more than $41,000 during its 14th annual Oktoberfest fundraiser Oct. 8 at Port City Brewing Company.
