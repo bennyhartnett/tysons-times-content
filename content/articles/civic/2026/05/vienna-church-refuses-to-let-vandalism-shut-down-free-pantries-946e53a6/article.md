@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Church Refuses to Let Vandalism Shut Down Free Pantries"
+  caption: "The Little Free Pantries at Emmaus United Church of Christ in Vienna (courtesy Emmaus)"
+  credit: "The Little Free Pantries at Emmaus United Church of Christ in Vienna (courtesy…"
 ---
 
 Repeated vandalism has damaged the free food and hygiene pantries outside Emmaus United Church of Christ in Vienna, but church leaders say the community resources will remain open.

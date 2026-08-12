@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Middle school students read at the library"
+  caption: "FCPS Eighth-Grade Reading Proficiency Jumps 15.4%. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools reported a 15.4% year-over-year increase in the number of eighth graders reading on or near grade level in fall 2025, following a push for more challenging instruction and targeted literacy support.

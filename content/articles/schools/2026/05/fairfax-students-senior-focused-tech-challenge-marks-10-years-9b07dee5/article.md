@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Students’ Senior-Focused Tech Challenge Marks 10 Years"
+  caption: "Proclamation marking 10th anniversary of Shark Tank Technology Competition (via Fairfax County)"
+  credit: "Proclamation marking 10th anniversary of Shark Tank Technology Competition (via…"
 ---
 
 Fairfax County leaders celebrated a decade of student innovation Tuesday, May 19, recognizing a technology competition that challenges local high schoolers to improve the lives of seniors and people with disabilities.

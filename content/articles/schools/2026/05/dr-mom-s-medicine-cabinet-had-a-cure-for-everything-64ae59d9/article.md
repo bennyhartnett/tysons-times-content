@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Dr. Mom’s Medicine Cabinet Had a Cure for Everything"
+  caption: "\"....That woman treated more scrapes than any emergency room doc....\" Pinterest photo."
+  credit: "Falls Church Independent"
 ---
 
 My mother could juggle more jobs than a circus performer. She cooked, cleaned, handled the books and taxes for the family business, and stayed active in our church. She also served as the household’s resident physician.

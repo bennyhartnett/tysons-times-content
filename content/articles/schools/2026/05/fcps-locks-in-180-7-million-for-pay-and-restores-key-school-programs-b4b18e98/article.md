@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Locks In $180.7 Million for Pay and Restores Key School Programs"
+  caption: "FCPS Locks In $180.7 Million for Pay and Restores Key School Programs."
+  credit: "Fairfax County Public Schools"
 ---
 
 Fairfax County’s elected education leaders unanimously approved the school division’s fiscal year 2027 budget on May 21, committing $180.7 million to employee agreements while restoring positions and programs reduced during the previous fiscal year.

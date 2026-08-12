@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tesla Fire Snarls Dulles Access Road Traffic for Two Hours"
+  caption: "Tesla vehicle on fire on the Dulles Access Road in Tysons (via FCFRD/X)"
+  credit: "Tesla vehicle on fire on the Dulles Access Road in Tysons (via FCFRD/X)"
 ---
 
 A Tesla crashed and caught fire on the Dulles Access Road in Tysons on Wednesday, May 20, sending its driver to the hospital and bringing westbound traffic to a crawl during the afternoon rush.

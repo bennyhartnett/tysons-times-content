@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Budget press release graphic - teal"
+  caption: "Fairfax Schools Restore Key Positions in Unanimous 2027 Budget Vote. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board unanimously approved its fiscal year 2027 budget May 21, directing $180.7 million toward employee agreements while restoring several positions and programs cut during the previous fiscal year.

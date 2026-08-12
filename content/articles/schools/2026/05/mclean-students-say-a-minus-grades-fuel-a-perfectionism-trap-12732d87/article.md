@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Say A-Minus Grades Fuel a Perfectionism Trap"
+  caption: "McLean Students Say A-Minus Grades Fuel a Perfectionism Trap. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 At McLean High School, some students argue that the A-minus grading scale intensifies academic stress by placing heavy weight on differences of just a few percentage points.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best After-School Program Is Up for a Vote"
+  caption: "Fairfax County’s Best After-School Program Is Up for a Vote. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County families have a chance to weigh in on their favorite after-school programs, with voting open in the local Readers’ Choice Awards.

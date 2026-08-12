@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Big Memorial Day Weekend Events Around Northern Virginia"
+  caption: "Five Big Memorial Day Weekend Events Around Northern Virginia."
+  credit: "City of Falls Church"
 ---
 
 Northern Virginia’s Memorial Day weekend calendar is packed with live music, festivals, patriotic tributes and fireworks from May 22 through May 25. One planned concert has been canceled, but four other major events remain on the schedule.
