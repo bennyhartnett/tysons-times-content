@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for FCPS Weighs Start-Time Shifts as Major Boundary Update Nears"
+  caption: "FCPS Weighs Start-Time Shifts as Major Boundary Update Nears. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools opened October with decisions and deadlines affecting families across the division, including possible changes to school start times, a new boundary-review map and expanded access to advanced math.

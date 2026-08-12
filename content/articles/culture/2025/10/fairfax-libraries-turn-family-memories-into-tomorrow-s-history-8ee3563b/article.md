@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Family History Month with artifacts such as old photos and documents, quill and ink, and a pocket watch"
+  caption: "Fairfax Libraries Turn Family Memories Into Tomorrow’s History. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Family stories, treasured recipes and old photographs are taking center stage this October as the Virginia Room invites Fairfax County residents to celebrate Family History Month.

@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Falls Church Antiques Annex Stages a Surprise Comeback"
+  caption: "A Grand Re-Opening! Paul Quinn with his rescue dog Snuffles, owner of Antiques Annex at 250 W. Broad St. Photo by Chris Jones."
+  credit: "Falls Church Independent"
 ---
 
 The Falls Church Antiques Annex will reopen Monday, Oct. 6, at 250 W. Broad St., returning to downtown only months after closing in April.

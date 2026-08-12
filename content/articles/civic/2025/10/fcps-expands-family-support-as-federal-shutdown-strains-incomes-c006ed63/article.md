@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying FCPS Expands Family Support as Federal Shutdown Strains Incomes"
+  caption: "FCPS Expands Family Support as Federal Shutdown Strains Incomes. Openly licensed thematic image selected for this article."
+  credit: "U.S. Air Force photo by Senior Airman Brenden Beezley / Public domain / Wikimed…"
 ---
 
 Fairfax County Public Schools said Oct. 1 that it is prepared to help students and families affected by the federal government shutdown, which could disrupt incomes for the many federal workers and military personnel living in the county.

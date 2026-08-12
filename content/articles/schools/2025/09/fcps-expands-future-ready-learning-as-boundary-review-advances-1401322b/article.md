@@ -11,10 +11,10 @@ tags:
   - "mclean"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A group of people holding a white ribbon"
+  caption: "FCPS Expands Future-Ready Learning as Boundary Review Advances. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools entered the final days of September with new work underway on classroom innovation, student priorities and school boundaries, alongside events celebrating robotics, music and Hispanic heritage.

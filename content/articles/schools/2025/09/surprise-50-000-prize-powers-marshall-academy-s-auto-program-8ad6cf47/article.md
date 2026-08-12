@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Rebecca Fenton stands at center holding a large check. FCPS administrators and students flank her."
+  caption: "Surprise $50,000 Prize Powers Marshall Academy’s Auto Program. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Rebecca Fenton walked into the showroom garage beside her Marshall Academy classroom expecting an ordinary day. Instead, she found administrators, television crews and current and former students waiting among customized cars with balloons, cake, a new toolbox and an oversized check.

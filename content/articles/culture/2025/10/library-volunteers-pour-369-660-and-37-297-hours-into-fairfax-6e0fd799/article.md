@@ -12,10 +12,10 @@ tags:
   - "environment"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Friends of the Library Week heart coming out of FCPL logo icon"
+  caption: "Library Volunteers Pour $369,660 and 37,297 Hours Into Fairfax. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Volunteer groups supporting Fairfax County’s public libraries donated more than $369,660 and contributed 37,297 hours of service during fiscal year 2025.

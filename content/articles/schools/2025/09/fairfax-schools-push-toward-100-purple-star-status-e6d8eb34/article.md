@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "kids color while a man in fatigues and a woman watch"
+  caption: "Fairfax Schools Push Toward 100% Purple Star Status. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is working to have all of its more than 200 schools earn Purple Star recognition by the 2026-27 school year, expanding support for the division’s more than 12,000 military-connected students.

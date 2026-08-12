@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for The T-Shirts That Outlast Trends and Spark Surprise Reunions"
+  caption: "\"....You name a color and there’s a shirt out there. You have a magenta and chartreuse pair of pants? No problem....\" Photo courtesy Snapped Garters Blog Spot."
+  credit: "Falls Church Independent"
 ---
 
 T-shirts may be simple, but they are hard to beat. They are lightweight, stretchy and, when made from cotton, comfortable in sweltering summer heat. They come in nearly every imaginable color and remain a relative bargain at a time when little feels affordable.
