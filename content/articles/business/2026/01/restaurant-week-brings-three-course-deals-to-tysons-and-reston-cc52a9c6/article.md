@@ -12,9 +12,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Restaurant Week Brings Three-Course Deals to Tysons and Reston"
+  caption: "Restaurant Week Brings Three-Course Deals to Tysons and Reston. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Winter Restaurant Week returns Jan. 19-25, 2026, with specially priced three-course meals at restaurants across Tysons, Reston and nearby Northern Virginia communities.

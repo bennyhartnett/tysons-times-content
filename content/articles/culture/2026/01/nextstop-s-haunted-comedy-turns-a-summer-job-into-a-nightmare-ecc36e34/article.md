@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for NextStop’s Haunted Comedy Turns a Summer Job Into a Nightmare"
+  caption: "NextStop’s Haunted Comedy Turns a Summer Job Into a Nightmare. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Two Black college students accept an unusual summer job watching a 93-year-old professor swim—but the arrangement soon spirals into something far more sinister in the world premiere of Nia Akilah Robinson’s ↓D←R←O←W←N←E←R [Renword].

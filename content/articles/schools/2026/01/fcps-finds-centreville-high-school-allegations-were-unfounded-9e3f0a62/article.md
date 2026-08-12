@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dark teal background w/ \"Message from the Superintendent\" and a white envelope w/ a red note inside."
+  caption: "FCPS Finds Centreville High School Allegations Were Unfounded. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has completed its investigation into allegations that Centreville High School personnel helped pay for and arrange abortions for students without parental knowledge or consent, finding no credible evidence of wrongdoing.

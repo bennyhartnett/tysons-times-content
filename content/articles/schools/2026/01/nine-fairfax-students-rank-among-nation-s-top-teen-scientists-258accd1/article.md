@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Nine Fairfax Students Rank Among Nation’s Top Teen Scientists"
+  caption: "Nine Fairfax Students Rank Among Nation’s Top Teen Scientists. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Nine Fairfax County Public Schools students have been selected among the top 300 scholars in the 2026 Regeneron Science Talent Search, one of the nation’s leading science and mathematics competitions for high school seniors.

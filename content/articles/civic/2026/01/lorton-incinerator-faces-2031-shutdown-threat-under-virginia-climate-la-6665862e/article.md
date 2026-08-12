@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Lorton Incinerator Faces 2031 Shutdown Threat Under Virginia Climate Law"
+  caption: "Reworld’s I-95 Energy Resource Recovery Facility off of Furnace Road (via Google Maps)"
+  credit: "Reworld’s I-95 Energy Resource Recovery Facility off of Furnace Road (via Googl…"
 ---
 
 A Fairfax County waste-to-energy facility could face closure under Virginia’s carbon-reduction rules, potentially sending about 1 billion pounds of trash to a King George County landfill each year, according to state Sen. Scott Surovell.

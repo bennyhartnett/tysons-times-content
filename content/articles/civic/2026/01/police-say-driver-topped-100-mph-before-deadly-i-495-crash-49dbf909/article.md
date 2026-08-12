@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Police Say Driver Topped 100 MPH Before Deadly I-495 Crash"
+  caption: "Police Say Driver Topped 100 MPH Before Deadly I-495 Crash. Openly licensed thematic image selected for this article."
+  credit: "Ken Lund from Reno, Nevada, USA / CC BY-SA 2.0 / Wikimedia Commons"
 ---
 
 An Ohio man was allegedly driving faster than 100 mph when his pickup slammed into a minivan on Interstate 495 in Fairfax County on Christmas night, killing an Annandale grandmother and her teenage granddaughter.

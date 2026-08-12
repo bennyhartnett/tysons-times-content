@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County Set for $4.56 Million Road Safety Grant"
+  caption: "Fairfax County Set for $4.56 Million Road Safety Grant. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Fairfax County is set to receive a $4.56 million grant aimed at improving roadway safety.

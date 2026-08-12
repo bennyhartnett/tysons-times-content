@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Gigi’s Brings Fresh, Build-Your-Own Pasta to D.C."
+  caption: "Gigi’s Brings Fresh, Build-Your-Own Pasta to D.C.. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A new family-owned restaurant is serving customizable, freshly made pasta inside Western Market, the food hall on Pennsylvania Avenue in Washington, D.C.

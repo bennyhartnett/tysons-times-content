@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax School Board Extends Deadline for Five Key Planning Seats"
+  caption: "Fairfax School Board Extends Deadline for Five Key Planning Seats. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board has extended the application deadline for five community seats on its Comprehensive Planning and Development Committee to 11:59 p.m. Sunday, Feb. 8, 2026. The previous deadline was Jan. 30.
