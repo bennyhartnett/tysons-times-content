@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Red Door Metro Targets Northern Virginia’s Competitive Home Market"
+  caption: "Red Door Metro Targets Northern Virginia’s Competitive Home Market. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Red Door Metro, a McLean-based real estate team founded by George M. Mrad, serves buyers and sellers across Northern Virginia, including McLean, Vienna and Arlington.

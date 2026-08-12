@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Community Alliance Names Interim CEO Amid Leadership Shift"
+  caption: "Tysons Community Alliance Names Interim CEO Amid Leadership Shift. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 The Tysons Community Alliance has appointed Drew Sunderland as interim chief executive officer as Katie Cristol prepares to leave the organization after three years to pursue new professional opportunities.

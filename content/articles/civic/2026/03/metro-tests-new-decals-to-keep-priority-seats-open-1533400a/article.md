@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Tests New Decals to Keep Priority Seats Open"
+  caption: "Metro Tests New Decals to Keep Priority Seats Open. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro is launching a three-month pilot program aimed at reminding riders to offer priority seating to passengers who need it.

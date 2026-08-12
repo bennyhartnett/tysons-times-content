@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for J. Cole Turns His Final Chapter Into a 24-Track Career Reckoning"
+  caption: "J. Cole Turns His Final Chapter Into a 24-Track Career Reckoning. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After an eight-year buildup filled with rumors, guest appearances and possible release dates, J. Cole has delivered *The Fall Off*. Released Feb. 6, the rapper’s seventh—and likely final—album plays less like a conventional collection of songs than a carefully constructed account of his life and legacy.

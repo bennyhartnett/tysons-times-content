@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Express Bus Loses Grant Bid as Other Routes Gain Millions"
+  caption: "Commemorative design on Fairfax Connector bus (staff photo by Scott McCaffrey)"
+  credit: "Commemorative design on Fairfax Connector bus (staff photo by Scott McCaffrey)"
 ---
 
 Fairfax County is positioned to receive millions of dollars for expanded bus service, but a proposed limited-stop route connecting Tysons and Franconia-Springfield has been dropped from the regional funding competition.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Brings ChatGPT Into Classrooms With New Teacher Pilot"
+  caption: "FCPS Brings ChatGPT Into Classrooms With New Teacher Pilot. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 ChatGPT is moving deeper into Fairfax County Public Schools after the division added a teacher-focused version of the artificial intelligence tool to its staff resources on Dec. 2.

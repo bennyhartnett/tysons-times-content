@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a first grader cuts paper and looks through the hole he cut."
+  caption: "Fairfax Students Get Election Day Off as April 21 Classes Are Canceled. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County public school students will not have classes Tuesday, April 21, because of Virginia’s statewide election.

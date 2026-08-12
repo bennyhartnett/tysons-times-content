@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Centreville naked burglar"
+  caption: "Police are looking for a naked intruder linked to at least four break-ins in Fairfax County."
+  credit: "Police are looking for a naked intruder linked to at least four break-ins in Fa…"
 ---
 
 Fairfax County police are searching for a man believed to have entered or attempted to enter at least four Centreville homes while naked, including two incidents in which residents found him inside.

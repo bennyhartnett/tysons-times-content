@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Mock Trial Extends Top-Five Streak in Tough State Field"
+  caption: "McLean Mock Trial Extends Top-Five Streak in Tough State Field. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s mock trial team placed fifth among 20 leading Virginia teams at the 2026 Virginia and D.C. High School Mock Trial State Championship, securing its sixth consecutive top-five finish.

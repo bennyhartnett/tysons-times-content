@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Tysons Dentist Turns Childhood Fear Into Smiles"
+  caption: "Tysons Dentist Turns Childhood Fear Into Smiles. Openly licensed thematic image selected for this article."
+  credit: "National Library of Medicine - History of Medicine / No restrictions / Wikimedi…"
 ---
 
 Children arriving at Island Children’s Dentistry & Orthodontics in Tysons Corner encounter a setting designed to ease anxiety before an appointment begins. A saltwater aquarium bubbles near the entrance, iPads provide distractions, and the office avoids the antiseptic atmosphere often associated with dental care.
