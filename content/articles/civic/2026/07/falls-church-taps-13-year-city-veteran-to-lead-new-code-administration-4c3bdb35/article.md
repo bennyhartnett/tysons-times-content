@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Lead image for Falls Church Taps 13-Year City Veteran to Lead New Code Administration"
-  caption: "Falls Church Taps 13-Year City Veteran to Lead New Code Administration. Image from City of Falls Church News Releases."
-  credit: "City of Falls Church News Releases"
+  alt: "Falls Church City Hall"
+  caption: "Falls Church City Hall houses the city government offices overseeing code administration."
+  credit: "Falls Church Independent"
 ---
 
 Falls Church has promoted one of its own to head the city's newly formed Department of Code Administration.

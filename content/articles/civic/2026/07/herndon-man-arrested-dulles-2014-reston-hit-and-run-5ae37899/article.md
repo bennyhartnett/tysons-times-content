@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "fairfax county police cruiser"
-  caption: "A Fairfax County police cruiser is seen in this WTOP file photo. (WTOP/John Domen)"
-  credit: "WTOP Fairfax County"
+  alt: "Lead image for Herndon man arrested at Dulles after missing 2015 court date in Reston hit-and-run case"
+  caption: "Authorities arrested the suspect at Dulles International Airport after more than a decade."
+  credit: "Getty Images / NBC4 Washington"
 ---
 
 Enda Browne, 43, of Herndon, was taken into custody at Dulles International Airport on June 26, 2026, more than a decade after a hit-and-run collision in Reston. Fairfax County police announced the arrest on July 6, saying Browne is charged with felony hit-and-run in connection with the November 2014 incident.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Lead image for Falls Church Launches Civic Jam With Music, Games and No Fireworks"
-  caption: "Falls Church Launches Civic Jam With Music, Games and No Fireworks. Image from City of Falls Church News Releases."
-  credit: "City of Falls Church News Releases"
+  alt: "Falls Church Civic Jam"
+  caption: "The City of Falls Church Civic Jam graphic combines a drum set with the U.S. Capitol dome."
+  credit: "City of Falls Church / EventHub"
 ---
 
 Falls Church will mark the nation’s 250th anniversary with a new community celebration featuring live music, local food and drinks, civic activities and an all-ages team competition.

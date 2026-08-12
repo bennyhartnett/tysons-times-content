@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Lead image for Extreme Heat Pushes Falls Church Civic Jam to July 24"
-  caption: "Extreme Heat Pushes Falls Church Civic Jam to July 24. Image from City of Falls Church News Releases."
-  credit: "City of Falls Church News Releases"
+  alt: "Extreme heat warning for the Washington region"
+  caption: "An extreme heat warning forecast heat index values around 110 degrees in the Washington region."
+  credit: "Storm Team4 / NBC4 Washington"
 ---
 
 Falls Church has postponed Civic Jam because of an extended stretch of extreme heat forecast for the region. The event, originally scheduled for Friday, July 3, 2026, will now take place Friday, July 24.
