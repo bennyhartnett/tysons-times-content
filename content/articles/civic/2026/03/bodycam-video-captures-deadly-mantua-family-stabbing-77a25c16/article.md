@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thapa allegedly used a Nepali chopping knife to stab his family."
+  caption: "Thapa allegedly used a Nepali chopping knife to stab his family."
+  credit: "Thapa allegedly used a Nepali chopping knife to stab his family."
 ---
 
 Fairfax County police officers opened a Mantua apartment door on Feb. 23 and found a man kneeling over his wounded son-in-law with a 12-inch blade, newly released body-camera footage shows.

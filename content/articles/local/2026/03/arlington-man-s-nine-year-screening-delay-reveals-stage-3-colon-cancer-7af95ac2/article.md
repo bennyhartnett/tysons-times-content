@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Arlington Man’s Nine-Year Screening Delay Reveals Stage 3 Colon Cancer"
+  caption: "Arlington Man’s Nine-Year Screening Delay Reveals Stage 3 Colon Cancer. Openly licensed thematic image selected for this article."
+  credit: "Wikimedia Commons contributor / CC BY 4.0 / Wikimedia Commons"
 ---
 
 An Arlington man waited nine years after his father died of colon cancer before undergoing a colonoscopy. When he finally had the procedure, doctors found stage 3 colon cancer.

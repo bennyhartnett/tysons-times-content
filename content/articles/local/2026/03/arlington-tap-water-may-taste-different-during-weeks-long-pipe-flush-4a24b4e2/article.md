@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Arlington Tap Water May Taste Different During Weeks-Long Pipe Flush"
+  caption: "Arlington Tap Water May Taste Different During Weeks-Long Pipe Flush. Openly licensed thematic image selected for this article."
+  credit: "Daniel Case / CC BY-SA 3.0 / Wikimedia Commons"
 ---
 
 Arlington County will temporarily change its water disinfectant and flush hundreds of miles of pipes this spring as part of annual maintenance across the region.

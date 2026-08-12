@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Neighborhood Pressure Brings Big Changes to Mount Vernon Tire Shop"
+  caption: "Neighborhood Pressure Brings Big Changes to Mount Vernon Tire Shop. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 AC Tires in Mount Vernon has cleaned up its operations and resolved code concerns after residents of nearby Gum Springs pushed for improvements at the Richmond Highway business.

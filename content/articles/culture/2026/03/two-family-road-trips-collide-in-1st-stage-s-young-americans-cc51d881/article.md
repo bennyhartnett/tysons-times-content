@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Two Family Road Trips Collide in 1st Stage’s Young Americans"
+  caption: "Two Family Road Trips Collide in 1st Stage’s Young Americans. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A family’s cross-country journey unfolds across two generations in *Young Americans*, Lauren Yee’s intergenerational dramedy coming to 1st Stage in Tysons from April 9 through April 26.

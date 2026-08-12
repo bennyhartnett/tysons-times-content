@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for A ‘Five-Star Dive Bar’ Drops Anchor in Old Town"
+  caption: "A ‘Five-Star Dive Bar’ Drops Anchor in Old Town. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Commodore opened March 12 at 220 North Lee Street, bringing its playful nautical theme, casual pub menu and sprawling game rooms to Old Town Alexandria.

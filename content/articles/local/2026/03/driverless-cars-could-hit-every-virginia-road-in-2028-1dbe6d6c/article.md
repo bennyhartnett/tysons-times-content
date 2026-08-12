@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Driverless Cars Could Hit Every Virginia Road in 2028"
+  caption: "Driverless Cars Could Hit Every Virginia Road in 2028. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Fully autonomous vehicles could operate on all Virginia public roads beginning in 2028 under a bill advancing through the General Assembly.

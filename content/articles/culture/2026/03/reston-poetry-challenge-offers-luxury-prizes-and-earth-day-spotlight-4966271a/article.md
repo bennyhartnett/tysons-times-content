@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Poetry Challenge Offers Luxury Prizes and eARTh Day Spotlight"
+  caption: "Reston Poetry Challenge Offers Luxury Prizes and eARTh Day Spotlight. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Public Art Reston is inviting poets of all ages and experience levels to turn the community’s sculptures, murals and other public artworks into original poetry for National Poetry Month.

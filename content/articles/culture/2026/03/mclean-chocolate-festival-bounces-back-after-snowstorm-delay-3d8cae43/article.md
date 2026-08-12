@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Chocolate Festival Bounces Back After Snowstorm Delay"
+  caption: "McLean Chocolate Festival Bounces Back After Snowstorm Delay. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s annual Chocolate Festival returned March 15 after emergency weather forced organizers to abandon the event’s traditional late-January date.

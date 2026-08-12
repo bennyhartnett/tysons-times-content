@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for National Service Animals Monument Gains Momentum Near D.C."
+  caption: "National Service Animals Monument Gains Momentum Near D.C.. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A planned national monument honoring animals that have served the United States is moving closer to reality, with organizers launching a fundraising campaign in Arlington as they finalize the tribute’s design and location in the Washington, D.C., area.
