@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Student Robotics Team Wins Regional Title, Advances to Virginia Finals"
+  caption: "Student Robotics Team Wins Regional Title, Advances to Virginia Finals. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A Northern Virginia robotics team featuring three Fairfax County Public Schools students won the Overall Champion title at the VA+DC FIRST LEGO League Challenge Division 2 Regional Competition in early December.

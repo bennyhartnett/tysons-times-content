@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Repair Café Sets Early Cutoffs for January Event"
+  caption: "Fairfax Repair Café Sets Early Cutoffs for January Event. Openly licensed thematic image selected for this article."
+  credit: "Shixart1985 / CC BY 2.0 / Wikimedia Commons"
 ---
 
 The next Repair Café will open at 10:30 a.m. Sunday, Jan. 11, at the City of Fairfax Regional Library, 10360 North Street in Fairfax.

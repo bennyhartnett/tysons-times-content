@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for The Housemaid Cleans Up With Twists, Tension and Dark Humor"
+  caption: "The Housemaid Cleans Up With Twists, Tension and Dark Humor. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *The Housemaid* draws viewers into a wealthy family’s unsettling home, then repeatedly overturns their assumptions about what is happening behind its orderly facade. Its controlled pacing, tense atmosphere and well-placed humor make it a particularly effective recent psychological thriller.

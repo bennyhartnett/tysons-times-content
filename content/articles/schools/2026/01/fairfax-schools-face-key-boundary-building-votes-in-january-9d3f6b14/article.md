@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools Face Key Boundary, Building Votes in January"
+  caption: "Fairfax Schools Face Key Boundary, Building Votes in January. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County school leaders are preparing for a series of major January decisions involving attendance boundaries, a new western high school and the division’s five-year construction plan.

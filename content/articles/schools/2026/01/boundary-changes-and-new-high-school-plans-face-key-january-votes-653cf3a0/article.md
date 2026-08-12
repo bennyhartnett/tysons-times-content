@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A first grader smiles and points to an ozobot robot"
+  caption: "Boundary Changes and New High School Plans Face Key January Votes. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County school leaders are preparing for a series of consequential January decisions involving school boundaries, a new western high school and a five-year capital improvement plan.

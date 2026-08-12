@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia’s New Laws Bring Major Changes to Health, Debt and Dignity"
+  caption: "Virginia’s New Laws Bring Major Changes to Health, Debt and Dignity. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Several Virginia laws took effect Jan. 1, bringing changes to emergency-room drug testing, cancer screening costs, medical debt collection, unemployment benefits and the treatment of foster children and research primates.

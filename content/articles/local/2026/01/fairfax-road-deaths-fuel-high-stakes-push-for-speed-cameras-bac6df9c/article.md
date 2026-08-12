@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Road Deaths Fuel High-Stakes Push for Speed Cameras"
+  caption: "Fairfax Road Deaths Fuel High-Stakes Push for Speed Cameras. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 After at least 15 pedestrians were killed and roughly 100 were seriously injured in Fairfax County traffic crashes in 2025, Northern Virginia safety advocates are pressing state lawmakers to fund road improvements and expand automated speed enforcement.

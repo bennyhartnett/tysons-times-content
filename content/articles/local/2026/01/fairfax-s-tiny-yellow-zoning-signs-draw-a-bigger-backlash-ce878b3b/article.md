@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax’s Tiny Yellow Zoning Signs Draw a Bigger Backlash"
+  caption: "Fairfax’s Tiny Yellow Zoning Signs Draw a Bigger Backlash. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County’s familiar yellow public notice signs are facing renewed criticism from community leaders who say the decades-old format is too small to give residents meaningful notice of proposed land-use changes.

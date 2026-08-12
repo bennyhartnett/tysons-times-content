@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Springfield’s “Camel Church” Brings Christmas Story to Life"
+  caption: "Springfield’s “Camel Church” Brings Christmas Story to Life. Openly licensed thematic image selected for this article."
+  credit: "Missvain / CC BY 4.0 / Wikimedia Commons"
 ---
 
 St. Christopher’s Episcopal Church transformed its Springfield grounds into Bethlehem for its seventh annual living nativity, complete with costumed church members, barnyard animals and the congregation’s crowd-favorite camel.

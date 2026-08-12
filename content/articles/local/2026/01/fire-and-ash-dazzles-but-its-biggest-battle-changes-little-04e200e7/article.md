@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fire and Ash Dazzles, but Its Biggest Battle Changes Little"
+  caption: "Fire and Ash Dazzles, but Its Biggest Battle Changes Little. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Three years after *Avatar: The Way of Water*, James Cameron returns to Pandora with another emotional, visually spectacular installment. *Avatar: Fire and Ash* surrounds its audience with striking lighting, immersive sound and impressive effects, restoring the sense of wonder that defines the series.
