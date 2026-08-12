@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Young Musicians Take the Stage With Seven-Piece Band"
+  caption: "Young Musicians Take the Stage With Seven-Piece Band. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Piano & More marked its 10th anniversary by giving young music students an ambitious challenge: performing live with the seven-piece band Twin Brooks without a full rehearsal.

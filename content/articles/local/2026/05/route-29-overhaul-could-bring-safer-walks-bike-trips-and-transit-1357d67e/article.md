@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Route 29 Overhaul Could Bring Safer Walks, Bike Trips and Transit"
+  caption: "Route 29 Overhaul Could Bring Safer Walks, Bike Trips and Transit."
+  credit: "VDOT"
 ---
 
 Fairfax County transportation officials will unveil proposed changes to Route 29 inside the Beltway during a community meeting at 7 p.m. Tuesday, May 19, 2026.

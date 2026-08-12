@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Farmers Markets Return With a New Dog-Friendly Stop"
+  caption: "Fairfax Farmers Markets Return With a New Dog-Friendly Stop. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County shoppers will have farmers market options from Wednesday through Sunday in 2026, including a new dog-friendly EatLoco market at Halley Rise in Reston.

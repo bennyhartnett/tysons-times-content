@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Survives Herndon Rally to Secure Season Sweep"
+  caption: "McLean Survives Herndon Rally to Secure Season Sweep. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean built an early lead and survived a tense seventh-inning comeback to defeat Herndon 8-6 on May 1, completing a regular-season sweep with Liberty District tournament seeding at stake.

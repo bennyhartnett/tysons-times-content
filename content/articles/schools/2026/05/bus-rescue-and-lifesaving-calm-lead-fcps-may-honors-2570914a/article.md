@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a group of staff members in the school holding a sign that says 'congrats'"
+  caption: "Bus Rescue and Lifesaving Calm Lead FCPS May Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools recognized employees across the division in its May 2026 FCPS CARES roundup, highlighting acts ranging from an unusual bus rescue in Washington, D.C., to emergency assistance during a choking incident.

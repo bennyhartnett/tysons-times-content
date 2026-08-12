@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 500 New Trees Take Root With Great Falls Students"
+  caption: "500 New Trees Take Root With Great Falls Students. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Five hundred dogwood and magnolia saplings are heading home with young students after the Great Falls Rotary Club and Bartlett Tree Experts teamed up for their third annual tree distribution.

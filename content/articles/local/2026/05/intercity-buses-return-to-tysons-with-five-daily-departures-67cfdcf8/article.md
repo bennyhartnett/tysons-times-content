@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Intercity Buses Return to Tysons With Five Daily Departures"
+  caption: "Intercity Buses Return to Tysons With Five Daily Departures. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Intercity bus service has returned to Tysons, giving Fairfax County travelers direct connections to Richmond, Baltimore and New York City from a new regional hub.

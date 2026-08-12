@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Skip Castro Brings Decades of Party Rock Back to Vienna"
+  caption: "Skip Castro Brings Decades of Party Rock Back to Vienna. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 After more than 47 years on the East Coast music circuit, the Skip Castro Band is still filling dance floors with its enduring mix of rock, blues and boogie.

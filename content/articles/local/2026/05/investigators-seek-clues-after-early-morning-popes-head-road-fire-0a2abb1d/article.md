@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Investigators Seek Clues After Early-Morning Popes Head Road Fire"
+  caption: "Investigators Seek Clues After Early-Morning Popes Head Road Fire. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fire investigators are asking for the public’s help after flames broke out early Sunday, May 3, 2026, at a vacant building in the 11100 block of Popes Head Road.

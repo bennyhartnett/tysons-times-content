@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County Commonwealth's Attorney Steve Descano"
+  caption: "Fairfax County Commonwealth’s Attorney Steve Descano"
+  credit: "Fairfax County Commonwealth’s Attorney Steve Descano"
 ---
 
 The Department of Justice has opened a civil rights investigation into Fairfax County Commonwealth’s Attorney Steve Descano over his office’s handling of criminal cases involving undocumented immigrants.
