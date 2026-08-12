@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Loaded Food Truck Piles On Big Flavor and Even Bigger Portions"
+  caption: "Loaded Food Truck Piles On Big Flavor and Even Bigger Portions. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Tucked behind a family-owned halal market, Loaded has become a social media draw, attracting lines of customers with customizable fries, oversized potatoes and fresh-tasting lemonades.

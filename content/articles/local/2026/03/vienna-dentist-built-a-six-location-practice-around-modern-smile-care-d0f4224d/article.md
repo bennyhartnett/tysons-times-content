@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Dentist Built a Six-Location Practice Around Modern Smile Care"
+  caption: "Vienna Dentist Built a Six-Location Practice Around Modern Smile Care. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Geith Kallas has spent more than three decades building a Northern Virginia dental practice that combines general care with cosmetic procedures and multiple specialties.

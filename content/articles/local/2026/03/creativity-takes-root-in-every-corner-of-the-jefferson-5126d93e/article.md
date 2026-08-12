@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Creativity Takes Root in Every Corner of The Jefferson"
+  caption: "Creativity Takes Root in Every Corner of The Jefferson. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Bryna Freyer carefully steadies a small clay vessel while painting a pale blue line around its rim. Jars of gray, teal and cream pigments sit open nearby as she pauses to examine the curve before continuing.

@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid with 2026 Regional Science and Engineering Fair winners."
+  caption: "FCPS Celebrates Major Wins as Budget Decisions Loom. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered spring with a packed week of student honors, school visits and community meetings, while Superintendent Michelle Reid urged residents to weigh in on a county budget that supplies about 70% of the division’s funding.

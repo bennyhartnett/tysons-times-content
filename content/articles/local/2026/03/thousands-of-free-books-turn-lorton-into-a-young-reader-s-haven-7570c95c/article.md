@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Thousands of Free Books Turn Lorton Into a Young Reader’s Haven"
+  caption: "Thousands of Free Books Turn Lorton Into a Young Reader’s Haven. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Thousands of free books filled the Lorton Community Center on March 14 as children, families and educators stocked their home and classroom libraries during the third annual “Reading Opens the World” event.

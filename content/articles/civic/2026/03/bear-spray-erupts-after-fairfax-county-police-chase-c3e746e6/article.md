@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Vehicle stopped in Alexandria"
+  caption: "A vehicle connected to a man wanted on multiple felonies was stopped by police in the northbound lanes of Interstate 495 in Alexandria, Virginia, on Friday, March 20, 2026. (Courtesy Fairfax County Police Department)"
+  credit: "A vehicle connected to a man wanted on multiple felonies was stopped by police…"
 ---
 
 A 46-year-old man wanted on multiple felony charges was arrested Friday after a police chase that ended on the Capital Beltway in Alexandria, where officers say he sprayed them with bear repellent.

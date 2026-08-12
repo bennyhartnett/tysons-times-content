@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Council Member, 27, Lands Northern Virginia Leadership Honor"
+  caption: "Fairfax City Council member Anthony Amos (via campaign website)"
+  credit: "Fairfax City Council member Anthony Amos (via campaign website)"
 ---
 
 Fairfax City Council member Anthony Amos has been selected for Northern Virginia’s 2026 “40 Under 40,” recognizing his professional work and civic involvement across the region.

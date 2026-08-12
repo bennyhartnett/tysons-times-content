@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Memorial Avenue Restoration Will Bring Lane Closures Through May"
+  caption: "Memorial Avenue Restoration Will Bring Lane Closures Through May. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Historic preservation work along the Memorial Avenue Corridor will begin March 19, 2026, bringing temporary lane closures and pedestrian detours through mid- to late May.

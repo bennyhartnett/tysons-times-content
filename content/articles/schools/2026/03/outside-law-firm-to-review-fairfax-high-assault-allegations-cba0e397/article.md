@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Outside Law Firm to Review Fairfax High Assault Allegations"
+  caption: "Outside Law Firm to Review Fairfax High Assault Allegations. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has hired an outside law firm to conduct an independent review of serious physical assault allegations involving multiple students at Fairfax High School.

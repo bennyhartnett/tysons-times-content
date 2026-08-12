@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid with staff from Hybla Valley Elementary School with an inflatable leprechaun for Saint Patrick's DaY."
+  caption: "Fairfax Schools Celebrate Major Wins as Budget Decisions Loom. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools entered spring with major student honors, new evidence of reading progress and a packed schedule of school and community events, while county officials continued weighing a budget that provides most of the division’s funding.
