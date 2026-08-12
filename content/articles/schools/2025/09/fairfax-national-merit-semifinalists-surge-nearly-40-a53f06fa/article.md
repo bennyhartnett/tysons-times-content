@@ -1,0 +1,80 @@
+---
+title: "Fairfax National Merit Semifinalists Surge Nearly 40%"
+dek: "Fairfax County Public Schools has 262 students from 19 high schools among the 2026 National Merit Scholarship semifinalists, an increase of almost 40% from 2025."
+author: "Tysons Times Staff"
+location: "Fairfax"
+published: "2025-09-11"
+status: published
+type: standard
+tags:
+  - "schools"
+  - "fairfax"
+  - "environment"
+hero:
+  file: "hero.webp"
+  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
+  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
+  credit: "Tysons Times / AI illustration"
+---
+
+Fairfax County Public Schools has 262 students from 19 high schools among the 2026 National Merit Scholarship semifinalists, an increase of almost 40% from 2025.
+
+Thomas Jefferson High School for Science and Technology, which also serves as Northern Virginia’s Governor’s Regional School, leads the division with 113 semifinalists.
+
+The students may compete for more than 6,900 National Merit Scholarship awards collectively worth nearly $26 million. Winners are expected to be announced in spring 2026.
+
+Semifinalists must meet high academic standards and other requirements, including receiving a recommendation from a high school official, to advance to finalist status.
+
+Superintendent Michelle Reid said FCPS students, families and staff have much to be proud of, adding that the school division remains committed to raising expectations for excellence.
+
+## Semifinalists by school
+
+**Centreville High School:** Daniel Ahn, Kareen Aly, Isabel Jung, Sean Kim, Seo Yun Noh, Madelyn Regan and Phillip Tran.
+
+**Chantilly High School:** Nischal Annapareddy, Carrie Chia, Hee Theng Chong, Rahul Dham, Lillian Fry, Abhiram Gaddam, Hansika Gautama, Xavier Lewandowski, Kyle Li, Sahas Manchireddy, Jishnav Raj, Brian Son, Srimayi Sriram, Shivam Suri, Anna Tung, Jonathan Wang and Haorui Zhao.
+
+**Edison High School:** Malyha Bashar and Zoe Stanfield.
+
+**Fairfax High School:** Rohan Desai, Elias Falke, Henry Mann, Michael Stechl and Nathan Yoon.
+
+**Falls Church High School:** Jayden Nguyen.
+
+**Herndon High School:** James Tillotson and Nina Whale.
+
+**Justice High School:** Christian Ata.
+
+**Lake Braddock Secondary School:** Jack Doan, Vincent LaNave, Manas Puri, Sarah Roelke and Ronald Zhang.
+
+**Langley High School:** Oscar Anderson, Varun Bazaz, Abigail Davis, Michaela Frey, Matthew Han, Veda Jackson, Jarod Jiang, Eesha Kaushik, Yann Lam, Milan Le, Davanee Li, Michael Li, Sophie Li, Elizabeth Maclay, Madeleine Meng, Elliot Pomper, Risha Potluri, Paige Poulos, Syed Rishad, Aakriti Rustagi, Kailash Sastry, Dylan Thomas and Chenchang Zhang.
+
+**Madison High School:** Sahana Aravind, Liana Carr, Asha Jha, Margaret Kisner, Thomas Santonicola, Sara Yoshikawa, Tianxing Zhang and Andrew Zi.
+
+**Marshall High School:** Anna Bae, Jasper Deighton, Nicholas Dierbeck, Alexander Duff, Jordan Gee, Katherine Lee, Nathaniel Ni, Karen Owens, Ayesha Piracha, Sulaiman Piracha, Eloise Quan, Gavril Tefferi, Timothy Tu, David Wang and Yixiang Wang.
+
+**McLean High School:** Atticus Cheng, Marie Dalton, Julie Daniel, Joseph Daniels, Clement Ding, Annie Gao, Daniel Kim, Atul Kotamraju, Maximilian Lee, Nicholas Lee, Kyle Li, Edward Lin, Livia Nhan, Ravi Reddy, Alan Tang, Alan Wang, Pengmu Wang, Kalan Warusa, Tobin Wilson and Alicia Yau.
+
+**Oakton High School:** Ronav Akella, Jovina Arulandu, Kurshat Bilgin, Jaxen Bream, Sophie Burrell, Aaron Chen, Anna Chen, Ashley Chen, Kevin Geng, Caitlin Houston, Chunjie Huang, Linus Koepcke, Daniel Lee, Natalie Leong, Sihe Liu, Yuting Liu, Vishal Manikanden, Sibel Mehmed, Matthew Negron, Siddharth Pubbaraju, Arnav Sharma, Ryan Shin, Shawn Wu, Albert Xu and Claire Zhang.
+
+**South Lakes High School:** Ayush Tripathy.
+
+**Thomas Jefferson High School for Science and Technology:** Anusha Agarwal, Jacqueline Ake, Grace Amartuvshin, Rishi Anangi, Navya Arora, Romanchit Arora, Sugirthan Nagappan Arun, Grace Bai, Ananya Bhatt, Hrishi Bhooma, Sai Pratik Buddhana, Evan Cafaro, Jessica Chen, Joshua Cheng, Ariana Chidambar, Moira Clark, Rachel Du, Nikolas Fitzpatrick, Joseph George, Ria Goel, Finley Gordon, Haasini Govindu, Breanne Graham, Eric Guo, Sophia Guo, Harry Han, Tayne Han, Ibrahim Harchich, Kaleb Hickling, Rohan Honganoor, Holly Huang, Lulu Huang, Kyungsup Hwang, Theodore Hwang, Adarsh Iruvanti, Shaanvhi Jayaram, Soren Johnson, Kashi Kamat, Emily Kang, Aarushi Kanigicherla, Matthew Kao, Nathaniel Kerr, Justin Kim, Karis Kim, Petr Kisselev, Ethan Ko, Anant Krishna, Rushil Kukreja, Divya Kulkarni, Valerie Lai, Ethan Lee, Hanseon Lee, Brendan Li, Caroline Li, Ethan Li, Nathan Liu, Nikita Lugovoy,
+
+Justin Ma, Bowen MacGillivray, Esha Madamalla, Arnav Majeti, Ansh Malhotra, Zella Mantler, Payton Morris, Nived Nandakumar, Rishikesh Narayana, Kavin Narayanan, Noam Nikolich, Elijah O'Donoghue, Ethan O'Hara, Viola Pande, Anna Park, Joey Park, Aashritha Penumudi, Quynh-Chi Phan, Juliet Phillips, Bailey Piper, Aditya Pujari, Neil Ramarapu, Matthew Ryan, Hannah Ryu, Karanveer Sadiora, Ahana Sekhar, Grace Shaffer, Siwen Shen, Armaan Sheoran, Julia Shi, Julia Showers, Emilia Sloan, Abeni Smith, Micah Sorli, Grace Sprano, Sophia Stidman, Henry Stievater, Joseph Sultan, Alaina Szeto, Abhiraj Tiwari, Sarah Trainer, Rachel Truong, Luv Udeshi, Tanush Vuppala, Oliver Wang, Ruilin Wang, Aidan Wright, Olivia Wu, Eric Xie, Jayden Yang, Justin Yu, Ayla Zhang, Ella Zhang, Feiran Zhang, Jennifer Zhang and Max Zhao.
+
+**West Potomac High School:** Shaan Nagda.
+
+**West Springfield High School:** Timothy Campbell and Kennedy Leary.
+
+**Westfield High School:** Aurel Arockia Irudhaya Jay, Liam Danner, Rebecca Ewell, Manojna Kandlagunta, Salban Nithilaselvan and Jaeden Pangaribuan.
+
+**Woodson High School:** Kavya Balachandar, Aiden Brennan, Ethan Lee, Alexander Liu, James Ngo, Ada Qin, James Stansbery and Noah Yen-Goossens.
+
+## How the competition works
+
+More than 16,000 high school seniors nationwide were selected as semifinalists for 2026. The group represents less than 1% of U.S. high school seniors.
+
+More than 1.3 million juniors entered the program by taking the 2024 Preliminary SAT/National Merit Scholarship Qualifying Test, which serves as the initial screening exam.
+
+Semifinalists are the highest-scoring entrants in each state. Each state’s allocation is based on its share of the nation’s graduating seniors, with selections made by the National Merit Scholarship Corporation rather than school systems or individual schools.
+
+The 2026 awards will include $2,500 National Merit Scholarships, corporate-sponsored scholarships and college-sponsored scholarships.
