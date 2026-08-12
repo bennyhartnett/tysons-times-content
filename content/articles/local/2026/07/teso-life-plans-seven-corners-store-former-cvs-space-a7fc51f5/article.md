@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Shopfront under renovation with plywood siding, orange construction banners, and a cherry picker in the parking lot amid orange cones and barricades."
+  caption: "Teso Life is coming to Seven Corners (staff photo by Mary Stachyra Lopez)"
+  credit: "Teso Life is coming to Seven Corners (staff photo by Mary Stachyra Lopez)"
 ---
 
 Teso Life has applied to renovate a former CVS space at 6164 Arlington Boulevard in Seven Corners, a proposal that would bring the Asian lifestyle retailer’s second Virginia store to the area.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Three people sit on stage: a young man in a striped polo with backpack on the left, a woman in a red cardigan in the middle, and a man in a gray sweater speaking on the right."
+  caption: "Colby Chase, playing Evan Hansen, speaks with the grief-stricken parents of Connor Murphy, played by Katie Pond and Patrick Killoran. (Staff photo by Mary Stachyra Lopez)"
+  credit: "Mary Stachyra Lopez / FFXnow"
 ---
 
 Reston Community Players and South Lakes High School joined forces on a summer production of “Dear Evan Hansen” designed to give students and recent Fairfax County Public Schools graduates practical experience alongside adult theater practitioners.

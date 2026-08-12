@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Sign for Crossroads Baptist Church mounted on a brick wall in front of a parking lot with cones and trees."
+  caption: "A sign for Crossroads Baptist Church in Bailey’s Crossroads (via Google Maps)"
+  credit: "A sign for Crossroads Baptist Church in Bailey’s Crossroads (via Google Maps)"
 ---
 
 Pennsylvania State Police have charged the senior pastor of a Bailey’s Crossroads church with offenses stemming from allegations that he repeatedly sent sexually explicit photographs to a teenage boy.

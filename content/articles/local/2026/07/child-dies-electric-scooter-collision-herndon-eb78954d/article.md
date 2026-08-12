@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Police officer stands at a podium with multiple microphones in Fairfax County Public Safety Headquarters lobby."
+  caption: "Captain Harold Morris, Assistant Traffic Division Commander, provides an update on a fatal crash involving a minivan and a child on an electric scooter at a press conference on July 24, 2026 (Screenshot via FCPD)"
+  credit: "FFXnow"
 ---
 
 A 9-year-old boy died after the electric scooter he was riding collided with a minivan near Highland Mews Court and Madden Court in the Herndon area, according to Fairfax County police.

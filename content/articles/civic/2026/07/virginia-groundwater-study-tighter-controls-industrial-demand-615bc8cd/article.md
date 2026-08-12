@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FILE – Cars drive past data centers in Ashburn, Virginia, on July 16, 2023"
+  caption: "FILE – Cars drive past data centers in Ashburn, Virginia, on July 16, 2023 (AP Photo/Ted Shaffrey, File)"
+  credit: "FFXnow"
 ---
 
 Virginia’s eastern coastal plain has limited groundwater available for new industrial users, and aquifer levels are projected to decline, according to a state study released July 23 after months of delay.

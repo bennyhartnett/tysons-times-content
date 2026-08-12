@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax students put money skills to work at Oak Hill’s Money Camp"
+  caption: "Money Camp gives students in Fairfax County, Virginia, a hands-on lesson in personal finance through a classroom town called Cent City."
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County students practiced the financial responsibilities of adult life during a five-day Money Camp at Oak Hill Elementary School in Herndon.

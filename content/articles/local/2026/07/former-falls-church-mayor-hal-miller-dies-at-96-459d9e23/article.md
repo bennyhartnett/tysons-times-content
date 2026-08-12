@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Former Falls Church Mayor Hal Miller, Korean War Veteran, Dies at 96"
+  caption: "Former Falls Church Mayor Hal Miller, Korean War Veteran, Dies at 96. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Harold "Hal" Lister Miller, who shaped Falls Church through two decades of service as City Council member, mayor and Commissioner of the Revenue, died peacefully July 15 at Spring Arbor of Fredericksburg. He was 96.

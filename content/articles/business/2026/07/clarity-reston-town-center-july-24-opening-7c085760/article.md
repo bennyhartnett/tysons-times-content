@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Facade of Clarity New American Restaurant with glass doors, blue sign, and potted plants outside."
+  caption: "Clarity at Reston Town Center (staff photo by Angela Woolsey)"
+  credit: "Clarity at Reston Town Center (staff photo by Angela Woolsey)"
 ---
 
 Clarity plans to open its second restaurant at 11 a.m. July 24 at Reston Town Center, following permitting delays that pushed the debut back from spring.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County Courthouse"
+  caption: "Fairfax County Courthouse (file photo)"
+  credit: "Fairfax County Courthouse (file photo)"
 ---
 
 A Fairfax County Circuit Court judge sentenced Terence Bridgett Jr. to 70 years in prison on July 24 after he pleaded guilty to sexually assaulting Fayra Bonilla-Rubi and concealing her body.

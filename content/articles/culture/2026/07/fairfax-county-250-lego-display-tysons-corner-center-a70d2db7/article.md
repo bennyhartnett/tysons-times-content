@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "LEGO display showing a town scene with a brick house and miniature structures, and a large sign reading 'FAIRFAX COUNTY VA 250' in blue and red bricks"
+  caption: "Northern Virginia Lego User Group made an installation of Fairfax County landmarks for the U.S. 250th anniversary commemorations, now on display at Tysons Corner Center (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 A LEGO display celebrating Fairfax County’s 250th anniversary is now on view at Tysons Corner Center, bringing landmarks and everyday scenes from all nine magisterial districts into one installation.
