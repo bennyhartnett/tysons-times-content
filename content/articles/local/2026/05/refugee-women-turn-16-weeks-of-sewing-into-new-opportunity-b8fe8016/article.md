@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Refugee Women Turn 16 Weeks of Sewing Into New Opportunity"
+  caption: "Refugee Women Turn 16 Weeks of Sewing Into New Opportunity. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fifteen refugee women marked the end of a 16-week sewing course by wearing handmade dresses, accepting certificates and taking home new sewing machines.

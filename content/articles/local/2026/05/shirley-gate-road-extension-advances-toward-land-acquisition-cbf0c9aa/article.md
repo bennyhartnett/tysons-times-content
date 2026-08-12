@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Shirley Gate Road Extension Advances Toward Land Acquisition"
+  caption: "Shirley Gate Road Extension Advances Toward Land Acquisition."
+  credit: "Fairfax County Department of Transportation"
 ---
 
 Fairfax County transportation officials will hold a public meeting June 1 to explain the latest design and land acquisition plans for the Shirley Gate Road Extension Project.

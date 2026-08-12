@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Puppies Take Over McLean Grocery Lot for Adoption Push"
+  caption: "Puppies Take Over McLean Grocery Lot for Adoption Push. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Crates filled with puppies rolled into the Giant parking lot on Chain Bridge Road on May 17, turning an ordinary grocery run into an opportunity to meet rescued dogs seeking permanent homes.

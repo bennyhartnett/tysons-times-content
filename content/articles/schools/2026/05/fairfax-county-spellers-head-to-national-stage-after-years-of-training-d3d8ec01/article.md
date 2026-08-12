@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Fairfax County Spelling Bee 2026 winner Laasya Mohan, wearing a pink shirt, stands in a school office with an armchair, a table with a book on display, and a bookshelf with a glob…"
+  caption: "Fairfax County Spelling Bee 2026 winner Laasya Mohan, a fourth grader at Floris Elementary School, and runner-up Aadhya Vijayakumar, an eighth grade student at Rocky Run Middle School, with their trophies (photo by Kare…"
+  credit: "Fairfax County Spelling Bee 2026 winner Laasya Mohan, a fourth grader at Floris…"
 ---
 
 Two Fairfax County students will compete against 246 other champions at the Scripps National Spelling Bee in Washington, D.C., following years of preparation and success in local competitions.

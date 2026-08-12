@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Collage Show Turns IKEA Table Legs Into Text-Filled Art"
+  caption: "Reston Collage Show Turns IKEA Table Legs Into Text-Filled Art. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Nine DMV-area artists will transform words, letters and even IKEA table legs into collaborative artwork during a June 6-28 exhibition at Reston Art Gallery and Studios on Lake Anne Plaza.

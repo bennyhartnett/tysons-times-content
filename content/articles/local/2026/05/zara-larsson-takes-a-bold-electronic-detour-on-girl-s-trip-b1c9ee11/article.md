@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Zara Larsson Takes a Bold Electronic Detour on ‘Girl’s Trip’"
+  caption: "Zara Larsson Takes a Bold Electronic Detour on ‘Girl’s Trip’. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Zara Larsson is getting an early start on summer with *Midnight Sun: Girl’s Trip*, a deluxe album released May 1 that pairs 10 reinvented songs with all-female collaborations alongside their original versions.

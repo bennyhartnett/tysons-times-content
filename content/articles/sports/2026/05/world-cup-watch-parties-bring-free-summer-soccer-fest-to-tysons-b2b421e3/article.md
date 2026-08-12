@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for World Cup Watch Parties Bring Free Summer Soccer Fest to Tysons"
+  caption: "World Cup Watch Parties Bring Free Summer Soccer Fest to Tysons. Image from Tysons Community Alliance News."
+  credit: "Tysons Community Alliance News"
 ---
 
 Tysons will become a regional gathering place for soccer fans this summer as COPA Tysons returns with free public watch parties for the 2026 FIFA World Cup.

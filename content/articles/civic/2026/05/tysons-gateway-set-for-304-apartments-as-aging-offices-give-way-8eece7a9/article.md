@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Gateway Set for 304 Apartments as Aging Offices Give Way"
+  caption: "Approved design of 1950 Old Gallows Road residential project (via Torti Gallas and Partners/Fairfax County)"
+  credit: "Approved design of 1950 Old Gallows Road residential project (via Torti Gallas…"
 ---
 
 Fairfax County supervisors unanimously advanced a plan Tuesday, May 19, to replace an aging Tysons office building with 304 apartments, reshaping a prominent gateway into the area.

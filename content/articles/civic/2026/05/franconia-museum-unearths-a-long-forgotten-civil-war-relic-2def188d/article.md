@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Franconia Museum Unearths a Long-Forgotten Civil War Relic"
+  caption: "Franconia Museum Unearths a Long-Forgotten Civil War Relic. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Franconia Museum has moved into a new government center at 7130 Silver Lake Blvd. in Kingstowne, bringing the community’s historic artifacts into a newly designed space.

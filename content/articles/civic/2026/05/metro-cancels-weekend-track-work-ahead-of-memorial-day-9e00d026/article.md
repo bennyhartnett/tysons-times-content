@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Cancels Weekend Track Work Ahead of Memorial Day"
+  caption: "Metro Cancels Weekend Track Work Ahead of Memorial Day."
+  credit: "WTOP"
 ---
 
 Metro has canceled previously announced track work on the Orange and Silver lines for Saturday and Sunday, May 23 and 24, because of weather. All six rail lines are expected to provide normal service throughout the weekend.
