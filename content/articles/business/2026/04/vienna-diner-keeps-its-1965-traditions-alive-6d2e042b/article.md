@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Diner Keeps Its 1965 Traditions Alive"
+  caption: "Vienna Diner Keeps Its 1965 Traditions Alive. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 The Virginian Restaurant has served generations of diners since opening in downtown Vienna in 1965, maintaining its identity as a neighborhood gathering place as Northern Virginia has grown around it.

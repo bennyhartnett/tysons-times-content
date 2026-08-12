@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Redistricting Vote Could Put Mapmaking Back in Lawmakers’ Hands"
+  caption: "\"We’ve all seen those twisted, almost cartoon-like districts that stretch across the map in absurd shapes....\" Image composite courtesy 5NBCDFW and WJLA."
+  credit: "Falls Church Independent"
 ---
 
 Virginia voters will decide Tuesday, April 21, whether to approve a referendum that could reshape the commonwealth’s U.S. House districts for at least five years, including new boundaries for the November election.

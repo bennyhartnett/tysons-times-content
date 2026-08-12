@@ -11,9 +11,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for New Listings Surge as Buyers Pull Back Across the Mid-Atlantic"
+  caption: "New Listings Surge as Buyers Pull Back Across the Mid-Atlantic. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 New home listings rebounded across the Mid-Atlantic during the week ending April 12, 2026, but buyers continued to retreat amid higher interest rates and economic uncertainty.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Burke Remodeler Nears 40 Years With Premium Design-Build Approach"
+  caption: "Burke Remodeler Nears 40 Years With Premium Design-Build Approach. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Sun Design Remodeling Specialists has spent nearly four decades renovating homes across Northern Virginia and the broader Washington region. Operating continuously since 1988, the architectural design-build firm focuses on reshaping homes through changes to light, space and layout while limiting disruption for residents.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Multilingual Students Gain Confidence Through Targeted Support"
+  caption: "Multilingual Students Gain Confidence Through Targeted Support."
+  credit: "Fairfax County Public Schools"
 ---
 
 Fairfax County Public Schools is combining specialized English-language instruction with standard classroom lessons to help multilingual learners develop academic language and greater confidence.

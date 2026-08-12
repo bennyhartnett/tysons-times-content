@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Divan Brings an Upscale Persian Dining Experience to McLean"
+  caption: "Divan Brings an Upscale Persian Dining Experience to McLean. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Divan Restaurant offers Persian-Mediterranean cuisine in an intimate, polished setting at 1313 Old Chain Bridge Road in McLean.

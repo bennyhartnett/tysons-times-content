@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Former Virginia Lt. Gov. Kills Wife, Himself in Annandale Home"
+  caption: "Fairfax County police secure the home of former Virginia Lt. Gov. Justin Fairfax, in Annandale, Va., Thursday, April 16, 2026. (AP Photo/Cliff Owen)"
+  credit: "Fairfax County police secure the home of former Virginia Lt. Gov. Justin Fairfa…"
 ---
 
 Former Virginia Lt. Gov. Justin Fairfax fatally shot his wife before killing himself inside their Annandale home early Thursday, April 16, Fairfax County police said.

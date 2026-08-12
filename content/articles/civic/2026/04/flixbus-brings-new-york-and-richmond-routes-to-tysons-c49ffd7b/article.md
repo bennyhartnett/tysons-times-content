@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FlixBus Brings New York and Richmond Routes to Tysons"
+  caption: "A FlixBus on the road (courtesy FlixBus)"
+  credit: "A FlixBus on the road (courtesy FlixBus)"
 ---
 
 Tysons has become FlixBus’ first stop in Fairfax County, adding direct intercity bus service to Richmond and the Bethesda-to-New York City corridor.
