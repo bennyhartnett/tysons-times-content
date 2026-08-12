@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Starts Contactless Parking Payments at Addison Road"
+  caption: "Metro Starts Contactless Parking Payments at Addison Road. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro has begun rolling out contactless payments at its parking facilities, starting with Addison Road station.

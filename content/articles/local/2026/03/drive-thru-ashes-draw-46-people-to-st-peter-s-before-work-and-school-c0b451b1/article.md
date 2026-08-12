@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Drive-Thru Ashes Draw 46 People to St. Peter’s Before Work and School"
+  caption: "Drive-Thru Ashes Draw 46 People to St. Peter’s Before Work and School. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A roadside invitation from St. Peter’s Episcopal Church brought 46 people to its Glebe Road driveway for ashes and a blessing on Ash Wednesday morning.

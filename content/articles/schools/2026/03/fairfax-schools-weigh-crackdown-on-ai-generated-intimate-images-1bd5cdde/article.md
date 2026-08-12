@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Schools Weigh Crackdown on AI-Generated Intimate Images"
+  caption: "Fairfax Schools Weigh Crackdown on AI-Generated Intimate Images. Openly licensed thematic image selected for this article."
+  credit: "TheEgdeLord / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools is considering new disciplinary rules for students who create or share intimate images, including realistic fabrications generated with artificial intelligence.

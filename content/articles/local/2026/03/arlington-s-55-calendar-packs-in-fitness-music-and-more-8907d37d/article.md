@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Arlington’s 55+ Calendar Packs In Fitness, Music and More"
+  caption: "Arlington’s 55+ Calendar Packs In Fitness, Music and More. Openly licensed thematic image selected for this article."
+  credit: "U.S. Navy photo by Mass Communication Specialist 3rd Class Aaron Holt / Public…"
 ---
 
 Arlington’s 55+ Programs are offering a full slate of activities, from retirement planning and Beatles sing-alongs to fitness classes, creative workshops and St. Patrick’s Day celebrations.

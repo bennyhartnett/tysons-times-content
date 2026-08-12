@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Acclaimed D.C. Chef Brings Vietnamese-Cajun Flavors to Tysons"
+  caption: "Beef pho from Chao Ban (courtesy of Rey Lopez)"
+  credit: "Beef pho from Chao Ban (courtesy of Rey Lopez)"
 ---
 
 Chao Ban, a new fast-casual restaurant blending Vietnamese cuisine with Louisiana influences, is scheduled to open March 10 at Tysons Galleria.

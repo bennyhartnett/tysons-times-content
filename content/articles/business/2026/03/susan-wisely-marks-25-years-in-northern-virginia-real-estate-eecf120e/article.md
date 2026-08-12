@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Susan Wisely Marks 25 Years in Northern Virginia Real Estate"
+  caption: "Susan Wisely Marks 25 Years in Northern Virginia Real Estate. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Susan Wisely reached 25 years in real estate in 2025, marking a career that has included more than $36 million in annual sales volume and a client base built largely through repeat business and referrals.

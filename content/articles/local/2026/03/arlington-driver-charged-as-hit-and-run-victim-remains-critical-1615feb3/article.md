@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Arlington Driver Charged as Hit-and-Run Victim Remains Critical"
+  caption: "Arlington Driver Charged as Hit-and-Run Victim Remains Critical. Openly licensed thematic image selected for this article."
+  credit: "John Robert McPherson / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 A 25-year-old Arlington woman faces a felony charge after a pedestrian was critically injured in an early-morning hit-and-run crash on Arlington Boulevard on March 1.

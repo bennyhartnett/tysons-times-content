@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Festival Brings 100 Years of Black History to Life"
+  caption: "Arlington Festival Brings 100 Years of Black History to Life. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington celebrated a century of Black history on Feb. 21 as the Feel the Heritage Festival filled the gymnasium at Dr. Charles L. Drew Elementary School with performances, food and hands-on activities.

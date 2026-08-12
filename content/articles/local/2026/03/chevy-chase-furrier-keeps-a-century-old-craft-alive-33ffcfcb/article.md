@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Chevy Chase Furrier Keeps a Century-Old Craft Alive"
+  caption: "Chevy Chase Furrier Keeps a Century-Old Craft Alive. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Miller’s Furs has remained a fixture on Leland Street in Chevy Chase since 1921, preserving traditional furrier services while adapting older garments for modern wardrobes.
