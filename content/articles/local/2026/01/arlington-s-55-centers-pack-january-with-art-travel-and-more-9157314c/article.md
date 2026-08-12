@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington’s 55+ Centers Pack January With Art, Travel and More"
+  caption: "Arlington’s 55+ Centers Pack January With Art, Travel and More."
+  credit: "Atria Senior Living"
 ---
 
 Arlington’s 55+ Programs will offer a packed January schedule featuring art classes, day trips, live music, legal guidance, health programs and social gatherings.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Police See No Trust Drop Amid Immigration Crackdown"
+  caption: "This photo taken Sept. 25, 2025, in Jackson, Miss. shows a blank screen on a phone while making a 911…"
+  credit: "This photo taken Sept. 25, 2025, in Jackson, Miss. shows a blank screen on a ph…"
 ---
 
 Fairfax County police have found no evidence that the Trump administration’s increased federal immigration enforcement has eroded local trust in the department, Police Chief Kevin Davis said.

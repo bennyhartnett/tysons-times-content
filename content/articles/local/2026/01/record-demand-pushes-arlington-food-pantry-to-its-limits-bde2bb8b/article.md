@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Record Demand Pushes Arlington Food Pantry to Its Limits"
+  caption: "Record Demand Pushes Arlington Food Pantry to Its Limits. Openly licensed thematic image selected for this article."
+  credit: "USDAgov / Public domain / Wikimedia Commons"
 ---
 
 The Arlington Food Assistance Center expects demand to climb again in 2026 after serving a record number of families last year, leaving the organization under growing financial and space pressures.

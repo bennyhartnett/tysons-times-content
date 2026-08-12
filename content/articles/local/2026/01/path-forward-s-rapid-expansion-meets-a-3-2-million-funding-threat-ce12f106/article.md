@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Path Forward’s Rapid Expansion Meets a $3.2 Million Funding Threat"
+  caption: "Path Forward’s Rapid Expansion Meets a $3.2 Million Funding Threat. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Path Forward expanded dramatically in 2025, but CEO Betsy Frantz said looming federal changes could put $3.2 million in housing funds at risk and force some residents into different programs in 2026.

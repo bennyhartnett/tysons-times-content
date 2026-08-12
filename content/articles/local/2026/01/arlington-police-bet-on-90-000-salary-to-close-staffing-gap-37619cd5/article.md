@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Police Bet on $90,000 Salary to Close Staffing Gap"
+  caption: "Arlington Police Bet on $90,000 Salary to Close Staffing Gap. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington County police enter 2026 facing a stubborn shortage of 70 officers, but a new region-leading starting salary and a recently graduated academy class could help the department begin rebuilding its ranks.

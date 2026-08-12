@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Book Programs Rescue Thousands of Volumes From Landfills"
+  caption: "New Legacy Books collection bin (courtesy Fairfax County Department of Environmental Services and Public Works)"
+  credit: "New Legacy Books collection bin (courtesy Fairfax County Department of Environm…"
 ---
 
 Fairfax County is giving unwanted books another chapter through a new reuse and recycling pilot that could generate money for local recycling services while keeping more waste out of landfills.

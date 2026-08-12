@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Council Keeps Hardi as Mayor, Elevates Downs"
+  caption: "Mayor Letty Hardi (left) was formally elected by the F.C. City Council Jan. 5 to a mayoral second term. The City Council also selected incumbent Council Member Laura Downs (right) to serve as Vice Mayor. Courtesy City o…"
+  credit: "Falls Church Independent"
 ---
 
 The Falls Church City Council selected Letty Hardi to continue as mayor and elected Laura Downs as vice mayor during its Jan. 5 meeting.

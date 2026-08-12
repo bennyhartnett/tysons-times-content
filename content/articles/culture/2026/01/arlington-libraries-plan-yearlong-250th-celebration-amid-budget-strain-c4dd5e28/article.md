@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Libraries Plan Yearlong 250th Celebration Amid Budget Strain"
+  caption: "Arlington Libraries Plan Yearlong 250th Celebration Amid Budget Strain. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington Public Library is preparing a year of events marking the nation’s 250th anniversary while confronting an uncertain budget climate and broader concerns about efforts to reshape public narratives.

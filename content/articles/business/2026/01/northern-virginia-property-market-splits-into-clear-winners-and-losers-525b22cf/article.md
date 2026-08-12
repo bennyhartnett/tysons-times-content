@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Property Market Splits Into Clear Winners and Losers"
+  caption: "Northern Virginia Property Market Splits Into Clear Winners and Losers. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Northern Virginia’s commercial real estate market entered 2026 with sharp differences between sectors. Industrial and data center properties continue to draw strong demand, neighborhood retail remains resilient, and the office market increasingly favors modern buildings over aging inventory.

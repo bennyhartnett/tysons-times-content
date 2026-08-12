@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Camel Steals the Show at Mount Olivet’s Live Nativity"
+  caption: "Camel Steals the Show at Mount Olivet’s Live Nativity. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Mount Olivet Methodist Church’s live Nativity drew an energetic crowd to the churchyard late Sunday afternoon, Dec. 21, with one towering guest quickly becoming the main attraction.
