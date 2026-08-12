@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Morning Dew Reveals the Bowl and Doily Spider’s Hidden World"
+  caption: "Morning Dew Reveals the Bowl and Doily Spider’s Hidden World. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Morning dew can expose an intricate world that usually hides in plain sight: the delicate, two-tiered web of the Bowl and Doily Spider (*Frontinella pyramitela*).

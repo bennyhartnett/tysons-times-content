@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Oral Surgeon Puts Opioid-Conscious Care in the Spotlight"
+  caption: "McLean Oral Surgeon Puts Opioid-Conscious Care in the Spotlight. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Michael Timothy Gocke has spent more than 15 years treating oral and maxillofacial surgery patients in Northern Virginia, with work spanning dental implants, wisdom teeth removal, corrective jaw surgery and facial reconstruction.

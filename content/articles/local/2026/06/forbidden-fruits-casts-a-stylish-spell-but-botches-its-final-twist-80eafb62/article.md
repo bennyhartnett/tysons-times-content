@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Forbidden Fruits Casts a Stylish Spell but Botches Its Final Twist"
+  caption: "Forbidden Fruits Casts a Stylish Spell but Botches Its Final Twist. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *Forbidden Fruits* is a chaotic, visually distinctive teen drama that may delight viewers with its excess while leaving them unsure what it ultimately wants to say.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Six Computer Games McLean Students Keep Coming Back To"
+  caption: "Six Computer Games McLean Students Keep Coming Back To. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Computer games have become a familiar part of student life at McLean, offering quick entertainment between assignments—or during class. Their effect on learning remains debatable, but their popularity is unmistakable.

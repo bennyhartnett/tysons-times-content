@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Springfield Town Center Loses JCPenney After More Than 50 Years"
+  caption: "Springfield Town Center Loses JCPenney After More Than 50 Years. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 JCPenney closed its Springfield Town Center store in late May, leaving a major vacancy at a shopping center where the department store had operated since 1973.

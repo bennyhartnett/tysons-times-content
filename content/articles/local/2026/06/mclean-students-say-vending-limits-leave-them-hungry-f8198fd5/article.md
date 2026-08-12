@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Say Vending Limits Leave Them Hungry"
+  caption: "McLean Students Say Vending Limits Leave Them Hungry. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School students say restricted vending machine hours, low stock and limited snack choices leave them without reliable access to food during much of the school day.

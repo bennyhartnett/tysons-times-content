@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Michael Jackson Biopic Thrills but Leaves Key Stories Untold"
+  caption: "Michael Jackson Biopic Thrills but Leaves Key Stories Untold. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *Michael* delivers an emotional and visually striking portrait of Michael Jackson, powered by convincing performances and electrifying recreations of his music. Although the first part of the long-awaited biopic omits important people and events, its strongest scenes capture both the superstar onstage and the isolated person behind the fame.

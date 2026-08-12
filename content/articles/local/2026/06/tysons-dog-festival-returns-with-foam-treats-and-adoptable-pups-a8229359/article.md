@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Dog Festival Returns With Foam, Treats and Adoptable Pups"
+  caption: "Tysons Dog Festival Returns With Foam, Treats and Adoptable Pups. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Tysons Corner Center will turn PenFed Plaza into a playground for dogs and their owners when Paws on the Plaza returns June 6.

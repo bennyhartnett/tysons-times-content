@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Orthodontist Marks Three Decades of Specialized Smile Care"
+  caption: "Vienna Orthodontist Marks Three Decades of Specialized Smile Care. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Allen S. Garai has practiced orthodontics in Northern Virginia since 1995, treating children, teenagers and adults from offices in Vienna and Great Falls.

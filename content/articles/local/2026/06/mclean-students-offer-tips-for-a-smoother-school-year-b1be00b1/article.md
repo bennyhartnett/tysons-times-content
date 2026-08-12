@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "The mystery Fool Me Once, sat at number one on Netflix's top 10 chart for two consecutive weeks, easily making it one of the streaming service's most popular shows of the month. T…"
+  caption: "McLean Students Offer Tips for a Smoother School Year. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Students preparing to enter ninth or 10th grade at McLean High School are the focus of the second episode of “Hallway Headlines,” released June 1, 2026.
