@@ -12,10 +12,10 @@ tags:
   - "local government"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Alexandria’s Final Market Square Tree Lighting Draws Hundreds"
+  caption: "Alexandria’s Final Market Square Tree Lighting Draws Hundreds. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Hundreds bundled against chilly weather on Nov. 22 to welcome Santa and celebrate Alexandria’s annual Christmas tree lighting in Market Square.

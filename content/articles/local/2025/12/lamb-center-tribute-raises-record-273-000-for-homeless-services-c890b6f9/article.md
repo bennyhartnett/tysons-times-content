@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Lamb Center Tribute Raises Record $273,000 for Homeless Services"
+  caption: "Lamb Center Tribute Raises Record $273,000 for Homeless Services. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Lamb Center honored more than three decades of community service while raising a record $273,000 during its annual Hope and a Future Banquet.

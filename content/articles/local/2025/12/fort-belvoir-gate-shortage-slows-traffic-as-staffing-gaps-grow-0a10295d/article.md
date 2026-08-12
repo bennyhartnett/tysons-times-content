@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fort Belvoir Gate Shortage Slows Traffic as Staffing Gaps Grow"
+  caption: "Fort Belvoir Gate Shortage Slows Traffic as Staffing Gaps Grow. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Drivers entering Fort Belvoir are facing longer lines and restricted gate hours as staffing shortages, hiring obstacles and ongoing repairs disrupt access to the military installation.

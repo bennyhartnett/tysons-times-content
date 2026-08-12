@@ -11,10 +11,10 @@ tags:
   - "development"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Student using computer"
+  caption: "Screens at Bedtime Can Disrupt Children’s Sleep and Brain Development. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Sleep and screen habits can have lasting effects on children’s brain health. During childhood and adolescence, the brain develops rapidly as young people build the cognitive and social-emotional skills needed for learning, mental well-being and adulthood.

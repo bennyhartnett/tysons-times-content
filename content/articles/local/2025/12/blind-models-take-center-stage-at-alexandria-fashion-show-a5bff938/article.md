@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Blind Models Take Center Stage at Alexandria Fashion Show"
+  caption: "Blind Models Take Center Stage at Alexandria Fashion Show. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Blind and visually impaired models commanded the runway Nov. 1 as the IMperfeKtlyMade Foundation held its third annual fashion show at The Garden Alexandria on Eisenhower Avenue.

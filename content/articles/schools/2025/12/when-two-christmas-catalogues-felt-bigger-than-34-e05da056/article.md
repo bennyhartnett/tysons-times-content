@@ -11,10 +11,10 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for When Two Christmas Catalogues Felt Bigger Than 34"
+  caption: "\"We received only two Christmas catalogues each year: Sears and Spiegel’s....\" Courtesy WhizzPast."
+  credit: "Falls Church Independent"
 ---
 
 Warnings about toy shortages and calls to shop early seem hard to square with the flood of catalogues already filling my mailbox. I have counted 34 so far, and the season is still young.

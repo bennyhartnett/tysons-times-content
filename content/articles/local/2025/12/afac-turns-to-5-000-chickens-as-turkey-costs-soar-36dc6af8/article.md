@@ -12,10 +12,10 @@ tags:
   - "local government"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for AFAC Turns to 5,000 Chickens as Turkey Costs Soar"
+  caption: "AFAC Turns to 5,000 Chickens as Turkey Costs Soar. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington Food Assistance Center is distributing 5,000 chickens for Thanksgiving week after the price of traditional turkeys threatened to push its holiday food bill to $165,000.

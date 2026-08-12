@@ -12,10 +12,10 @@ tags:
   - "local government"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Alexandria Turkey Trot Hits 50-Year Milestone With 6,000-Strong Tradition"
+  caption: "Alexandria Turkey Trot Hits 50-Year Milestone With 6,000-Strong Tradition. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Thousands of runners, walkers, families and dogs filled Alexandria’s Del Ray neighborhood for the 50th annual Alexandria Turkey Trot, marking half a century of Thanksgiving Day competition and community support.

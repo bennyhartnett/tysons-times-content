@@ -12,10 +12,10 @@ tags:
   - "business"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for At Just 10, Zoey Robinson Has Already Written 10 Books"
+  caption: "At Just 10, Zoey Robinson Has Already Written 10 Books. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Zoey Robinson is only 10 years old, but she has already completed 10 books—and she is preparing to begin another.

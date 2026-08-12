@@ -12,10 +12,10 @@ tags:
   - "business"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Belle View’s New Plant Shop Will Even Babysit Your Greenery"
+  caption: "Belle View’s New Plant Shop Will Even Babysit Your Greenery. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A new Belle View Shopping Center store is offering more than houseplants: Genius Genus will repot, deliver and even care for customers’ plants while they are away.
