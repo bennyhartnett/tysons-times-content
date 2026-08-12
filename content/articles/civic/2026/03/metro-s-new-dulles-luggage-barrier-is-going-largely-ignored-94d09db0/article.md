@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a bollard blocking an escalator"
+  caption: "A safety initiative at the Dulles International Airport Metro station, featuring a large yellow sign and a bollard placed at the base of several escalators."
+  credit: "A safety initiative at the Dulles International Airport Metro station, featurin…"
 ---
 
 Metro is testing a new safety measure at Dulles International Airport, but travelers with luggage are mostly walking past it and boarding the escalators anyway.

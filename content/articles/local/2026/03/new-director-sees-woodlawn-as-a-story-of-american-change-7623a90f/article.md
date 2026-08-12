@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for New Director Sees Woodlawn as a Story of American Change"
+  caption: "New Director Sees Woodlawn as a Story of American Change. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Woodlawn Mansion and the Pope-Leighey House have a new executive director who wants visitors to explore how American life—and people’s capacity for change—can be understood through the two historic homes.

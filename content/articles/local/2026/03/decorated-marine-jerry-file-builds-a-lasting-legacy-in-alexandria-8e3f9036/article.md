@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Decorated Marine Jerry File Builds a Lasting Legacy in Alexandria"
+  caption: "Decorated Marine Jerry File Builds a Lasting Legacy in Alexandria. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Gerald “Jerry” File has carried a commitment to service from Alexandria’s Del Ray neighborhood to the Marine Corps and back home again, where he has spent decades supporting young people, veterans and some of the city’s best-known civic institutions.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Easter Events Take Over Northern Virginia This Spring"
+  caption: "Easter Events Take Over Northern Virginia This Spring. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Northern Virginia is filling its spring calendar with Easter Bunny visits, egg hunts, pool adventures and family festivals from March 6 through April 5. Events range from free neighborhood gatherings to ticketed hunts, with several requiring advance registration.

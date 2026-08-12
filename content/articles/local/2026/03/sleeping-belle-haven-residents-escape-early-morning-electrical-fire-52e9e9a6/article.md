@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sleeping Belle Haven Residents Escape Early-Morning Electrical Fire"
+  caption: "Sleeping Belle Haven Residents Escape Early-Morning Electrical Fire. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Two people escaped unharmed after an electrical fire broke out inside the wall of their Belle Haven home while they slept early Wednesday, March 4.

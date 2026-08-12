@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Chairman of the Fairfax County Board of Supervisors Jeff McKay speaks"
+  caption: "Chairman of the Fairfax County Board of Supervisors Jeff McKay speaks during an event on Aug. 22, 2023 at Dulles International Airport. (Photo by Alex Wong/Getty Images)"
+  credit: "Chairman of the Fairfax County Board of Supervisors Jeff McKay speaks during an…"
 ---
 
 Fairfax County voters would not be asked to decide the fate of a proposed casino if pending Virginia legislation becomes law in its current form, Board of Supervisors Chairman Jeff McKay said.

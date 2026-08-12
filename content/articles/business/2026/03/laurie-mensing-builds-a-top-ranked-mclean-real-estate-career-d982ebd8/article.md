@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Laurie Mensing Builds a Top-Ranked McLean Real Estate Career"
+  caption: "Laurie Mensing Builds a Top-Ranked McLean Real Estate Career. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Laurie Mensing has spent more than two decades building a real estate career in Northern Virginia, becoming a high-volume agent in McLean and ranking among the top 1% of agents nationwide.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best Cleaning Service Vote Nears Deadline"
+  caption: "Fairfax County’s Best Cleaning Service Vote Nears Deadline. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents have two weeks to vote for their favorite local cleaning service as spring approaches and seasonal cleaning moves onto the agenda for homes and businesses.

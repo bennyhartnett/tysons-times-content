@@ -11,9 +11,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for D.C.-Area Housing Market Slows as Buyers and Sellers Pull Back"
+  caption: "D.C.-Area Housing Market Slows as Buyers and Sellers Pull Back. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Housing activity across the Mid-Atlantic remained subdued during the week ending March 1, 2026, as buyers scheduled fewer showings, sellers added fewer listings and homes took longer to reach contract.

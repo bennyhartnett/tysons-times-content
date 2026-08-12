@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Oakton Residents Ring In Year of the Horse With Dance and Lanterns"
+  caption: "Oakton Residents Ring In Year of the Horse With Dance and Lanterns. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Residents of Sunrise at Hunter Mill in Oakton marked the Lunar New Year on Saturday, Feb. 28, with an afternoon of dance, crafts and film.
