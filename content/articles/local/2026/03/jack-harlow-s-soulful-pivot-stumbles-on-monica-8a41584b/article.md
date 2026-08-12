@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Jack Harlow’s Soulful Pivot Stumbles on ‘Monica’"
+  caption: "Jack Harlow’s Soulful Pivot Stumbles on ‘Monica’. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Jack Harlow trades energetic rap for vulnerability and R&B on *Monica*, but the experiment often feels more like a transition than a finished transformation.

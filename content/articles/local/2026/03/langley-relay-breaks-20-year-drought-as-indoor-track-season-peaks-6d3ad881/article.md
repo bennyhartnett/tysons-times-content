@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Langley Relay Breaks 20-Year Drought as Indoor Track Season Peaks"
+  caption: "Langley Relay Breaks 20-Year Drought as Indoor Track Season Peaks. Image from The Saxon Scope — Langley High School."
+  credit: "The Saxon Scope — Langley High School"
 ---
 
 Langley’s indoor track and field team closed the 2025-2026 season with a third-place district finish, state qualifiers and a regional relay victory that ended a two-decade drought.

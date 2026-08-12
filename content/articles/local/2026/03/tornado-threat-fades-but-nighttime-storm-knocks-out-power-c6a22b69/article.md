@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tornado Threat Fades, but Nighttime Storm Knocks Out Power"
+  caption: "Tornado Threat Fades, but Nighttime Storm Knocks Out Power. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 More than 180,000 Fairfax County Public Schools students went home three hours early Monday as Northern Virginia prepared for a possible tornado. The tornado never developed, but severe thunderstorms later brought power outages and wider travel disruption.

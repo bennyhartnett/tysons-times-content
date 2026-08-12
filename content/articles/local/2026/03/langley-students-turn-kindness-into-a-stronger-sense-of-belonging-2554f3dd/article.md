@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Langley Students Turn Kindness Into a Stronger Sense of Belonging"
+  caption: "Langley Students Turn Kindness Into a Stronger Sense of Belonging. Image from The Saxon Scope — Langley High School."
+  credit: "The Saxon Scope — Langley High School"
 ---
 
 A student-led club at Langley is using community service and casual conversation to help classmates feel more connected at school.

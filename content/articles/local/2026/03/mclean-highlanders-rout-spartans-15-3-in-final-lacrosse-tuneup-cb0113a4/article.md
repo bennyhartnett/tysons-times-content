@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Highlanders Rout Spartans 15-3 in Final Lacrosse Tuneup"
+  caption: "McLean Highlanders Rout Spartans 15-3 in Final Lacrosse Tuneup. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 The McLean Highlanders closed their preseason with a commanding 15-3 scrimmage victory over West Springfield on March 11, building momentum ahead of their official lacrosse opener.

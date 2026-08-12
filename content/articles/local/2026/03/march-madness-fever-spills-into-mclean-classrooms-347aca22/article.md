@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for March Madness Fever Spills Into McLean Classrooms"
+  caption: "March Madness Fever Spills Into McLean Classrooms. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 March Madness is sweeping through McLean as students and teachers prepare brackets, predict upsets and bring the tournament’s competitive spirit into the classroom.

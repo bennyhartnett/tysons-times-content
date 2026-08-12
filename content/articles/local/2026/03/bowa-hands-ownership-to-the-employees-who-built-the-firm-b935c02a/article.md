@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for BOWA Hands Ownership to the Employees Who Built the Firm"
+  caption: "BOWA Hands Ownership to the Employees Who Built the Firm. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 BOWA Design Build has shifted ownership to its workforce, marking a major change for the McLean-based luxury remodeling company founded by two University of Virginia friends with a combined $10,000 investment.

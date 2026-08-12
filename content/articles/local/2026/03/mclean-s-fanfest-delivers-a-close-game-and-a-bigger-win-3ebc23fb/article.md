@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s FanFest Delivers a Close Game and a Bigger Win"
+  caption: "McLean’s FanFest Delivers a Close Game and a Bigger Win. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s Special Olympics basketball team opened March Madness with a tightly contested FanFest game on Friday, March 13, bringing together current students and alumni for an event centered on inclusion.

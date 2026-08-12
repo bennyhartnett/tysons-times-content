@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Hoppers Leaps From Sleepy Start to Clever Animal Adventure"
+  caption: "Hoppers Leaps From Sleepy Start to Clever Animal Adventure. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Disney’s *Hoppers* initially looks like a familiar story about a teenager fighting to protect a beloved patch of nature. Once the movie reveals its central twist, however, the slow beginning gives way to a funny and imaginative adventure with enough depth to engage children and adults.

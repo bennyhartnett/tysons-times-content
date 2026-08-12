@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid with students and staff in front of Cub Run Elementary School."
+  caption: "FCPS Week Packs in Science, Student Voice and Community Milestones. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools marked a busy mid-March week with student advocacy, science and technology programs, financial-literacy lessons, school visits and community events across the county.
