@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students’ Caffeine Habit Is Fueling a Cycle of Exhaustion"
+  caption: "McLean Students’ Caffeine Habit Is Fueling a Cycle of Exhaustion. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 After sleeping only a few hours, McLean High School senior Leyal Barakat starts her morning with an ice-cold Celsius. She drinks another during her final class, then has a large coffee at home before confronting her homework.

@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Vienna’s ‘My Fair Lady’ Takes the Stage for Nine Shows"
+  caption: "Vienna’s ‘My Fair Lady’ Takes the Stage for Nine Shows. Openly licensed thematic image selected for this article."
+  credit: "Fabrice Florin / CC BY-SA 2.0 / Wikimedia Commons"
 ---
 
 Vienna Theatre Company will open its spring production of “My Fair Lady” at 7 p.m. Friday, April 17, at the Vienna Community Center, 120 Cherry St. SE in Vienna.

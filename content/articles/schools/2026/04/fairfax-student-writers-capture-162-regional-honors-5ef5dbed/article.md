@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Generic arts hero image - teal"
+  caption: "Fairfax Student Writers Capture 162 Regional Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools students earned 162 honors in the 2026 DC Metro Region Scholastic Writing Awards, including 24 Gold Keys that will advance automatically for consideration in the national competition.

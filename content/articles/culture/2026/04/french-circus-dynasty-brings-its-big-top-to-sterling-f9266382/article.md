@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for French Circus Dynasty Brings Its Big Top to Sterling"
+  caption: "French Circus Dynasty Brings Its Big Top to Sterling. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Cirque de Paris will make its Sterling debut at Dulles Town Center, presenting a 90-minute show under the Big Top from April 30 through May 10.

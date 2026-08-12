@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "staff member with certificate in front of projection screen in the westfield high school theater"
+  caption: "Quick Thinking and Quiet Acts Lead FCPS April Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools recognized employees across the division in April 2026 for actions ranging from life-saving emergency responses to sustained support for students, families and colleagues.

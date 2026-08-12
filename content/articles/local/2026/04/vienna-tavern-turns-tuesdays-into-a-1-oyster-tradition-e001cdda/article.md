@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Tavern Turns Tuesdays Into a $1 Oyster Tradition"
+  caption: "Vienna Tavern Turns Tuesdays Into a $1 Oyster Tradition. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Bear Branch Tavern has built a loyal following in Vienna with late-night dining, a lively patio and a Tuesday raw-bar special featuring $1 local oysters shucked to order.

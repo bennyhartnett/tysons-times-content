@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "National Merit Scholarship Finalists"
+  caption: "244 Fairfax Students Reach National Merit’s Final Round. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has 244 students from 18 schools among the 2026 National Merit Scholarship finalists, placing them in contention for thousands of scholarships to be awarded this spring.

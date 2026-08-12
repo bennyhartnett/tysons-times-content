@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS Superintendent Dr. Michelle Reid poses with elementary age students and staff members outside of Sleepy Hollow Elementary School."
+  caption: "Fairfax Schools Chief Looks Ahead as Spring Break Winds Down. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools Superintendent Michelle Reid closed out spring break with a brief message encouraging employees to enjoy the remaining time away before returning for the final months of the school year.

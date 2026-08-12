@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Portrait of a woman in a beige blazer and black turtleneck, smiling against a studio background."
+  caption: "Region 6 Taps Houston Leader After Dramatic Readiness Gains. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools has appointed Rhonda Honoré as assistant superintendent for Region 6, placing an experienced instructional leader over schools in the Annandale, Hayfield, and Lewis high school pyramids.

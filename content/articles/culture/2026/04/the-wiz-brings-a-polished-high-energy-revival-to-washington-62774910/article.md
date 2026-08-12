@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for “The Wiz” Brings a Polished, High-Energy Revival to Washington"
+  caption: "The North American Tour of THE WIZ 2026 Photo by Jeremy Daniel"
+  credit: "TysonsToday"
 ---
 
 “The Wiz” is easing back into Washington with a newly refined national tour, bringing its mix of soul, gospel, funk and vibrant storytelling to the National Theatre from April 7–12.
