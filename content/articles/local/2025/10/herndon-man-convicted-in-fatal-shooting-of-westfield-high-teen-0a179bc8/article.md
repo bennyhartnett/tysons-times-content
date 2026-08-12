@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Herndon Man Convicted in Fatal Shooting of Westfield High Teen"
+  caption: "Herndon Man Convicted in Fatal Shooting of Westfield High Teen. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Ismael Cruz Delcid of Herndon was convicted of voluntary manslaughter in Fairfax County Circuit Court on Oct. 20, 2025, for the fatal shooting of a 14-year-old acquaintance in March 2024.

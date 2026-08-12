@@ -11,10 +11,10 @@ tags:
   - "public safety"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Child-Abuse Investigation Earns Sully Officer Top Quarterly Honor"
+  caption: "Child-Abuse Investigation Earns Sully Officer Top Quarterly Honor. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 PFC Kyoung Pak was named the Sully District Police Station’s Officer of the Quarter for July through September, following an investigation that led to felony child-abuse and domestic-assault charges.

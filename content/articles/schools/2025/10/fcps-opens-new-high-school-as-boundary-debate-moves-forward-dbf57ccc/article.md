@@ -11,10 +11,10 @@ tags:
   - "mclean"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Dr. Reid talking with a community member at western high school Open House."
+  caption: "FCPS Opens New High School as Boundary Debate Moves Forward. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools drew more than 1,000 families, students and community members to an open house Saturday for its new western high school, while the division continued gathering feedback on school boundaries and the future of the campus.

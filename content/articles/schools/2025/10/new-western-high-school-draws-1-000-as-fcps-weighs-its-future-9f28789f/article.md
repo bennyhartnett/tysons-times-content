@@ -11,10 +11,10 @@ tags:
   - "mclean"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "FCPS mobile app screens."
+  caption: "New Western High School Draws 1,000 as FCPS Weighs Its Future. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools capped a busy week with an estimated 1,000 families, students and community members touring the county’s new western high school, while officials continued gathering feedback on school boundaries, artificial intelligence, student well-being and environmental goals.

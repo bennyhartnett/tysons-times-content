@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Burn Injury Investigation Prompts Fire Training Safety Changes"
+  caption: "Burn Injury Investigation Prompts Fire Training Safety Changes. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fairfax County fire officials have released findings from an investigation into a live fire training incident that left a firefighter with a burn injury on Oct. 13, 2024.

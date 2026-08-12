@@ -11,10 +11,10 @@ tags:
   - "arts"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Alexandria’s Halloween Favorites Return With Pumpkins and Parade Fun"
+  caption: "Alexandria’s Halloween Favorites Return With Pumpkins and Parade Fun. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Halloween celebrations are taking over Alexandria as a charitable pumpkin patch marks its 32nd year and Del Ray prepares for the return of its popular costume parade.

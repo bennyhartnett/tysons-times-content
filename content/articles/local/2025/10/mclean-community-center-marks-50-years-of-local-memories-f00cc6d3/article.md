@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for McLean Community Center Marks 50 Years of Local Memories"
+  caption: "McLean Community Center Marks 50 Years of Local Memories. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The McLean Community Center celebrated five decades of bringing residents together with an anniversary party on Saturday, Oct. 18.

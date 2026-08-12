@@ -10,10 +10,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A student holds a stuffed pet."
+  caption: "AI Turns Key Center Students’ Imaginary Pets Into Plush Companions. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A Dazzle-Winged Octo-Poodle and other fictional creatures took shape at Key Center School after students used artificial intelligence, communication exercises and hands-on creativity to design their own class pets.

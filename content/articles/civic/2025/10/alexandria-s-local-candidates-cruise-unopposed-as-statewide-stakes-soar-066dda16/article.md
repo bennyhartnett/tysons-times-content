@@ -12,10 +12,10 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Alexandria’s Local Candidates Cruise Unopposed as Statewide Stakes Soar"
+  caption: "Alexandria’s Local Candidates Cruise Unopposed as Statewide Stakes Soar. Openly licensed thematic image selected for this article."
+  credit: "domdomegg / CC BY 4.0 / Wikimedia Commons"
 ---
 
 Alexandria voters faced few competitive local choices in Virginia’s Nov. 4, 2025, general election, with all three House of Delegates incumbents and both citywide law-enforcement candidates running unopposed.

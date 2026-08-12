@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Arlington’s 2025 Delegate Races Put Party Control and Local Costs at Stake"
+  caption: "Arlington’s 2025 Delegate Races Put Party Control and Local Costs at Stake. Openly licensed thematic image selected for this article."
+  credit: "Mrs. Gemstone from USA / CC BY-SA 2.0 / Wikimedia Commons"
 ---
 
 Arlington voters will choose among candidates for three Virginia House of Delegates districts on Nov. 4, 2025, in an election that could shape the commonwealth’s direction on reproductive rights, education funding, housing costs, gun laws and other major issues.
