@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Route 7 Bus Rapid Transit Plans Enter New Feedback Round"
+  caption: "Participants at 2025 community forum in Culmore discuss potential Route 7 transit upgrades (staff photo by Scott McCaffrey)"
+  credit: "Participants at 2025 community forum in Culmore discuss potential Route 7 trans…"
 ---
 
 Northern Virginia transit planners are seeking another round of public input on proposed upgrades along the Route 7 corridor, including plans that could eventually create a 14-mile bus rapid transit system between Tysons and Alexandria’s Mark Center.

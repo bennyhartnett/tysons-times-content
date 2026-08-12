@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A woman stands in a cubicle with a background of the ocean"
+  caption: "Accessibility Push Gives Every FCPS Student a Better Chance to Succeed. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Ahead of Global Accessibility Awareness Day on Thursday, May 21, FCPS educational specialist Mollie Kropp is working to ensure that students, employees, and families can use learning materials and communications without unnecessary barriers.

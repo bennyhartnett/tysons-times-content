@@ -11,9 +11,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Superintendent Dr. Michelle Reid poses with SkillsUSA champions."
+  caption: "Edison Academy Champions Turn Technical Skills Into Careers. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Three award-winning Edison Academy students are transforming hands-on training in HVAC, computer networking and other technical fields into plans for the professional world.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Dentist Builds Boutique Practice Around Personalized Care"
+  caption: "Vienna Dentist Builds Boutique Practice Around Personalized Care. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Dr. Diane Pham has spent more than two decades practicing dentistry, combining her Northern Virginia roots with a focus on personalized cosmetic, restorative and family care.

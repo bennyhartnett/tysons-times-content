@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid talks with students and parents at the Silverbrook Elementary School Sweet Dreams Art Gala."
+  caption: "Emmy Nods, Rocket Triumphs and Student Success Mark a Standout FCPS Week. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools earned two nominations for the 68th Capital Emmy Awards during a week filled with student achievements, school visits, community celebrations and discussions about the division’s future.

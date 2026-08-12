@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro’s 50-Year Story Rolls Into Smithsonian Exhibit"
+  caption: "Metro’s 50-Year Story Rolls Into Smithsonian Exhibit. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro’s half-century legacy is taking center stage at the Smithsonian’s National Museum of American History as the nation approaches its 250th birthday.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for From 11 Childhood Moves to a Northern Virginia Real Estate Career"
+  caption: "From 11 Childhood Moves to a Northern Virginia Real Estate Career. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Joan Reimann’s experience with relocation began early. Growing up in a military family, she moved 11 times and attended 10 schools, an upbringing she credits with teaching her adaptability, relationship-building and optimism.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Calendar Cuts Seven Days Off, Squeezing Student Breaks"
+  caption: "FCPS Calendar Cuts Seven Days Off, Squeezing Student Breaks. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Fairfax County Public Schools students will have fewer chances to recharge during the 2026-27 school year after the School Board reduced the number of days off from 40 to 33.

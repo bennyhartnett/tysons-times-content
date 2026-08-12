@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid poses with students, staff members, and Waddles the Penguin in the main office at Franconia Elementary School."
+  caption: "Emmy Nods and Student Triumphs Cap a Standout Week for FCPS. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools received two nominations for the 68th Capital Emmy Awards, highlighting a week filled with student achievements, school visits and community events across the division.

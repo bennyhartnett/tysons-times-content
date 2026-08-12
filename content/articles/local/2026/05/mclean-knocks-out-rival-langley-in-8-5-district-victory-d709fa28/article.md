@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Knocks Out Rival Langley in 8-5 District Victory"
+  caption: "McLean Knocks Out Rival Langley in 8-5 District Victory. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s girls lacrosse team rebounded from a regular-season-ending loss to Yorktown by defeating rival Langley 8-5 in the opening round of the Liberty District tournament on Friday, May 15.
