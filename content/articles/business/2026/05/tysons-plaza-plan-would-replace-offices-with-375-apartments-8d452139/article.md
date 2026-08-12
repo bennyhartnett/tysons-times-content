@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Plaza Plan Would Replace Offices With 375 Apartments"
+  caption: "Proposed site plan for redeveloping Tysons Plaza (via Land Design/Fairfax County)"
+  credit: "Proposed site plan for redeveloping Tysons Plaza (via Land Design/Fairfax Count…"
 ---
 
 Tysons Plaza could be transformed from a traditional office campus into a mixed-use development with hundreds of apartments, new shops and publicly accessible park space.

@@ -11,9 +11,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Washington-Area Home Prices Slide as Contracts Stay Elevated"
+  caption: "Washington-Area Home Prices Slide as Contracts Stay Elevated. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Home-buying activity remained strong across the Mid-Atlantic during the week ending April 26, 2026, even as the Washington, D.C., metro area helped pull regional asking prices below year-ago levels.

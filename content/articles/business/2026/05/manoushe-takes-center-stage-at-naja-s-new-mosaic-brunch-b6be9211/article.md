@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Manoushe Takes Center Stage at NAJA’s New Mosaic Brunch"
+  caption: "NAJA Mediterranean manoushe at brunch (courtesy of NAJA Mediterranean)"
+  credit: "NAJA Mediterranean manoushe at brunch (courtesy of NAJA Mediterranean)"
 ---
 
 NAJA Mediterranean is launching weekend brunch at the Mosaic District, bringing Lebanese breakfast staple manoushe to a menu filled with savory scrambles, mezze, sweet dishes and cocktails.

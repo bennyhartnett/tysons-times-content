@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Budget Hearing Looms as Key Student Deadlines Approach"
+  caption: "FCPS Budget Hearing Looms as Key Student Deadlines Approach."
+  credit: "Patch"
 ---
 
 Fairfax County Public Schools families face several important dates in May, including a public hearing on the proposed Fiscal Year 2027 budget, immunization requirements, an early-release day and upcoming School Board action.

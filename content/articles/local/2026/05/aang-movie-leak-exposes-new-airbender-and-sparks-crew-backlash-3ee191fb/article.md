@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Aang Movie Leak Exposes New Airbender and Sparks Crew Backlash"
+  caption: "Aang Movie Leak Exposes New Airbender and Sparks Crew Backlash."
+  credit: "WTFTime"
 ---
 
 Portions of the long-awaited *Avatar Aang: The Last Airbender* movie appeared on X on April 12, 2026, revealing new characters and story details months before its expected Paramount+ debut.

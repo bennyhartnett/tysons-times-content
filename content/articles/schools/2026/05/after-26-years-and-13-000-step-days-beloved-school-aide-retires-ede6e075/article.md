@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Kings Park Elementary instructional aide Pam Lieber sits with students."
+  caption: "After 26 Years and 13,000-Step Days, Beloved School Aide Retires. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Pam Lieber once logged 13,000 steps in a single workday at Kings Park Elementary School in Springfield. After 26 years as an instructional assistant, she plans to retire at the end of 2026, concluding a career spent helping young students learn, manage difficult moments and celebrate small but meaningful breakthroughs.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Shepherd Homes Group Touts $1 Billion in Five-Year Sales"
+  caption: "Shepherd Homes Group Touts $1 Billion in Five-Year Sales. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Shepherd Homes Group says it has surpassed $1 billion in sales volume within five years, completing more than 2,000 transactions and recently selling over 600 homes annually.

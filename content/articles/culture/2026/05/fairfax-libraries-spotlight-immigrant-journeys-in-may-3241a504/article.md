@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Libraries Spotlight Immigrant Journeys in May"
+  caption: "Fairfax Libraries Spotlight Immigrant Journeys in May. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Fairfax County Public Library will mark 250 years of American immigrant stories this May with author talks, crafts, history programs, film screenings and community storytelling events.

@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid and Chief Information Technology Officer Gautam Sethi speak to student journalists during a roundtable discussion."
+  caption: "FCPS Week Brings National Honors, Major Scholarships and Milestones. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools marked a packed week of student achievements, community celebrations and school visits as the division prepared for Teacher and Staff Appreciation Week.
