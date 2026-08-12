@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students learn about AI program"
+  caption: "Fairfax County students participate in an AI-focused program."
+  credit: "Fairfax County students participate in an AI-focused program."
 ---
 
 Vienna Elementary School is introducing students as young as kindergartners to the foundations of artificial intelligence, using hands-on robots, coding exercises and drones to explain how emerging technology works.

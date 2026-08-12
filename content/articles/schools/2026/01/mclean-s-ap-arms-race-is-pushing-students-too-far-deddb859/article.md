@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s AP Arms Race Is Pushing Students Too Far"
+  caption: "McLean’s AP Arms Race Is Pushing Students Too Far. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 At McLean, loading a schedule with Advanced Placement courses has become increasingly routine—and the pressure is reaching students earlier. Some freshmen take as many as three AP classes, while juniors may fill nearly every period with college-level coursework. Many ultimately find the workload unmanageable.

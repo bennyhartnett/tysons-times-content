@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Wake Up Dead Man Packs a Killer Mystery Into Its Final Minutes"
+  caption: "Wake Up Dead Man Packs a Killer Mystery Into Its Final Minutes. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *Wake Up Dead Man* delivers another elaborate *Knives Out* mystery, surrounding viewers with enough suspects, hidden clues and shifting revelations to keep the truth concealed until the film’s closing minutes.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for $1.2 Million Luxury Watch Scheme Sends McLean Man to Prison"
+  caption: "A watch made by Swiss watch brand Rolex is seen on display Thursday, Aug. 7, 2025, in New York. (AP Photo/Yuki Iwamura)"
+  credit: "A watch made by Swiss watch brand Rolex is seen on display Thursday, Aug. 7, 20…"
 ---
 
 A McLean man was sentenced Thursday to one year and nine months in federal prison for using credit card disputes to carry out a luxury watch fraud exceeding $1.2 million.

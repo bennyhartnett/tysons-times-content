@@ -11,9 +11,9 @@ tags:
   - "virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Mid-Atlantic Home Contracts Sink to Five-Year Low"
+  caption: "Mid-Atlantic Home Contracts Sink to Five-Year Low. Openly licensed thematic image selected for this article."
+  credit: "Rick Obst / CC BY 4.0 / Wikimedia Commons"
 ---
 
 The Mid-Atlantic housing market entered 2026 with more homes for sale and slightly lower asking prices, but buyer activity fell to its lowest level in at least five years.

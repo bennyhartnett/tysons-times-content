@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Storms Past Herndon and Wakefield in District Dual"
+  caption: "McLean Storms Past Herndon and Wakefield in District Dual. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 The McLean Highlanders swept Herndon and Wakefield on Jan. 8, earning decisive victories during a tri-dual hosted by the Wakefield Warriors.

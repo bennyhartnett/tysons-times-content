@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid with Robinson Air Rifle Team."
+  caption: "FCPS Boundary Plan Could Shift 2,210 Students Across 52 Schools. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools Superintendent Michelle Reid unveiled proposed boundary changes affecting about 2,210 students while highlighting a week that also included artificial intelligence training, major science honors and student-led environmental work.

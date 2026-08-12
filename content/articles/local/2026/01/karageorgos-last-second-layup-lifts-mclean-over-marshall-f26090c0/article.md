@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Karageorgos’ Last-Second Layup Lifts McLean Over Marshall"
+  caption: "Karageorgos’ Last-Second Layup Lifts McLean Over Marshall. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Nick Karageorgos drove to the basket and scored with three seconds remaining, giving McLean a dramatic 45-44 road victory over Marshall on Jan. 9.

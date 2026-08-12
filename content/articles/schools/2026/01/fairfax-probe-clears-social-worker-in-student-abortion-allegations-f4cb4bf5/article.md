@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Centreville High School"
+  caption: "The exterior of Centreville High School."
+  credit: "The exterior of Centreville High School."
 ---
 
 An external investigation found no truth to allegations that a Centreville High School social worker arranged and paid for student abortions without parental consent, Fairfax County Public Schools Superintendent Michelle Reid told families Friday.

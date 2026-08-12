@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS panel speaking at artificial intelligence training."
+  caption: "Boundary Shake-Up Could Move 2,210 Fairfax Students. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Proposed boundary changes could affect about 2,210 students at 52 schools, with a vote on the recommendations scheduled for Jan. 22.
