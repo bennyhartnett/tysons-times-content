@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A young girl smiles while making shapes out of toothpicks and modeling dough"
+  caption: "Fairfax Schools Face Budget Vote as New Safety System Takes Effect. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is heading into a key budget vote while rolling out a new visitor-screening system and scheduling a series of community meetings with Superintendent Michelle Reid.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia’s Lifetime Voting Ban Adds Punishment After Prison"
+  caption: "Virginia’s Lifetime Voting Ban Adds Punishment After Prison. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginians with felony convictions should not remain shut out of democracy after completing their sentences. Once people have served the punishment ordered by a court, they should regain the same voting rights as other citizens.

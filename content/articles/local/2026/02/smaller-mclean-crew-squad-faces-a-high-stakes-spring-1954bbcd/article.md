@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Smaller McLean Crew Squad Faces a High-Stakes Spring"
+  caption: "Smaller McLean Crew Squad Faces a High-Stakes Spring. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s boys crew club opened tryouts Tuesday, Feb. 24, after athletes spent months conditioning through the winter. Over three days, coaches will select 21 varsity rowers for the First Varsity and Second Varsity boats, while nearly every freshman is expected to earn a place.

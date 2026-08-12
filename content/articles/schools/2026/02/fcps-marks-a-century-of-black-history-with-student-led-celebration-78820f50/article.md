@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A student performing a dance at the FCPS Black History Month celebration."
+  caption: "FCPS Marks a Century of Black History With Student-Led Celebration. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools marked the 100th anniversary of the movement that became Black History Month during its second annual divisionwide celebration at Carter G. Woodson High School.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a damaged home surrounded by a fence"
+  caption: "A home after a gas leak caused an explosion in Centreville in February."
+  credit: "A home after a gas leak caused an explosion in Centreville in February."
 ---
 
 Most of the 19 families still displaced after a gas leak and house explosion in Centreville could return home within 24 hours as final safety testing concludes.

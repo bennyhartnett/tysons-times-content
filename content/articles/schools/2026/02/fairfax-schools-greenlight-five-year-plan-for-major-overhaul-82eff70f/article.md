@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Construction workers building a school."
+  caption: "Fairfax Schools Greenlight Five-Year Plan for Major Overhaul. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board approved a five-year capital improvement plan on February 12 that calls for new schools, major renovations and added classroom capacity across the division.

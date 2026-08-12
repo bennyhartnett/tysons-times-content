@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Democrats Push for a Mid-Decade District Map Overhaul"
+  caption: "Virginia Democrats Push for a Mid-Decade District Map Overhaul. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia Democrats are seeking to redraw the state’s congressional districts in 2026, breaking with the customary practice of revisiting district boundaries once every 10 years after the census.

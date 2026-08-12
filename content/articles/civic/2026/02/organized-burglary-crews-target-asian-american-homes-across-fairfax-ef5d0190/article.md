@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Organized Burglary Crews Target Asian American Homes Across Fairfax"
+  caption: "Organized Burglary Crews Target Asian American Homes Across Fairfax."
+  credit: "Fairfax County Police via Patch"
 ---
 
 Fairfax County police are investigating eight burglaries that targeted Asian American residents across the county between Jan. 12 and Feb. 21.

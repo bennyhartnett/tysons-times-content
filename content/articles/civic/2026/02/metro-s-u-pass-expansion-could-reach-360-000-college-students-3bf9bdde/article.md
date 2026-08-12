@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Metro’s U-Pass Expansion Could Reach 360,000 College Students"
+  caption: "Metro’s U-Pass Expansion Could Reach 360,000 College Students. Openly licensed thematic image selected for this article."
+  credit: "Tomwsulcer / CC0 / Wikimedia Commons"
 ---
 
 Metro’s Board of Directors has approved a major expansion of the University Pass program, opening the door for more college students across the Washington region to receive affordable, unlimited transit access.

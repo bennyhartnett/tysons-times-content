@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Suspect Charged in Fatal Hybla Valley Bus Stop Stabbing"
+  caption: "Suspect Charged in Fatal Hybla Valley Bus Stop Stabbing. Openly licensed thematic image selected for this article."
+  credit: "Michal Klajban / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Fairfax County police have charged a 32-year-old man with second-degree murder after a woman was fatally stabbed at a Hybla Valley bus stop Monday night.
