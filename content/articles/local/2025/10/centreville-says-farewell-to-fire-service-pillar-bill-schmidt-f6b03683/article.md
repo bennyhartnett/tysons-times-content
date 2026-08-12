@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Centreville Says Farewell to Fire Service Pillar Bill Schmidt"
+  caption: "Centreville Says Farewell to Fire Service Pillar Bill Schmidt. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Bill Schmidt, a former Centreville Volunteer Fire Department chief whose local service spanned 54 years, was remembered Oct. 4 during a memorial at Fire Station 17. He died Sept. 24 following a stroke. He was 86.

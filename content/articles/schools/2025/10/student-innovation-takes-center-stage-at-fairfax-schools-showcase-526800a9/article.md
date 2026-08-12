@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Chantilly High School Chamber Orchestra performing at State of our Schools"
+  caption: "Student Innovation Takes Center Stage at Fairfax Schools Showcase. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Hundreds of students, staff members and community leaders gathered Oct. 29 for the 2025 State of Our Schools event, where student performances and firsthand accounts highlighted new opportunities across Fairfax County Public Schools.

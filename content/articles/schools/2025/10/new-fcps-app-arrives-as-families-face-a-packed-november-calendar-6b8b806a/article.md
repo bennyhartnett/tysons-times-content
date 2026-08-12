@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for New FCPS App Arrives as Families Face a Packed November Calendar"
+  caption: "New FCPS App Arrives as Families Face a Packed November Calendar. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools families can now use a district-branded mobile app to follow school news, calendars, cafeteria menus, live updates, and notices from individual schools.

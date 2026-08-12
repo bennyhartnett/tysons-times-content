@@ -11,10 +11,10 @@ tags:
   - "falls church"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Group of high school students posing at the 2025 State of Our Schools event."
+  caption: "Student Innovation Steals the Spotlight at FCPS Showcase. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Hundreds of students, employees and community leaders gathered for the 2025 State of Our Schools event, where emerging student programs shared the stage with major Fairfax County Public Schools priorities.

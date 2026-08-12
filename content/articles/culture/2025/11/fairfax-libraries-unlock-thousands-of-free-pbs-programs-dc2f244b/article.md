@@ -12,10 +12,10 @@ tags:
   - "metro"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "FCPL + WETA+ streaming partnership"
+  caption: "Fairfax Libraries Unlock Thousands of Free PBS Programs. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Fairfax County Public Library is partnering with WETA to give residents easier access to thousands of hours of free educational and entertainment programming through the WETA+ streaming service.

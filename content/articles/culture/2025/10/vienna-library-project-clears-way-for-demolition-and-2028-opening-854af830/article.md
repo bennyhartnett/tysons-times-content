@@ -12,10 +12,10 @@ tags:
   - "development"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Vienna-Carter Library artist illustration"
+  caption: "Vienna Library Project Clears Way for Demolition and 2028 Opening. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Vienna’s planned replacement for the Patrick Henry Library is moving toward construction, with demolition of the existing building scheduled to begin in early 2026 and completion anticipated in early 2028.

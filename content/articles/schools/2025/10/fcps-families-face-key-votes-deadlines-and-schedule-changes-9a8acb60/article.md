@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A kindergarten student works to extract pumpkin seeds"
+  caption: "FCPS Families Face Key Votes, Deadlines and Schedule Changes. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools families have a packed calendar heading into November, with a school bond referendum, student schedule changes, community meetings and several important forms and events approaching.

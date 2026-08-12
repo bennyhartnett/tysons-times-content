@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Juvenile Charged in Fatal Shooting of Herndon High Student"
+  caption: "Juvenile Charged in Fatal Shooting of Herndon High Student. Openly licensed thematic image selected for this article."
+  credit: "Voice of America / Public domain / Wikimedia Commons"
 ---
 
 Fairfax County police have charged a juvenile in the fatal shooting of 16-year-old Herndon High School student Evin Alberto Herrera Campos, whose father says the teenager had received death threats for weeks before he was killed.

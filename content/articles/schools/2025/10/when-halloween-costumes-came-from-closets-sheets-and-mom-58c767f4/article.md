@@ -11,10 +11,10 @@ tags:
   - "business"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for When Halloween Costumes Came From Closets, Sheets and Mom"
+  caption: "For Halloween, \"Mom was the Wardrobe Manager....\" Courtesy Reader's Digest / Getty Images."
+  credit: "Falls Church Independent"
 ---
 
 Halloween costumes once required more imagination than money.

@@ -11,10 +11,10 @@ tags:
   - "development"
   - "sports"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Illustration of students walking towards a school"
+  caption: "How Parents Can Help Children Find Their Own Path. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 National School Psychology Week, observed Nov. 3-7, highlights how families and educators can help children build confidence, explore their interests and navigate challenges. The 2025 theme, “Finding Your Path,” recognizes that every student’s academic, social and emotional development follows a different course.
