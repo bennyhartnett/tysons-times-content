@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "White building with a large arched entrance and black doors, a 'Grand Opening' banner along the railing, and a circular window above the door."
+  caption: "Entrance to Virginia Hills Church and Kingstowne Communion’s new building in Rose Hill (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Virginia Hills Church and Kingstowne Communion dedicated a new shared worship and community-services building July 12 in Rose Hill, completing a redevelopment that paired a replacement church with new senior housing on Telegraph Road.

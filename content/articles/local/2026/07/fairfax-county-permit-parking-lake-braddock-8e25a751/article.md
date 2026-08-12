@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "School entrance with a tall sign reading 'Lake Braddock Secondary School' over a purple sign; dark clouds in the sky behind."
+  caption: "Lake Braddock Secondary School (file photo)"
+  credit: "Lake Braddock Secondary School (file photo)"
 ---
 
 Fairfax County supervisors are set to consider expanding residential permit parking near Lake Braddock Secondary School after residents petitioned for restrictions on two Burke streets.

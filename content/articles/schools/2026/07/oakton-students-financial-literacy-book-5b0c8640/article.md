@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Oakton High School students hold their new book on financial literacy"
+  caption: "Oakton High School students hold their new book on financial literacy for elementary school students. (Courtesy Dev Rai)"
+  credit: "WTOP Fairfax County"
 ---
 
 Three Oakton High School students are using a simple choice between planting a seed and trading it for candy to introduce elementary school pupils to personal finance.

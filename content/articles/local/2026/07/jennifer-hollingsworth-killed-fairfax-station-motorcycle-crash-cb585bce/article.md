@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Emergency scene on a highway with flashing police lights and a row of stopped cars as cones and barriers block the left lanes."
+  caption: "Police respond to a fatal motorcycle crash on Route 123 on July 23, 2026 (Ox Road) at Chapel Road in Fairfax Station (via VDOT traffic cameras)"
+  credit: "FFXnow"
 ---
 
 Jennifer Hollingsworth, a 39-year-old Fredericksburg resident, died July 23 after the motorcycle she was riding collided with an SUV at Ox Road and Chapel Road in Fairfax Station, according to Fairfax County police.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "John Carter, Hunter Mill District official, sits at a wooden desk holding papers during a formal meeting, with a district seal visible on the left."
+  caption: "Hunter Mill District Planning Commissioner John Carter announces his retirement at the commission’s July 22, 2026 meeting (via Fairfax County)"
+  credit: "FFXnow"
 ---
 
 John Carter announced his retirement as Hunter Mill District's representative on the Fairfax County Planning Commission at the board's July 22 meeting, ending nearly nine years of service to the county's most visible land-use decisions.

@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Police lights and yellow police tape at crime scene"
+  caption: "Police lights and yellow police tape at crime scene. (Getty Images/Ajax9)"
+  credit: "Police lights and yellow police tape at crime scene. (Getty Images/Ajax9)"
 ---
 
 A 39-year-old Fredericksburg resident died after her motorcycle collided with an SUV at the intersection of Ox Road and Chapel Road in Fairfax Station, according to Fairfax County police.

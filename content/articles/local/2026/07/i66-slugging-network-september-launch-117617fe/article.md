@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Modern office building with purple vertical louvers under a clear blue sky, with a crosswalk in the foreground."
+  caption: "The Monument Drive Commuter Parking Garage near I-66 in Fair Oaks (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 A community-organized carpool network plans to establish slugging operations along the I-66 corridor beginning in September 2026, offering commuters a free alternative to solo driving.

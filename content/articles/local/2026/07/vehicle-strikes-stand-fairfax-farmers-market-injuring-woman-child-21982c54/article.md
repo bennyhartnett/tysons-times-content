@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vehicle strikes stand at Fairfax farmers market, injuring woman and child"
+  caption: "Vehicle strikes stand at Fairfax farmers market, injuring woman and child. Image from WTOP Fairfax County."
+  credit: "WTOP Fairfax County"
 ---
 
 A vehicle struck a stand at a Fairfax farmers market around 11 a.m. July 25, injuring a woman and a child and prompting a police investigation in a parking lot near the Main Street Center.

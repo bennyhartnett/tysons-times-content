@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Reston Regional Library will be replaced by a new facility as part of the Reston Town Center North redevelopment"
+  caption: "Reston Regional Library will be replaced by a new facility as part of the Reston Town Center North redevelopment (staff photo by Jay Westcott)"
+  credit: "Jay Westcott / FFXnow"
 ---
 
 The Fairfax County Planning Commission unanimously recommended zoning and land-use changes July 22 that would establish a framework for the phased redevelopment of Reston Town Center North.

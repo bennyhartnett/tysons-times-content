@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "City street festival with tents, people strolling, and a colorful graffiti wall behind them at a sunny downtown event."
+  caption: "Celebration of the Arts at Capital One Center in October 2025 (courtesy Capital One Center)"
+  credit: "FFXnow"
 ---
 
 Capital One Center is planning the second annual Celebration of the Arts for September 19–20, bringing a free outdoor festival across its 35-acre Tysons campus.
