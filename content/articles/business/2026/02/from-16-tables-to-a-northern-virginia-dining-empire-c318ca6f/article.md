@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for From 16 Tables to a Northern Virginia Dining Empire"
+  caption: "From 16 Tables to a Northern Virginia Dining Empire. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Great American Restaurants has grown from a small Fairfax City pizza shop into a family-owned hospitality group with nearly 20 restaurants and three artisan bakeries across Virginia and Maryland.

@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools Seek $4.1 Billion While Restoring Cut Positions"
+  caption: "Fairfax Schools Seek $4.1 Billion While Restoring Cut Positions. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County Public Schools is proposing a $4.1 billion operating budget for fiscal year 2027, pairing employee compensation increases with the restoration of some special education and advanced academic positions eliminated during last year’s budget crunch.

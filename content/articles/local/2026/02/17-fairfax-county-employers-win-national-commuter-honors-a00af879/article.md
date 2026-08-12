@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Best Workplaces for Commuters Honorees Feb. 3, 2026"
+  caption: "17 Fairfax County Employers Win National Commuter Honors. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Seventeen Fairfax County employers and properties were recognized Feb. 3, 2026, for programs designed to make commuting easier, reduce traffic congestion and improve air quality.

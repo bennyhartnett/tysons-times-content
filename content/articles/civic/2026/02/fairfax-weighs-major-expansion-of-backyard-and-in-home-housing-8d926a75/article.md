@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Weighs Major Expansion of Backyard and In-Home Housing"
+  caption: "An accessory living unit designed by Backyard Homes located in Arlington (staff photo by Jay Westcott)"
+  credit: "An accessory living unit designed by Backyard Homes located in Arlington (staff…"
 ---
 
 Fairfax County residents have until Feb. 28 to weigh in on potential changes that could make accessory living units easier to establish in homes and on smaller properties.

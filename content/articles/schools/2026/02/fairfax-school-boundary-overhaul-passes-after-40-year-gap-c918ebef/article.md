@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax School Boundary Overhaul Passes After 40-Year Gap"
+  caption: "Fairfax School Boundary Overhaul Passes After 40-Year Gap. Openly licensed thematic image selected for this article."
+  credit: "Vicky van Dal / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 The Fairfax County School Board approved its first comprehensive boundary review in nearly four decades on Jan. 22, launching a recurring redistricting process while making immediate changes that affect less than 1% of the school division’s students.

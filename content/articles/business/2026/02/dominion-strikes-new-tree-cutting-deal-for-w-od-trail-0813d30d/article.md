@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A 'share the trail' sign on the W&OD trail."
+  caption: "File photo of a ‘share the trail’ sign on the W&OD trail. (WTOP)"
+  credit: "File photo of a ‘share the trail’ sign on the W&OD trail. (WTOP)"
 ---
 
 Nearly a year after complaints from Northern Virginia communities prompted Dominion Energy to pause tree cutting along the Washington and Old Dominion Trail, the utility and NOVA Parks have reached a new agreement governing vegetation work.

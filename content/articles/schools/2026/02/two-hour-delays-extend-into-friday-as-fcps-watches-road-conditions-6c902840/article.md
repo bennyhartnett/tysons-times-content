@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Two-Hour Delays Extend Into Friday as FCPS Watches Road Conditions"
+  caption: "Two-Hour Delays Extend Into Friday as FCPS Watches Road Conditions. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools will open two hours late on Thursday, February 5, and Friday, February 6, as winter weather continues to affect the area. Classes will begin two hours after their regular start times, while central and school offices will open on schedule.

@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Mayor Says Housing Delays Drove Affordable Homes Out of Reach"
+  caption: "Fairfax Mayor Says Housing Delays Drove Affordable Homes Out of Reach. Openly licensed thematic image selected for this article."
+  credit: "Jakub Hałun / CC BY 4.0 / Wikimedia Commons"
 ---
 
 A nearly decade-long path to build 10 affordable townhouses on church property in Fairfax City is fueling a push to remove a major approval hurdle for similar projects across Virginia.

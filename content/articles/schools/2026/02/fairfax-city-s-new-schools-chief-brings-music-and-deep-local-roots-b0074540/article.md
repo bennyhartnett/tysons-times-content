@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax City’s New Schools Chief Brings Music—and Deep Local Roots"
+  caption: "Fairfax City’s New Schools Chief Brings Music—and Deep Local Roots. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Dustin Wright’s path to the top of Fairfax City’s school system began with a love of music. On Dec. 1, 2025, the longtime city resident officially became superintendent, bringing experience as a teacher, principal and central-office administrator to the role.
