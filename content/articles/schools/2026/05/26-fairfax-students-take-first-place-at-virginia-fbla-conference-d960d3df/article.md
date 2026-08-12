@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 26 Fairfax Students Take First Place at Virginia FBLA Conference"
+  caption: "26 Fairfax Students Take First Place at Virginia FBLA Conference."
+  credit: "Lynchburg City Schools"
 ---
 
 Twenty-six Fairfax County Public Schools students captured first-place honors at the 2026 Virginia Future Business Leaders of America State Leadership Conference in Reston.

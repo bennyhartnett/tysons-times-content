@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Brokerage Marks 17 Years With a Four-State Reach"
+  caption: "Tysons Brokerage Marks 17 Years With a Four-State Reach. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 First Decision Realty, LLC has grown from an independent brokerage founded during the financial crisis into a Tysons-based operation with more than 40 licensed agents serving clients across four jurisdictions.

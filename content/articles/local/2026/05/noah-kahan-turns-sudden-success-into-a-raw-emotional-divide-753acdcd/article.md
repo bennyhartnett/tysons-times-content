@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Noah Kahan Turns Sudden Success Into a Raw Emotional Divide"
+  caption: "Noah Kahan Turns Sudden Success Into a Raw Emotional Divide. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Noah Kahan released his fourth studio album, *The Great Divide*, on April 24, delivering 17 tracks rooted in his familiar folk sound. Later that night, he added four more songs with *The Great Divide: The Last of the Bugs*.

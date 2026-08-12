@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Remodeler Marks a Decade of Transforming Northern Virginia Homes"
+  caption: "Vienna Remodeler Marks a Decade of Transforming Northern Virginia Homes. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Virginia Home Design is approaching 10 years in business after completing kitchen, bathroom and whole-home renovations across Northern Virginia.

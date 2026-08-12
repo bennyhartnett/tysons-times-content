@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Drops High School Crossing Guards as Budget Fight Turns Ugly"
+  caption: "Fairfax Drops High School Crossing Guards as Budget Fight Turns Ugly."
+  credit: "WEKU"
 ---
 
 Fairfax County will stop assigning crossing guards to high schools this fall, a cost-cutting decision that has raised safety concerns and fueled an unusually personal clash among county leaders.

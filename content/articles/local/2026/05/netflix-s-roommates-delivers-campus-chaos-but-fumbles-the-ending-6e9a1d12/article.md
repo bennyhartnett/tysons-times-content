@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Netflix’s Roommates Delivers Campus Chaos but Fumbles the Ending"
+  caption: "Netflix’s Roommates Delivers Campus Chaos but Fumbles the Ending. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Netflix’s *Roommates* turns a promising college friendship into a darkly comic cautionary tale, but uneven pacing and an unsatisfying conclusion keep the film from reaching its full potential.

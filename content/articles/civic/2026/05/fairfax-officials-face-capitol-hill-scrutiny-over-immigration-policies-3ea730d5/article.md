@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "steve descano kevin davis"
+  caption: "(Screenshot Courtesy Fairfax County police)"
+  credit: "(Screenshot Courtesy Fairfax County police)"
 ---
 
 Fairfax County’s top prosecutor and sheriff are set to testify on Capitol Hill Thursday as lawmakers examine whether local policies give preferential treatment to defendants who are in the United States illegally.

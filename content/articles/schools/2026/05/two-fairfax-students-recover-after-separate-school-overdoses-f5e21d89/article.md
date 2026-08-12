@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Two Fairfax Students Recover After Separate School Overdoses"
+  caption: "Two Fairfax Students Recover After Separate School Overdoses."
+  credit: "Alexandria City Public Schools"
 ---
 
 Two Fairfax County students are recovering after suffering nonfatal overdoses at separate schools within a 24-hour period, prompting a divisionwide warning to families and staff on May 15.

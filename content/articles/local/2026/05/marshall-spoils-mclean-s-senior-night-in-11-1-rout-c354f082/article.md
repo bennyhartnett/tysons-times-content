@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Marshall Spoils McLean’s Senior Night in 11-1 Rout"
+  caption: "Marshall Spoils McLean’s Senior Night in 11-1 Rout. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s final home game of the regular season ended in a lopsided defeat May 12 as the Marshall Statesmen capitalized on defensive mistakes to beat the Highlanders 11-1.

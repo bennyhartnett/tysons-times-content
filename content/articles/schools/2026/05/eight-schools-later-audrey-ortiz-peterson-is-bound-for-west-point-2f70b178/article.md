@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Mount Vernon High School senior and military connected student stands in front of the logo of MVHS, the eighth school she attended in her path to graduation."
+  caption: "Eight Schools Later, Audrey Ortiz-Peterson Is Bound for West Point. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Audrey Ortiz-Peterson began kindergarten in Alamogordo, New Mexico. By the time she entered first grade, she was in Panama City, Florida.
