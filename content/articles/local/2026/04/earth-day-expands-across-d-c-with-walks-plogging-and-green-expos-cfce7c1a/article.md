@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Earth Day Expands Across D.C. With Walks, Plogging and Green Expos"
+  caption: "Earth Day Expands Across D.C. With Walks, Plogging and Green Expos. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Washington, D.C., will turn Earth Day into a week of environmental activities this April, with a major National Mall celebration planned for Saturday, April 18.

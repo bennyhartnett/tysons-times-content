@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five Must-See Events Pack a Busy Weekend Across Northern Virginia"
+  caption: "Five Must-See Events Pack a Busy Weekend Across Northern Virginia."
+  credit: "Suite Nation"
 ---
 
 Northern Virginia’s weekend calendar is packed from Friday, April 17, through Sunday, April 19, with Southern rock, horses, community celebrations, spring gardening and a recital inspired by the history of women and witches.

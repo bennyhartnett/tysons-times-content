@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria’s Spring2ACTion Aims to Build on $3.1 Million Year"
+  caption: "Alexandria’s Spring2ACTion Aims to Build on $3.1 Million Year. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria’s annual community giving day will return Wednesday, April 22, seeking to build on the more than $3.1 million raised for nearly 200 city-based nonprofits in 2025.

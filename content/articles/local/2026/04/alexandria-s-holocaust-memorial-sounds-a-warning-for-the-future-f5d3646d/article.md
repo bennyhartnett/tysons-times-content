@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria’s Holocaust Memorial Sounds a Warning for the Future"
+  caption: "Alexandria’s Holocaust Memorial Sounds a Warning for the Future. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria marked its 37th annual Days of Remembrance on April 14, honoring the six million Jews and millions of other people murdered during the Holocaust while urging future generations to confront antisemitism, racism and genocide.

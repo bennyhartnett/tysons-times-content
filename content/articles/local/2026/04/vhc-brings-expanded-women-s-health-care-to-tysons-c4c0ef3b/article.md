@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for VHC Brings Expanded Women’s Health Care to Tysons"
+  caption: "VHC Health and local officials, including Providence District Supervisor Dalia Palchik, celebrate the opening of the Charlotte S. Benjamin Center for Women’s Health in Tysons (courtesy Image Caffeine Photography)"
+  credit: "VHC Health and local officials, including Providence District Supervisor Dalia…"
 ---
 
 VHC Health has opened a roughly 5,000-square-foot women’s health center in Tysons, extending services that drew more than 44,000 patients to its Arlington location in 2025.

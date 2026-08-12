@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington Voters Turn Out for High-Stakes Redistricting Question"
+  caption: "Arlington Voters Turn Out for High-Stakes Redistricting Question."
+  credit: "The Boston Globe"
 ---
 
 A steady line of voters stretched through Madison Community Center on Saturday, April 18, as Arlington County residents cast early ballots on a proposed change to Virginia’s Constitution.

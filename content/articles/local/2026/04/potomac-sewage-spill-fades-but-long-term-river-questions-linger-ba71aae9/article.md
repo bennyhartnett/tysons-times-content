@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Potomac Sewage Spill Fades, but Long-Term River Questions Linger"
+  caption: "Potomac Sewage Spill Fades, but Long-Term River Questions Linger. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia environmental officials say the Potomac River is safe for contact after at least 243 million gallons of raw sewage poured into it, though swimming is still not recommended and scientists are investigating possible long-term effects.

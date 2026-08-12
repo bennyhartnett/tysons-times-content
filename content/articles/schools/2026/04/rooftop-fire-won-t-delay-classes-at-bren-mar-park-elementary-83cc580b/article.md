@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Rooftop Fire Won’t Delay Classes at Bren Mar Park Elementary"
+  caption: "Rooftop Fire Won’t Delay Classes at Bren Mar Park Elementary."
+  credit: "Fairfax County Public Schools"
 ---
 
 A Sunday afternoon fire at Bren Mar Park Elementary School in Alexandria will not prevent students from returning to class on Monday, April 20.

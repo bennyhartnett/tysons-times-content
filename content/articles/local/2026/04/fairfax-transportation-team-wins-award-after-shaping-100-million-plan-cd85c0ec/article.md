@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Transportation Team Wins Award After Shaping $100 Million Plan"
+  caption: "Fairfax Transportation Team Wins Award After Shaping $100 Million Plan."
+  credit: "Fairfax County"
 ---
 
 Fairfax County’s ActiveFairfax Transportation Plan Team has received the Transportation Advisory Commission’s 2025 Achievement Award for work expected to guide local transportation investments and programs for decades.

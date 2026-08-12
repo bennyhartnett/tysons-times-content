@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean and South Lakes Trade Goals in Fierce 3-3 Overtime Draw"
+  caption: "McLean and South Lakes Trade Goals in Fierce 3-3 Overtime Draw. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s varsity girls soccer team battled South Lakes to a 3-3 overtime tie on Monday, April 14, capping an emotional senior night with six goals and a tense finish.
