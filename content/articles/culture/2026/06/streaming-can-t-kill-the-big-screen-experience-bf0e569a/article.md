@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Streaming Can’t Kill the Big-Screen Experience"
+  caption: "Streaming Can’t Kill the Big-Screen Experience. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Streaming services have made staying home easier than ever, but convenience has not erased what makes a trip to the movies special. Netflix, Disney+, Hulu and Max may offer thousands of choices from the couch, yet they cannot fully reproduce the immersion and shared excitement of a theater.

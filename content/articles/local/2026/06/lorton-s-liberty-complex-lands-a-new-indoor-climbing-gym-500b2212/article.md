@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Lorton’s Liberty Complex Lands a New Indoor Climbing Gym"
+  caption: "Lorton’s Liberty Complex Lands a New Indoor Climbing Gym. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Indoor rock climbing is coming to Lorton, with Sportrock preparing to open a bouldering-focused facility in the historic Liberty complex in mid-June.

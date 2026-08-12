@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "West Springfield lobby."
+  caption: "Two West Springfield Runners Race Into National Merit Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Two West Springfield High School runners will cross another finish line Thursday, June 4, when they graduate as 2026 National Merit Scholarship finalists.

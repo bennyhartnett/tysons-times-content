@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A student in graduation cap and gown hugs a teacher who is taking a selfie of them."
+  caption: "FCPS Sets June Deadlines as Summer Programs and Free Meals Begin. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools families face several important June deadlines as the district prepares for summer meals, learning programs and the 2026-27 academic year.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Herndon Sewing Lab Wins Bronze for Keeping Textiles Out of Landfills"
+  caption: "Herndon Sewing Lab Wins Bronze for Keeping Textiles Out of Landfills. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A Herndon organization that helped divert thousands of pounds of textiles from disposal has received a bronze Governor’s Environmental Excellence Award.

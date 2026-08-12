@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Lorton Art Show Turns Abstract Color Into a “Hug for the Soul”"
+  caption: "Lorton Art Show Turns Abstract Color Into a “Hug for the Soul”. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Artist Marisela Rumberg is bringing an uplifting mix of color, spirituality and reflection to the Workhouse Arts Center in Lorton with “Abstracts and Color,” on display throughout June.

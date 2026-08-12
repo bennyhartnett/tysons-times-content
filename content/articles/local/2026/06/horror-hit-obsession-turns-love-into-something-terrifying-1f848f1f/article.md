@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Horror Hit “Obsession” Turns Love Into Something Terrifying"
+  caption: "Horror Hit “Obsession” Turns Love Into Something Terrifying. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Everyone wants to be loved, but *Obsession* finds its horror in what happens when affection becomes more frightening than loneliness.

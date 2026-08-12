@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for FCPS Summer Countdown Brings Deadlines, Free Meals and Student Wins"
+  caption: "FCPS Summer Countdown Brings Deadlines, Free Meals and Student Wins."
+  credit: "WUSA9"
 ---
 
 Fairfax County Public Schools is approaching summer with key deadlines for families, including a calendar survey, camp registration, meal-account payments and the final day of classes. The school system is also celebrating student scholarships, innovative technology projects and career achievements.

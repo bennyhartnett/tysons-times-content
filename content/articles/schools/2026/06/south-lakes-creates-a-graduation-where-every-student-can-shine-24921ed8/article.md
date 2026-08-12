@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A teacher and three students walk with a coffee cart."
+  caption: "South Lakes Creates a Graduation Where Every Student Can Shine. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 South Lakes High School has developed a specialized graduation ceremony for students who benefit from an adapted curriculum, offering an accessible alternative to an event that can be overwhelming because of its crowds, noise and length.

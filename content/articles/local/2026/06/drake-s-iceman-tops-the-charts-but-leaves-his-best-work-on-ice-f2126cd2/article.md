@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Drake’s ‘ICEMAN’ Tops the Charts but Leaves His Best Work on Ice"
+  caption: "Drake’s ‘ICEMAN’ Tops the Charts but Leaves His Best Work on Ice. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Drake’s *ICEMAN* shot to No. 1 on the U.S. Billboard 200 after its May 15 release, but its commercial success masks an uneven album weighed down by repetitive feuds and shallow boasts.
