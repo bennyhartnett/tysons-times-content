@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "People lined up for assistance"
+  caption: "Vo, a junior at Carter G. Woodson High School, said the nonprofit’s first project was a winter warmth drive. Students donated beanies, blankets and hand-warmers “for our unhoused neighbors to stay warm” during winter co…"
+  credit: "Vo, a junior at Carter G. Woodson High School, said the nonprofit’s first proje…"
 ---
 
 After his brother died while experiencing homelessness in 2024, Minn Vo visited the shelter where his brother had stayed. The conditions he saw left a lasting impression—and pushed him to act.

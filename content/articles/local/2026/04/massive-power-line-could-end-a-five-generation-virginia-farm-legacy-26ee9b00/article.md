@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Massive Power Line Could End a Five-Generation Virginia Farm Legacy"
+  caption: "Massive Power Line Could End a Five-Generation Virginia Farm Legacy. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A proposed 115-mile transmission line built to deliver more electricity to Northern Virginia could threaten the future of Carter Farms, a historic century farm in Unionville, according to farmer Michael Carter Jr.

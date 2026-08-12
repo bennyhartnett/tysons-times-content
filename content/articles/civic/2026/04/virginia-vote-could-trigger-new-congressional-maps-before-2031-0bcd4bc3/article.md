@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Vote Could Trigger New Congressional Maps Before 2031"
+  caption: "Virginia Vote Could Trigger New Congressional Maps Before 2031. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Fairfax County Public Schools will close April 21 as voters consider a constitutional amendment that could allow Virginia lawmakers to redraw the state’s congressional districts before 2031.

@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Spanberger Veto Stops Tysons Casino Push and Ignites Local Divide"
+  caption: "Spanberger Veto Stops Tysons Casino Push and Ignites Local Divide. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Gov. Abigail Spanberger vetoed legislation April 9 that would have allowed Fairfax County voters to decide whether to bring a casino to Tysons, halting this year’s effort to establish a gambling and entertainment hub in the county.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Schools Slash Student Days Off, Restore Veterans Day Classes"
+  caption: "Fairfax Schools Slash Student Days Off, Restore Veterans Day Classes. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County students will have fewer days off and more full weeks of classes in 2026-27 under a calendar approved by the School Board in an 8-4 vote on April 9.

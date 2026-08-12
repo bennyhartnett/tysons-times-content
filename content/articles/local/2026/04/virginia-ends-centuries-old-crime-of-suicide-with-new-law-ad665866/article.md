@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a man and a woman smile for a photo"
+  caption: "Nicole Mittendorf (right) and her husband Steve. Mittendorf died by suicide a decade ago."
+  credit: "Nicole Mittendorf (right) and her husband Steve. Mittendorf died by suicide a d…"
 ---
 
 Virginia Gov. Abigail Spanberger approved legislation Monday night abolishing suicide’s centuries-old status as a common-law crime in the commonwealth.

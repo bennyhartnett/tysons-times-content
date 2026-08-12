@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Key Family Services Shift From Dunn Loring to Pimmit Hills"
+  caption: "Key Family Services Shift From Dunn Loring to Pimmit Hills."
+  credit: "Meridian Public Charter School"
 ---
 
 Several family-facing services will move from the Dunn Loring Center to the Pimmit Hills Center this spring as planned renovations prepare the Dunn Loring building to return to use as a school.

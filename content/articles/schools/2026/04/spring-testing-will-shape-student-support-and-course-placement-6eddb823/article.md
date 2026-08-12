@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "testing photo"
+  caption: "Spring Testing Will Shape Student Support and Course Placement. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools students will soon take spring assessments determined by their grade levels and courses. The testing includes standardized benchmarks, progress assessments and Virginia Standards of Learning exams.

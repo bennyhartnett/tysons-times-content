@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Redistricting Vote Could Reshape Three House Elections"
+  caption: "Virginia Redistricting Vote Could Reshape Three House Elections. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia voters will decide whether to activate a temporary congressional map that could alter the partisan makeup of the state’s U.S. House delegation for the next three election cycles.

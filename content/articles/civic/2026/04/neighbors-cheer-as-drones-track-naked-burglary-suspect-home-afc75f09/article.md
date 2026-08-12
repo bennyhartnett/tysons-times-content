@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a person shirtless with clothing wrapped around head and face on surveillance footage"
+  caption: "The suspect in a series of burglaries in Centreville, Virginia’s London Towne neighborhood is seen on surveillance footage the morning of Wednesday, April 1, 2026."
+  credit: "The suspect in a series of burglaries in Centreville, Virginia’s London Towne n…"
 ---
 
 Fairfax County police arrested a naked man suspected in a string of burglaries and attempted break-ins after drones tracked him through Centreville’s London Towne neighborhood and back to his own house.
