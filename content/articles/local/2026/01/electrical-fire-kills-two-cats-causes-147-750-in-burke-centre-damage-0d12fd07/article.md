@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Electrical Fire Kills Two Cats, Causes $147,750 in Burke Centre Damage"
+  caption: "Electrical Fire Kills Two Cats, Causes $147,750 in Burke Centre Damage. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 An electrical event in the basement sparked a New Year’s Day house fire in Burke Centre that killed two cats and caused an estimated $147,750 in damage.

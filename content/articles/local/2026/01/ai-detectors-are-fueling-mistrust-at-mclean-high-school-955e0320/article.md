@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for AI Detectors Are Fueling Mistrust at McLean High School"
+  caption: "AI Detectors Are Fueling Mistrust at McLean High School. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 As tools such as ChatGPT become more common at McLean High School, teachers face a difficult question: How can they identify improper AI use without falsely accusing students?

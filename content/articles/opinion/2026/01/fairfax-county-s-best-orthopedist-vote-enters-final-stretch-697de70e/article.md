@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best Orthopedist Vote Enters Final Stretch"
+  caption: "Fairfax County’s Best Orthopedist Vote Enters Final Stretch. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents have two weeks left to help choose the area’s best orthopedist in the Readers’ Choice Awards.

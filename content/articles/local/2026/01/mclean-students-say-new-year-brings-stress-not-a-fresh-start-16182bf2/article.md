@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Say New Year Brings Stress, Not a Fresh Start"
+  caption: "McLean Students Say New Year Brings Stress, Not a Fresh Start. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 For many McLean students, Jan. 1 offers little sense of renewal. It arrives in the middle of the school year, with unfinished assignments, active sports seasons and college pressure continuing across the calendar change.

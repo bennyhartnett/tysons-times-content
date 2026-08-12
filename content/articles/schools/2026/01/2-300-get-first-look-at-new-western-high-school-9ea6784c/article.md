@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Families exploring the gymnasium during an open house"
+  caption: "2,300 Get First Look at New Western High School. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 More than 2,300 people representing about 800 families registered for a packed Jan. 11 open house at the new western high school.

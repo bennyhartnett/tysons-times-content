@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "learning pod"
+  caption: "2,300 Tour Fairfax County’s New High School Before Fall Opening. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 More than 2,300 prospective students and family members registered to tour Fairfax County’s new western high school during a packed open house on January 11.

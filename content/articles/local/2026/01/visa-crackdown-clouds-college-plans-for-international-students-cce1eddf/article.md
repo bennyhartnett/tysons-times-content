@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Visa Crackdown Clouds College Plans for International Students"
+  caption: "Visa Crackdown Clouds College Plans for International Students. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 New immigration and travel restrictions are creating uncertainty for international students and families planning to pursue higher education in the United States.

@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Feuding Comedy Duo Reunites on Vienna Stage"
+  caption: "Feuding Comedy Duo Reunites on Vienna Stage. Openly licensed thematic image selected for this article."
+  credit: "Pakeha / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Vienna Theatre Company will open Neil Simon’s “The Sunshine Boys” at 8 p.m. Friday, Jan. 23, at the Vienna Community Center.

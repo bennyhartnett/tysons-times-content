@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia’s Tougher SOL Rules Could Send Pass Rates Tumbling"
+  caption: "Virginia’s Tougher SOL Rules Could Send Pass Rates Tumbling. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Virginia’s Standards of Learning tests are set for a sweeping overhaul next school year, changing when students take the exams, how scores are calculated and what consequences are tied to their performance.

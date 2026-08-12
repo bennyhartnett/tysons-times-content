@@ -12,9 +12,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Restaurants Serve Up Deals for Winter Restaurant Week"
+  caption: "Davio’s Northern Italian Steakhouse’s 2026 Winter Restaurant Week menu includes tiramisu as a dessert option (courtesy Davio’s)"
+  credit: "Davio’s Northern Italian Steakhouse’s 2026 Winter Restaurant Week menu includes…"
 ---
 
 Winter Restaurant Week returns to the Washington area Jan. 19-25, bringing discounted three-course meals to dozens of restaurants across Fairfax County.
