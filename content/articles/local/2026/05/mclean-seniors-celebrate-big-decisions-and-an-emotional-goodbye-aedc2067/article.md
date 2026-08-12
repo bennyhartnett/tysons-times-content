@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Seniors Celebrate Big Decisions—and an Emotional Goodbye"
+  caption: "McLean Seniors Celebrate Big Decisions—and an Emotional Goodbye. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School’s Class of 2026 marked a turning point on May 1, filling the halls with college colors and gathering to celebrate the paths students will take after graduation.

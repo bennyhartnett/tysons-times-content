@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for At 102, Arlington Author Esther Lang Is Still Chasing New Chapters"
+  caption: "At 102, Arlington Author Esther Lang Is Still Chasing New Chapters. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Esther Lang has packed more than a century with travel, wartime service and creative pursuits. Now, at 102, the Arlington resident continues to turn those experiences into books.

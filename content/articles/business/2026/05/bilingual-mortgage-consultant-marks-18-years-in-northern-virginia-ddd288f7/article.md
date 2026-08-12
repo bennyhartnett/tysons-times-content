@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Bilingual Mortgage Consultant Marks 18 Years in Northern Virginia"
+  caption: "Bilingual Mortgage Consultant Marks 18 Years in Northern Virginia. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Tatiana Ivleva-Lopez has spent more than 18 years helping clients navigate mortgages in Northern Virginia and beyond, serving more than 1,500 borrowers during her lending career.

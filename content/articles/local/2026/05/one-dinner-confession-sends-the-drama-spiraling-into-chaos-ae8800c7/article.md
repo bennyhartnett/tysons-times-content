@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for One Dinner Confession Sends The Drama Spiraling Into Chaos"
+  caption: "One Dinner Confession Sends The Drama Spiraling Into Chaos. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A seemingly harmless party game detonates an engagement in *The Drama*, turning a polished dinner among friends into an increasingly uncomfortable examination of trust, judgment and forgiveness.

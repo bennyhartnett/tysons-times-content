@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "\"Michelle C. Reid\" written in cursive"
+  caption: "Fairfax Schools Face $28 Million Gap as Final Budget Vote Nears. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools must close a $28 million funding gap as the School Board approaches its final vote on the fiscal year 2027 budget.

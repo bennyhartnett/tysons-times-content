@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Shuttles Will Replace Trains Near Crystal City in May"
+  caption: "Metro Shuttles Will Replace Trains Near Crystal City in May. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Local and limited-stop shuttle buses will replace Blue and Yellow Line trains between Pentagon City and Braddock Road on May 9-10 and May 16-17.

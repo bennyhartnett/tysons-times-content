@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Project Hail Mary Finds Hope—and a Rocky Hero—in Deep Space"
+  caption: "Project Hail Mary Finds Hope—and a Rocky Hero—in Deep Space. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *Project Hail Mary* delivers the kind of inventive, emotionally satisfying science-fiction adventure that has become increasingly rare in a landscape crowded with sequels and live-action remakes.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Lucketts Spring Market Brings 200-Plus Vintage Vendors to Berryville"
+  caption: "Lucketts Spring Market Brings 200-Plus Vintage Vendors to Berryville. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 More than 200 vintage vendors from across the country will gather at the Clarke County Fairgrounds in Berryville for the 28th Lucketts Spring Market, running May 15-17, 2026.

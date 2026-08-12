@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Memorial Day Weekend Brings Tributes and Festivals Across Northern Virginia"
+  caption: "Memorial Day Weekend Brings Tributes and Festivals Across Northern Virginia. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Northern Virginia will mark Memorial Day 2026 with solemn ceremonies, patriotic concerts, community festivals and opportunities to honor fallen U.S. service members. Events are planned throughout the holiday weekend in Vienna, Fairfax, Arlington, Reston, Falls Church, Herndon, Leesburg and Great Falls.

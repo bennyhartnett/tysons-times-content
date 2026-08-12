@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for TheatreMcLean Unleashes Murder, Mayhem and Laughs in “Clue”"
+  caption: "TheatreMcLean Unleashes Murder, Mayhem and Laughs in “Clue”. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 TheatreMcLean traded history for fast-paced farce with “Clue,” a comedic murder mystery staged from April 30 through May 3.
