@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Another Winter Storm Could Dump 5 Inches on Fairfax County"
+  caption: "Total snow accumulation forecast for D.C. region on Feb. 22-23, 2026 (via National Weather Service)"
+  credit: "Total snow accumulation forecast for D.C. region on Feb. 22-23, 2026 (via Natio…"
 ---
 
 Fairfax County could see at least 5 inches of snow as another winter storm approaches the D.C. region, though forecasters cautioned Saturday that the storm’s path and snowfall totals remained uncertain.

@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Reveal the Fear and Turmoil They Left Behind in Iran"
+  caption: "McLean Students Reveal the Fear and Turmoil They Left Behind in Iran. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 For several McLean students who grew up in Iran, political pressure began in elementary school, where children were expected to chant “Death to America” and “Death to Israel” during their morning routine.

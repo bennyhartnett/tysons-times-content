@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students practice their TED Talks speech before school day begins at Kent Gardens Elementary."
+  caption: "McLean Students Turn Stage Fright Into Powerful Public Talks. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Thirty Kent Gardens Elementary School students are tackling the fear of public speaking before most of their classmates have even arrived for the day.

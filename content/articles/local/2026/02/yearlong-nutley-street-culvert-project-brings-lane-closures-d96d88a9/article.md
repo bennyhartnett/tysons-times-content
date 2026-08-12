@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Yearlong Nutley Street Culvert Project Brings Lane Closures"
+  caption: "Yearlong Nutley Street Culvert Project Brings Lane Closures. Openly licensed thematic image selected for this article."
+  credit: "Shopstone / CC0 / Wikimedia Commons"
 ---
 
 Construction to replace an aging underground culvert on Nutley Street near Marshall Road in Vienna is scheduled to begin Tuesday, Feb. 24, 2026, launching a five-phase project expected to take nearly a year.

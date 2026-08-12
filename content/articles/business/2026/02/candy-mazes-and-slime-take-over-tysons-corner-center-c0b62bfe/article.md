@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "woman navigating obstacles in brightly colored room"
+  caption: "A woman navigates the Twistology Hub at Hershey Super Sweet Adventure, which opens at Tysons on March 6."
+  credit: "A woman navigates the Twistology Hub at Hershey Super Sweet Adventure, which op…"
 ---
 
 A former Pottery Barn at Tysons Corner Center is becoming a candy-themed playground as the mall accelerates its shift from traditional retail toward immersive entertainment.

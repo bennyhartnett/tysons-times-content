@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Teacher with elementary school students wearing Hawaiian leis and bright colored shirts in a classroom."
+  caption: "FCPS Touts 97% Staff Return Rate as Budget Vote Nears. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is heading into a pivotal budget vote with encouraging news about employee retention, student innovation and community support across the division.

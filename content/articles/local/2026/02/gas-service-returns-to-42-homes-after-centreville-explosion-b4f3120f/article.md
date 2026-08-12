@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "scene from a house explosion"
+  caption: "A house explosion displaced several people in Centreville, Virginia, last Sunday. (WTOP/Kyle Cooper)"
+  credit: "A house explosion displaced several people in Centreville, Virginia, last Sunda…"
 ---
 
 Utility crews have begun restoring gas service to dozens of Centreville homes nearly a week after a Feb. 15 house explosion on Quail Pond Court injured two people and displaced residents.

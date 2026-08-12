@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Overnight Car Rallies Draw 300, Trigger Arrests Across DC Area"
+  caption: "Overnight Car Rallies Draw 300, Trigger Arrests Across DC Area. Openly licensed thematic image selected for this article."
+  credit: "WOodaMEI / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Police in Maryland and Virginia are investigating a series of illegal car rallies that drew crowds of up to 300 people, disrupted roads and sent vehicles crossing state lines overnight.

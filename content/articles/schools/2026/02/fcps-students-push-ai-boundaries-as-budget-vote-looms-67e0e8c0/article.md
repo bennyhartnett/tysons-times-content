@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid accepting keys to a donated van with Fairfax High School automotive tech students."
+  caption: "FCPS Students Push AI Boundaries as Budget Vote Looms. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools highlighted student innovation, employee retention and community partnerships during a busy week that also brought renewed attention to the division’s fiscal year 2027 budget.

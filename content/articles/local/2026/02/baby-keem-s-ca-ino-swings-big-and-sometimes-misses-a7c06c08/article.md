@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Baby Keem’s ‘Ca$ino’ Swings Big—and Sometimes Misses"
+  caption: "Baby Keem’s ‘Ca$ino’ Swings Big—and Sometimes Misses. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Baby Keem returned Feb. 20 with *Ca$ino*, ending a 1,624-day wait for an original album following the 2021 fan favorite *The Melodic Blue*. The project takes bold experimental chances, delivering flashes of thrilling confidence alongside ideas that do not always land.
