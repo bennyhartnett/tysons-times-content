@@ -10,10 +10,10 @@ tags:
   - "local"
   - "arlington"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Arlington Mahjong Circle Bridges Generations With Every Tile"
+  caption: "Arlington Mahjong Circle Bridges Generations With Every Tile. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The clatter of Mahjong tiles now draws 20 players, ages 28 to 82, to a different Arlington-area home each week, turning a centuries-old Chinese game into a growing intergenerational tradition in suburban Virginia.

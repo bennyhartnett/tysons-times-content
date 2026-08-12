@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Vienna Picks 35-Year Law Enforcement Veteran as Next Police Chief"
+  caption: "Vienna Picks 35-Year Law Enforcement Veteran as Next Police Chief. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Vienna Deputy Police Chief Dan Janickey will take charge of the town’s police department on Feb. 1, 2026, following Police Chief Jim Morris’ retirement.

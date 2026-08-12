@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Gretchen Bulova Wins Five-Way Democratic Contest for House Seat"
+  caption: "Gretchen Bulova Wins Five-Way Democratic Contest for House Seat. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Gretchen Bulova won the Democratic nomination for Virginia’s 11th House of Delegates District, placing her in position to seek the seat being vacated by her husband, Del. David Bulova.

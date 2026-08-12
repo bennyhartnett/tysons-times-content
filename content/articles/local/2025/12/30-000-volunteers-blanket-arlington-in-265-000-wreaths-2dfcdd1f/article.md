@@ -11,10 +11,10 @@ tags:
   - "arlington"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for 30,000 Volunteers Blanket Arlington in 265,000 Wreaths"
+  caption: "30,000 Volunteers Blanket Arlington in 265,000 Wreaths. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 More than 30,000 volunteers gathered at Arlington National Cemetery on Dec. 13, placing 265,000 wreaths in a sweeping tribute to fallen service members.

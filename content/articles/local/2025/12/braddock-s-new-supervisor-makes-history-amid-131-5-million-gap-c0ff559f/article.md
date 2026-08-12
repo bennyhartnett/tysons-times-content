@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Braddock’s New Supervisor Makes History Amid $131.5 Million Gap"
+  caption: "Braddock’s New Supervisor Makes History Amid $131.5 Million Gap. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Rachna Sizemore Heizer made Fairfax County history on Tuesday, Dec. 16, becoming the first Asian American to serve on the Board of Supervisors.

@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Quander Road students shop at 10th annual Operation Giftbox event."
+  caption: "Quander Road’s Gift Tradition Marks 10 Years of Holiday Giving. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Quander Road School celebrated a decade of holiday generosity in December as students once again chose donated gifts for themselves and their families through Operation Gift Box.

@@ -11,10 +11,10 @@ tags:
   - "falls church"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for March 3 Special Election Sought for Vacant Braddock School Board Seat"
+  caption: "March 3 Special Election Sought for Vacant Braddock School Board Seat. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 A special election could be held March 3, 2026, to fill the vacant Braddock District seat following action at the Dec. 18 school board meeting.

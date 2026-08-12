@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Arlington’s Pop-Up Market Brings Holiday Shopping to Clarendon"
+  caption: "Arlington’s Pop-Up Market Brings Holiday Shopping to Clarendon. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 An outdoor market transformed a Clarendon street for two chilly days in early December, bringing together local vendors selling seasonal gifts, specialty foods and services at The Crossing.

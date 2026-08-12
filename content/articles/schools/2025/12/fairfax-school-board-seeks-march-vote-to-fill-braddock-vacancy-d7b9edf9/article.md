@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Honoring School Board Member Rachna Sizemore Heizer"
+  caption: "Fairfax School Board Seeks March Vote to Fill Braddock Vacancy. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board moved toward a March 3, 2026, special election for its vacant Braddock District seat during a wide-ranging Dec. 18 meeting that also brought decisions on advanced academic programs, the midyear budget and school transportation.
