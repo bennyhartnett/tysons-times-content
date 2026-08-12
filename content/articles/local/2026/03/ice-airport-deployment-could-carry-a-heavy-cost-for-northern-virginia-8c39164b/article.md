@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for ICE Airport Deployment Could Carry a Heavy Cost for Northern Virginia"
+  caption: "ICE Airport Deployment Could Carry a Heavy Cost for Northern Virginia. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 The arrival of Immigration and Customs Enforcement agents at Dulles International and Reagan National airports could affect Northern Virginia far beyond the security checkpoints they are being sent to support.

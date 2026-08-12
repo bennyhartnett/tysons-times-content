@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Children step onto school bus."
+  caption: "Parents watch as children step onto a Fairfax County school bus October 15, 2002, in Falls Church, Virginia. (Getty/Mark Wilson)"
+  credit: "Parents watch as children step onto a Fairfax County school bus October 15, 200…"
 ---
 
 Fairfax County families are pressing for fewer interruptions to the school year, arguing that a calendar filled with holidays, teacher workdays and early dismissals is disrupting learning and creating costly child care challenges.

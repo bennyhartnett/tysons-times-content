@@ -11,9 +11,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for ChatGPT, Gemini and Grok Split the Wins in Five-Test Showdown"
+  caption: "ChatGPT, Gemini and Grok Split the Wins in Five-Test Showdown. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 No single AI model came out on top when ChatGPT, Gemini and Grok faced the same five tests. ChatGPT delivered greater detail, Gemini offered the most human-like voice, and Grok led in speed and image recognition.

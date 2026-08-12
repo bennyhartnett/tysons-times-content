@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County Eyes Shake-Up of Tysons and Tourism Groups"
+  caption: "Visit Fairfax president CEO Barry Biggar (screenshot via Fairfax County)"
+  credit: "Visit Fairfax president CEO Barry Biggar (screenshot via Fairfax County)"
 ---
 
 Fairfax County Executive Bryan Hill expects to unveil a plan within weeks that could consolidate publicly supported organizations promoting Tysons, tourism, volunteerism and other community interests.

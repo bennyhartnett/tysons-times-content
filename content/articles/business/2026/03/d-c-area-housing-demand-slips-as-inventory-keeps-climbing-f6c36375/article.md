@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for D.C.-Area Housing Demand Slips as Inventory Keeps Climbing"
+  caption: "D.C.-Area Housing Demand Slips as Inventory Keeps Climbing. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Housing activity across the Washington, D.C., metro lost momentum during the week ending March 22, 2026, as pending contracts declined and broader Mid-Atlantic showing activity fell below last year’s level.

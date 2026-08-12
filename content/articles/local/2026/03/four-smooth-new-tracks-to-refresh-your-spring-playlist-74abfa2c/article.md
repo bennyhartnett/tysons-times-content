@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Four Smooth New Tracks to Refresh Your Spring Playlist"
+  caption: "Four Smooth New Tracks to Refresh Your Spring Playlist. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Four recently released songs are earning high marks for pairing laid-back melodies with unexpected shifts in energy, making them strong additions to a spring playlist.

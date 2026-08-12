@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for ICE Deployment Adds New Tension at Reagan and Dulles Airports"
+  caption: "ICE Deployment Adds New Tension at Reagan and Dulles Airports. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Immigration and Customs Enforcement agents have been sent to airports nationwide, including Reagan National and Dulles International, as officials contend with long lines, staffing shortages and spring break crowds.

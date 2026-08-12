@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS Superintendent Dr. Michelle Reid speaks to a large group of high school students attending the inaugural Superintendent Student Summit in the auditorium at Skyview High Schoo…"
+  caption: "FCPS Students Put Their Priorities in Front of Superintendent. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools students took center stage during a packed final week of March, offering recommendations on academics, mental health, equity and preparation for life after graduation.

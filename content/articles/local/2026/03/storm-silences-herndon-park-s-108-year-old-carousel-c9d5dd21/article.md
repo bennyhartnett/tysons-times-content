@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "carousel in a park"
+  caption: "FP, Frying Pan, adults, animals, caoursel, children, equestrian and farm, farm"
+  credit: "FP, Frying Pan, adults, animals, caoursel, children, equestrian and farm, farm"
 ---
 
 A carousel that entertained generations of Northern Virginia families will be permanently removed from Frying Pan Farm Park after suffering severe damage during a January winter storm.
