@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Side of yellow school bus"
+  caption: "Fairfax County Public School buses at a middle school in Falls Church, Va."
+  credit: "Fairfax County Public School buses at a middle school in Falls Church, Va."
 ---
 
 Fairfax County Public Schools plans to introduce a tap-to-ride student ID system during the 2026-27 school year, giving students cards to scan when they board and exit school buses.

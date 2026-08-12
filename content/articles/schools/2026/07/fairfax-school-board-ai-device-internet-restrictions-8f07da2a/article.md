@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Side view of a yellow Fairfax County Public Schools bus parked in a lot, with the stop sign extended. Accessible text: 'Fairfax County Public Schools' along the side of the bus."
+  caption: "A Fairfax County Public Schools bus (Staff photo by Mary Stachyra Lopez)"
+  credit: "A Fairfax County Public Schools bus (Staff photo by Mary Stachyra Lopez)"
 ---
 
 The Fairfax County School Board approved a series of technology restrictions and reviews July 16, including a prohibition on generative artificial intelligence for elementary students and a ban on FCPS-issued laptops and tablets for pre-K and kindergarten students, with limited exceptions.

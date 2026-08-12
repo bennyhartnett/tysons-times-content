@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Rob Hahne, Jr. (via American Baseball Coaches Association)"
+  caption: "Rob Hahne, Jr. (via American Baseball Coaches Association)"
+  credit: "Rob Hahne, Jr. (via American Baseball Coaches Association)"
 ---
 
 The baseball facility at Westfield High School will be named the Rob Hahne Memorial Baseball Field, honoring a longtime coach whose work extended across youth sports and charitable organizations in Northern Virginia.

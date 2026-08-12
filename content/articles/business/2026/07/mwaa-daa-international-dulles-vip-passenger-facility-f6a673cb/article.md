@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A hand holds a stemmed wine glass filled with water, blue sky behind and a blurred airplane in the background."
+  caption: "VIP traveler at airport (via Ellen Jenni/Unsplash)"
+  credit: "VIP traveler at airport (via Ellen Jenni/Unsplash)"
 ---
 
 The Metropolitan Washington Airports Authority board has awarded DAA International a 20-year contract to develop and operate a remote VIP passenger facility at Dulles International Airport.

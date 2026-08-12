@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "fairfax county police cruiser"
+  caption: "A Fairfax County police cruiser is seen in this WTOP file photo. (WTOP/John Domen)"
+  credit: "WTOP Fairfax County"
 ---
 
 A Cooper Middle School special education teacher has been charged with two counts of simple assault following allegations involving a student, according to Fairfax County police.

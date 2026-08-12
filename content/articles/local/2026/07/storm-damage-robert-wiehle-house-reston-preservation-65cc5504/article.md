@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Two-story white wooden house with a collapsed roof and extensive debris surrounding the structure."
+  caption: "The Robert Wiehle House in Reston was damaged by a storm on July 5, 2026 (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 A tree from a neighboring property crashed through the roof of the Robert Wiehle House at 1830 Old Reston Avenue during a storm on July 5, concentrating damage on the roof and one of the home's two second-floor bedrooms. The Fairfax County Fire Marshal's Office declared the 130-year-old Victorian structure unsafe to enter, leaving the owner without a full damage assessment and facing a decision about how to proceed.

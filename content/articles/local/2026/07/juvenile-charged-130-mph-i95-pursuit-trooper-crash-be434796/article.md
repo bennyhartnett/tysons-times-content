@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Side view of a silver state police sedan with a blue light bar on the roof and a seal/emblem on the front door"
+  caption: "A Virginia State Police cruiser stopped on a highway (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Virginia State Police said a reportedly stolen vehicle fleeing troopers early July 22 reached speeds exceeding 130 mph across Fairfax and Prince William counties before allegedly ramming a state police cruiser into a jersey wall on northbound I-95.

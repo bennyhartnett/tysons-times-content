@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A group of kids practice a song and dance in a choir room."
+  caption: "FCPS rolls out student bus IDs as Skyview boundary plan moves forward. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is preparing to give every student a new identification card for the 2026-27 school year, part of a transportation technology rollout arriving as the division moves ahead with new attendance boundaries for Skyview High School and several western Fairfax County schools.

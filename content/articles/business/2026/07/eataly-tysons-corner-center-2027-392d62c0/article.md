@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Construction site in front of a modern storefront with exposed steel framing and plywood, a green fencing banner reading 'coming soon' along the sidewalk, and clear blue sky above."
+  caption: "Construction underway on former American Girl space at Tysons Corner Center (staff photo by Angela Woolsey)"
+  credit: "Angela Woolsey / FFXnow"
 ---
 
 Eataly confirmed July 22 that it plans to open its first Washington, D.C.-region location at Tysons Corner Center in 2027.

@@ -12,9 +12,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church 12U All-Stars Reach Virginia State Semifinals"
+  caption: "Falls Church 12U All-Stars Reach Virginia State Semifinals. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 The Falls Church Kiwanis Little League 12U Majors All-Stars advanced to the Virginia state semifinals after a four-game winning streak, extending a historic tournament run that began with the 2026 District 4 championship.
