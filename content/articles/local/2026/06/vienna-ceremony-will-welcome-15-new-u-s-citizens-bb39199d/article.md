@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Ceremony Will Welcome 15 New U.S. Citizens"
+  caption: "Vienna Ceremony Will Welcome 15 New U.S. Citizens."
+  credit: "The Zebra"
 ---
 
 Fifteen people from around the world will become U.S. citizens during a naturalization ceremony in Vienna as the nation marks its 250th anniversary year.

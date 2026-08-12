@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Floyd Mercantile Turns an Abandoned Store Into a Musical Time Capsule"
+  caption: "Floyd Mercantile Turns an Abandoned Store Into a Musical Time Capsule. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Floyd Mercantile transformed an abandoned Virginia general store into an unconventional recording space, using its weathered atmosphere to shape a new album ahead of the trio’s June 28 performance at Jammin’ Java in Vienna.

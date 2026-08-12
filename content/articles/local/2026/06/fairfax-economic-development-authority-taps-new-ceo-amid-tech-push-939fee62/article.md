@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Economic Development Authority Taps New CEO Amid Tech Push"
+  caption: "Fairfax Economic Development Authority Taps New CEO Amid Tech Push."
+  credit: "Fairfax County Economic Development Authority"
 ---
 
 The Fairfax County Economic Development Authority Commission has selected George D. Thomas as its next president and CEO as the county targets growth in artificial intelligence, quantum technology, national defense, advanced computing and space commercialization.

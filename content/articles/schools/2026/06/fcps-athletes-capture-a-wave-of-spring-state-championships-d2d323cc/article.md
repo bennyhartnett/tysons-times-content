@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Members of Westfield High School boys soccer team celebrate winning the 2026 VHSL Class 6 soccer championship outside on a field."
+  caption: "FCPS Athletes Capture a Wave of Spring State Championships. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools athletes closed the 2026 spring season with five team titles and 15 individual or relay championships in Virginia High School League Class 6 competition. Five teams and 13 individual or relay entries also finished as state runners-up.

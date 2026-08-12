@@ -11,9 +11,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tom Hanks Takes On World War II in Sweeping 20-Part Series"
+  caption: "Tom Hanks Takes On World War II in Sweeping 20-Part Series. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Tom Hanks is revisiting World War II with an ambitious 20-part documentary series that traces the conflict from Germany’s invasion of Poland in September 1939 through its aftermath and conclusion on Sept. 2, 1945.

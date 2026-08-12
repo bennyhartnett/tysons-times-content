@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Sets Juneteenth Closures and Two-Day Celebration"
+  caption: "Falls Church Sets Juneteenth Closures and Two-Day Celebration."
+  credit: "WAMC"
 ---
 
 Falls Church will mark Juneteenth with two days of music, history and community events, while several city facilities close for the federal holiday.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Scouts Find Infant Footprints in 250-Year-Old Bricks"
+  caption: "Vienna Scouts Find Infant Footprints in 250-Year-Old Bricks. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A cleanup project behind a dumpster in a Vienna church parking lot uncovered an intimate link to families enslaved more than 250 years ago: handmade chimney bricks bearing fingerprints and the footprints of two children.

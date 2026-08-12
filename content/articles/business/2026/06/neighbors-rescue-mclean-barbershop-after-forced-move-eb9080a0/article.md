@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Neighbors Rescue McLean Barbershop After Forced Move"
+  caption: "The new Chesterbrook Barber Shop location (courtesy of Chesterbrook Barber Shop)"
+  credit: "The new Chesterbrook Barber Shop location (courtesy of Chesterbrook Barber Shop)"
 ---
 
 A McLean barbershop that served generations of customers at Chesterbrook Shopping Center has reopened nearby after its community rallied to help it survive an unexpected relocation.

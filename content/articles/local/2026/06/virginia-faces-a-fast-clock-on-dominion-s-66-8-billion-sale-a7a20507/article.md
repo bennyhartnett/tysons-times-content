@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Faces a Fast Clock on Dominion’s $66.8 Billion Sale"
+  caption: "Virginia Faces a Fast Clock on Dominion’s $66.8 Billion Sale. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia lawmakers are racing against a regulatory deadline as NextEra Energy pursues a $66.8 billion acquisition of Richmond-based Dominion Energy—a deal that could reshape electricity service, rates and energy policy across the state.

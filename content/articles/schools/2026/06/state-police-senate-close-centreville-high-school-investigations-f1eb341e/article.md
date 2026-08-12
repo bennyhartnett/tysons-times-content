@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for State Police, Senate Close Centreville High School Investigations"
+  caption: "State Police, Senate Close Centreville High School Investigations. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Investigations by the Virginia State Police and the U.S. Senate Committee on Health, Education, Labor and Pensions have closed without finding evidence of wrongdoing at Centreville High School, Fairfax County Public Schools Superintendent Dr. Michelle C. Reid announced June 16.
