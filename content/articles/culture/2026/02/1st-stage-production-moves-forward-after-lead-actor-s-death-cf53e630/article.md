@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 1st Stage Production Moves Forward After Lead Actor’s Death"
+  caption: "1st Stage Production Moves Forward After Lead Actor’s Death. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 1st Stage will move ahead with its production of *Between Riverside and Crazy* following the unexpected death of William T. Newman Jr., a longtime artist and board member who had been rehearsing the lead role.

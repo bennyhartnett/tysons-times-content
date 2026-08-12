@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Casino Study Puts Tax Windfall Far Below Earlier Forecasts"
+  caption: "A lobbying flyer shared with state lawmakers in January 2025 includes a rendering of Comstock’s envisioned casino development in Tysons (via Access Point Public Affairs)"
+  credit: "A lobbying flyer shared with state lawmakers in January 2025 includes a renderi…"
 ---
 
 A casino-centered development in Fairfax County could generate substantial new tax revenue, but a preliminary county study estimates a considerably smaller payoff than earlier projections from state analysts and a prospective developer.

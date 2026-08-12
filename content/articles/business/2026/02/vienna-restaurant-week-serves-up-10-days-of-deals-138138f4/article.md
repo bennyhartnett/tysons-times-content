@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Vienna Restaurant Week Serves Up 10 Days of Deals"
+  caption: "Vienna Restaurant Week Serves Up 10 Days of Deals. Openly licensed thematic image selected for this article."
+  credit: "Wilfredor / CC0 / Wikimedia Commons"
 ---
 
 Vienna Restaurant Week returns Feb. 27 through March 8, bringing exclusive discounts, prix fixe menus and limited-time specials to more than 40 local restaurants and businesses.

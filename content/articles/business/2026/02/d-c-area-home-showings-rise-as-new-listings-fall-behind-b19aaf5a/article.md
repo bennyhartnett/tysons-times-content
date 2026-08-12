@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying D.C.-Area Home Showings Rise as New Listings Fall Behind"
+  caption: "D.C.-Area Home Showings Rise as New Listings Fall Behind. Openly licensed thematic image selected for this article."
+  credit: "Didier Descouens / Public domain / Wikimedia Commons"
 ---
 
 Home-show showing activity in the Washington metro area strengthened during the week ending Feb. 15, 2026, even as the broader Mid-Atlantic market received fewer new listings than it did a year earlier.

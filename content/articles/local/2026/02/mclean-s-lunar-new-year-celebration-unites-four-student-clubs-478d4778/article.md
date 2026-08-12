@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean’s Lunar New Year Celebration Unites Four Student Clubs"
+  caption: "McLean’s Lunar New Year Celebration Unites Four Student Clubs. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s dimly lit cafeteria burst into color Friday as students gathered for a Lunar New Year celebration filled with cultural decorations, food and games.

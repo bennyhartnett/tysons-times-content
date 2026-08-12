@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Cyclists Get Their Say on the Area’s Best Bike Shop"
+  caption: "Fairfax Cyclists Get Their Say on the Area’s Best Bike Shop. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County cyclists have an opportunity to choose the area’s best bicycle shop in a Readers’ Choice poll highlighting local retailers and repair specialists.

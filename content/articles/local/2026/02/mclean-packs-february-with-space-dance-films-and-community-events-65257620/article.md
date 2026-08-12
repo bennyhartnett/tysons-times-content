@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Packs February With Space, Dance, Films and Community Events"
+  caption: "McLean Packs February With Space, Dance, Films and Community Events. Image from McLean Community Center News."
+  credit: "McLean Community Center News"
 ---
 
 The McLean Community Center will fill February 2026 with performances, international films, classes and community programs at its main building, The Alden Theatre and the Old Firehouse Center.

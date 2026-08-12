@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for GRVTY Picks Tysons for $8 Million Headquarters and 200 New Jobs"
+  caption: "GRVTY Picks Tysons for $8 Million Headquarters and 200 New Jobs. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Defense technology company GRVTY plans to invest $8 million in a new Tysons headquarters, expanding its Fairfax County presence and adding 200 jobs.

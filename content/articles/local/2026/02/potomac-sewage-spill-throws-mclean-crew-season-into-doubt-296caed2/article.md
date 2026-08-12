@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Potomac Sewage Spill Throws McLean Crew Season Into Doubt"
+  caption: "Potomac Sewage Spill Throws McLean Crew Season Into Doubt. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 A massive sewage spill in the Potomac River has left McLean rowers uncertain whether they can safely begin their season in March.

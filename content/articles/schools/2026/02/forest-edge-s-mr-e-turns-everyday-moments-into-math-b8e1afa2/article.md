@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A teacher at the front of a classroom."
+  caption: "Forest Edge’s “Mr. E” Turns Everyday Moments Into Math. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Every Monday, Damien Ettere challenges Forest Edge Elementary students to find the math hiding in the world around them.
