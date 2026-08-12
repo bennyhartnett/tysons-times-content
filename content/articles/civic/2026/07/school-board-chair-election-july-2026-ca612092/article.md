@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Headshot of Robyn Lady."
+  caption: "Robyn Lady, Fairfax County School Board chair."
+  credit: "FCPS News"
 ---
 
 The Fairfax County School Board elected Dranesville District representative Robyn Lady as chair and at-large member Kyle McDaniel as vice chair for the 2026-27 school year at its July 9, 2026, regular meeting.

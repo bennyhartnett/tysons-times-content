@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "close up of child playing with colorful block toys"
+  caption: "Kindergarten, Child playing with brick toys at daycare nursery. Education development games for school toddlers kids"
+  credit: "WTOP Fairfax County"
 ---
 
 Fairfax County is considering zoning changes intended to make opening home daycare facilities faster and less expensive, county staff told the Board of Supervisors' Land Use Policy Committee on July 7.

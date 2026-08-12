@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Aiden Mattauszek poses in the duct tape prom suit that made him a finalist for a $10,000 Duck Tape scholarship. (Courtesy Aiden Mattauszek)"
+  caption: "Aiden Mattauszek poses in the duct tape prom suit that made him a finalist for a $10,000 Duck Tape scholarship. (Courtesy Aiden Mattauszek)"
+  credit: "WTOP Fairfax County"
 ---
 
 Aiden Mattauszek, a 2026 graduate of Hayfield Secondary School in Fairfax County, was named one of the top 10 finalists in Duck Tape’s annual Stuck at Prom Scholarship Contest.

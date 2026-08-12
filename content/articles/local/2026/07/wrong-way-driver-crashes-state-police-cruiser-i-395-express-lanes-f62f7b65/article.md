@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Interstate 395"
+  caption: "Cars drive north and south on 395 on a Tuesday evening after work."
+  credit: "Cars drive north and south on 395 on a Tuesday evening after work."
 ---
 
 A driver traveling the wrong way in the reversible I-395 Express Lanes collided with a Virginia State Police cruiser and another vehicle in Alexandria on July 10, according to state police.

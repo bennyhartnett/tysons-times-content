@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A flag sits in the foreground of earthquake rubble in Guaira, Venezuela."
+  caption: "Residents and rescue workers search through the rubble of buildings damaged in the earthquakes that struck La Guaira, Venezuela, Thursday, July 2, 2026. (AP Photo/Matias Delacroix)"
+  credit: "WTOP Fairfax County"
 ---
 
 Virginia Task Force One returned to Fairfax County after a 10-day deployment to Venezuela, where the urban search-and-rescue team worked alongside international crews following the June 24 earthquakes.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Northern Virginia townhouses"
+  caption: "Townhouses in Northern Virginia."
+  credit: "Townhouses in Northern Virginia."
 ---
 
 Fairfax County is considering zoning changes that would make it easier for homeowners to add accessory living units to their properties—a move county officials say could expand affordable housing options and simplify a process that currently discourages participation.

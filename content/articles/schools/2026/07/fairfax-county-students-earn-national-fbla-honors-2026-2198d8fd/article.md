@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Group photo of FCPS students outside that participated in the 2026 FBLA National Leadership Conference."
+  caption: "Fairfax County students earn two national FBLA first-place awards. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools students earned two first-place awards and multiple other top-15 finishes at the 2026 Future Business Leaders of America National Leadership Conference, held June 29 through July 2 in San Antonio, Texas.

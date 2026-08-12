@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lizzo attends The Metropolitan Museum of Art's Costume Institute benefit gala"
+  caption: "Lizzo attends The Metropolitan Museum of Art’s Costume Institute benefit gala celebrating the opening of the “Superfine: Tailoring Black Style”…"
+  credit: "WTOP Fairfax County"
 ---
 
 DC Flutes performed a medley of Lizzo songs at Wolf Trap’s Filene Center on July 7, opening the evening before the singer took the stage in Vienna.

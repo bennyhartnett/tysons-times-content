@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church weighs another Little City Sips after reported turnout, sales gains"
+  caption: "Falls Church weighs another Little City Sips after reported turnout, sales gains. Image from Falls Church News-Press."
+  credit: "Falls Church News-Press"
 ---
 
 Falls Church is considering whether to bring back Little City Sips after a June pilot drew more than 4,300 attendees and reportedly increased sales at participating restaurants.
