@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Arlington’s Project PEACE Marks 20 Years of Transforming Survivor Support"
+  caption: "Arlington’s Project PEACE Marks 20 Years of Transforming Survivor Support. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Arlington County’s Project PEACE marked its 20th anniversary April 28, celebrating its transformation from a fragmented crisis response into a coordinated support system for survivors of domestic and sexual violence.

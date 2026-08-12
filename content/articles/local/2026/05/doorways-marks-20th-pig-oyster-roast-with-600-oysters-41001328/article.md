@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Doorways Marks 20th Pig & Oyster Roast With 600 Oysters"
+  caption: "Doorways Marks 20th Pig & Oyster Roast With 600 Oysters. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Doorways welcomed new families and longtime supporters on May 7 for its 20th annual Pig & Oyster Roast, a fundraiser that has grown from a neighborhood gathering into a major community event.

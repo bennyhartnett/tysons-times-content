@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Spanberger Veto Halts Bargaining Push for 500,000 Virginia Workers"
+  caption: "Spanberger Veto Halts Bargaining Push for 500,000 Virginia Workers. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia’s latest push to expand public-sector labor rights ended Thursday, May 14, when Gov. Abigail Spanberger vetoed HB 1263, prompting union leaders to accuse her of abandoning a campaign promise.

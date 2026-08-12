@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Med Spa Bets on Subtlety in a Crowded Beauty Market"
+  caption: "Vienna Med Spa Bets on Subtlety in a Crowded Beauty Market. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Artmedica Aesthetics is carving out a niche in Vienna’s competitive medical-spa market by emphasizing personalized treatment plans and natural-looking cosmetic results.

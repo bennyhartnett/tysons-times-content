@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Late Freeze Nearly Upends Fairfax County’s Hidden Garden Tour"
+  caption: "Late Freeze Nearly Upends Fairfax County’s Hidden Garden Tour. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A late freeze threatened months of preparation just hours before Fairfax County’s 2026 Historic Garden Week tour was set to welcome visitors into three private gardens.

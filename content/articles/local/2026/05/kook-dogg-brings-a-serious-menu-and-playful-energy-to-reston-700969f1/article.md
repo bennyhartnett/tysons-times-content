@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Kook Dogg Brings a Serious Menu and Playful Energy to Reston"
+  caption: "Kook Dogg Brings a Serious Menu and Playful Energy to Reston. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A restaurant with an unusual name is building a following at Reston Town Center West, pairing a playful identity with an expansive menu of pizzas, sandwiches, pasta, seafood dishes and drinks.

@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for At 100, Marvin Hurley Is Still Moving to Life’s Rhythm"
+  caption: "At 100, Marvin Hurley Is Still Moving to Life’s Rhythm. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Long after midnight, Marvin Hurley often remains awake, following sports scores and the news on his iPad, watching old movies and listening to music. As a song plays, his foot still taps gently to the beat.

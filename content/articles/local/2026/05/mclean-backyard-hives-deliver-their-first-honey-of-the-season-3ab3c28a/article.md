@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Backyard Hives Deliver Their First Honey of the Season"
+  caption: "McLean Backyard Hives Deliver Their First Honey of the Season. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Nevra Ledwon’s backyard bees have produced their first honey of the season, bringing friends and neighbors to her McLean home for a hands-on lesson in harvesting it.

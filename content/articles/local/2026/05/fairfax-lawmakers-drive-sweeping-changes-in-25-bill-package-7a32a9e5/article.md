@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Lawmakers Drive Sweeping Changes in 25-Bill Package"
+  caption: "Fairfax Lawmakers Drive Sweeping Changes in 25-Bill Package."
+  credit: "VPM"
 ---
 
 Gov. Abigail Spanberger signed 25 bills into law on May 13, including six major measures led by members of Fairfax County’s legislative delegation.

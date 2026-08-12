@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Combat Historian Reveals the Army’s Costly Battle to Preserve Truth"
+  caption: "Combat Historian Reveals the Army’s Costly Battle to Preserve Truth. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Retired Col. Richard W. Stewart has released “Combat Historian,” a book chronicling his efforts to document American special operations from Desert Storm through the Afghanistan war between 1991 and 2002.
