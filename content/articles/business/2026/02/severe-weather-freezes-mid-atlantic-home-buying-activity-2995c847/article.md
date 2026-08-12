@@ -11,9 +11,9 @@ tags:
   - "virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Severe Weather Freezes Mid-Atlantic Home-Buying Activity"
+  caption: "Severe Weather Freezes Mid-Atlantic Home-Buying Activity. Openly licensed thematic image selected for this article."
+  credit: "Lee Snook (MORA) / Public domain / Wikimedia Commons"
 ---
 
 Severe winter weather sharply curtailed home-buying activity across the Mid-Atlantic during the week ending February 1, 2026, as fewer buyers toured properties and fewer sellers placed homes on the market.

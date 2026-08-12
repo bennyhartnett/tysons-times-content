@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Great Falls Real Estate Team Builds Luxury Reach From Local Roots"
+  caption: "Great Falls Real Estate Team Builds Luxury Reach From Local Roots. Openly licensed thematic image selected for this article."
+  credit: "Tony Webster / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Dianne Van Volkenburg has spent nearly three decades working in Great Falls real estate, developing a neighborhood-focused practice into the Great Falls Great Homes team.

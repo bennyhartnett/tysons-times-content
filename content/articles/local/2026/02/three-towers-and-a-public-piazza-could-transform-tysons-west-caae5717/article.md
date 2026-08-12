@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Three Towers and a Public Piazza Could Transform Tysons West"
+  caption: "Three Towers and a Public Piazza Could Transform Tysons West. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A former Tysons shopping center near the Spring Hill Metro station could give way to three high-rise towers, hundreds of homes and a nearly two-acre public gathering space under a redevelopment plan approved in November 2025.

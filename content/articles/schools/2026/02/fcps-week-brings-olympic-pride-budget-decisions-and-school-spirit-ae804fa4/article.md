@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "FCPS Leadership Team colorful leis in the parking lot for Gatehouse Administration Center."
+  caption: "FCPS Week Brings Olympic Pride, Budget Decisions and School Spirit. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools entered February celebrating two graduates competing for Team USA, advancing plans for twice-exceptional students and preparing for key Fiscal Year 2027 budget discussions.

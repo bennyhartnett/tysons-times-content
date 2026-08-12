@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Three Easy DIY Projects to Make Valentine’s Day More Personal"
+  caption: "Three Easy DIY Projects to Make Valentine’s Day More Personal. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Valentine’s Day does not have to revolve around store-bought gifts. Homemade message cookies, a festive garland and hand-painted candles can add a thoughtful touch to the celebration.

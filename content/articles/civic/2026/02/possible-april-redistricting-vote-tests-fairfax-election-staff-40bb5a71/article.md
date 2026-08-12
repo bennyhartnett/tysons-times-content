@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Possible April Redistricting Vote Tests Fairfax Election Staff"
+  caption: "Fairfax County Electoral Board Chair Kate Hanley (screenshot via Fairfax County)"
+  credit: "Fairfax County Electoral Board Chair Kate Hanley (screenshot via Fairfax County)"
 ---
 
 Fairfax County election workers could face another countywide vote this spring if Virginia advances a constitutional amendment allowing congressional districts to be redrawn before the 2026 midterm elections.

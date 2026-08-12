@@ -11,9 +11,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a teacher talks to a student at their desk"
+  caption: "Kilmer Teacher’s Care Corner Keeps Students Ready to Learn. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Kilmer Middle School math teacher Paige Knisley has created a judgment-free space where students can discreetly obtain personal-care items and remain focused on learning.

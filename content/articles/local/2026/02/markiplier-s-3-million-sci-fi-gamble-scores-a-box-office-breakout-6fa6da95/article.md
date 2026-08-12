@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Markiplier’s $3 Million Sci-Fi Gamble Scores a Box Office Breakout"
+  caption: "Markiplier’s $3 Million Sci-Fi Gamble Scores a Box Office Breakout. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *Iron Lung* brings the 2022 cult indie game by David Szymanski to theaters as a tense, claustrophobic plunge into science-fiction horror. Released Jan. 30, the entirely self-financed film was written and directed by Mark “Markiplier” Fischbach, who also stars in his first major acting role.

@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax County’s Best Nail Salon Vote Is Now Open"
+  caption: "Fairfax County’s Best Nail Salon Vote Is Now Open. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents can now vote for their favorite local nail salon in the Readers’ Choice Awards.
