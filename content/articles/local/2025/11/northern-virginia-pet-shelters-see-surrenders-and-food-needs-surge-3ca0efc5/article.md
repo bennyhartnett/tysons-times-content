@@ -12,10 +12,10 @@ tags:
   - "sports"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Northern Virginia Pet Shelters See Surrenders and Food Needs Surge"
+  caption: "Northern Virginia Pet Shelters See Surrenders and Food Needs Surge. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Northern Virginia animal shelters are seeing more families struggle to care for their pets as financial pressure, housing instability and immigration enforcement force owners into painful decisions.

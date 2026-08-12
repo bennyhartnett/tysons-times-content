@@ -11,10 +11,10 @@ tags:
   - "arts"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Afghanistan Evacuation Pushed Local Veteran to Reopen His War Diaries"
+  caption: "Afghanistan Evacuation Pushed Local Veteran to Reopen His War Diaries. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 As the evacuation of Afghanistan unfolded on television, Army veteran Ross Berkoff returned to notebooks he had kept during two tours on the front lines.

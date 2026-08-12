@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for $175,000 Vanishes From Fairfax ATM in Suspected Jackpotting Scheme"
+  caption: "$175,000 Vanishes From Fairfax ATM in Suspected Jackpotting Scheme. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County police are investigating the theft of $175,000 from an Apple Federal Credit Union ATM near Fair Oaks in what detectives believe may have been an “ATM jackpotting” operation.

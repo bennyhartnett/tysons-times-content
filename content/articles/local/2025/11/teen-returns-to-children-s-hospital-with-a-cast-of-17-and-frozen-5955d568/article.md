@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Teen Returns to Children’s Hospital With a Cast of 17 and “Frozen”"
+  caption: "Teen Returns to Children’s Hospital With a Cast of 17 and “Frozen”. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A frightening four-day hospital stay inspired 15-year-old Katie Hearne to return to Children’s Hospital under much happier circumstances: directing a performance of “Frozen” for young patients.

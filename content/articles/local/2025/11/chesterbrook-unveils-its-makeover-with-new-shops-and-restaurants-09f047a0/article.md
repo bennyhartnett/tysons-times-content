@@ -12,10 +12,10 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Chesterbrook Unveils Its Makeover With New Shops and Restaurants"
+  caption: "Chesterbrook Unveils Its Makeover With New Shops and Restaurants. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Chesterbrook Shopping Center marked the completion of its renovation with a “Friendsgiving” celebration Friday, Nov. 14, showcasing a growing mix of new stores, restaurants and community attractions.

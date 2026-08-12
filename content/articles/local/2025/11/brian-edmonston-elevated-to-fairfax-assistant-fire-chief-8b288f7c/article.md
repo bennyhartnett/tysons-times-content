@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Brian Edmonston Elevated to Fairfax Assistant Fire Chief"
+  caption: "Brian Edmonston Elevated to Fairfax Assistant Fire Chief. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Deputy Chief Brian Edmonston will become an assistant chief with the Fairfax County Fire and Rescue Department on Dec. 13, 2025. His assignment will be determined when the promotion takes effect.

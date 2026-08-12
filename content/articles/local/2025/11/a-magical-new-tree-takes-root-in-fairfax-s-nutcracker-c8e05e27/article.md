@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for A Magical New Tree Takes Root in Fairfax’s ‘Nutcracker’"
+  caption: "A Magical New Tree Takes Root in Fairfax’s ‘Nutcracker’. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Fairfax Ballet Co. will open the holiday season with a full-length production of “The Nutcracker” on Saturday and Sunday, Nov. 29-30. Performances begin at 4 p.m. at Fairfax High, 3501 Lion Run in Fairfax City.

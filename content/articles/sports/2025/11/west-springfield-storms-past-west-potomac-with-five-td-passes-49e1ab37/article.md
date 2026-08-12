@@ -11,10 +11,10 @@ tags:
   - "springfield"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for West Springfield Storms Past West Potomac With Five TD Passes"
+  caption: "West Springfield Storms Past West Potomac With Five TD Passes. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 West Springfield quarterback Scott Lewis threw five touchdown passes as the Spartans overwhelmed the West Potomac Wolverines 48-13 in the first round of the Patriot League playoffs Friday, Nov. 14.

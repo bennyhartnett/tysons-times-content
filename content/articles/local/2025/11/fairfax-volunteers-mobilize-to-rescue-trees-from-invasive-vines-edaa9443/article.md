@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Volunteers Mobilize to Rescue Trees From Invasive Vines"
+  caption: "Fairfax Volunteers Mobilize to Rescue Trees From Invasive Vines. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A new volunteer group is mobilizing across Fairfax County to protect trees threatened by widespread invasive vines.

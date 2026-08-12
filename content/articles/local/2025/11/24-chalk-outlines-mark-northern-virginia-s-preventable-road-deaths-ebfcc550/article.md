@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for 24 Chalk Outlines Mark Northern Virginia’s Preventable Road Deaths"
+  caption: "24 Chalk Outlines Mark Northern Virginia’s Preventable Road Deaths. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Twenty-four chalk body outlines covered the entrance to Gateway Park in Arlington on Nov. 16, each representing a person killed in a Northern Virginia traffic crash during the previous year.
