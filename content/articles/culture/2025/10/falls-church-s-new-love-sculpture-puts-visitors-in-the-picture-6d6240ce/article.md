@@ -12,10 +12,10 @@ tags:
   - "business"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Falls Church’s New LOVE Sculpture Puts Visitors in the Picture"
+  caption: "See the unveiling of a new LOVE Letters Sculpture \"reflecting on diversity and inclusivity\" at 300 Park Ave. this Wednesday, Oct. 22, at 9:30 a.m. Then post about it at: #LoveCFC and #LoveVA. Video screenshot from Virgi…"
+  credit: "Falls Church Independent"
 ---
 
 Falls Church will unveil a life-sized, interactive LOVE sculpture at 9:30 a.m. Wednesday, Oct. 22, 2025, at 300 Park Ave. The public ceremony will take place between City Hall and the Cherry Hill Farmhouse.

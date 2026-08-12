@@ -10,10 +10,10 @@ tags:
   - "local"
   - "arlington"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Hundreds Fill Arlington Square for Peaceful No Kings Protest"
+  caption: "Hundreds Fill Arlington Square for Peaceful No Kings Protest. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Several hundred demonstrators circled Welburn Square in Arlington on Saturday, Oct. 18, joining nationwide No Kings Day protests against the Trump administration.

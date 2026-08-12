@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Wife’s Immediate CPR Helps Save Fairfax County Man, 36"
+  caption: "Wife’s Immediate CPR Helps Save Fairfax County Man, 36. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Benjamin Shaul, 36, survived a cardiac arrest at his home after his wife quickly called 911 and began chest compressions.

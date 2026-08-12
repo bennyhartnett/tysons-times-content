@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "arts"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Falls Church Bulletin: Protest, Housing Shift, Theater and Dance"
+  caption: "Protesters in Falls Church City at No Kings Rally, June 14. Photo by Chris Jones."
+  credit: "Falls Church Independent"
 ---
 
 Falls Church residents face a busy stretch of demonstrations, changing housing conditions, youth theater auditions and new international dance classes.

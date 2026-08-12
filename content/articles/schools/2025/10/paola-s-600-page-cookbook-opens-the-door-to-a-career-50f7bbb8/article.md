@@ -11,10 +11,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Collage of Paola"
+  caption: "Paola’s 600-Page Cookbook Opens the Door to a Career. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 What began as a weekly baking tradition between Paola and her mother has grown into a nearly 600-page cookbook—and helped prepare Paola for work in a professional hotel kitchen.

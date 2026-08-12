@@ -12,10 +12,10 @@ tags:
   - "arts"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Shutdown Scramble Nearly Derails Wolf Trap Children’s Event"
+  caption: "Shutdown Scramble Nearly Derails Wolf Trap Children’s Event. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A government shutdown nearly prevented area children from embarking on a two-hour “Global Passport Adventure” at Wolf Trap, but volunteers stepped in to keep the event on track.

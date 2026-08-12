@@ -12,10 +12,10 @@ tags:
   - "business"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Fundraiser Puts Rare Dolly Parton Record Up for Bid"
+  caption: "Fairfax Fundraiser Puts Rare Dolly Parton Record Up for Bid. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A rare autographed gold record of Dolly Parton’s “Jolene” will headline a breast cancer fundraiser and auction Oct. 30 at High Side Restaurant & Bar in Fairfax.

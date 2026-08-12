@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Mount Vernon Reckons With the Lives Behind Washington’s Legacy"
+  caption: "Mount Vernon Reckons With the Lives Behind Washington’s Legacy. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 About 400 people gathered beneath towering oaks, sycamores and hollies at Mount Vernon on Oct. 4 to remember the men, women and children enslaved by George and Martha Washington.

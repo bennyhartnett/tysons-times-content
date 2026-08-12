@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "A Lemon Road ES student spends time gardening at recess."
+  caption: "Fairfax Schools Capture Nearly Half of Nation’s Green Flag Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools earned 44 of the nation’s 108 Green Flag honors in 2025, giving the school system more recognized campuses than any other district in the country.
