@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Buyers Invited to Pick the County’s Best Real Estate Agent"
+  caption: "Fairfax Buyers Invited to Pick the County’s Best Real Estate Agent. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County residents have two weeks to choose the area’s best real estate agent for buyers, with write-in candidates welcome alongside the listed nominees.

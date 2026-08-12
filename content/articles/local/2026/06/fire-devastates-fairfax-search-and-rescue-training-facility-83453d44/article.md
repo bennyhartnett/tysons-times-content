@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Surveillance footage of people at Virginia Task Force 1’s training site in Lorton before a fire (via FCFRD/X)"
+  caption: "Surveillance footage of people at Virginia Task Force 1’s training site in Lorton before a fire (via FCFRD/X)"
+  credit: "FFXnow"
 ---
 
 Fairfax County officials are seeking the public’s help after a fire caused more than $1 million in damage and destroyed equipment used by Virginia Task Force 1 at its Lorton training facility.

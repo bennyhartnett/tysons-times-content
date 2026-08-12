@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Kids work with shovels around a newly planted tree."
+  caption: "FCPS says 77 schools earned Eco-Schools Green Flags. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools reported that 77 of its schools received National Wildlife Federation Green Flag awards through the Eco-Schools U.S. program during the 2025-26 school year.

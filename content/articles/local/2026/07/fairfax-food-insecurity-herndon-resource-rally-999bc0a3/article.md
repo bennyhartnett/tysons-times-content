@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax food insecurity remains at 26% as Herndon rally distributes aid"
+  caption: "Fairfax food insecurity remains at 26% as Herndon rally distributes aid. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 More than one-quarter of Fairfax County households face food insecurity, according to a Capital Area Food Bank report released in fall 2025, keeping the county’s rate close to a cited historic high.

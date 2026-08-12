@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Teen Reaches Final Five in National Cooking Showdown"
+  caption: "Safaa Haizoun, a student at Virginia Virtual Academy, will compete for the People’s Choice award for the People’s Choice Award in the K12 National Student Cook-Off (courtesy Hong Huynh)"
+  credit: "FFXnow"
 ---
 
 A Fairfax County 10th grader advanced from roughly 250 entrants to become one of five finalists in a national student cooking competition held in Arlington.

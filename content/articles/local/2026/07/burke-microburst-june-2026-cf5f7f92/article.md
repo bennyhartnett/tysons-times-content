@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 90 mph Microburst Leaves Nine Burke Homes Uninhabitable"
+  caption: "90 mph Microburst Leaves Nine Burke Homes Uninhabitable. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A severe thunderstorm produced a concentrated microburst with peak winds estimated at 90 mph northwest of Burke on June 22, 2026, leaving nine homes unsafe and uninhabitable and cutting power to 889 addresses across the region.

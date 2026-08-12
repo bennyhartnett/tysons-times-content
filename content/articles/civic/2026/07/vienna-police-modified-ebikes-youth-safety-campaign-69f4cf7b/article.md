@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a modified e-bike"
+  caption: "An electric dirt bike stopped by Vienna police."
+  credit: "An electric dirt bike stopped by Vienna police."
 ---
 
 Vienna police are warning families that modifications to electric bicycles can push the vehicles outside Virginia’s e-bike classifications, as officers continue a monthslong safety campaign focused on young riders.

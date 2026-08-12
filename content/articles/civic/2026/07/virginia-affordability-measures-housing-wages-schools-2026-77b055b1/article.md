@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Virginia affordability measures"
+  caption: "Virginia’s new affordability measures reach housing, wages and schools. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia’s reported $207 billion spending plan for the 2026–2028 biennium was finalized June 29 after the General Assembly adopted Gov. Abigail Spanberger’s fiscal amendments. A package of housing, employment, health care and education measures began taking effect July 1, although scheduled minimum-wage increases will come later.

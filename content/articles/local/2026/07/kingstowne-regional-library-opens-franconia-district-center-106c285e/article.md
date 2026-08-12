@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Kingstowne Regional Library Opens in New Franconia District Center"
+  caption: "Kingstowne Regional Library Opens in New Franconia District Center. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A new Kingstowne Regional Library opened this spring inside the Franconia District Center on Beulah Street, giving the community a larger branch with dedicated spaces for children and teenagers, rooms for studying and meetings, and access to about 55,000 items.

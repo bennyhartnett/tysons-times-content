@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Extreme Heat Pushes Falls Church Civic Jam to July 24"
+  caption: "Extreme Heat Pushes Falls Church Civic Jam to July 24. Image from City of Falls Church News Releases."
+  credit: "City of Falls Church News Releases"
 ---
 
 Falls Church has postponed Civic Jam because of an extended stretch of extreme heat forecast for the region. The event, originally scheduled for Friday, July 3, 2026, will now take place Friday, July 24.
