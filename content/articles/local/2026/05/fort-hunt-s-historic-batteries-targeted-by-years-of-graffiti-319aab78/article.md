@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fort Hunt’s Historic Batteries Targeted by Years of Graffiti"
+  caption: "Fort Hunt’s Historic Batteries Targeted by Years of Graffiti. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Federal officials are asking the public to report suspicious activity at Fort Hunt Park after years of vandalism left graffiti across its historic concrete artillery batteries.

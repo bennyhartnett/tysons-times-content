@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria Honors Fallen Officers in Police Week Tribute"
+  caption: "Alexandria Honors Fallen Officers in Police Week Tribute. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria’s observance of National Police Week 2026 included a solemn tribute to local law enforcement officers who died in the line of duty.

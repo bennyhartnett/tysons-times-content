@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Hank’s Pasta Bar Brings an Italian Escape Close to Home"
+  caption: "Hank’s Pasta Bar Brings an Italian Escape Close to Home. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Chef Darren Norris moves between three skillets at Hank’s Pasta Bar, preparing several dishes at once as a large pot of pasta water waits on the back burner.

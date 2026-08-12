@@ -11,9 +11,9 @@ tags:
   - "mclean"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Five-Run Surge Sends McLean Back to Liberty District Final"
+  caption: "Five-Run Surge Sends McLean Back to Liberty District Final. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean erased an early deficit with a five-run third inning May 19, defeating Washington-Liberty 6-2 in the Liberty District semifinals and advancing to the championship game for the fifth consecutive season.

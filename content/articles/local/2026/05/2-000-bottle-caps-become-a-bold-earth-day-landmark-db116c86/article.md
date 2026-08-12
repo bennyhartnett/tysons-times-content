@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 2,000 Bottle Caps Become a Bold Earth Day Landmark"
+  caption: "2,000 Bottle Caps Become a Bold Earth Day Landmark. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 More than 2,000 discarded plastic bottle caps now form a colorful mural outside Hollin Meadows Elementary School, turning student-collected waste into a lasting call for environmental stewardship.

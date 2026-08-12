@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "dulles international arrivals"
+  caption: "dulles international arrivals"
+  credit: "dulles international arrivals"
 ---
 
 Dulles International Airport has become the central U.S. screening point for certain travelers arriving after recent stays in three East and Central African countries affected by Ebola concerns.

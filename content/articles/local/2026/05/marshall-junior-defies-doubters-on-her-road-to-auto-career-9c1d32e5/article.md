@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Marshall Junior Defies Doubters on Her Road to Auto Career"
+  caption: "Marshall Junior Defies Doubters on Her Road to Auto Career. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Marshall High School junior Lyra Telley found her calling the first time she began working in the school’s auto shop. Now, as one of only two girls in her automotive technology class, she is building the skills she hopes will lead to a professional career as a mechanic.

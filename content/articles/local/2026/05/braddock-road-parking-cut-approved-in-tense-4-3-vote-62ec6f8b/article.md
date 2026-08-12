@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Braddock Road Parking Cut Approved in Tense 4-3 Vote"
+  caption: "Braddock Road Parking Cut Approved in Tense 4-3 Vote. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 After more than 10 hours of testimony and debate, the Alexandria City Council voted 4-3 on May 16 to remove most street parking from part of Braddock Road and make room for protected bicycle lanes and other safety upgrades.

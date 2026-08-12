@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria Plans Memorial Day Tributes at Thousands of Veterans’ Graves"
+  caption: "Alexandria Plans Memorial Day Tributes at Thousands of Veterans’ Graves. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria will commemorate Memorial Day 2026 with ceremonies and community events honoring U.S. military personnel who died in service.
