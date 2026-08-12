@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "casino in background blurred, lights from slot machines visible"
+  caption: "Defocused Pachinko Parlor Background、Abstract Neon Slot Machine Lights"
+  credit: "Defocused Pachinko Parlor Background、Abstract Neon Slot Machine Lights"
 ---
 
 A stalled effort to bring a massive casino complex to Fairfax County is back in play, despite opposition from Tysons residents and the county’s Board of Supervisors.

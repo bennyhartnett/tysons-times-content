@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Pulitzer-Winning Dark Comedy Takes Over 1st Stage in Tysons"
+  caption: "Pulitzer-Winning Dark Comedy Takes Over 1st Stage in Tysons. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 A fight over one of New York City’s dwindling rent-stabilized apartments comes to Tysons when 1st Stage presents Stephen Adly Guirgis’ *Between Riverside and Crazy* from Feb. 19 through March 8, 2026.

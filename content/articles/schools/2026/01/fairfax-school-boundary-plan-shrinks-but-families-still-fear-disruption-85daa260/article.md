@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax School Boundary Plan Shrinks, but Families Still Fear Disruption"
+  caption: "Fairfax School Boundary Plan Shrinks, but Families Still Fear Disruption. Openly licensed thematic image selected for this article."
+  credit: "Mysterymanblue / CC0 / Wikimedia Commons"
 ---
 
 Fairfax County Public Schools’ first comprehensive boundary review in 40 years could move 1,697 students this fall, prompting sharply divided reactions from families concerned about academic programs, friendships, transportation costs and divided communities.

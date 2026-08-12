@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Clue Brings Murder, Mayhem and Fast-Paced Farce to Washington"
+  caption: "Photo by Evan Zimmerman for MurphyMade.jpg"
+  credit: "TysonsToday"
 ---
 
 Murder turns into controlled comic chaos when *Clue* takes over the National Theatre for a limited engagement from Jan. 27 through Feb. 1.

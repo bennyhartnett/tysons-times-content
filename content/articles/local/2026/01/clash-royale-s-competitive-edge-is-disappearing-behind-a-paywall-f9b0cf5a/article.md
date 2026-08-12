@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Clash Royale’s Competitive Edge Is Disappearing Behind a Paywall"
+  caption: "Clash Royale’s Competitive Edge Is Disappearing Behind a Paywall. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Clash Royale built its reputation on skill. Winning required players to understand card interactions, manage regenerating elixir and execute moves with precise timing—not simply spend more than their opponents.

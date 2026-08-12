@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Primate Unleashes a Monster but Leaves Its Story in Pieces"
+  caption: "Primate Unleashes a Monster but Leaves Its Story in Pieces. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 *Primate* has the makings of a disturbing survival-horror film: an eerily intelligent chimpanzee, an isolated house and a sudden outbreak of rabies. While the 2026 movie delivers graphic violence and flashes of genuine suspense, its thin story and abandoned emotional threads drain the terror of any lasting impact.

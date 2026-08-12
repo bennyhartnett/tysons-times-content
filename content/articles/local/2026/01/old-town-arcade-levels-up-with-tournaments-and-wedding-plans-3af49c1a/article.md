@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Old Town Arcade Levels Up With Tournaments and Wedding Plans"
+  caption: "Old Town Arcade Levels Up With Tournaments and Wedding Plans. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The clatter of bumpers, bells and rolling steel balls is drawing pinball fans to Continues Arcade in Old Town Alexandria, where the growing community could soon have regular tournaments and an in-house league.

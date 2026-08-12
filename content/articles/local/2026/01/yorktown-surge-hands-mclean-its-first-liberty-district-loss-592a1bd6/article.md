@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Yorktown Surge Hands McLean Its First Liberty District Loss"
+  caption: "Yorktown Surge Hands McLean Its First Liberty District Loss. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean entered its final Liberty District test with a perfect 5-0 league record, but a decisive Yorktown run after halftime helped the Patriots secure a 45-36 victory.

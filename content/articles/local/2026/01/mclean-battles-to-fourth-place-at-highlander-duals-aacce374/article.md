@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Battles to Fourth Place at Highlander Duals"
+  caption: "McLean Battles to Fourth Place at Highlander Duals. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s wrestlers secured fourth place at the third annual Highlander Duals after a demanding day of competition against some of the region’s toughest teams.

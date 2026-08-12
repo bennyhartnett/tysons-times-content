@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Alexandria Marks 53 Years of Keeping King’s Dream Alive"
+  caption: "Alexandria Marks 53 Years of Keeping King’s Dream Alive. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Alexandria honored the life and legacy of Martin Luther King Jr. on Jan. 15 with an evening of music, dance, poetry and reflection at the George Washington Masonic National Memorial.
