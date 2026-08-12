@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Nationals Park’s Winter Makeover Brought Big Thrills to the Ballfield"
+  caption: "Nationals Park’s Winter Makeover Brought Big Thrills to the Ballfield. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Nationals Park traded baseball for holiday lights during Winter Wonderfest, filling the quiet offseason stadium with rides, games and glowing displays through Dec. 30, 2025.

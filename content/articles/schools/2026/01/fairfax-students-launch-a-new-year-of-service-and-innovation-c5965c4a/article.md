@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Student with senior citizen with painted nails."
+  caption: "Fairfax Students Launch a New Year of Service and Innovation. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Students across Fairfax entered 2026 with projects that connect generations, support vulnerable families and expand access to sports, while more than 1,100 high schoolers prepared to tackle real-world problems with artificial intelligence.

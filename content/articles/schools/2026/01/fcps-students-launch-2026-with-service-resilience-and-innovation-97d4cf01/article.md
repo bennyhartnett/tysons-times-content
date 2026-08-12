@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Student with senior citizen with painted nails."
+  caption: "FCPS Students Launch 2026 With Service, Resilience and Innovation. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools began 2026 by highlighting students whose projects are connecting generations, supporting vulnerable families and expanding access to sports.

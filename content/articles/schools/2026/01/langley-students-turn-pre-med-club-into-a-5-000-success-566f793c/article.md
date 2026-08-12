@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Medicine and Disease club members at Langley High School."
+  caption: "A photo of Medicine and Disease club members at Langley High School."
+  credit: "A photo of Medicine and Disease club members at Langley High School."
 ---
 
 What began as two Langley High School sophomores testing an idea outside a Northern Virginia grocery store has grown into a thriving medical club with 30 regular members and $5,000 raised.

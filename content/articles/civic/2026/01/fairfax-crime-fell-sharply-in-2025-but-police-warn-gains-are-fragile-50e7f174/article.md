@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Crime Fell Sharply in 2025, but Police Warn Gains Are Fragile"
+  caption: "Fairfax Crime Fell Sharply in 2025, but Police Warn Gains Are Fragile. Openly licensed thematic image selected for this article."
+  credit: "Chris McKenna / CC BY-SA 3.0 / Wikimedia Commons"
 ---
 
 Fairfax County recorded declines across several major crime categories in 2025, including homicides, robberies, burglaries and vehicle thefts. Police Chief Kevin Davis credited new technology, specialized enforcement teams, improved staffing and a sustained focus on dangerous driving.

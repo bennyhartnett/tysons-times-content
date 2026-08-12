@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "a big blue bus on a lawn"
+  caption: "The Make-A-Wish “Wishes On The Go” bus parks outside Ella Murray’s home in Centreville, Virginia. (WTOP/Jimmy Alexander)"
+  credit: "The Make-A-Wish “Wishes On The Go” bus parks outside Ella Murray’s home in Cent…"
 ---
 
 The first Monday of 2026 brought a celebration that 18-year-old Ella Murray will never forget: a parade outside her Centreville home announcing that her wish for a family trip to Italy had been granted.

@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Home Sales Poised to Jump as Condo Prices Slip"
+  caption: "Fairfax Home Sales Poised to Jump as Condo Prices Slip. Image from FFXnow."
+  credit: "FFXnow"
 ---
 
 Fairfax County’s housing market is expected to shift toward a healthier balance in 2026, with more homes changing hands and prices rising at a slower pace. Condominiums, however, could lose some value as higher association fees weigh on demand.

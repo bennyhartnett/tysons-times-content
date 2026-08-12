@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Child in bed sleeping with stuffed rabbit."
+  caption: "Better Sleep Starts With a Few Changes to Your Daily Routine. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Sleep plays a vital role in physical and mental health, giving the body time to recover and repair. Adequate rest also supports brain development, learning, memory, mood and the immune system’s ability to prevent infections.

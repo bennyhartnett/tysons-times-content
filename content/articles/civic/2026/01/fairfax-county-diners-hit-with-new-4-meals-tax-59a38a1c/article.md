@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Eating at restaurant"
+  caption: "Friends enjoy a dinner party with pizza and win in a restaurant."
+  credit: "Friends enjoy a dinner party with pizza and win in a restaurant."
 ---
 
 Dining out in Fairfax County now costs more after a new 4% tax took effect at the start of the year.

@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "boxers in wheel chair have arms raised as victors in the ring"
+  caption: "Two adaptive boxers get their arms raised after victory in the ring."
+  credit: "Two adaptive boxers get their arms raised after victory in the ring."
 ---
 
 Fairfax City’s adaptive boxing community is gaining momentum after two local athletes captured international championships in Spain last month.
