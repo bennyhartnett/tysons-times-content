@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Students Step Up as National Blood Supply Plunges"
+  caption: "McLean Students Step Up as National Blood Supply Plunges. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 More than 40 McLean students volunteered for an annual blood drive as the nation faced a severe shortage that had cut blood supplies by 35% in a single month.

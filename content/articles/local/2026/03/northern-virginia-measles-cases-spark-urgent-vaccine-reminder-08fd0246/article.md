@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Stock photo of a person holding a thermometer."
+  caption: "Northern Virginia Measles Cases Spark Urgent Vaccine Reminder. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Measles cases in Northern Virginia and infected travelers passing through Washington-area airports are prompting health officials to urge families to check their vaccination status before spring and summer travel.

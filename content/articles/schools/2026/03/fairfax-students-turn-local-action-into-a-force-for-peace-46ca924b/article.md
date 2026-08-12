@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Students Turn Local Action Into a Force for Peace"
+  caption: "Fairfax Students Turn Local Action Into a Force for Peace. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Against a backdrop of eight major wars and 28 other armed conflicts worldwide, Fairfax County honored 28 young peacebuilders at the 2026 Student Peace Awards of Fairfax County.

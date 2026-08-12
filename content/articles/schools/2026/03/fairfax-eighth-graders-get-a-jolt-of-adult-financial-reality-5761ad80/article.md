@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Glasgow Middle School eighth graders visit JA Finance Park to learn about budgeting and financial planning."
+  caption: "Fairfax Eighth Graders Get a Jolt of Adult Financial Reality. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A $90,000 salary sounded exciting to Glasgow Middle School eighth grader Zach—until taxes, housing, insurance, savings and other adult expenses began competing for every dollar.

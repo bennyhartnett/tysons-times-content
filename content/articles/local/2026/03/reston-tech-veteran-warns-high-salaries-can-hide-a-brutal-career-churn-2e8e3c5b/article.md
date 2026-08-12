@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Tech Veteran Warns High Salaries Can Hide a Brutal Career Churn"
+  caption: "Reston Tech Veteran Warns High Salaries Can Hide a Brutal Career Churn. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 After 22 years in technology and work with 54 web companies, Reston resident Shallon Elizabeth Brown says even extensive experience and a doctorate could not protect her from repeated job losses, drained savings and financial uncertainty.

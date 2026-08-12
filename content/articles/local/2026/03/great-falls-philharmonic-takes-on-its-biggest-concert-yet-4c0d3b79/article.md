@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Great Falls Philharmonic Takes On Its Biggest Concert Yet"
+  caption: "Great Falls Philharmonic Takes On Its Biggest Concert Yet. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The all-volunteer Great Falls Philharmonic will bring together more than 100 musicians for its most ambitious performance to date, joining the Voce Chamber Singers for two major choral-orchestral works in Reston on May 9.

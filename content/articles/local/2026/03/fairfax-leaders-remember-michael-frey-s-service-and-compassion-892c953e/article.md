@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Leaders Remember Michael Frey’s Service and Compassion"
+  caption: "Fairfax Leaders Remember Michael Frey’s Service and Compassion. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Past and present members of the Fairfax County Board of Supervisors are remembering former Sully District Supervisor Michael Frey as a devoted public servant, bipartisan problem-solver and tireless advocate for animals.

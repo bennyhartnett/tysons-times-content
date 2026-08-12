@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Plaka Grill Nears Two Decades of Serving Northern Virginia"
+  caption: "Plaka Grill Nears Two Decades of Serving Northern Virginia. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Plaka Grill has grown from a local restaurant launched in 2007 into a longtime Northern Virginia destination for Greek food, with locations in Vienna and Falls Church.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for New Metro Path Slashes a 3-Mile Herndon Trip to Half a Mile"
+  caption: "New Metro Path Slashes a 3-Mile Herndon Trip to Half a Mile. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A long-awaited pedestrian connection to Innovation Center Metro station is finally open, cutting some neighborhood trips from nearly three miles to just half a mile.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Tysons Steakhouse Keeps a 60-Year Tradition Sizzling"
+  caption: "Tysons Steakhouse Keeps a 60-Year Tradition Sizzling. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Ruth’s Chris Steak House brings its signature sizzling steaks to 8521 Leesburg Pike in Tysons, near Spring Hill Road. The upscale restaurant serves USDA Prime beef broiled at 1,800 degrees Fahrenheit, then presented on 500-degree plates designed to keep each cut hot through the final bite.
