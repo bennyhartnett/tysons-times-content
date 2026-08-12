@@ -11,9 +11,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Three Summer Tracks Mix Carefree Vibes With Motivation"
+  caption: "Three Summer Tracks Mix Carefree Vibes With Motivation. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Three students have picked songs they say belong on summer playlists, highlighting tracks by Baby Keem, Drake and A$AP Rocky.

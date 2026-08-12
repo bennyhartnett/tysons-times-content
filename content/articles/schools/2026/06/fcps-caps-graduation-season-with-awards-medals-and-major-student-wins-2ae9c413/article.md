@@ -12,9 +12,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid holding a microphone and speaking on stage at the FCPS Honors awards ceremony."
+  caption: "FCPS Caps Graduation Season With Awards, Medals and Major Student Wins. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools closed in on summer with a packed stretch of graduations, student achievements and employee honors across the division.

@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Three McLean Snack Stops Students Crave When Summer Heats Up"
+  caption: "Three McLean Snack Stops Students Crave When Summer Heats Up. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 From fruit smoothies to loaded bagels, three McLean-area eateries offer students refreshing options for hot summer days.

@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "News release graphic"
+  caption: "Fairfax Schools Chief Wins Statewide Honor for Family Engagement. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools Superintendent Dr. Michelle Reid received the Virginia Parent Teacher Association’s 2026 Power Partner Award during the organization’s Annual Meeting and Awards Ceremony on June 5.

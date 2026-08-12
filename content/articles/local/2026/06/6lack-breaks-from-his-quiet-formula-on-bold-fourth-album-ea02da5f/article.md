@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for 6LACK Breaks From His Quiet Formula on Bold Fourth Album"
+  caption: "6LACK Breaks From His Quiet Formula on Bold Fourth Album. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 6LACK expands his signature sound on his fourth studio album, *Love Is the New Gangsta*, embracing a bigger and more confrontational approach without abandoning the vulnerability that shaped his earlier work.

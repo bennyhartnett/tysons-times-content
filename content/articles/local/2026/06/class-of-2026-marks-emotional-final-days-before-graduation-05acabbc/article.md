@@ -12,9 +12,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Class of 2026 Marks Emotional Final Days Before Graduation"
+  caption: "Class of 2026 Marks Emotional Final Days Before Graduation. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 The Class of 2026 gathered in the school’s lower gym for Convocation, marking one of the seniors’ final ceremonies before graduation and the close of their high school years.

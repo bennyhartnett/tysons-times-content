@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro’s Past and Future Collide in National Mall Anniversary Exhibit"
+  caption: "Metro’s Past and Future Collide in National Mall Anniversary Exhibit. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro will mark 50 years of service by displaying its oldest and newest generations of trains together on the National Mall during the Great American State Fair.

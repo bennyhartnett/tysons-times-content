@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Dr. Reid speaking with four students sitting around a table who are looking at printed math textbooks."
+  caption: "FCPS Celebrations Surge as Class of 2026 Closes Out the Year. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools is approaching summer with a packed stretch of graduations, student achievements, employee honors and plans for new classroom resources.

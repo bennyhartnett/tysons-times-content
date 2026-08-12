@@ -13,9 +13,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Fairfax Robotics Teams Earn Global Honors After Championship Run"
+  caption: "Marshall High School students at FIRST World Robotics Championship (via FCPS)"
+  credit: "Marshall High School students at FIRST World Robotics Championship (via FCPS)"
 ---
 
 Students from Hayfield Secondary School and Marshall High School received county recognition Tuesday, June 9, after competing against hundreds of teams at the FIRST Robotics World Championship.
