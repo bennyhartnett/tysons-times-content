@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Teens Get a Head Start on the Local Job Market"
+  caption: "McLean Teens Get a Head Start on the Local Job Market. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean-area teenagers explored their first steps into the workforce during a two-hour job fair at the McLean Community Center this weekend, meeting directly with employers offering tutoring, retail and pool-related positions.

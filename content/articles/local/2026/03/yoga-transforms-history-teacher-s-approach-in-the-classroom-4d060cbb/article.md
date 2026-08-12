@@ -13,9 +13,9 @@ tags:
   - "events"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Yoga Transforms History Teacher’s Approach in the Classroom"
+  caption: "Yoga Transforms History Teacher’s Approach in the Classroom. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 As the studio lights fade, AP World History teacher Caylen Beight moves among rows of yoga mats in lavender-scented air. She pauses to help one student lower her shoulders, then continues through the room.

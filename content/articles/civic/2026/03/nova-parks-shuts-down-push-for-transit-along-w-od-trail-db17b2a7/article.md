@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for NOVA Parks Shuts Down Push for Transit Along W&OD Trail"
+  caption: "Walkers and bicyclists on the W&OD Trail in Vienna (staff photo by Angela Woolsey)"
+  credit: "Walkers and bicyclists on the W&OD Trail in Vienna (staff photo by Angela Wools…"
 ---
 
 NOVA Parks has rejected renewed calls to consider passenger transit along the Washington & Old Dominion Trail, declaring that converting any part of the 45-mile corridor would conflict with its recreational and park use.

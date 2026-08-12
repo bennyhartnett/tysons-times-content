@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Teen Turns Art and Service Into Environmental Action"
+  caption: "McLean Teen Turns Art and Service Into Environmental Action. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School junior Chloe Jeong’s years of community service earned countywide recognition March 1, when she was named one of 28 recipients of the 2026 Student Peace Awards of Fairfax County.

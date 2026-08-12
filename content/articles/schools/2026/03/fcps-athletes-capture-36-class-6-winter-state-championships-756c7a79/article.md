@@ -12,9 +12,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Robinson Secondary School State Champion Indoor Track Team"
+  caption: "FCPS Athletes Capture 36 Class 6 Winter State Championships. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools athletes delivered a standout 2025-26 winter season, with three teams and 33 individual entries winning Virginia High School League Class 6 championships. Three teams and 34 individual entries also finished as state runners-up.

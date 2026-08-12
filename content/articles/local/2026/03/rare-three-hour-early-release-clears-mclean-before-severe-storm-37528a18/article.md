@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Rare Three-Hour Early Release Clears McLean Before Severe Storm"
+  caption: "Rare Three-Hour Early Release Clears McLean Before Severe Storm. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean High School students headed home three hours early Monday as officials prepared for severe weather, including possible tornado activity and powerful wind gusts later in the day.

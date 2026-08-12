@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for AI Floods Super Bowl Ads, Sparking Backlash From Students"
+  caption: "AI Floods Super Bowl Ads, Sparking Backlash From Students. Image from The Saxon Scope — Langley High School."
+  credit: "The Saxon Scope — Langley High School"
 ---
 
 Artificial intelligence dominated the commercial breaks during Super Bowl 60, disrupting a tradition better known for humor and celebrity-driven spectacle.

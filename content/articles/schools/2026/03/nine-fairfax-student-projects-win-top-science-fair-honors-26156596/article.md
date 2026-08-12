@@ -12,9 +12,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "2026 Regional Science Fair Grand Prize Winners with Dr. Reid."
+  caption: "Nine Fairfax Student Projects Win Top Science Fair Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Nine Fairfax County Public Schools projects earned Grand Prize awards at the 2026 Fairfax County Regional Science and Engineering Fair, advancing their creators toward international competition.

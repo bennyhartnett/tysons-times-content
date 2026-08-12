@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Three High Schools Unite for a Ramadan Iftar"
+  caption: "Three High Schools Unite for a Ramadan Iftar. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 Muslim students from three Fairfax County high schools gathered at Langley High School on Thursday, March 12, for an interschool iftar as Ramadan approached its final days.

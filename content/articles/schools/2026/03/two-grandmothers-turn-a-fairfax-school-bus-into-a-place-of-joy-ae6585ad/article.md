@@ -12,9 +12,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "two employees smiling on a bus"
+  caption: "Two Grandmothers Turn a Fairfax School Bus Into a Place of Joy. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Long before classes begin, Paula Langhorne and Pam Mitchell are already working to make students feel safe, welcome, and ready for the day.
