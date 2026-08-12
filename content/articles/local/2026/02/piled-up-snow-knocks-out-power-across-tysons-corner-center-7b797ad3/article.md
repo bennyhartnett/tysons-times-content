@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Piled-Up Snow Knocks Out Power Across Tysons Corner Center"
+  caption: "The fashion boutique Chaliskan and other stores at Tysons Corner Center have lost power (photo by Jamie Rogers)"
+  credit: "The fashion boutique Chaliskan and other stores at Tysons Corner Center have lo…"
 ---
 
 Power returned to Tysons Corner Center shortly after 5 p.m. Sunday following an outage that plunged nearly the entire mall into darkness.

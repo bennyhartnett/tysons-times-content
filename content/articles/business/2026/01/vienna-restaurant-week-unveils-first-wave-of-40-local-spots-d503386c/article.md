@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Vienna Restaurant Week Unveils First Wave of 40 Local Spots"
+  caption: "Vienna Restaurant Week Unveils First Wave of 40 Local Spots. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Vienna Restaurant Week will return from Feb. 27 through March 8, 2026, with 40 restaurants already confirmed for the town’s 10-day dining celebration.

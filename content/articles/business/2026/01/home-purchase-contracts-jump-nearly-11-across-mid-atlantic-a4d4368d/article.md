@@ -11,9 +11,9 @@ tags:
   - "metro"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Home Purchase Contracts Jump Nearly 11% Across Mid-Atlantic"
+  caption: "Home Purchase Contracts Jump Nearly 11% Across Mid-Atlantic. Openly licensed thematic image selected for this article."
+  credit: "advokatsmart.no / CC BY 2.0 / Wikimedia Commons"
 ---
 
 Home-buying activity strengthened during the week ending Jan. 25, 2026, with 4,909 new purchase contracts recorded across the Mid-Atlantic region. That marked a 10.8% increase from the same week in 2025.

@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Virginia Shelves One Gas Leaf Blower Bill as Second Hangs On"
+  caption: "Gas-powered leaf blower (photo via Wikimedia Commons/Cbaile19)"
+  credit: "Gas-powered leaf blower (photo via Wikimedia Commons/Cbaile19)"
 ---
 
 Virginia lawmakers have delayed one proposal that would let some local governments regulate or ban gas-powered leaf blowers, but a companion bill remains alive in the General Assembly.

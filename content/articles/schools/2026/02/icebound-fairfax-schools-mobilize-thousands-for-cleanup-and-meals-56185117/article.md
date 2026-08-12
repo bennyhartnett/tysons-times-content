@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A staff member smiles at the camera as she uses a snow plow"
+  caption: "Icebound Fairfax Schools Mobilize Thousands for Cleanup and Meals. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools staff worked through the weekend to clear thick ice, distribute thousands of meals and prepare buildings for a safe reopening after an unusually difficult winter storm.

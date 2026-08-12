@@ -12,9 +12,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Outside Hayfield Secondary School"
+  caption: "After a monthslong investigation into allegations that Hayfield Secondary School’s football coaches improperly recruited players, they’ve been banned from the 2024 and 2025 postseasons."
+  credit: "After a monthslong investigation into allegations that Hayfield Secondary Schoo…"
 ---
 
 Fairfax County Public Schools is centralizing athletic eligibility decisions and expanding oversight after an external investigation found that football programs at Hayfield Secondary School and Fairfax High School violated Virginia High School League rules.

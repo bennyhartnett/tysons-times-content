@@ -13,9 +13,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Celebrate America's 250th Anniversary with FCPL February Honoring Black American History and Civic Impact"
+  caption: "Black History Takes Center Stage at Fairfax County Libraries. Image from Fairfax County Public Library News and Events."
+  credit: "Fairfax County Public Library News and Events"
 ---
 
 Fairfax County Public Library is marking Black History Month and America’s 250th anniversary with programs highlighting Black Americans’ history, creativity and civic influence.

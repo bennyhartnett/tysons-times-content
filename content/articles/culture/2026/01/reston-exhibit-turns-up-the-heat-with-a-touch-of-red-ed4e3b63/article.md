@@ -12,9 +12,9 @@ tags:
   - "arts"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Reston Exhibit Turns Up the Heat With a Touch of Red"
+  caption: "Reston Exhibit Turns Up the Heat With a Touch of Red. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Red takes center stage at Reston Art Gallery in an all-member exhibition featuring paintings, sculpture, mobiles, fabric art and mixed-media works.

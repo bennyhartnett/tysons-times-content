@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Fairfax Tourism Chief Revives Push for Long-Sought Conference Center"
+  caption: "Fairfax Tourism Chief Revives Push for Long-Sought Conference Center. Openly licensed thematic image selected for this article."
+  credit: "Michal Klajban / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Nearly 18 years after taking charge of Visit Fairfax, Barry Biggar is still pursuing the same major goal he had on his first day: bringing a conference center to Fairfax County.

@@ -11,9 +11,9 @@ tags:
   - "northern virginia"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Teacher Chrissy McLaughlin and Student Malik Watkins are highlighted in an old class photo"
+  caption: "Fifth-Grade Teacher Inspires Former Student to Become a Counselor. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 When Malik Watkins began working as a school counselor at London Towne Elementary, he reconnected with the fifth-grade teacher who helped inspire his career in education.
