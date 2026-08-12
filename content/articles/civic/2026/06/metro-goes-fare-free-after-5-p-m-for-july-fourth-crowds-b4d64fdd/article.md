@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Metro Goes Fare-Free After 5 P.M. for July Fourth Crowds"
+  caption: "Metro Goes Fare-Free After 5 P.M. for July Fourth Crowds. Image from WMATA News."
+  credit: "WMATA News"
 ---
 
 Metro will add trains and waive fares after 5 p.m. on July 4 as crowds head toward the National Mall for Independence Day celebrations. Parking at all Metro facilities will also be free for the holiday.

@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Graphics of news"
+  caption: "Fairfax Student Representative Targets Mental Health and Security Reform. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Newt Shosteck, a rising senior at Hayfield Secondary School, will join the Fairfax County School Board on July 1 with plans to improve student access to mental health services, review security policies and strengthen student influence in county decisions.

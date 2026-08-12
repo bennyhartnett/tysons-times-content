@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Seeks Developer to Expand Virginia Village Housing"
+  caption: "Falls Church Seeks Developer to Expand Virginia Village Housing. Image from City of Falls Church News Releases."
+  credit: "City of Falls Church News Releases"
 ---
 
 Falls Church is seeking a development team to preserve and potentially expand affordable housing at Virginia Village, with proposals due Thursday, August 6, 2026.

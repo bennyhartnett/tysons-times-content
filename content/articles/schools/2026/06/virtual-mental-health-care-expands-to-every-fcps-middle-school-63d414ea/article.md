@@ -12,9 +12,9 @@ tags:
   - "local government"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A girls sits on a bed using a laptop. Hazel Health logo overlaid."
+  caption: "Virtual Mental Health Care Expands to Every FCPS Middle School. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools students at every middle school can access virtual mental health services beginning July 1, 2026, expanding a program previously available to high school students.

@@ -13,9 +13,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "People work on the roof of a new housing development"
+  caption: "People work on the roof of a new housing development in Sandston, Va., June 6, 2025. (Mike KRopf/Richmond Times-Dispatch via AP, File)"
+  credit: "People work on the roof of a new housing development in Sandston, Va., June 6,…"
 ---
 
 Fairfax County leaders have unanimously approved Centreville’s first major land-use plan update in more than 25 years, setting the stage for a defined town center, mixed-use development and modernized transportation infrastructure.

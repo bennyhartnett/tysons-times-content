@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Route 29 Active Transportation Study Map"
+  caption: "Route 29 Proposals Get Spanish-Language Public Meeting. Image from Fairfax County Transportation News."
+  credit: "Fairfax County Transportation News"
 ---
 
 Fairfax County transportation officials will hold a virtual public meeting entirely in Spanish on Wednesday, June 10, 2026, to review the Route 29 Active Transportation Study and its proposed improvements. The meeting begins at 7 p.m.

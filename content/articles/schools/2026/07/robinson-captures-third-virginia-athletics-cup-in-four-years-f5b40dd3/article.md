@@ -12,9 +12,9 @@ tags:
   - "VHSL"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Members of Robinson Secondary School’s girls outdoor track team pose with the VHSL state championship sign and trophy."
+  caption: "Robinson Captures Third Virginia Athletics Cup in Four Years. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools wrapped up a landmark week with Robinson Secondary School claiming its fifth Virginia Army National Guard Cup for Athletics—and third in just four years—while McLean High School earned its first-ever Academic Activities Cup.

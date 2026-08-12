@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Newt Shosteck"
+  caption: "Hayfield Senior Targets Mental Health Access in New Student Role. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Newt Shosteck, a rising senior at Hayfield Secondary School, will begin a one-year term July 1 as the student representative on Fairfax County’s school governing body.

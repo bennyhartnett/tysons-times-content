@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Falls Church Sets July 4 Closures and Launches Civic Jam"
+  caption: "Falls Church Sets July 4 Closures and Launches Civic Jam."
+  credit: "City of Falls Church"
 ---
 
 Falls Church will close several government facilities and introduce a new community celebration during the 2026 Independence Day weekend, marking 250 years since the signing of the Declaration of Independence.
