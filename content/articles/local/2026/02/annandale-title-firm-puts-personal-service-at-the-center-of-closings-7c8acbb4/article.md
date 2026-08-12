@@ -13,9 +13,9 @@ tags:
   - "business"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Annandale Title Firm Puts Personal Service at the Center of Closings"
+  caption: "Annandale Title Firm Puts Personal Service at the Center of Closings. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Central Title & Escrow has served residential and commercial real estate clients from Annandale since 2003, offering title and settlement services across the Washington-area suburbs.

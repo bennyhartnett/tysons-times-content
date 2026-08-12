@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Driver Charged After Car Flies Onto Metro Tracks in Dunn Loring"
+  caption: "Firefighters respond to a car that crashed onto the Metro tracks near Cedar Lane in Vienna (via WMATA/X)"
+  credit: "Firefighters respond to a car that crashed onto the Metro tracks near Cedar Lan…"
 ---
 
 A driver was hospitalized and charged with reckless driving after his sedan veered off Interstate 66, went airborne and landed on the Orange Line tracks in Dunn Loring on Wednesday, Feb. 11.

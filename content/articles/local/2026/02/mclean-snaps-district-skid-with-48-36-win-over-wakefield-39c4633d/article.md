@@ -13,9 +13,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for McLean Snaps District Skid With 48-36 Win Over Wakefield"
+  caption: "McLean Snaps District Skid With 48-36 Win Over Wakefield. Image from The Highlander — McLean High School."
+  credit: "The Highlander — McLean High School"
 ---
 
 McLean’s boys basketball team ended a four-game losing streak against district opponents Feb. 10, defeating Wakefield 48-36 in the Highlanders’ 21st game of the season.

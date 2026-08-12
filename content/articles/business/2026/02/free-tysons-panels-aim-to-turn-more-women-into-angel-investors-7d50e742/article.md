@@ -11,9 +11,9 @@ tags:
   - "tysons"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Free Tysons Panels Aim to Turn More Women Into Angel Investors"
+  caption: "TAOS, NEW MEXICO – MAY 15, 2019: Money in a tip jar in a Taos, New Mexico, coffee shop includes a two dollar bill. (Photo by Robert Alexander/Getty Images)"
+  credit: "TAOS, NEW MEXICO – MAY 15, 2019: Money in a tip jar in a Taos, New Mexico, coff…"
 ---
 
 A free panel series launching Feb. 25 at Refraction in Tysons Corner will help women navigate angel investing and learn how they can direct early-stage funding toward companies they believe in.

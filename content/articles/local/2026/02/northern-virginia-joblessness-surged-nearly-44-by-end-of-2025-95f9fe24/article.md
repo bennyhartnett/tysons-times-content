@@ -12,9 +12,9 @@ tags:
   - "transportation"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Northern Virginia Joblessness Surged Nearly 44% by End of 2025"
+  caption: "Men working in an office (via Austin Distel/Unsplash)"
+  credit: "Men working in an office (via Austin Distel/Unsplash)"
 ---
 
 Northern Virginia closed 2025 with 57,728 residents unemployed, nearly 44% more than the 40,203 recorded a year earlier.

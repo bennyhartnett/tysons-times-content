@@ -13,9 +13,9 @@ tags:
   - "public safety"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Students, dressed up fancy, smile and make hearts with their hands."
+  caption: "FCPS Coaches Make History as Olympics and Big Decisions Loom. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Thomas Jefferson High School for Science and Technology has made Virginia athletics history by appointing women to lead both its varsity baseball and football programs. The appointments mark the first time female head coaches have led high school varsity teams in those sports in the state.

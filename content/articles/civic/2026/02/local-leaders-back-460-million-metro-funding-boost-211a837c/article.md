@@ -13,9 +13,9 @@ tags:
   - "environment"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Thematic image accompanying Local Leaders Back $460 Million Metro Funding Boost"
+  caption: "Local Leaders Back $460 Million Metro Funding Boost. Openly licensed thematic image selected for this article."
+  credit: "Radomianin / CC BY-SA 4.0 / Wikimedia Commons"
 ---
 
 Local leaders across Northern Virginia and suburban Maryland have endorsed a plan to add $460 million to Metro’s annual capital budget, giving a major boost to a regional effort to secure the transit system’s financial future.

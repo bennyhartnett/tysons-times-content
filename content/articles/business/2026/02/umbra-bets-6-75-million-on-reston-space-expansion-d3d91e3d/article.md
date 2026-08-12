@@ -12,9 +12,9 @@ tags:
   - "development"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Umbra Bets $6.75 Million on Reston Space Expansion"
+  caption: "Umbra Bets $6.75 Million on Reston Space Expansion. Image from TysonsToday."
+  credit: "TysonsToday"
 ---
 
 Space technology company Umbra plans to invest $6.75 million in a new Reston facility, an expansion expected to create more than 100 high-tech jobs in Fairfax County.

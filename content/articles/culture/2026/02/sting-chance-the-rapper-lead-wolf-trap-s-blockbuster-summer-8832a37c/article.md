@@ -13,9 +13,9 @@ tags:
   - "sports"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "Lead image for Sting, Chance the Rapper Lead Wolf Trap’s Blockbuster Summer"
+  caption: "FILE – Singer Sting performs during a concert with singer Shaggy, as part of their ‘The 44/876’ tour in Panama City, Oct. 19, 2018."
+  credit: "FILE – Singer Sting performs during a concert with singer Shaggy, as part of th…"
 ---
 
 Wolf Trap’s 2026 summer season will bring Sting, Chance the Rapper, Melissa Etheridge and a wide-ranging celebration of America’s 250th anniversary to Vienna.

@@ -13,9 +13,9 @@ tags:
   - "schools"
 hero:
   file: "hero.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  alt: "A TJHSST baseball player sits down for a chat about baseball with a clinic participant."
+  caption: "TJ Baseball Players Open New Doors With Adaptive Clinic. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 A family connection to baseball inspired a Thomas Jefferson High School for Science and Technology junior to create the school’s first adaptive clinic for young players with disabilities.
