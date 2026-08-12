@@ -12,10 +12,10 @@ tags:
   - "business"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Vienna Author Turns Her Beagle’s London Adventures Into a Book"
+  caption: "Vienna Author Turns Her Beagle’s London Adventures Into a Book. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Vienna author Rowena Saura has transformed her late rescue beagle’s travels through London into a children’s book celebrating humor, kindness and friendship.

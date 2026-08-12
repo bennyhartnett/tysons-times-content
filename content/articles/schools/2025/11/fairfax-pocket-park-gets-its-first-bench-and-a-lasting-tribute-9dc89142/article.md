@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Pocket Park Gets Its First Bench—and a Lasting Tribute"
+  caption: "Fairfax Pocket Park Gets Its First Bench—and a Lasting Tribute. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax City’s School Street Park now has its first bench, giving visitors a place to rest while honoring deceased members of the Woman’s Club of Fairfax.

@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for FCPS Students Score Major Honors as AI and Boundary Decisions Loom"
+  caption: "FCPS Students Score Major Honors as AI and Boundary Decisions Loom. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools highlighted student achievements, upcoming health clinics and several approaching deadlines in its Nov. 12, 2025, community update. The announcements also covered artificial intelligence, school boundaries, attendance and calendar changes.

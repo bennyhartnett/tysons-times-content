@@ -12,10 +12,10 @@ tags:
   - "development"
   - "schools"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Oakton Residents Asked to Help Shape Congestion and Safety Fixes"
+  caption: "Oakton Residents Asked to Help Shape Congestion and Safety Fixes. Openly licensed thematic image selected for this article."
+  credit: "Illinois_Roadbuff (Rouge Jr) / CC BY 4.0 / Wikimedia Commons"
 ---
 
 Fairfax County transportation officials will seek public ideas for easing congestion and improving roadway safety in Oakton during a community workshop on Thursday, Nov. 13, 2025.

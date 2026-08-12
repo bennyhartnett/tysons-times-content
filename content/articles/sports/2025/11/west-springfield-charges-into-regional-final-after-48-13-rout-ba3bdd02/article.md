@@ -11,10 +11,10 @@ tags:
   - "springfield"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for West Springfield Charges Into Regional Final After 48-13 Rout"
+  caption: "West Springfield Charges Into Regional Final After 48-13 Rout. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 West Springfield’s football season is still alive after the Spartans followed a Patriot League championship with a commanding 48-13 playoff victory over West Potomac.

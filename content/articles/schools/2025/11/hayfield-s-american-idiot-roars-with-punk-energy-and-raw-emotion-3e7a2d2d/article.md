@@ -11,10 +11,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Hayfield Secondary School students perform the rock opera American Idiot."
+  caption: "Hayfield’s “American Idiot” Roars With Punk Energy and Raw Emotion. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Hayfield Secondary School brought the music of Green Day to the stage with a forceful production of *American Idiot*, pairing rock-concert intensity with an emotional examination of addiction, war, friendship and love.

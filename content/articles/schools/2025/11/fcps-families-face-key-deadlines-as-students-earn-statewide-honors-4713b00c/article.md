@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Two girls in googles and aprons laugh in a science lab"
+  caption: "FCPS Families Face Key Deadlines as Students Earn Statewide Honors. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools families are being urged to complete federal aid surveys and act on several approaching deadlines as the school division celebrates student achievements, expands technology education and prepares for upcoming health clinics and schedule changes.

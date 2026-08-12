@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "School Board celebrates Veterans Day 2025"
+  caption: "Western High School Gets Boundaries and 2026 Opening Plan. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County’s new Western High School will operate as a comprehensive high school with traditional attendance boundaries and a special-programming pathway option, the School Board decided during its Nov. 13, 2025, regular meeting.

@@ -12,10 +12,10 @@ tags:
   - "development"
   - "public safety"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Oakton High School girls flag football team with championship trophy."
+  caption: "Fairfax Schools Face Funding and Boundary Decisions Ahead. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 Fairfax County Public Schools offered an early look at its fiscal 2027 challenges while moving closer to recommendations in its comprehensive boundary review during the week ending Nov. 17, 2025.

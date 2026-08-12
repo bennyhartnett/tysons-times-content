@@ -11,10 +11,10 @@ tags:
   - "falls church"
   - "business"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Falls Church Food Trek, Holiday Concert and Soccer Thriller Ahead"
+  caption: "Virginia Dream FC returned the VSSL Title Cup to the Little City, Nov. 12. Instagram photo by Jared Soares."
+  credit: "Falls Church Independent"
 ---
 
 Falls Church residents can support local schools through restaurant purchases, join a community holiday concert and celebrate the return of a soccer championship to the Little City.
