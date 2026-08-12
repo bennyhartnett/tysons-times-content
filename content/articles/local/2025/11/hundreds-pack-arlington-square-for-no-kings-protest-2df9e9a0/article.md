@@ -10,10 +10,10 @@ tags:
   - "local"
   - "arlington"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Hundreds Pack Arlington Square for No Kings Protest"
+  caption: "Hundreds Pack Arlington Square for No Kings Protest. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Several hundred demonstrators circled Welburn Square on Saturday, Oct. 18, joining nationwide protests against the Trump administration.

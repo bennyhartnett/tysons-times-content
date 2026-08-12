@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "transportation"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Student Nurse Aides Step Into Frontline Senior Care"
+  caption: "Fairfax Student Nurse Aides Step Into Frontline Senior Care. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 A new group of Fairfax County high school students began clinical rounds at The Boulevard Post Acute on Monday, Oct. 13, moving from classroom lessons to hands-on experience caring for residents.

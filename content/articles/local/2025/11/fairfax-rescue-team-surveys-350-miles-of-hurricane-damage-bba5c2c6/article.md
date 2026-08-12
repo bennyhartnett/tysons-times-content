@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Rescue Team Surveys 350 Miles of Hurricane Damage"
+  caption: "Fairfax Rescue Team Surveys 350 Miles of Hurricane Damage. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Virginia Task Force 1 deployed 34 members and four dogs to Kingston, Jamaica, in late October as international crews responded to destruction caused by Hurricane Melissa.

@@ -11,10 +11,10 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Women in Sports Panel Set for Alexandria Gathering"
+  caption: "Women in Sports Panel Set for Alexandria Gathering. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 The Alexandria Sportsman’s Club will spotlight women in athletics during its Nov. 19 meeting at the Old Dominion Boat Club in Old Town Alexandria.

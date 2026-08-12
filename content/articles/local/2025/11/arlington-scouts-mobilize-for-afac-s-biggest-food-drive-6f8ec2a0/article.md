@@ -12,10 +12,10 @@ tags:
   - "transportation"
   - "events"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Thematic image accompanying Arlington Scouts Mobilize for AFAC’s Biggest Food Drive"
+  caption: "Arlington Scouts Mobilize for AFAC’s Biggest Food Drive. Openly licensed thematic image selected for this article."
+  credit: "Photo by Lance Cpl. Lauren A. Kurkimilis / Public domain / Wikimedia Commons"
 ---
 
 Arlington Scouts will collect food door to door Saturday, Nov. 8, during the national Scouting for Food drive, which provides donations to the Arlington Food Assistance Center.

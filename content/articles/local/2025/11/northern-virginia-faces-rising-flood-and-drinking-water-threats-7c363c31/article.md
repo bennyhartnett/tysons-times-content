@@ -12,10 +12,10 @@ tags:
   - "schools"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Northern Virginia Faces Rising Flood and Drinking Water Threats"
+  caption: "Northern Virginia Faces Rising Flood and Drinking Water Threats. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Climate change is already straining Northern Virginia’s waterways, drinking water systems and flood-control infrastructure, speakers told more than 200 people at the third annual Climate Action Conference on Oct. 18 at Lake Braddock Secondary School.

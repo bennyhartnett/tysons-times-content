@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Students work in an outdoor planter"
+  caption: "Fairfax Schools Warn Sweeping SOL Changes Could Hurt Students. Image from FCPS News."
+  credit: "FCPS News"
 ---
 
 Fairfax County Public Schools is warning families that planned changes to Virginia’s Standards of Learning assessments could have serious consequences for schools and students, including potentially unfair failing labels.

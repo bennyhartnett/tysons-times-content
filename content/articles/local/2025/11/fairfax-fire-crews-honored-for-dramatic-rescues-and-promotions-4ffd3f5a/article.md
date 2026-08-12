@@ -12,10 +12,10 @@ tags:
   - "public safety"
   - "environment"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Fairfax Fire Crews Honored for Dramatic Rescues and Promotions"
+  caption: "Fairfax Fire Crews Honored for Dramatic Rescues and Promotions. Image from Fairfax County Fire and Rescue News."
+  credit: "Fairfax County Fire and Rescue News"
 ---
 
 Fairfax County Fire and Rescue Department recognized dozens of members in November 2025, celebrating promotions and emergency responses involving trapped occupants, floodwaters and serious vehicle crashes.

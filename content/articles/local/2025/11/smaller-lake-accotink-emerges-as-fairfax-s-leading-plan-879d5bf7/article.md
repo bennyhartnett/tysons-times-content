@@ -12,10 +12,10 @@ tags:
   - "environment"
   - "local government"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Lead image for Smaller Lake Accotink Emerges as Fairfax’s Leading Plan"
+  caption: "Smaller Lake Accotink Emerges as Fairfax’s Leading Plan. Image from Connection Newspapers."
+  credit: "Connection Newspapers"
 ---
 
 Fairfax County officials are moving toward a smaller Lake Accotink as they confront the sediment buildup threatening the Springfield landmark’s future.

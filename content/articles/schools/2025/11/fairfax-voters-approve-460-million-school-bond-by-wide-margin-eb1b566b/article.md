@@ -11,10 +11,10 @@ tags:
   - "fairfax"
   - "development"
 hero:
-  file: "hero-pub.webp"
-  alt: "Editorial illustration of Northern Virginia community life with transit, schools and local businesses"
-  caption: "A Tysons Times illustration represents community life across Tysons and Northern Virginia."
-  credit: "Tysons Times / AI illustration"
+  file: "hero.webp"
+  alt: "Elementary school kids laughing and jumping on the playground."
+  caption: "Fairfax Voters Approve $460 Million School Bond by Wide Margin. Image from Fairfax County School Board."
+  credit: "Fairfax County School Board"
 ---
 
 More than 7 in 10 Fairfax County voters approved a $460 million school bond referendum on Nov. 4, giving Fairfax County Public Schools new funding for renovations, construction and other major facility improvements.
